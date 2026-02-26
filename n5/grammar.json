@@ -1,6 +1,6 @@
 {
   "grammar": [
-    { "id": "1", "category": "Partícula", "title": "は (wa)", "formula": "S + は", "description": "Marcador de tema. Indica de qué estamos hablando.", "examples": [{ "jp": "私[わたし]は 学生[がくせい]です。", "es": "Yo soy estudiante." }] },
+    { "id": "1", "category": "Partícula", "title": "は (wa)", "formula": "S + は", "description": "Marcador de tema. Indica de qué estamos hablando.", "examples": [{ "jp": "私[わたし]は 学生[がくせい]です。", "es": "Yo soy estudiante." }, { "jp": "私[わたし]は 学生[がくせい]です。", "es": "Yo soy estudiante." }] },
     { "id": "2", "category": "Partícula", "title": "も (mo)", "formula": "S + も", "description": "Significa 'también'. Sustituye a は o が.", "examples": [{ "jp": "私[わたし]も 行[い]きます。", "es": "Yo también iré." }] },
     { "id": "3", "category": "Partícula", "title": "が (ga)", "formula": "S + が", "description": "Marcador de sujeto. Destaca quién realiza la acción.", "examples": [{ "jp": "猫[ねこ]が います。", "es": "Hay un gato." }] },
     { "id": "4", "category": "Partícula", "title": "を (wo)", "formula": "S + を + O", "description": "Marcador de objeto directo. Indica qué recibe la acción.", "examples": [{ "jp": "水[みず]を 飲[の]みます。", "es": "Bebo agua." }] },

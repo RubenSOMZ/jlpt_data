@@ -1,1 +1,12 @@
-
+{
+  "grammar": [
+    {
+      "id": "test-n4",
+      "title": "Próximamente",
+      "description": "Contenido de N4 en preparación",
+      "formula": "---",
+      "category": "General",
+      "examples": []
+    }
+  ]
+}

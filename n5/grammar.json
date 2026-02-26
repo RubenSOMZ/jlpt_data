@@ -114,9 +114,7 @@
     { "id": "112", "category": "Partícula", "title": "も (énf)", "formula": "Ni uno", "description": "Énfasis negativo.", "examples": [{ "jp": "一回[いっかい]も。", "es": "Ni una sola vez." }] },
     { "id": "113", "category": "Conector", "title": "しかし", "formula": "Pero", "description": "Pero (formal).", "examples": [{ "jp": "しかし...", "es": "Sin embargo..." }] },
     { "id": "114", "category": "Partícula", "title": "だけ (solo)", "formula": "Solo", "description": "Solo/Solamente.", "examples": [{ "jp": "これだけ。", "es": "Solo esto." }] },
-    { "id": "115", "category": "Expresión", "title": "もう一度", "formula": "Una vez más", "description": "Repetir.", "examples": [{ "jp": "もう一度[いちど]。", "es": "Una vez más." }] }
-  ],
-  "questions": [
-    { "id": "q1", "question": "私[わたし]は 学生[がくせい]_____です。", "options": ["は", "を", "に", "が"], "correct": 0, "explanation": "Se usa は para el tema." }
+    { "id": "115", "category": "Expresión", "title": "もう一度", "formula": "Una vez más", "description": "Repetir.", "examples": [{ "jp": "もう一度[いちど]。", "es": "Una vez más." }] },
+  
   ]
 } 

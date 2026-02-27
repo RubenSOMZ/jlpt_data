@@ -1,1 +1,408 @@
+{
+  "questions": [
+{ "id": "q1", "question": "民主主義の原則に_____、この決定は無効とされるべきだ。", "options": ["照らして", "伴って", "即して", "応じて"], "correct": 0, "explanation": "〜に照らして = a la luz de / conforme a." },
 
+{ "id": "q2", "question": "結果のいかん_____、責任は免れない。", "options": ["を問わず", "によらず", "にかかわらず", "をもって"], "correct": 0, "explanation": "〜を問わず = independientemente de." },
+
+{ "id": "q3", "question": "彼の主張は一見もっともらしいが、論理の飛躍を免れ_____。", "options": ["ない", "えない", "かねない", "ざるをえない"], "correct": 0, "explanation": "〜を免れない = no puede evitar." },
+
+{ "id": "q4", "question": "事態がここまで深刻化した以上、看過する_____。", "options": ["わけにはいかない", "までもない", "にたえない", "にはあたらない"], "correct": 0, "explanation": "No se puede dejar pasar." },
+
+{ "id": "q5", "question": "理論と実践は相互に補完し合う関係にあると_____。", "options": ["いえよう", "いえるまい", "いえかねる", "いえざるをえない"], "correct": 0, "explanation": "〜いえよう = se puede decir que…" },
+
+{ "id": "q6", "question": "この政策は短期的利益を優先するあまり、長期的視野を欠く_____ある。", "options": ["きらいが", "おそれが", "ものが", "はずが"], "correct": 0, "explanation": "〜きらいがある = tiende a…" },
+
+{ "id": "q7", "question": "彼の態度は責任者たる_____あるまじきものだ。", "options": ["ものの", "ものに", "ものを", "ものは"], "correct": 1, "explanation": "〜たるものにあるまじき = impropio de alguien que…" },
+
+{ "id": "q8", "question": "この決定は拙速のそしりを免れ_____。", "options": ["ない", "えない", "かねない", "ざるをえない"], "correct": 0, "explanation": "No puede evitar la crítica de precipitación." },
+
+{ "id": "q9", "question": "いかに困難であろうと、信念を曲げる_____。", "options": ["まい", "べきだ", "はずだ", "ものだ"], "correct": 0, "explanation": "〜まい = no (intención fuerte)." },
+
+{ "id": "q10", "question": "その理論は現実を踏まえたものとは言い_____。", "options": ["がたい", "かねる", "えない", "ざるをえない"], "correct": 0, "explanation": "Difícil de decir que…" },
+
+{ "id": "q11", "question": "歴史的背景を抜きにしては、この問題は語る_____。", "options": ["べからず", "まい", "べきだ", "ものだ"], "correct": 0, "explanation": "〜べからず = no debe / imposible." },
+
+{ "id": "q12", "question": "責任の所在を明らかにせぬままでは、再発は避け_____。", "options": ["まい", "えまい", "ざるをえまい", "かねまい"], "correct": 0, "explanation": "No se evitará." },
+
+{ "id": "q13", "question": "彼の発言は事実誤認に基づくと言って_____。", "options": ["過言ではない", "相違ない", "ほかない", "しかるべきだ"], "correct": 0, "explanation": "No es exageración decir que…" },
+
+{ "id": "q14", "question": "社会的影響の大きさに鑑みれば、慎重を期すに_____。", "options": ["足りる", "及ばない", "かたくない", "たえない"], "correct": 1, "explanation": "〜に及ばない = no hace falta / innecesario." },
+
+{ "id": "q15", "question": "この提案は一考の余地があるといわざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No queda más que decir…" },
+
+{ "id": "q16", "question": "現状を是認することは、問題の先送りにほかなら_____。", "options": ["ない", "ぬ", "まい", "ず"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q17", "question": "いかなる理由があろうと、法を犯すことは許さる_____。", "options": ["べからざる", "まじき", "ざるをえない", "まい"], "correct": 0, "explanation": "〜べからざる = que no debe…" },
+
+{ "id": "q18", "question": "彼の努力は称賛に値する_____。", "options": ["にかたくない", "にたえない", "にあたらない", "におよばない"], "correct": 0, "explanation": "〜にかたくない = no es difícil…" },
+
+{ "id": "q19", "question": "その行為は倫理に悖るといわざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q20", "question": "結果のみをもって評価するのは公平を欠くといわざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino…" },
+
+{ "id": "q21", "question": "真相が明らかになるまでは断定する_____。", "options": ["べきではあるまい", "にたえない", "にあたらない", "に及ばない"], "correct": 0, "explanation": "Probablemente no deba…" },
+
+{ "id": "q22", "question": "彼の説明は一理あると言えなくも_____。", "options": ["ない", "ある", "いる", "できる"], "correct": 0, "explanation": "No es que no tenga algo de razón." },
+
+{ "id": "q23", "question": "その政策は批判を招くを_____ない。", "options": ["免れ", "得", "終え", "かね"], "correct": 0, "explanation": "No puede evitar…" },
+
+{ "id": "q24", "question": "事態の重大さを考えれば、対応を急がずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 1, "explanation": "No se puede evitar…" },
+
+{ "id": "q25", "question": "彼の成功は並々ならぬ努力の賜物にほかなら_____。", "options": ["ない", "ぬ", "まい", "ず"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q26", "question": "この結果は驚くに_____。", "options": ["あたらない", "かたくない", "たえない", "およばない"], "correct": 0, "explanation": "No es digno de sorpresa." },
+
+{ "id": "q27", "question": "彼の発言は無責任のそしりを免れ_____。", "options": ["ない", "えない", "かねない", "ざるをえない"], "correct": 0, "explanation": "No puede evitar la crítica." },
+
+{ "id": "q28", "question": "その理論は再検討を要するものといえ_____。", "options": ["よう", "まい", "かねる", "ざるをえない"], "correct": 0, "explanation": "Se puede decir que…" },
+
+{ "id": "q29", "question": "いかなる困難があろうとも、諦める_____。", "options": ["まい", "べきだ", "はずだ", "ものだ"], "correct": 0, "explanation": "No voy a…" },
+
+{ "id": "q30", "question": "彼の態度は理解に苦しむと言わざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q31", "question": "この問題は一朝一夕に解決する_____。", "options": ["ものではあるまい", "にたえない", "にあたらない", "に及ばない"], "correct": 0, "explanation": "Probablemente no sea algo que…" },
+
+{ "id": "q32", "question": "責任を痛感せざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No queda más remedio…" },
+
+{ "id": "q33", "question": "彼の説明は説得力に欠けると言わざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino…" },
+
+{ "id": "q34", "question": "事態は楽観視を許す状況に_____。", "options": ["あらず", "あらない", "あらぬ", "あらまい"], "correct": 0, "explanation": "Forma clásica negativa." },
+
+{ "id": "q35", "question": "彼の成功は努力あって_____。", "options": ["こそだ", "のみだ", "さえだ", "までだ"], "correct": 0, "explanation": "〜あってこそだ = gracias a…" },
+
+{ "id": "q36", "question": "この決定は慎重を欠いたと批判されて_____。", "options": ["しかるべきだ", "しかるまい", "しかるものだ", "しかることだ"], "correct": 0, "explanation": "Sería apropiado…" },
+
+{ "id": "q37", "question": "彼の態度は責任者にあるまじき_____。", "options": ["行為だ", "ことだ", "ものだ", "わけだ"], "correct": 0, "explanation": "Improperio." },
+
+{ "id": "q38", "question": "この問題は看過してはなる_____。", "options": ["まい", "べき", "はず", "もの"], "correct": 0, "explanation": "No debe pasarse por alto." },
+
+{ "id": "q39", "question": "彼の説明は納得できないと言わざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino…" },
+
+{ "id": "q40", "question": "事実を歪曲する行為は許さる_____。", "options": ["べからざる", "まじき", "まい", "ざるをえない"], "correct": 0, "explanation": "No debe ser permitido." },
+
+{ "id": "q41", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Merece ser…" },
+
+{ "id": "q42", "question": "その行為は非難に_____。", "options": ["値する", "足りる", "及ばない", "かたくない"], "correct": 0, "explanation": "Merece crítica." },
+
+{ "id": "q43", "question": "この制度は時代にそぐわぬものといえ_____。", "options": ["よう", "まい", "かねる", "ざるをえない"], "correct": 0, "explanation": "Se puede decir que…" },
+
+{ "id": "q44", "question": "彼の発言は誤解を招くおそれなきにしも_____。", "options": ["あらず", "あらない", "あらぬ", "あらまい"], "correct": 0, "explanation": "No es que no haya riesgo…" },
+
+{ "id": "q45", "question": "責任を回避することは許さる_____。", "options": ["べからざる", "まじき", "まい", "ざるをえない"], "correct": 0, "explanation": "No debe permitirse." },
+
+{ "id": "q46", "question": "彼の説明は一理あるといえ_____。", "options": ["なくもない", "ないでもない", "ないではない", "ないとはいえない"], "correct": 0, "explanation": "Tiene algo de razón." },
+
+{ "id": "q47", "question": "この結果は予想の範囲を出るものに_____。", "options": ["あらず", "あらない", "あらぬ", "あらまい"], "correct": 0, "explanation": "No está fuera de…" },
+
+{ "id": "q48", "question": "彼の態度は理解に苦しむと言わざるを_____。", "options": ["えない", "かねない", "おえない", "まい"], "correct": 0, "explanation": "No se puede sino…" },
+
+{ "id": "q49", "question": "この問題は軽視してはなる_____。", "options": ["まい", "べき", "はず", "もの"], "correct": 0, "explanation": "No debe ignorarse." },
+
+{ "id": "q50", "question": "彼の成功は偶然によるものに_____。", "options": ["あらず", "あらない", "あらぬ", "あらまい"], "correct": 0, "explanation": "No se debe a la casualidad." },
+
+{ "id": "q51", "question": "彼の発言は到底看過し_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "〜得ない = no puede…" },
+
+{ "id": "q52", "question": "事情が事情_____、無理もない。", "options": ["とあって", "なだけに", "だけに", "とはいえ"], "correct": 1, "explanation": "Precisamente porque…" },
+
+{ "id": "q53", "question": "彼は失敗するそばから同じ過ちを繰り返さ_____。", "options": ["ずにはおかない", "ずにはすまない", "ないではおかない", "ないではすまない"], "correct": 0, "explanation": "Inevitablemente vuelve a hacerlo." },
+
+{ "id": "q54", "question": "彼の説明は納得できるもの_____。", "options": ["ではないとも限らない", "ではあるまい", "ではなかろうか", "ではない"], "correct": 2, "explanation": "Expresión suave de suposición." },
+
+{ "id": "q55", "question": "彼の成功は努力の賜物_____何であろう。", "options": ["でなくして", "でなくとも", "でなければ", "でなくば"], "correct": 0, "explanation": "Si no es…, ¿qué sería?" },
+
+{ "id": "q56", "question": "その態度は無礼千万_____。", "options": ["というものだ", "といったらない", "きわまりない", "にほかならない"], "correct": 2, "explanation": "Extremadamente grosero." },
+
+{ "id": "q57", "question": "彼の発言は誤解を招かず_____。", "options": ["にはおかない", "にはいられない", "にはならない", "にはすまない"], "correct": 0, "explanation": "Inevitablemente provoca…" },
+
+{ "id": "q58", "question": "この計画は成功する_____、失敗する可能性も否めない。", "options": ["かに見えて", "まいと", "べく", "がため"], "correct": 0, "explanation": "Aunque parece que…" },
+
+{ "id": "q59", "question": "彼の実力は疑う_____ない。", "options": ["べくも", "に足る", "に難く", "にかたく"], "correct": 0, "explanation": "No hay razón para dudar." },
+
+{ "id": "q60", "question": "この問題は放置して済む_____。", "options": ["まい", "ものか", "わけか", "はずか"], "correct": 2, "explanation": "¿Cómo podría dejarse así?" },
+
+{ "id": "q61", "question": "彼の成功は偶然_____。", "options": ["のきわみだ", "のきわまりだ", "の極みだ", "の極まりだ"], "correct": 2, "explanation": "Forma fija más común." },
+
+{ "id": "q62", "question": "事情を知らなかった_____、責任は免れない。", "options": ["とて", "とはいえ", "にせよ", "ながら"], "correct": 0, "explanation": "‘Aunque' (arcaico formal)" },
+
+{ "id": "q63", "question": "彼の発言は容認できるもの_____あるまい。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es algo aceptable." },
+
+{ "id": "q64", "question": "その決定は拙速の_____を免れない。", "options": ["そしり", "いましめ", "あやまち", "つぐない"], "correct": 0, "explanation": "Recibe la crítica de…" },
+
+{ "id": "q65", "question": "彼の態度は非難されて_____だ。", "options": ["しかるべき", "あってしかるべき", "しかるべきもの", "しかるべきこと"], "correct": 1, "explanation": "Merece crítica." },
+
+{ "id": "q66", "question": "彼は成功する_____失敗を重ねた。", "options": ["どころか", "ばかりに", "あまり", "がために"], "correct": 0, "explanation": "Lejos de…" },
+
+{ "id": "q67", "question": "その提案は実現可能とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q68", "question": "彼の努力は称賛に値し_____。", "options": ["ないまでも", "ないとも限らない", "ないではいられない", "ないではおかない"], "correct": 0, "explanation": "Aunque no totalmente…" },
+
+{ "id": "q69", "question": "彼の説明は理にかなっていない_____もない。", "options": ["こと", "わけ", "もの", "はず"], "correct": 1, "explanation": "No es que no tenga lógica." },
+
+{ "id": "q70", "question": "この制度は時代錯誤の_____を免れない。", "options": ["そしり", "批評", "評価", "是正"], "correct": 0, "explanation": "Recibe la crítica de…" },
+
+{ "id": "q71", "question": "彼の態度は理解に苦しむ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "Tiene algo difícil de entender." },
+
+{ "id": "q72", "question": "その計画は成功する_____ない。", "options": ["まい", "べき", "はず", "もの"], "correct": 0, "explanation": "Probablemente no…" },
+
+{ "id": "q73", "question": "彼の成功は努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q74", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q75", "question": "この問題は放置する_____に足る。", "options": ["べき", "価値", "理由", "余地"], "correct": 2, "explanation": "No hay razón para dejarlo." },
+
+{ "id": "q76", "question": "彼の説明は一理あると言え_____。", "options": ["なくもない", "なくはない", "ないでもない", "ないこともない"], "correct": 3, "explanation": "Forma más natural: ないこともない." },
+
+{ "id": "q77", "question": "彼の成功は偶然の産物_____。", "options": ["にすぎない", "にあたらない", "にほかならない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q78", "question": "この制度は改善の余地があると言わざるを_____。", "options": ["得ない", "かねない", "終えない", "かねる"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q79", "question": "彼の態度は無責任_____きわまりない。", "options": ["で", "にして", "として", "と"], "correct": 0, "explanation": "〜で極まりない." },
+
+{ "id": "q80", "question": "事情が事情_____、やむを得ない。", "options": ["とあって", "なだけに", "とはいえ", "ばかりに"], "correct": 1, "explanation": "Precisamente porque…" },
+
+{ "id": "q81", "question": "彼の発言は誤解を招かずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 0, "explanation": "Inevitablemente…" },
+
+{ "id": "q82", "question": "その態度は批判されて_____。", "options": ["しかるべきだ", "あってしかるべきだ", "しかるべきものだ", "しかるべきことだ"], "correct": 1, "explanation": "Merece crítica." },
+
+{ "id": "q83", "question": "彼の努力は称賛に_____。", "options": ["値する", "足る", "堪える", "応じる"], "correct": 0, "explanation": "Merece elogio." },
+
+{ "id": "q84", "question": "この問題は一概に否定する_____。", "options": ["にはあたらない", "には及ばない", "には限らない", "にはならない"], "correct": 0, "explanation": "No se puede negar categóricamente." },
+
+{ "id": "q85", "question": "彼の発言は到底容認できるもの_____。", "options": ["ではない", "にもない", "こそない", "さえない"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q86", "question": "彼の成功は努力の賜物_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q87", "question": "彼の態度は理解できない_____でもない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No es que no se entienda." },
+
+{ "id": "q88", "question": "その決定は拙速のそしり_____免れない。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q89", "question": "彼の説明は理にかなっていない_____もない。", "options": ["わけ", "こと", "もの", "はず"], "correct": 0, "explanation": "No es que no tenga lógica." },
+
+{ "id": "q90", "question": "この制度は時代錯誤のそしり_____免れない。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q91", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q92", "question": "この問題は放置して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede dejarse así." },
+
+{ "id": "q93", "question": "彼の態度は無礼千万_____。", "options": ["きわまりない", "というものだ", "といったらない", "にほかならない"], "correct": 0, "explanation": "Extremadamente grosero." },
+
+{ "id": "q94", "question": "彼の成功は並々ならぬ努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q95", "question": "その提案は現実的とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q96", "question": "彼の説明は納得できるもの_____あるまい。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es convincente." },
+
+{ "id": "q97", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería ser evaluado." },
+
+{ "id": "q98", "question": "状況が改善しない限り、再開はある_____。", "options": ["まい", "べき", "はず", "もの"], "correct": 0, "explanation": "Probablemente no." },
+
+{ "id": "q99", "question": "彼の態度は批判を免れ_____。", "options": ["ない", "ある", "いる", "できる"], "correct": 0, "explanation": "No puede evitar críticas." },
+
+{ "id": "q100", "question": "彼の発言は誤解を招きかねない_____ある。", "options": ["ことが", "ものが", "わけが", "はずが"], "correct": 0, "explanation": "Puede ocurrir que…" },
+
+{ "id": "q101", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería mejorarse." },
+
+{ "id": "q102", "question": "彼の成功は努力の賜物_____何であろう。", "options": ["でなくして", "でなくとも", "でなければ", "でなくば"], "correct": 0, "explanation": "Si no es…, ¿qué sería?" },
+
+{ "id": "q103", "question": "彼の発言は到底看過し_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q104", "question": "事情を知らなかった_____、責任は免れない。", "options": ["とて", "とはいえ", "にせよ", "ながら"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q105", "question": "彼の説明は一理ある_____、全面的には賛成できない。", "options": ["とはいえ", "とあって", "がために", "ものの"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q106", "question": "彼の成功は努力なくしてはあり_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "Sin esfuerzo, no puede darse." },
+
+{ "id": "q107", "question": "その態度は無責任の_____を免れない。", "options": ["そしり", "評価", "賞賛", "是正"], "correct": 0, "explanation": "Recibe la crítica de…" },
+
+{ "id": "q108", "question": "彼の発言は誤解を招かずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 0, "explanation": "Inevitablemente…" },
+
+{ "id": "q109", "question": "この制度は時代の要請に応えた結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q110", "question": "彼の態度は理解に苦しむ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "Tiene algo difícil de entender." },
+
+{ "id": "q111", "question": "その決定は拙速のそしり_____免れまい。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q112", "question": "彼の成功は偶然の産物_____。", "options": ["にすぎない", "にほかならない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q113", "question": "彼の発言は容認できるもの_____あるまい。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q114", "question": "この問題は放置して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede dejarse así." },
+
+{ "id": "q115", "question": "彼の努力は称賛に_____。", "options": ["値する", "足る", "堪える", "応じる"], "correct": 0, "explanation": "Merece elogio." },
+
+{ "id": "q116", "question": "彼の態度は無礼千万_____。", "options": ["きわまりない", "というものだ", "といったらない", "にほかならない"], "correct": 0, "explanation": "Extremadamente grosero." },
+
+{ "id": "q117", "question": "彼の説明は理にかなっていない_____もない。", "options": ["わけ", "こと", "もの", "はず"], "correct": 0, "explanation": "No es que no tenga lógica." },
+
+{ "id": "q118", "question": "その提案は実現可能とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q119", "question": "彼の成功は並々ならぬ努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q120", "question": "状況が改善しない限り、再開はある_____。", "options": ["まい", "べき", "はず", "もの"], "correct": 0, "explanation": "Probablemente no." },
+
+{ "id": "q121", "question": "彼の発言は到底看過し_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q122", "question": "事情を知らなかった_____、責任は免れない。", "options": ["とて", "とはいえ", "にせよ", "ながら"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q123", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería evaluarse." },
+
+{ "id": "q124", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería mejorarse." },
+
+{ "id": "q125", "question": "彼の発言は誤解を招きかねない_____ある。", "options": ["ことが", "ものが", "わけが", "はずが"], "correct": 0, "explanation": "Puede ocurrir que…" },
+
+{ "id": "q126", "question": "彼の成功は努力なくしてはあり_____。", "options": ["得まい", "かねまい", "かねるまい", "終えまい"], "correct": 0, "explanation": "No podría darse." },
+
+{ "id": "q127", "question": "その決定は拙速のそしり_____免れまい。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q128", "question": "彼の態度は批判を免れ_____。", "options": ["まい", "ない", "ぬ", "得ない"], "correct": 1, "explanation": "No puede evitar críticas." },
+
+{ "id": "q129", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q130", "question": "この問題は一概に否定する_____。", "options": ["にはあたらない", "には及ばない", "には限らない", "にはならない"], "correct": 0, "explanation": "No puede negarse categóricamente." },
+
+{ "id": "q131", "question": "彼の成功は偶然_____。", "options": ["の極みだ", "の至りだ", "のきわみだ", "のかぎりだ"], "correct": 0, "explanation": "Forma fija." },
+
+{ "id": "q132", "question": "彼の態度は無責任_____きわまりない。", "options": ["で", "にして", "として", "と"], "correct": 0, "explanation": "Extremadamente…" },
+
+{ "id": "q133", "question": "事情が事情_____、無理もない。", "options": ["なだけに", "とはいえ", "ばかりに", "とあって"], "correct": 0, "explanation": "Precisamente porque…" },
+
+{ "id": "q134", "question": "彼の発言は容認できるもの_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q135", "question": "彼の努力は称賛に値し_____。", "options": ["ないまでも", "ないではいられない", "ないではおかない", "ないとも限らない"], "correct": 0, "explanation": "Aunque no completamente…" },
+
+{ "id": "q136", "question": "その提案は実現可能とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q137", "question": "彼の成功は努力の賜物_____何であろう。", "options": ["でなくして", "でなければ", "でなくとも", "でなくば"], "correct": 0, "explanation": "Si no es…, ¿qué?" },
+
+{ "id": "q138", "question": "彼の発言は誤解を招かずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 0, "explanation": "Inevitablemente…" },
+
+{ "id": "q139", "question": "彼の態度は理解できない_____でもない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No es que no…" },
+
+{ "id": "q140", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería…" },
+
+{ "id": "q141", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería…" },
+
+{ "id": "q142", "question": "彼の発言は到底看過し_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q143", "question": "その決定は拙速のそしり_____免れない。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q144", "question": "彼の成功は並々ならぬ努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q145", "question": "彼の態度は無礼千万_____。", "options": ["きわまりない", "というものだ", "といったらない", "にほかならない"], "correct": 0, "explanation": "Extremadamente…" },
+
+{ "id": "q146", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q147", "question": "この問題は放置して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede dejarse así." },
+
+{ "id": "q148", "question": "彼の努力は称賛に_____。", "options": ["値する", "足る", "堪える", "応じる"], "correct": 0, "explanation": "Merece…" },
+
+{ "id": "q149", "question": "事情を知らなかった_____、責任は免れない。", "options": ["とて", "とはいえ", "にせよ", "ながら"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q150", "question": "彼の成功は努力なくしてはあり_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede darse." },
+
+{ "id": "q151", "question": "彼の説明は説得力に欠けると言わざるを_____。", "options": ["得ない", "かねない", "終えない", "かねる"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q152", "question": "その態度は軽率の_____を免れない。", "options": ["そしり", "賞賛", "是正", "評価"], "correct": 0, "explanation": "Recibe la crítica de…" },
+
+{ "id": "q153", "question": "彼の発言は誤解を招かずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 0, "explanation": "Inevitablemente provoca…" },
+
+{ "id": "q154", "question": "この制度は実情にそぐわないと言わざるを_____。", "options": ["得ない", "かねない", "終えない", "かねる"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q155", "question": "彼の成功は努力の結晶_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q156", "question": "その決定は拙速との_____を免れない。", "options": ["そしり", "評価", "同情", "理解"], "correct": 0, "explanation": "Recibe la crítica de…" },
+
+{ "id": "q157", "question": "彼の態度は理解に苦しむ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "Tiene algo difícil de entender." },
+
+{ "id": "q158", "question": "この問題は看過して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q159", "question": "彼の努力は賞賛に_____。", "options": ["値する", "堪える", "足る", "応じる"], "correct": 0, "explanation": "Merece elogio." },
+
+{ "id": "q160", "question": "彼の発言は無責任_____極まりない。", "options": ["で", "として", "にして", "と"], "correct": 0, "explanation": "Extremadamente irresponsable." },
+
+{ "id": "q161", "question": "事情が事情_____、同情の余地はある。", "options": ["なだけに", "とはいえ", "ばかりに", "とあって"], "correct": 0, "explanation": "Precisamente porque…" },
+
+{ "id": "q162", "question": "彼の成功は偶然の産物_____。", "options": ["にすぎない", "にほかならない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q163", "question": "彼の発言は到底容認できるもの_____。", "options": ["ではない", "にもない", "こそない", "さえない"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q164", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería mejorarse." },
+
+{ "id": "q165", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería evaluarse." },
+
+{ "id": "q166", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q167", "question": "その提案は現実的とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q168", "question": "彼の成功は並々ならぬ努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q169", "question": "この問題は一概に否定する_____。", "options": ["にはあたらない", "には及ばない", "には限らない", "にはならない"], "correct": 0, "explanation": "No puede negarse categóricamente." },
+
+{ "id": "q170", "question": "彼の態度は無礼千万_____。", "options": ["きわまりない", "というものだ", "といったらない", "にほかならない"], "correct": 0, "explanation": "Extremadamente grosero." },
+
+{ "id": "q171", "question": "彼の発言は誤解を招きかねない_____ある。", "options": ["ことが", "ものが", "わけが", "はずが"], "correct": 0, "explanation": "Puede ocurrir que…" },
+
+{ "id": "q172", "question": "事情を知らなかった_____、責任は免れない。", "options": ["とて", "とはいえ", "にせよ", "ながら"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q173", "question": "彼の成功は努力なくしてはあり_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede darse." },
+
+{ "id": "q174", "question": "その決定は拙速のそしり_____免れない。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q175", "question": "彼の態度は批判を免れ_____。", "options": ["ない", "まい", "ぬ", "得ない"], "correct": 0, "explanation": "No puede evitar críticas." },
+
+{ "id": "q176", "question": "彼の発言は到底看過し_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q177", "question": "この制度は時代遅れと言わざるを_____。", "options": ["得ない", "かねない", "終えない", "かねる"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q178", "question": "彼の成功は努力の賜物_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q179", "question": "彼の発言は容認できるもの_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q180", "question": "その態度は軽率_____極まりない。", "options": ["で", "にして", "として", "と"], "correct": 0, "explanation": "Extremadamente imprudente." },
+
+{ "id": "q181", "question": "彼の努力は称賛に_____。", "options": ["値する", "足る", "堪える", "応じる"], "correct": 0, "explanation": "Merece elogio." },
+
+{ "id": "q182", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q183", "question": "この問題は放置して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede dejarse así." },
+
+{ "id": "q184", "question": "彼の成功は偶然_____。", "options": ["の極みだ", "の至りだ", "のかぎりだ", "の果てだ"], "correct": 0, "explanation": "Forma fija." },
+
+{ "id": "q185", "question": "彼の態度は理解できない_____でもない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No es que no…" },
+
+{ "id": "q186", "question": "その決定は拙速のそしり_____免れまい。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q187", "question": "彼の発言は誤解を招かずには_____。", "options": ["おかない", "いられない", "ならない", "すまない"], "correct": 0, "explanation": "Inevitablemente…" },
+
+{ "id": "q188", "question": "彼の成功は並々ならぬ努力の結果_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q189", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería…" },
+
+{ "id": "q190", "question": "彼の態度は無責任_____きわまりない。", "options": ["で", "にして", "として", "と"], "correct": 0, "explanation": "Extremadamente…" },
+
+{ "id": "q191", "question": "彼の発言は到底容認できるもの_____。", "options": ["ではない", "にもない", "こそない", "さえない"], "correct": 0, "explanation": "No es aceptable." },
+
+{ "id": "q192", "question": "彼の努力は評価されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería…" },
+
+{ "id": "q193", "question": "その提案は実現可能とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q194", "question": "彼の成功は努力の結晶_____。", "options": ["にほかならない", "にすぎない", "にあたらない", "に限らない"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q195", "question": "彼の発言は聞き捨てならぬ_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 0, "explanation": "No puede ignorarse." },
+
+{ "id": "q196", "question": "この問題は看過して済む_____。", "options": ["わけがない", "はずがない", "ものがない", "ことがない"], "correct": 0, "explanation": "No puede pasarse por alto." },
+
+{ "id": "q197", "question": "彼の態度は軽率_____極まりない。", "options": ["で", "にして", "として", "と"], "correct": 0, "explanation": "Extremadamente…" },
+
+{ "id": "q198", "question": "彼の発言は誤解を招きかねない_____ある。", "options": ["ことが", "ものが", "わけが", "はずが"], "correct": 0, "explanation": "Puede ocurrir que…" },
+
+{ "id": "q199", "question": "彼の努力は称賛に_____。", "options": ["値する", "足る", "堪える", "応じる"], "correct": 0, "explanation": "Merece…" },
+
+{ "id": "q200", "question": "彼の成功は努力なくしてはあり_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede darse." } 
+
+
+
+
+
+  ]
+}

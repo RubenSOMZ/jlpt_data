@@ -1,1 +1,405 @@
+{
+  "questions": [
+{ "id": "q1", "question": "雨が降る_____、試合は中止になります。", "options": ["場合は", "うちに", "最中に", "ついでに"], "correct": 0, "explanation": "〜場合は = en caso de que." },
 
+{ "id": "q2", "question": "日本に来てから、寿司が好きに_____。", "options": ["なりました", "しました", "ありました", "いました"], "correct": 0, "explanation": "〜になる = cambio de estado." },
+
+{ "id": "q3", "question": "彼は医者である_____、料理も上手だ。", "options": ["だけでなく", "ために", "ように", "かわりに"], "correct": 0, "explanation": "〜だけでなく = no solo… sino también." },
+
+{ "id": "q4", "question": "宿題をやる_____、ゲームをしてしまった。", "options": ["はずが", "つもりが", "ことに", "ところに"], "correct": 1, "explanation": "〜つもりが = aunque tenía intención de." },
+
+{ "id": "q5", "question": "この問題は子どもには難し_____。", "options": ["すぎる", "がちだ", "っぽい", "向きだ"], "correct": 0, "explanation": "〜すぎる = demasiado." },
+
+{ "id": "q6", "question": "会議は3時_____始まります。", "options": ["から", "までに", "ごろ", "ごろに"], "correct": 0, "explanation": "から = desde." },
+
+{ "id": "q7", "question": "日本語が話せる_____、仕事が見つかりやすい。", "options": ["おかげで", "かわりに", "うちに", "あいだに"], "correct": 0, "explanation": "〜おかげで = gracias a." },
+
+{ "id": "q8", "question": "彼は毎日遅刻する_____ある。", "options": ["ことが", "ことに", "ことは", "ことも"], "correct": 0, "explanation": "〜ことがある = a veces." },
+
+{ "id": "q9", "question": "忘れない_____メモしてください。", "options": ["ように", "ために", "そうに", "みたいに"], "correct": 0, "explanation": "〜ように = objetivo." },
+
+{ "id": "q10", "question": "雨が止む_____待ちましょう。", "options": ["まで", "だけ", "しか", "ほど"], "correct": 0, "explanation": "〜まで = hasta que." },
+
+{ "id": "q11", "question": "彼は日本に10年_____住んでいる。", "options": ["も", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜も = cantidad mayor de lo esperado." },
+
+{ "id": "q12", "question": "疲れている_____、早く帰ります。", "options": ["ので", "けど", "ながら", "のに"], "correct": 0, "explanation": "〜ので = causa formal." },
+
+{ "id": "q13", "question": "この薬を飲めば、よくなる_____。", "options": ["はずだ", "つもりだ", "わけだ", "ようだ"], "correct": 0, "explanation": "〜はずだ = expectativa lógica." },
+
+{ "id": "q14", "question": "ドアを開けた_____、猫が入ってきた。", "options": ["とたん", "うちに", "ついでに", "あまり"], "correct": 0, "explanation": "〜たとたん = justo después de." },
+
+{ "id": "q15", "question": "勉強すればする_____、難しくなる。", "options": ["ほど", "くらい", "しか", "まで"], "correct": 0, "explanation": "〜ば〜ほど = cuanto más… más." },
+
+{ "id": "q16", "question": "彼は来る_____ない。", "options": ["かもしれ", "はずが", "ようが", "らしいが"], "correct": 0, "explanation": "〜かもしれない = posibilidad." },
+
+{ "id": "q17", "question": "日本語を勉強している_____、上手になった。", "options": ["うちに", "ところに", "あまり", "ほど"], "correct": 0, "explanation": "〜うちに = mientras / durante." },
+
+{ "id": "q18", "question": "今日は寒い_____コートを着ます。", "options": ["ので", "のに", "ながら", "つつ"], "correct": 0, "explanation": "Causa con ので." },
+
+{ "id": "q19", "question": "彼は学生_____、社会人ではない。", "options": ["なので", "けど", "ために", "ように"], "correct": 0, "explanation": "なので = porque es." },
+
+{ "id": "q20", "question": "映画を見た_____、泣いてしまった。", "options": ["せいで", "かわりに", "うちに", "ついでに"], "correct": 0, "explanation": "〜せいで = causa negativa." },
+
+{ "id": "q21", "question": "時間がある_____、手伝ってください。", "options": ["なら", "ばかり", "ほど", "だけ"], "correct": 0, "explanation": "〜なら = si es el caso." },
+
+{ "id": "q22", "question": "彼は医者_____、とても忙しい。", "options": ["らしい", "よう", "みたい", "っぽい"], "correct": 0, "explanation": "〜らしい = parece / según se dice." },
+
+{ "id": "q23", "question": "雨が降る_____出かけます。", "options": ["としても", "ばかり", "ほど", "まで"], "correct": 0, "explanation": "〜としても = incluso si." },
+
+{ "id": "q24", "question": "宿題をする_____テレビを見てしまった。", "options": ["つもりが", "はずが", "ところが", "わけが"], "correct": 0, "explanation": "Intención frustrada." },
+
+{ "id": "q25", "question": "これは子ども_____問題だ。", "options": ["向けの", "向きの", "らしい", "そうな"], "correct": 0, "explanation": "〜向け = dirigido a." },
+
+{ "id": "q26", "question": "彼は怒り_____顔をしている。", "options": ["っぽい", "がちの", "向きの", "らしい"], "correct": 0, "explanation": "〜っぽい = parece / tiene rasgo." },
+
+{ "id": "q27", "question": "この仕事は大変_____やりがいがある。", "options": ["だが", "ので", "ながら", "つつ"], "correct": 0, "explanation": "だが = pero (formal)." },
+
+{ "id": "q28", "question": "彼は寝た_____起きない。", "options": ["きり", "ばかり", "ほど", "くらい"], "correct": 0, "explanation": "〜きり = desde que…" },
+
+{ "id": "q29", "question": "時間がない_____、急ぎましょう。", "options": ["ので", "のに", "つつ", "ながら"], "correct": 0, "explanation": "Causa formal." },
+
+{ "id": "q30", "question": "彼は日本語が話せる_____、英語もできる。", "options": ["だけでなく", "ために", "ように", "かわりに"], "correct": 0, "explanation": "No solo… sino también." },
+
+{ "id": "q31", "question": "ドアを開けた_____、大きな音がした。", "options": ["とたんに", "うちに", "あまり", "ついでに"], "correct": 0, "explanation": "Acción inmediata." },
+
+{ "id": "q32", "question": "勉強した_____、テストに合格した。", "options": ["おかげで", "せいで", "かわりに", "あまり"], "correct": 0, "explanation": "Resultado positivo." },
+
+{ "id": "q33", "question": "雨が降り_____、試合は中止になった。", "options": ["そうなので", "そうで", "ようで", "らしく"], "correct": 1, "explanation": "そうで = parece que y." },
+
+{ "id": "q34", "question": "彼は来る_____ない。", "options": ["はずが", "つもりが", "ことが", "ものが"], "correct": 0, "explanation": "〜はずがない = imposible." },
+
+{ "id": "q35", "question": "話せば話す_____、分からなくなる。", "options": ["ほど", "くらい", "だけ", "しか"], "correct": 0, "explanation": "Cuanto más… más." },
+
+{ "id": "q36", "question": "彼は学生の_____、社会人のようだ。", "options": ["くせに", "ために", "ので", "だけで"], "correct": 0, "explanation": "〜くせに = aunque debería…" },
+
+{ "id": "q37", "question": "時間がある_____、映画を見ましょう。", "options": ["なら", "ほど", "ばかり", "しか"], "correct": 0, "explanation": "Condición contextual." },
+
+{ "id": "q38", "question": "彼は来る_____だ。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "Expectativa lógica." },
+
+{ "id": "q39", "question": "雨が止まない_____、帰れません。", "options": ["かぎり", "うちに", "ところに", "ついでに"], "correct": 0, "explanation": "〜限り = mientras." },
+
+{ "id": "q40", "question": "彼は医者_____、とても優しい。", "options": ["で", "に", "が", "を"], "correct": 0, "explanation": "Copulativa で." },
+
+{ "id": "q41", "question": "試験に合格する_____頑張ります。", "options": ["ために", "ように", "そうに", "らしく"], "correct": 0, "explanation": "Propósito." },
+
+{ "id": "q42", "question": "彼は来ない_____。", "options": ["らしい", "そう", "よう", "みたいに"], "correct": 0, "explanation": "Rumor." },
+
+{ "id": "q43", "question": "この問題は難し_____。", "options": ["そうだ", "らしい", "ようだ", "みたいだ"], "correct": 0, "explanation": "Apariencia inmediata." },
+
+{ "id": "q44", "question": "彼は怒っ_____帰った。", "options": ["たまま", "たきり", "たほど", "たくらい"], "correct": 0, "explanation": "〜まま = estado continuo." },
+
+{ "id": "q45", "question": "彼は医者_____、弁護士でもある。", "options": ["であり", "で", "に", "が"], "correct": 0, "explanation": "Forma escrita formal." },
+
+{ "id": "q46", "question": "仕事が終わっ_____帰ります。", "options": ["てから", "ながら", "つつ", "ても"], "correct": 0, "explanation": "Después de." },
+
+{ "id": "q47", "question": "彼は学生_____、働いている。", "options": ["ながら", "ので", "ために", "だけで"], "correct": 0, "explanation": "〜ながら = aunque." },
+
+{ "id": "q48", "question": "この本は読む_____ある。", "options": ["価値が", "ことが", "つもりが", "はずが"], "correct": 0, "explanation": "〜価値がある = vale la pena." },
+
+{ "id": "q49", "question": "彼は来る_____。", "options": ["に違いない", "かもしれない", "らしい", "ようだ"], "correct": 0, "explanation": "Convicción fuerte." },
+
+{ "id": "q50", "question": "彼は学生だ_____、社会人のようだ。", "options": ["けれども", "ので", "ために", "だけで"], "correct": 0, "explanation": "Contraste." },
+
+{ "id": "q51", "question": "彼は来る_____がない。", "options": ["はず", "つもり", "こと", "わけ"], "correct": 3, "explanation": "〜わけがない = no hay manera de que." },
+
+{ "id": "q52", "question": "そんなことをする_____がない。", "options": ["わけ", "はず", "つもり", "こと"], "correct": 0, "explanation": "〜わけがない expresa imposibilidad lógica." },
+
+{ "id": "q53", "question": "彼は忙しい_____、来られない。", "options": ["ため", "よう", "らしく", "みたい"], "correct": 0, "explanation": "〜ため = causa formal." },
+
+{ "id": "q54", "question": "説明を聞いた_____、よく分からなかった。", "options": ["ところで", "ところが", "ところに", "ところを"], "correct": 1, "explanation": "ところが = sin embargo." },
+
+{ "id": "q55", "question": "彼は学生_____見える。", "options": ["に", "と", "が", "で"], "correct": 0, "explanation": "〜に見える = parecer." },
+
+{ "id": "q56", "question": "彼は疲れた_____帰った。", "options": ["ように", "まま", "ながら", "つつ"], "correct": 1, "explanation": "〜まま = estado continuo." },
+
+{ "id": "q57", "question": "日本に来て_____、3年になります。", "options": ["から", "まで", "ほど", "だけ"], "correct": 0, "explanation": "Desde que vino." },
+
+{ "id": "q58", "question": "そんなに食べると、太る_____。", "options": ["わけだ", "はずだ", "かもしれない", "に違いない"], "correct": 2, "explanation": "Posibilidad moderada." },
+
+{ "id": "q59", "question": "彼は泣き_____話した。", "options": ["ながら", "つつ", "まま", "そうに"], "correct": 0, "explanation": "Acciones simultáneas." },
+
+{ "id": "q60", "question": "彼は医者である_____、とても有名だ。", "options": ["うえに", "せいで", "かわりに", "あまり"], "correct": 0, "explanation": "〜うえに = además." },
+
+{ "id": "q61", "question": "時間がない_____、急いでください。", "options": ["ので", "のに", "ながら", "つつ"], "correct": 0, "explanation": "Causa formal." },
+
+{ "id": "q62", "question": "彼は来る_____だと思う。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "Expectativa lógica." },
+
+{ "id": "q63", "question": "彼は学生_____働いている。", "options": ["ながら", "ので", "ために", "だけで"], "correct": 0, "explanation": "Aunque es estudiante." },
+
+{ "id": "q64", "question": "雨が降っ_____、出かけます。", "options": ["ても", "ながら", "つつ", "ので"], "correct": 0, "explanation": "Aunque llueva." },
+
+{ "id": "q65", "question": "彼は来る_____ない。", "options": ["はずが", "つもりが", "ことが", "ものが"], "correct": 0, "explanation": "Imposibilidad lógica." },
+
+{ "id": "q66", "question": "勉強し_____、テレビを見てしまった。", "options": ["ようとして", "つつ", "ながら", "そうに"], "correct": 0, "explanation": "Intento no completado." },
+
+{ "id": "q67", "question": "彼は医者_____、弁護士でもある。", "options": ["であり", "で", "に", "が"], "correct": 0, "explanation": "Forma formal escrita." },
+
+{ "id": "q68", "question": "彼は怒り_____顔をしている。", "options": ["っぽい", "がちの", "向きの", "らしい"], "correct": 0, "explanation": "Rasgo aparente." },
+
+{ "id": "q69", "question": "彼は来る_____に違いない。", "options": ["はず", "わけ", "こと", "もの"], "correct": 0, "explanation": "Convicción fuerte." },
+
+{ "id": "q70", "question": "話せば話す_____、難しくなる。", "options": ["ほど", "くらい", "だけ", "しか"], "correct": 0, "explanation": "Cuanto más… más." },
+
+{ "id": "q71", "question": "彼は医者_____見える。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に見える." },
+
+{ "id": "q72", "question": "雨が止む_____待ちます。", "options": ["まで", "だけ", "ほど", "しか"], "correct": 0, "explanation": "Hasta que." },
+
+{ "id": "q73", "question": "彼は来ない_____だ。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "Expectativa negativa." },
+
+{ "id": "q74", "question": "勉強する_____、ゲームをしてしまった。", "options": ["つもりが", "はずが", "ところが", "わけが"], "correct": 0, "explanation": "Intención frustrada." },
+
+{ "id": "q75", "question": "彼は医者_____、とても忙しい。", "options": ["なので", "けど", "ために", "ように"], "correct": 0, "explanation": "Causa." },
+
+{ "id": "q76", "question": "彼は疲れ_____寝てしまった。", "options": ["すぎて", "そうで", "ようで", "らしく"], "correct": 0, "explanation": "Demasiado…" },
+
+{ "id": "q77", "question": "この本は読む_____ある。", "options": ["価値が", "ことが", "つもりが", "はずが"], "correct": 0, "explanation": "Vale la pena." },
+
+{ "id": "q78", "question": "彼は来る_____がある。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Posibilidad." },
+
+{ "id": "q79", "question": "彼は怒っ_____帰った。", "options": ["たまま", "たきり", "たほど", "たくらい"], "correct": 0, "explanation": "Estado continuo." },
+
+{ "id": "q80", "question": "彼は学生_____、社会人のようだ。", "options": ["なのに", "ので", "ために", "だけで"], "correct": 0, "explanation": "Contraste." },
+
+{ "id": "q81", "question": "彼は来る_____と思う。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Expectativa." },
+
+{ "id": "q82", "question": "時間がある_____、手伝ってください。", "options": ["なら", "ほど", "ばかり", "しか"], "correct": 0, "explanation": "Condición contextual." },
+
+{ "id": "q83", "question": "彼は来る_____ないと思う。", "options": ["はずが", "つもりが", "ことが", "ものが"], "correct": 0, "explanation": "Imposibilidad." },
+
+{ "id": "q84", "question": "彼は医者_____、とても優しい。", "options": ["で", "に", "が", "を"], "correct": 0, "explanation": "Copulativa." },
+
+{ "id": "q85", "question": "勉強した_____、合格した。", "options": ["おかげで", "せいで", "かわりに", "あまり"], "correct": 0, "explanation": "Resultado positivo." },
+
+{ "id": "q86", "question": "彼は来ない_____。", "options": ["らしい", "そう", "よう", "みたいに"], "correct": 0, "explanation": "Rumor." },
+
+{ "id": "q87", "question": "この問題は難し_____。", "options": ["そうだ", "らしい", "ようだ", "みたいだ"], "correct": 0, "explanation": "Apariencia." },
+
+{ "id": "q88", "question": "彼は怒り_____話せない。", "options": ["すぎて", "そうで", "ようで", "らしく"], "correct": 0, "explanation": "Demasiado…" },
+
+{ "id": "q89", "question": "彼は来る_____に違いない。", "options": ["はず", "わけ", "こと", "もの"], "correct": 0, "explanation": "Convicción." },
+
+{ "id": "q90", "question": "彼は学生_____、働いている。", "options": ["ながら", "ので", "ために", "だけで"], "correct": 0, "explanation": "Aunque es…" },
+
+{ "id": "q91", "question": "雨が降る_____、出かけます。", "options": ["としても", "ばかり", "ほど", "まで"], "correct": 0, "explanation": "Incluso si." },
+
+{ "id": "q92", "question": "彼は医者_____、弁護士でもある。", "options": ["であり", "で", "に", "が"], "correct": 0, "explanation": "Forma escrita." },
+
+{ "id": "q93", "question": "話せば話す_____、分からなくなる。", "options": ["ほど", "くらい", "だけ", "しか"], "correct": 0, "explanation": "Cuanto más…" },
+
+{ "id": "q94", "question": "彼は来る_____だろう。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "Suposición." },
+
+{ "id": "q95", "question": "彼は学生_____、社会人ではない。", "options": ["なので", "けど", "ために", "ように"], "correct": 0, "explanation": "Causa." },
+
+{ "id": "q96", "question": "彼は怒っ_____出て行った。", "options": ["たまま", "たきり", "たほど", "たくらい"], "correct": 0, "explanation": "Estado continuo." },
+
+{ "id": "q97", "question": "時間がない_____、急ぎましょう。", "options": ["ので", "のに", "ながら", "つつ"], "correct": 0, "explanation": "Causa formal." },
+
+{ "id": "q98", "question": "彼は来ない_____だと思う。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "Expectativa negativa." },
+
+{ "id": "q99", "question": "彼は医者_____見える。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に見える." },
+
+{ "id": "q100", "question": "彼は来る_____かもしれない。", "options": ["はず", "わけ", "こと", "もの"], "correct": 0, "explanation": "Posibilidad." },
+
+{ "id": "q101", "question": "彼は日本に来た_____、日本語が上手になった。", "options": ["おかげで", "せいで", "かわりに", "あまり"], "correct": 0, "explanation": "〜おかげで = resultado positivo gracias a." },
+
+{ "id": "q102", "question": "彼は忙しい_____、手伝ってくれた。", "options": ["にもかかわらず", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜にもかかわらず = a pesar de." },
+
+{ "id": "q103", "question": "これは子ども_____、大人には向かない。", "options": ["向けで", "向きで", "向けの", "向きの"], "correct": 2, "explanation": "〜向けの = dirigido a." },
+
+{ "id": "q104", "question": "彼は来る_____来ないか分からない。", "options": ["かどうか", "ように", "ために", "ところを"], "correct": 0, "explanation": "〜かどうか = si…" },
+
+{ "id": "q105", "question": "ドアを開けた_____、誰もいなかった。", "options": ["ところ", "うちに", "あまり", "ついでに"], "correct": 0, "explanation": "〜たところ = cuando…" },
+
+{ "id": "q106", "question": "彼は学生_____、一人暮らしをしている。", "options": ["のに", "ので", "ために", "ばかり"], "correct": 0, "explanation": "Contraste inesperado." },
+
+{ "id": "q107", "question": "薬を飲んだ_____、気分が悪くなった。", "options": ["せいで", "おかげで", "ついでに", "かわりに"], "correct": 0, "explanation": "Causa negativa." },
+
+{ "id": "q108", "question": "彼は遅刻した_____、先生に怒られた。", "options": ["ために", "ように", "らしく", "みたいに"], "correct": 0, "explanation": "Causa formal." },
+
+{ "id": "q109", "question": "この問題は難し_____、分かりにくい。", "options": ["うえに", "だけで", "しか", "ほど"], "correct": 0, "explanation": "〜うえに = además." },
+
+{ "id": "q110", "question": "彼は医者_____、経験も豊富だ。", "options": ["であるうえに", "であるせいで", "であるかわりに", "であるばかりに"], "correct": 0, "explanation": "Expresión formal de adición." },
+
+{ "id": "q111", "question": "彼は来る_____に決まっている。", "options": ["に違いない", "はず", "わけ", "こと"], "correct": 0, "explanation": "Fuerte convicción." },
+
+{ "id": "q112", "question": "彼は怒り_____、何も言わなかった。", "options": ["ながらも", "つつも", "まま", "そうで"], "correct": 0, "explanation": "〜ながらも = aunque." },
+
+{ "id": "q113", "question": "試験に合格できる_____、毎日勉強している。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "Objetivo con verbo potencial." },
+
+{ "id": "q114", "question": "彼は学生_____思えない。", "options": ["とは", "にも", "さえ", "しか"], "correct": 0, "explanation": "〜とは思えない = difícil de creer que." },
+
+{ "id": "q115", "question": "彼は来る_____と思っていた。", "options": ["ものだ", "はずだ", "ことだ", "わけだ"], "correct": 1, "explanation": "Expectativa previa." },
+
+{ "id": "q116", "question": "彼は泣き_____、話し続けた。", "options": ["ながらも", "つつも", "まま", "そうで"], "correct": 0, "explanation": "Acción simultánea con contraste." },
+
+{ "id": "q117", "question": "彼は来る_____が高い。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Posibilidad alta." },
+
+{ "id": "q118", "question": "この本は難しい_____、面白い。", "options": ["反面", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜反面 = por otro lado." },
+
+{ "id": "q119", "question": "彼は日本語が話せる_____、漢字は読めない。", "options": ["ものの", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜ものの = aunque." },
+
+{ "id": "q120", "question": "彼は来る_____ないと思われる。", "options": ["はずが", "つもりが", "ことが", "ものが"], "correct": 0, "explanation": "Imposibilidad lógica." },
+
+{ "id": "q121", "question": "彼は疲れている_____、頑張っている。", "options": ["にもかかわらず", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "A pesar de." },
+
+{ "id": "q122", "question": "彼は医者_____、有名な作家でもある。", "options": ["であるとともに", "であるせいで", "であるかわりに", "であるばかりに"], "correct": 0, "explanation": "〜とともに = y también." },
+
+{ "id": "q123", "question": "彼は来る_____かもしれない。", "options": ["こと", "わけ", "はず", "もの"], "correct": 0, "explanation": "〜ことかもしれない (forma nominal)." },
+
+{ "id": "q124", "question": "彼は怒り_____出て行った。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "〜のあまり = tanto que…" },
+
+{ "id": "q125", "question": "彼は学生_____、社会人のように働いている。", "options": ["でありながら", "であるために", "であるので", "であるばかりに"], "correct": 0, "explanation": "Aunque es…" },
+
+{ "id": "q126", "question": "彼は来る_____と思いきや、来なかった。", "options": ["かと", "かどうか", "ように", "ために"], "correct": 0, "explanation": "〜かと思いきや = pensé que… pero." },
+
+{ "id": "q127", "question": "彼は医者_____、責任が重い。", "options": ["である以上", "であるうえに", "であるせいで", "であるかわりに"], "correct": 0, "explanation": "〜以上 = ya que es…" },
+
+{ "id": "q128", "question": "彼は来る_____、来ないにしても連絡はする。", "options": ["にしても", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Incluso si…" },
+
+{ "id": "q129", "question": "彼は怒り_____、何も聞かなかった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Tanto que…" },
+
+{ "id": "q130", "question": "彼は学生_____、経験は豊富だ。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "〜にしては = para ser…" },
+
+{ "id": "q131", "question": "彼は来る_____がないとは言えない。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "No se puede negar la posibilidad." },
+
+{ "id": "q132", "question": "彼は医者_____、その上教授でもある。", "options": ["であり", "であるせいで", "であるかわりに", "であるばかりに"], "correct": 0, "explanation": "Adición formal." },
+
+{ "id": "q133", "question": "彼は来る_____と思ったら、もう来ていた。", "options": ["かと", "かどうか", "ように", "ために"], "correct": 0, "explanation": "〜かと思ったら = justo cuando pensé…" },
+
+{ "id": "q134", "question": "彼は怒り_____声を上げた。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q135", "question": "彼は学生_____、社会人より忙しい。", "options": ["とはいえ", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜とはいえ = aunque es cierto que." },
+
+{ "id": "q136", "question": "彼は来る_____があると言われている。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Posibilidad mencionada." },
+
+{ "id": "q137", "question": "彼は医者_____、患者に人気がある。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "〜として = en calidad de." },
+
+{ "id": "q138", "question": "彼は来る_____と思っていたのに。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Expectativa frustrada." },
+
+{ "id": "q139", "question": "彼は怒り_____、部屋を出た。", "options": ["にまかせて", "にとって", "について", "によって"], "correct": 0, "explanation": "〜にまかせて = dejándose llevar por." },
+
+{ "id": "q140", "question": "彼は学生_____、将来が楽しみだ。", "options": ["ながらに", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜ながらに = siendo…" },
+
+{ "id": "q141", "question": "彼は来る_____がないとも言えない。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Doble negación de posibilidad." },
+
+{ "id": "q142", "question": "彼は医者_____、責任感が強い。", "options": ["としての", "にしては", "についての", "によっての"], "correct": 0, "explanation": "En calidad de médico." },
+
+{ "id": "q143", "question": "彼は来る_____と思われている。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Se cree que…" },
+
+{ "id": "q144", "question": "彼は怒り_____、我を忘れた。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Tanto que perdió el control." },
+
+{ "id": "q145", "question": "彼は学生_____、考え方が大人だ。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "Para ser estudiante…" },
+
+{ "id": "q146", "question": "彼は来る_____と思い込んでいた。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Creencia firme." },
+
+{ "id": "q147", "question": "彼は医者_____、社会に貢献している。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q148", "question": "彼は来る_____が高いと言われている。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Alta probabilidad." },
+
+{ "id": "q149", "question": "彼は怒り_____、何も見えなかった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q150", "question": "彼は学生_____、責任感がある。", "options": ["ながらも", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Aunque es estudiante." },
+
+{ "id": "q151", "question": "彼は来る_____はずだったが、来なかった。", "options": ["はず", "つもり", "ところ", "ばかり"], "correct": 0, "explanation": "〜はずだった = se suponía que…" },
+
+{ "id": "q152", "question": "彼は忙しい_____、電話にも出なかった。", "options": ["あまり", "うえに", "だけで", "ほど"], "correct": 0, "explanation": "〜あまり = debido a exceso de…" },
+
+{ "id": "q153", "question": "彼は医者_____、夜中でも呼ばれることがある。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de médico." },
+
+{ "id": "q154", "question": "彼は来る_____と思われていた。", "options": ["ものと", "ことと", "わけと", "はずと"], "correct": 0, "explanation": "〜ものと思われていた = se creía que." },
+
+{ "id": "q155", "question": "彼は学生_____、アルバイトで生活している。", "options": ["ながらも", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Aunque es estudiante." },
+
+{ "id": "q156", "question": "彼は怒り_____、ドアを強く閉めた。", "options": ["にまかせて", "にとって", "について", "によって"], "correct": 0, "explanation": "〜にまかせて = dejándose llevar por." },
+
+{ "id": "q157", "question": "彼は来る_____と思い込んでいる。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Creencia firme." },
+
+{ "id": "q158", "question": "彼は医者_____、説明が分かりやすい。", "options": ["にしては", "としては", "については", "によっては"], "correct": 1, "explanation": "〜としては = como médico…" },
+
+{ "id": "q159", "question": "彼は来る_____があるかもしれない。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Posibilidad." },
+
+{ "id": "q160", "question": "彼は怒り_____、声が震えていた。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q161", "question": "彼は学生_____、意見はしっかりしている。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "Para ser estudiante…" },
+
+{ "id": "q162", "question": "彼は来る_____と思われがちだ。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Tendencia a pensar que…" },
+
+{ "id": "q163", "question": "彼は医者_____、多くの人に尊敬されている。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q164", "question": "彼は来る_____と思っていたら、来なかった。", "options": ["ものと", "ことと", "わけと", "はずと"], "correct": 0, "explanation": "〜ものと思っていたら = pensaba que…" },
+
+{ "id": "q165", "question": "彼は怒り_____、何も聞こえなかった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Tanto que…" },
+
+{ "id": "q166", "question": "彼は学生_____、将来は有望だ。", "options": ["ながらにして", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "〜ながらにして = siendo…" },
+
+{ "id": "q167", "question": "彼は来る_____と言われている。", "options": ["はずだ", "つもりだ", "ところだ", "ばかりだ"], "correct": 0, "explanation": "Se dice que…" },
+
+{ "id": "q168", "question": "彼は医者_____、社会的責任がある。", "options": ["である以上", "であるうえに", "であるせいで", "であるかわりに"], "correct": 0, "explanation": "〜以上 = dado que es…" },
+
+{ "id": "q169", "question": "彼は来る_____に違いないと思われている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Nominalización de convicción." },
+
+{ "id": "q170", "question": "彼は怒り_____、冷静さを失った。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q171", "question": "彼は学生_____、態度は立派だ。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "Para ser…" },
+
+{ "id": "q172", "question": "彼は来る_____と思いきや、来なかった。", "options": ["ものと", "ことと", "わけと", "はずと"], "correct": 0, "explanation": "Pensé que… pero." },
+
+{ "id": "q173", "question": "彼は医者_____、地域に貢献している。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q174", "question": "彼は来る_____可能性がある。", "options": ["という", "とする", "とした", "としたら"], "correct": 0, "explanation": "〜という可能性 = posibilidad de que." },
+
+{ "id": "q175", "question": "彼は怒り_____、何も考えられなかった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q176", "question": "彼は学生_____、責任は重い。", "options": ["とはいえ", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Aunque es cierto que…" },
+
+{ "id": "q177", "question": "彼は来る_____が高いと思われる。", "options": ["可能性", "わけ", "はず", "つもり"], "correct": 0, "explanation": "Alta probabilidad." },
+
+{ "id": "q178", "question": "彼は医者_____、信頼されている。", "options": ["としての", "にしては", "についての", "によっての"], "correct": 0, "explanation": "Como médico." },
+
+{ "id": "q179", "question": "彼は来る_____と思い込まれている。", "options": ["ものと", "ことと", "わけと", "はずと"], "correct": 0, "explanation": "Se cree firmemente que…" },
+
+{ "id": "q180", "question": "彼は怒り_____、周りが見えなくなった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q181", "question": "彼は学生_____、能力は高い。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "Para ser estudiante…" },
+
+{ "id": "q182", "question": "彼は来る_____と考えられている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Nominalización." },
+
+{ "id": "q183", "question": "彼は医者_____、夜勤もこなしている。", "options": ["でありながら", "であるために", "であるので", "であるばかりに"], "correct": 0, "explanation": "Aunque es…" },
+
+{ "id": "q184", "question": "彼は来る_____と期待されている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se espera que…" },
+
+{ "id": "q185", "question": "彼は怒り_____、理性を失った。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q186", "question": "彼は学生_____、発想が柔軟だ。", "options": ["ながらも", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Aunque es…" },
+
+{ "id": "q187", "question": "彼は来る_____と信じられている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se cree que…" },
+
+{ "id": "q188", "question": "彼は医者_____、社会に必要な存在だ。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q189", "question": "彼は来る_____と予想されている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se prevé que…" },
+
+{ "id": "q190", "question": "彼は怒り_____、机を叩いた。", "options": ["にまかせて", "にとって", "について", "によって"], "correct": 0, "explanation": "Dejándose llevar por." },
+
+{ "id": "q191", "question": "彼は学生_____、将来が期待されている。", "options": ["とはいえ", "ために", "ので", "ばかりに"], "correct": 0, "explanation": "Aunque es cierto que…" },
+
+{ "id": "q192", "question": "彼は来る_____と考えられがちだ。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Tendencia a pensar que…" },
+
+{ "id": "q193", "question": "彼は医者_____、責任を果たしている。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q194", "question": "彼は来る_____と見られている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se considera que…" },
+
+{ "id": "q195", "question": "彼は怒り_____、何も言えなかった。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." },
+
+{ "id": "q196", "question": "彼は学生_____、評価は高い。", "options": ["にしては", "にとって", "について", "によって"], "correct": 0, "explanation": "Para ser estudiante…" },
+
+{ "id": "q197", "question": "彼は来る_____と予測されている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se predice que…" },
+
+{ "id": "q198", "question": "彼は医者_____、地域医療に貢献している。", "options": ["として", "にしては", "について", "によって"], "correct": 0, "explanation": "En calidad de." },
+
+{ "id": "q199", "question": "彼は来る_____と信じ込まれている。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Se cree firmemente que…" },
+
+{ "id": "q200", "question": "彼は怒り_____、自分を見失った。", "options": ["のあまり", "のうえに", "のせいで", "のかわりに"], "correct": 0, "explanation": "Resultado extremo." } 
+
+
+  ]
+}

@@ -1,4 +1,6 @@
 {
+  "grammar": [
+{
   "id": "n5-1",
   "category": "Estructura básica",
   "title": "〜は〜です",
@@ -13,5 +15,7 @@
       "jp": "これ[これ]は 本[ほん]です。",
       "es": "Esto es un libro."
     }
+  ]
+}
   ]
 }

@@ -84,6 +84,1029 @@
       "es": "Es un coche japonés."
     }
   ]
+},
+    {
+  "id": "n5-6",
+  "category": "Partícula",
+  "title": "の (modificador nominal)",
+  "formula": "N1 + の + N2",
+  "description": "Conecta dos sustantivos donde el primero describe o especifica al segundo.",
+  "examples": [
+    { "jp": "日本語[にほんご]の 本[ほん]です。", "es": "Es un libro de japonés." },
+    { "jp": "学校[がっこう]の 先生[せんせい]です。", "es": "Es el profesor de la escuela." }
+  ]
+},
+{
+  "id": "n5-7",
+  "category": "Existencia",
+  "title": "〜があります",
+  "formula": "Lugar + に + N + が あります",
+  "description": "Indica existencia de objetos o cosas inanimadas.",
+  "examples": [
+    { "jp": "机[つくえ]の 上[うえ]に 本[ほん]が あります。", "es": "Hay un libro encima de la mesa." },
+    { "jp": "公園[こうえん]に 木[き]が あります。", "es": "Hay un árbol en el parque." }
+  ]
+},
+{
+  "id": "n5-8",
+  "category": "Existencia",
+  "title": "〜がいます",
+  "formula": "Lugar + に + N + が います",
+  "description": "Indica existencia de personas o animales.",
+  "examples": [
+    { "jp": "教室[きょうしつ]に 学生[がくせい]が います。", "es": "Hay estudiantes en el aula." },
+    { "jp": "家[いえ]に 犬[いぬ]が います。", "es": "Hay un perro en casa." }
+  ]
+},
+{
+  "id": "n5-9",
+  "category": "Partícula",
+  "title": "は",
+  "formula": "S + は",
+  "description": "Marca el tema de la oración. Indica de qué se está hablando.",
+  "examples": [
+    { "jp": "私[わたし]は 学生[がくせい]です。", "es": "Yo soy estudiante." },
+    { "jp": "今日[きょう]は 暑[あつ]いです。", "es": "Hoy hace calor." }
+  ]
+},
+{
+  "id": "n5-10",
+  "category": "Partícula",
+  "title": "が",
+  "formula": "S + が",
+  "description": "Marca el sujeto gramatical o enfatiza quién realiza la acción.",
+  "examples": [
+    { "jp": "猫[ねこ]が います。", "es": "Hay un gato." },
+    { "jp": "誰[だれ]が 来[き]ますか。", "es": "¿Quién viene?" }
+  ]
+},
+    {
+  "id": "n5-11",
+  "category": "Partícula",
+  "title": "を",
+  "formula": "S + を + V",
+  "description": "Marca el objeto directo de la acción.",
+  "examples": [
+    { "jp": "水[みず]を 飲[の]みます。", "es": "Bebo agua." },
+    { "jp": "本[ほん]を 読[よ]みます。", "es": "Leo un libro." }
+  ]
+},
+{
+  "id": "n5-12",
+  "category": "Partícula",
+  "title": "に (tiempo/destino)",
+  "formula": "Tiempo / Lugar + に + V",
+  "description": "Indica momento específico en el tiempo o destino de movimiento.",
+  "examples": [
+    { "jp": "七時[しちじ]に 起[お]きます。", "es": "Me levanto a las siete." },
+    { "jp": "学校[がっこう]に 行[い]きます。", "es": "Voy a la escuela." }
+  ]
+},
+{
+  "id": "n5-13",
+  "category": "Partícula",
+  "title": "へ",
+  "formula": "Lugar + へ + V",
+  "description": "Indica dirección de movimiento (similar a に pero enfatiza dirección).",
+  "examples": [
+    { "jp": "日本[にほん]へ 行[い]きます。", "es": "Voy a Japón." },
+    { "jp": "家[いえ]へ 帰[かえ]ります。", "es": "Regreso a casa." }
+  ]
+},
+{
+  "id": "n5-14",
+  "category": "Partícula",
+  "title": "で (lugar de acción)",
+  "formula": "Lugar + で + V",
+  "description": "Indica el lugar donde ocurre una acción.",
+  "examples": [
+    { "jp": "図書館[としょかん]で 勉強[べんきょう]します。", "es": "Estudio en la biblioteca." },
+    { "jp": "レストランで 食[た]べます。", "es": "Como en el restaurante." }
+  ]
+},
+{
+  "id": "n5-15",
+  "category": "Partícula",
+  "title": "と (y / con)",
+  "formula": "N1 + と + N2 / Persona + と + V",
+  "description": "Conecta sustantivos (y) o indica compañía (con).",
+  "examples": [
+    { "jp": "パンと 牛乳[ぎゅうにゅう]を 買[か]います。", "es": "Compro pan y leche." },
+    { "jp": "友達[ともだち]と 話[はな]します。", "es": "Hablo con un amigo." }
+  ]
+},
+{
+  "id": "n5-16",
+  "category": "Partícula",
+  "title": "や",
+  "formula": "N1 + や + N2",
+  "description": "Enumera elementos de una lista incompleta (entre otros).",
+  "examples": [
+    { "jp": "りんごや みかんを 食[た]べます。", "es": "Como manzanas, mandarinas, etc." },
+    { "jp": "本[ほん]や 雑誌[ざっし]が あります。", "es": "Hay libros, revistas, etc." }
+  ]
+},
+{
+  "id": "n5-17",
+  "category": "Partícula",
+  "title": "から (origen)",
+  "formula": "Lugar + から + V",
+  "description": "Indica punto de origen espacial o temporal.",
+  "examples": [
+    { "jp": "家[いえ]から 学校[がっこう]へ 行[い]きます。", "es": "Voy de casa a la escuela." },
+    { "jp": "九時[くじ]から 勉強[べんきょう]します。", "es": "Estudio desde las nueve." }
+  ]
+},
+{
+  "id": "n5-18",
+  "category": "Partícula",
+  "title": "まで",
+  "formula": "Tiempo / Lugar + まで",
+  "description": "Indica límite temporal o espacial.",
+  "examples": [
+    { "jp": "五時[ごじ]まで 働[はたら]きます。", "es": "Trabajo hasta las cinco." },
+    { "jp": "駅[えき]まで 歩[ある]きます。", "es": "Camino hasta la estación." }
+  ]
+},
+{
+  "id": "n5-19",
+  "category": "Partícula",
+  "title": "か (pregunta / alternativa)",
+  "formula": "Frase + か / N1 + か + N2",
+  "description": "Marca pregunta o alternativa entre opciones.",
+  "examples": [
+    { "jp": "行[い]きますか。", "es": "¿Vas?" },
+    { "jp": "コーヒーか お茶[ちゃ]を 飲[の]みます。", "es": "Bebo café o té." }
+  ]
+},
+{
+  "id": "n5-20",
+  "category": "Partícula",
+  "title": "ね",
+  "formula": "Frase + ね",
+  "description": "Partícula final que busca confirmación o acuerdo.",
+  "examples": [
+    { "jp": "暑[あつ]いですね。", "es": "Hace calor, ¿verdad?" },
+    { "jp": "きれいですね。", "es": "Es bonito, ¿no?" }
+  ]
+},
+    {
+  "id": "n5-21",
+  "category": "Partícula",
+  "title": "よ",
+  "formula": "Frase + よ",
+  "description": "Partícula final que enfatiza información nueva para el oyente.",
+  "examples": [
+    { "jp": "明日[あした]は 休[やす]みですよ。", "es": "Mañana es festivo, ¿sabes?" },
+    { "jp": "これは 高[たか]いですよ。", "es": "Esto es caro, te aviso." }
+  ]
+},
+{
+  "id": "n5-22",
+  "category": "Verbos",
+  "title": "Forma diccionario",
+  "formula": "Verbo (forma básica)",
+  "description": "Forma informal básica del verbo usada en presente/futuro.",
+  "examples": [
+    { "jp": "毎日[まいにち] 日本語[にほんご]を 勉強[べんきょう]する。", "es": "Estudio japonés todos los días." },
+    { "jp": "水[みず]を 飲[の]む。", "es": "Bebo agua." }
+  ]
+},
+{
+  "id": "n5-23",
+  "category": "Verbos",
+  "title": "Forma ます",
+  "formula": "Raíz verbal + ます",
+  "description": "Forma formal afirmativa en presente/futuro.",
+  "examples": [
+    { "jp": "毎日[まいにち] 勉強[べんきょう]します。", "es": "Estudio todos los días." },
+    { "jp": "水[みず]を 飲[の]みます。", "es": "Bebo agua." }
+  ]
+},
+{
+  "id": "n5-24",
+  "category": "Verbos",
+  "title": "Forma negativa (ない)",
+  "formula": "Raíz verbal + ない",
+  "description": "Forma informal negativa del verbo.",
+  "examples": [
+    { "jp": "今日[きょう]は 行[い]かない。", "es": "Hoy no voy." },
+    { "jp": "肉[にく]を 食[た]べない。", "es": "No como carne." }
+  ]
+},
+{
+  "id": "n5-25",
+  "category": "Verbos",
+  "title": "Forma pasada (た)",
+  "formula": "Raíz verbal + た",
+  "description": "Forma informal pasada del verbo.",
+  "examples": [
+    { "jp": "昨日[きのう] 映画[えいが]を 見[み]た。", "es": "Ayer vi una película." },
+    { "jp": "水[みず]を 飲[の]んだ。", "es": "Bebí agua." }
+  ]
+},
+{
+  "id": "n5-26",
+  "category": "Verbos",
+  "title": "Forma pasada negativa",
+  "formula": "Raíz verbal + なかった",
+  "description": "Forma informal negativa en pasado.",
+  "examples": [
+    { "jp": "昨日[きのう] 行[い]かなかった。", "es": "Ayer no fui." },
+    { "jp": "朝[あさ]ごはんを 食[た]べなかった。", "es": "No desayuné." }
+  ]
+},
+{
+  "id": "n5-27",
+  "category": "Verbos",
+  "title": "Forma て",
+  "formula": "Raíz verbal + て",
+  "description": "Forma conectiva del verbo con múltiples usos.",
+  "examples": [
+    { "jp": "食[た]べて ください。", "es": "Por favor, come." },
+    { "jp": "起[お]きて 勉強[べんきょう]します。", "es": "Me levanto y estudio." }
+  ]
+},
+{
+  "id": "n5-28",
+  "category": "Verbos",
+  "title": "〜てください",
+  "formula": "Vて + ください",
+  "description": "Se usa para hacer peticiones educadas.",
+  "examples": [
+    { "jp": "待[ま]って ください。", "es": "Por favor, espere." },
+    { "jp": "見[み]て ください。", "es": "Por favor, mire." }
+  ]
+},
+{
+  "id": "n5-29",
+  "category": "Verbos",
+  "title": "〜てもいいです",
+  "formula": "Vて + もいいです",
+  "description": "Expresa permiso.",
+  "examples": [
+    { "jp": "入[はい]っても いいです。", "es": "Puedes entrar." },
+    { "jp": "ここで 写真[しゃしん]を 撮[と]っても いいですか。", "es": "¿Puedo tomar fotos aquí?" }
+  ]
+},
+{
+  "id": "n5-30",
+  "category": "Verbos",
+  "title": "〜てはいけません",
+  "formula": "Vて + はいけません",
+  "description": "Expresa prohibición.",
+  "examples": [
+    { "jp": "ここで 泳[およ]いでは いけません。", "es": "No se puede nadar aquí." },
+    { "jp": "入[はい]っては いけません。", "es": "No entres." }
+  ]
+},
+{
+  "id": "n5-31",
+  "category": "Verbos",
+  "title": "〜ています (progresivo)",
+  "formula": "Vて + います",
+  "description": "Indica acción en progreso.",
+  "examples": [
+    { "jp": "今[いま] 勉強[べんきょう]しています。", "es": "Estoy estudiando ahora." },
+    { "jp": "テレビを 見[み]ています。", "es": "Estoy viendo la televisión." }
+  ]
+},
+{
+  "id": "n5-32",
+  "category": "Verbos",
+  "title": "〜ています (estado resultante)",
+  "formula": "Vて + います",
+  "description": "Indica estado resultado de una acción.",
+  "examples": [
+    { "jp": "結婚[けっこん]しています。", "es": "Estoy casado." },
+    { "jp": "窓[まど]が 開[あ]いています。", "es": "La ventana está abierta." }
+  ]
+},
+{
+  "id": "n5-33",
+  "category": "Verbos",
+  "title": "〜てから",
+  "formula": "Vて + から",
+  "description": "Indica que una acción ocurre después de otra.",
+  "examples": [
+    { "jp": "ごはんを 食[た]べてから 行[い]きます。", "es": "Voy después de comer." },
+    { "jp": "勉強[べんきょう]してから 寝[ね]ます。", "es": "Duermo después de estudiar." }
+  ]
+},
+{
+  "id": "n5-34",
+  "category": "Verbos",
+  "title": "〜て、〜 (secuencia)",
+  "formula": "Vて、V",
+  "description": "Conecta acciones en secuencia.",
+  "examples": [
+    { "jp": "起[お]きて、顔[かお]を 洗[あら]います。", "es": "Me levanto y me lavo la cara." },
+    { "jp": "家[いえ]に 帰[かえ]って、勉強[べんきょう]します。", "es": "Regreso a casa y estudio." }
+  ]
+},
+{
+  "id": "n5-35",
+  "category": "Verbos",
+  "title": "〜ましょう",
+  "formula": "Raíz verbal + ましょう",
+  "description": "Invitación o sugerencia formal.",
+  "examples": [
+    { "jp": "行[い]きましょう。", "es": "Vamos." },
+    { "jp": "一緒[いっしょ]に 食[た]べましょう。", "es": "Comamos juntos." }
+  ]
+},
+    {
+  "id": "n5-36",
+  "category": "Verbos",
+  "title": "〜ましょうか",
+  "formula": "Raíz verbal + ましょうか",
+  "description": "Ofrece ayuda o propone hacer algo por alguien.",
+  "examples": [
+    { "jp": "手伝[てつだ]いましょうか。", "es": "¿Te ayudo?" },
+    { "jp": "ドアを 開[あ]けましょうか。", "es": "¿Abro la puerta?" }
+  ]
+},
+{
+  "id": "n5-37",
+  "category": "Verbos",
+  "title": "〜ませんか",
+  "formula": "Raíz verbal + ませんか",
+  "description": "Invitación formal negativa (¿no quieres…?).",
+  "examples": [
+    { "jp": "一緒[いっしょ]に 行[い]きませんか。", "es": "¿No quieres venir conmigo?" },
+    { "jp": "コーヒーを 飲[の]みませんか。", "es": "¿Tomamos un café?" }
+  ]
+},
+{
+  "id": "n5-38",
+  "category": "Verbos",
+  "title": "〜たい",
+  "formula": "Raíz verbal + たい",
+  "description": "Expresa deseo de hacer algo.",
+  "examples": [
+    { "jp": "日本[にほん]へ 行[い]きたいです。", "es": "Quiero ir a Japón." },
+    { "jp": "寿司[すし]を 食[た]べたいです。", "es": "Quiero comer sushi." }
+  ]
+},
+{
+  "id": "n5-39",
+  "category": "Verbos",
+  "title": "〜たくない",
+  "formula": "Raíz verbal + たくない",
+  "description": "Forma negativa de deseo.",
+  "examples": [
+    { "jp": "行[い]きたくないです。", "es": "No quiero ir." },
+    { "jp": "何[なに]も 食[た]べたくないです。", "es": "No quiero comer nada." }
+  ]
+},
+{
+  "id": "n5-40",
+  "category": "Verbos",
+  "title": "〜に行きます (propósito)",
+  "formula": "Verbo (raíz) + に + 行きます",
+  "description": "Indica propósito de movimiento.",
+  "examples": [
+    { "jp": "映画[えいが]を 見[み]に 行[い]きます。", "es": "Voy a ver una película." },
+    { "jp": "買[か]い物[もの]に 行[い]きます。", "es": "Voy de compras." }
+  ]
+},
+{
+  "id": "n5-41",
+  "category": "Verbos",
+  "title": "〜ことができます",
+  "formula": "Verbo diccionario + ことができます",
+  "description": "Expresa habilidad o posibilidad.",
+  "examples": [
+    { "jp": "日本語[にほんご]を 話[はな]すことが できます。", "es": "Puedo hablar japonés." },
+    { "jp": "泳[およ]ぐことが できます。", "es": "Puedo nadar." }
+  ]
+},
+{
+  "id": "n5-42",
+  "category": "Tiempo",
+  "title": "〜前に",
+  "formula": "Verbo diccionario + 前に / N + の + 前に",
+  "description": "Indica que algo ocurre antes de otra acción.",
+  "examples": [
+    { "jp": "寝[ね]る 前[まえ]に 本[ほん]を 読[よ]みます。", "es": "Leo antes de dormir." },
+    { "jp": "食事[しょくじ]の 前[まえ]に 手[て]を 洗[あら]います。", "es": "Me lavo las manos antes de comer." }
+  ]
+},
+{
+  "id": "n5-43",
+  "category": "Tiempo",
+  "title": "〜後で",
+  "formula": "Verbo た + 後で / N + の + 後で",
+  "description": "Indica que algo ocurre después de otra acción.",
+  "examples": [
+    { "jp": "食[た]べた 後[あと]で 歯[は]を 磨[みが]きます。", "es": "Me cepillo los dientes después de comer." },
+    { "jp": "仕事[しごと]の 後[あと]で 運動[うんどう]します。", "es": "Hago ejercicio después del trabajo." }
+  ]
+},
+{
+  "id": "n5-44",
+  "category": "Verbos",
+  "title": "まだ〜ていません",
+  "formula": "まだ + Vて + いません",
+  "description": "Indica que algo aún no ha ocurrido.",
+  "examples": [
+    { "jp": "まだ 宿題[しゅくだい]を していません。", "es": "Aún no he hecho la tarea." },
+    { "jp": "まだ 食[た]べていません。", "es": "Todavía no he comido." }
+  ]
+},
+{
+  "id": "n5-45",
+  "category": "Verbos",
+  "title": "もう〜ました",
+  "formula": "もう + Vました",
+  "description": "Indica que algo ya ha ocurrido.",
+  "examples": [
+    { "jp": "もう 食[た]べました。", "es": "Ya comí." },
+    { "jp": "もう 行[い]きました。", "es": "Ya se fue." }
+  ]
+},
+{
+  "id": "n5-46",
+  "category": "Adjetivos い",
+  "title": "〜いです",
+  "formula": "Adjい + です",
+  "description": "Forma afirmativa formal de adjetivos い.",
+  "examples": [
+    { "jp": "この 本[ほん]は 面白[おもしろ]いです。", "es": "Este libro es interesante." },
+    { "jp": "今日は 暑[あつ]いです。", "es": "Hoy hace calor." }
+  ]
+},
+{
+  "id": "n5-47",
+  "category": "Adjetivos い",
+  "title": "〜くない",
+  "formula": "Adjい → Adjくない",
+  "description": "Forma negativa informal de adjetivos い.",
+  "examples": [
+    { "jp": "高[たか]くないです。", "es": "No es caro." },
+    { "jp": "寒[さむ]くないです。", "es": "No hace frío." }
+  ]
+},
+{
+  "id": "n5-48",
+  "category": "Adjetivos い",
+  "title": "〜かった",
+  "formula": "Adjい → Adjかった",
+  "description": "Pasado informal de adjetivos い.",
+  "examples": [
+    { "jp": "昨日[きのう]は 暑[あつ]かったです。", "es": "Ayer hizo calor." },
+    { "jp": "映画[えいが]は 面白[おもしろ]かったです。", "es": "La película fue interesante." }
+  ]
+},
+{
+  "id": "n5-49",
+  "category": "Adjetivos い",
+  "title": "〜くなかった",
+  "formula": "Adjい → Adjくなかった",
+  "description": "Pasado negativo informal de adjetivos い.",
+  "examples": [
+    { "jp": "高[たか]くなかったです。", "es": "No fue caro." },
+    { "jp": "寒[さむ]くなかったです。", "es": "No hizo frío." }
+  ]
+},
+{
+  "id": "n5-50",
+  "category": "Adjetivos い",
+  "title": "〜くて",
+  "formula": "Adjい → Adjくて",
+  "description": "Conecta adjetivos い en una oración.",
+  "examples": [
+    { "jp": "安[やす]くて おいしいです。", "es": "Es barato y delicioso." },
+    { "jp": "大[おお]きくて きれいです。", "es": "Es grande y bonito." }
+  ]
+},
+{
+  "id": "n5-51",
+  "category": "Adjetivos な",
+  "title": "〜な + sustantivo",
+  "formula": "Adjな + な + N",
+  "description": "Adjetivo な modificando sustantivo.",
+  "examples": [
+    { "jp": "静[しず]かな 町[まち]です。", "es": "Es una ciudad tranquila." },
+    { "jp": "有名[ゆうめい]な 人[ひと]です。", "es": "Es una persona famosa." }
+  ]
+},
+{
+  "id": "n5-52",
+  "category": "Adjetivos な",
+  "title": "〜です",
+  "formula": "Adjな + です",
+  "description": "Forma afirmativa formal de adjetivos な.",
+  "examples": [
+    { "jp": "この 部屋[へや]は 静[しず]かです。", "es": "Esta habitación es tranquila." },
+    { "jp": "彼[かれ]は 有名[ゆうめい]です。", "es": "Él es famoso." }
+  ]
+},
+{
+  "id": "n5-53",
+  "category": "Adjetivos な",
+  "title": "〜じゃありません",
+  "formula": "Adjな + じゃありません",
+  "description": "Forma negativa formal de adjetivos な.",
+  "examples": [
+    { "jp": "静[しず]かじゃありません。", "es": "No es tranquilo." },
+    { "jp": "便利[べんり]じゃありません。", "es": "No es conveniente." }
+  ]
+},
+{
+  "id": "n5-54",
+  "category": "Adjetivos な",
+  "title": "〜でした",
+  "formula": "Adjな + でした",
+  "description": "Pasado afirmativo formal de adjetivos な.",
+  "examples": [
+    { "jp": "昨日[きのう]は 暇[ひま]でした。", "es": "Ayer estaba libre." },
+    { "jp": "町[まち]は にぎやかでした。", "es": "La ciudad estaba animada." }
+  ]
+},
+{
+  "id": "n5-55",
+  "category": "Adjetivos な",
+  "title": "〜じゃありませんでした",
+  "formula": "Adjな + じゃありませんでした",
+  "description": "Pasado negativo formal de adjetivos な.",
+  "examples": [
+    { "jp": "暇[ひま]じゃありませんでした。", "es": "No estaba libre." },
+    { "jp": "静[しず]かじゃありませんでした。", "es": "No estaba tranquilo." }
+  ]
+},
+    {
+  "id": "n5-56",
+  "category": "Adjetivos な",
+  "title": "〜で (conexión)",
+  "formula": "Adjな + で",
+  "description": "Conecta adjetivos な dentro de una misma oración.",
+  "examples": [
+    { "jp": "静[しず]かで きれいです。", "es": "Es tranquilo y bonito." },
+    { "jp": "有名[ゆうめい]で 親切[しんせつ]です。", "es": "Es famoso y amable." }
+  ]
+},
+{
+  "id": "n5-57",
+  "category": "Existencia",
+  "title": "Lugar に あります / います",
+  "formula": "Lugar + に + N + が + あります / います",
+  "description": "Indica que algo o alguien existe en un lugar específico.",
+  "examples": [
+    { "jp": "公園[こうえん]に 子供[こども]が います。", "es": "Hay niños en el parque." },
+    { "jp": "部屋[へや]に テーブルが あります。", "es": "Hay una mesa en la habitación." }
+  ]
+},
+{
+  "id": "n5-58",
+  "category": "Ubicación",
+  "title": "〜の 上 / 下 / 前 / 後ろ / 中 / 外",
+  "formula": "N1 + の + Posición",
+  "description": "Expresiones básicas de posición espacial.",
+  "examples": [
+    { "jp": "机[つくえ]の 上[うえ]に 本[ほん]が あります。", "es": "Hay un libro encima de la mesa." },
+    { "jp": "家[いえ]の 前[まえ]に 車[くるま]が あります。", "es": "Hay un coche delante de la casa." }
+  ]
+},
+{
+  "id": "n5-59",
+  "category": "Ubicación",
+  "title": "〜の 隣",
+  "formula": "N1 + の + 隣",
+  "description": "Indica que algo está al lado de otra cosa.",
+  "examples": [
+    { "jp": "学校[がっこう]の 隣[となり]に 病院[びょういん]が あります。", "es": "Hay un hospital al lado de la escuela." },
+    { "jp": "私[わたし]の 隣[となり]に 座[すわ]って ください。", "es": "Siéntate a mi lado." }
+  ]
+},
+{
+  "id": "n5-60",
+  "category": "Ubicación",
+  "title": "〜と〜の 間",
+  "formula": "N1 + と + N2 + の + 間",
+  "description": "Indica que algo está entre dos cosas.",
+  "examples": [
+    { "jp": "銀行[ぎんこう]と 郵便局[ゆうびんきょく]の 間[あいだ]に あります。", "es": "Está entre el banco y la oficina de correos." },
+    { "jp": "二時[にじ]と 三時[さんじ]の 間[あいだ]に 来[き]ます。", "es": "Vendré entre las dos y las tres." }
+  ]
+},
+{
+  "id": "n5-61",
+  "category": "Tiempo",
+  "title": "〜に (tiempo específico)",
+  "formula": "Tiempo específico + に",
+  "description": "Marca un momento exacto en el tiempo.",
+  "examples": [
+    { "jp": "七時[しちじ]に 起[お]きます。", "es": "Me levanto a las siete." },
+    { "jp": "日曜日[にちようび]に 行[い]きます。", "es": "Voy el domingo." }
+  ]
+},
+{
+  "id": "n5-62",
+  "category": "Tiempo",
+  "title": "〜ごろ",
+  "formula": "Tiempo + ごろ",
+  "description": "Indica un tiempo aproximado.",
+  "examples": [
+    { "jp": "七時[しちじ]ごろ 起[お]きます。", "es": "Me levanto sobre las siete." },
+    { "jp": "三時[さんじ]ごろ 行[い]きます。", "es": "Iré sobre las tres." }
+  ]
+},
+{
+  "id": "n5-63",
+  "category": "Frecuencia",
+  "title": "いつも",
+  "formula": "いつも + oración",
+  "description": "Indica frecuencia habitual (siempre).",
+  "examples": [
+    { "jp": "いつも コーヒーを 飲[の]みます。", "es": "Siempre bebo café." },
+    { "jp": "いつも 七時[しちじ]に 起[お]きます。", "es": "Siempre me levanto a las siete." }
+  ]
+},
+{
+  "id": "n5-64",
+  "category": "Frecuencia",
+  "title": "よく",
+  "formula": "よく + oración",
+  "description": "Indica frecuencia alta (a menudo).",
+  "examples": [
+    { "jp": "よく 映画[えいが]を 見[み]ます。", "es": "A menudo veo películas." },
+    { "jp": "よく 勉強[べんきょう]します。", "es": "Estudio con frecuencia." }
+  ]
+},
+{
+  "id": "n5-65",
+  "category": "Frecuencia",
+  "title": "ときどき",
+  "formula": "ときどき + oración",
+  "description": "Indica frecuencia media (a veces).",
+  "examples": [
+    { "jp": "ときどき 日本語[にほんご]を 話[はな]します。", "es": "A veces hablo japonés." },
+    { "jp": "ときどき 旅行[りょこう]します。", "es": "A veces viajo." }
+  ]
+},
+{
+  "id": "n5-66",
+  "category": "Frecuencia",
+  "title": "あまり〜ない",
+  "formula": "あまり + Vない",
+  "description": "Indica baja frecuencia (no mucho).",
+  "examples": [
+    { "jp": "あまり テレビを 見[み]ません。", "es": "No veo mucha televisión." },
+    { "jp": "あまり 食[た]べません。", "es": "No como mucho." }
+  ]
+},
+{
+  "id": "n5-67",
+  "category": "Frecuencia",
+  "title": "全然〜ない",
+  "formula": "全然 + Vない",
+  "description": "Indica negación total (para nada).",
+  "examples": [
+    { "jp": "全然 分[わ]かりません。", "es": "No entiendo nada." },
+    { "jp": "全然 食[た]べません。", "es": "No como en absoluto." }
+  ]
+},
+{
+  "id": "n5-68",
+  "category": "Comparación",
+  "title": "A は B より〜",
+  "formula": "A は B より + Adj",
+  "description": "Indica comparación entre dos elementos.",
+  "examples": [
+    { "jp": "日本語[にほんご]は 英語[えいご]より 難[むずか]しいです。", "es": "El japonés es más difícil que el inglés." },
+    { "jp": "今日[きょう]は 昨日[きのう]より 寒[さむ]いです。", "es": "Hoy hace más frío que ayer." }
+  ]
+},
+{
+  "id": "n5-69",
+  "category": "Comparación",
+  "title": "どちらが〜",
+  "formula": "A と B と どちらが + Adj",
+  "description": "Pregunta comparativa entre dos opciones.",
+  "examples": [
+    { "jp": "犬[いぬ]と 猫[ねこ]と どちらが 好[す]きですか。", "es": "¿Cuál te gusta más, el perro o el gato?" },
+    { "jp": "夏[なつ]と 冬[ふゆ]と どちらが 好[す]きですか。", "es": "¿Qué prefieres, verano o invierno?" }
+  ]
+},
+{
+  "id": "n5-70",
+  "category": "Comparación",
+  "title": "いちばん〜",
+  "formula": "N の 中[なか]で いちばん + Adj",
+  "description": "Expresa el grado superlativo.",
+  "examples": [
+    { "jp": "クラスの 中[なか]で いちばん 背[せ]が 高[たか]いです。", "es": "Es el más alto de la clase." },
+    { "jp": "これが いちばん 安[やす]いです。", "es": "Este es el más barato." }
+  ]
+},
+{
+  "id": "n5-71",
+  "category": "Contadores",
+  "title": "〜つ",
+  "formula": "Número + つ",
+  "description": "Contador general para objetos (1–10).",
+  "examples": [
+    { "jp": "りんごを 三[みっ]つ 買[か]いました。", "es": "Compré tres manzanas." },
+    { "jp": "二[ふた]つ ください。", "es": "Deme dos, por favor." }
+  ]
+},
+{
+  "id": "n5-72",
+  "category": "Contadores",
+  "title": "〜人",
+  "formula": "Número + 人",
+  "description": "Contador de personas.",
+  "examples": [
+    { "jp": "三人[さんにん] 来[き]ました。", "es": "Vinieron tres personas." },
+    { "jp": "二人[ふたり]です。", "es": "Somos dos." }
+  ]
+},
+{
+  "id": "n5-73",
+  "category": "Contadores",
+  "title": "〜枚",
+  "formula": "Número + 枚",
+  "description": "Contador para objetos planos.",
+  "examples": [
+    { "jp": "切手[きって]を 二枚[にまい] 買[か]いました。", "es": "Compré dos sellos." },
+    { "jp": "紙[かみ]を 一枚[いちまい] ください。", "es": "Una hoja, por favor." }
+  ]
+},
+{
+  "id": "n5-74",
+  "category": "Contadores",
+  "title": "〜本",
+  "formula": "Número + 本",
+  "description": "Contador para objetos largos y cilíndricos.",
+  "examples": [
+    { "jp": "ペンを 一本[いっぽん] 買[か]いました。", "es": "Compré un bolígrafo." },
+    { "jp": "ビールを 二本[にほん] 飲[の]みました。", "es": "Bebí dos cervezas." }
+  ]
+},
+{
+  "id": "n5-75",
+  "category": "Contadores",
+  "title": "〜台",
+  "formula": "Número + 台",
+  "description": "Contador para máquinas y vehículos.",
+  "examples": [
+    { "jp": "車[くるま]が 二台[にだい] あります。", "es": "Hay dos coches." },
+    { "jp": "テレビを 一台[いちだい] 買[か]いました。", "es": "Compré un televisor." }
+  ]
+},
+    {
+  "id": "n5-76",
+  "category": "Contadores",
+  "title": "〜回",
+  "formula": "Número + 回",
+  "description": "Contador para número de veces que ocurre una acción.",
+  "examples": [
+    { "jp": "日本[にほん]へ 三回[さんかい] 行[い]きました。", "es": "He ido a Japón tres veces." },
+    { "jp": "一回[いっかい] してください。", "es": "Hazlo una vez." }
+  ]
+},
+{
+  "id": "n5-77",
+  "category": "Contadores",
+  "title": "〜時間",
+  "formula": "Número + 時間",
+  "description": "Indica duración en horas.",
+  "examples": [
+    { "jp": "二時間[にじかん] 勉強[べんきょう]しました。", "es": "Estudié dos horas." },
+    { "jp": "三時間[さんじかん] 働[はたら]きます。", "es": "Trabajo tres horas." }
+  ]
+},
+{
+  "id": "n5-78",
+  "category": "Contadores",
+  "title": "〜分 (duración)",
+  "formula": "Número + 分",
+  "description": "Indica duración en minutos.",
+  "examples": [
+    { "jp": "十分[じゅっぷん] 待[ま]ちました。", "es": "Esperé diez minutos." },
+    { "jp": "五分[ごふん] 休[やす]みます。", "es": "Descanso cinco minutos." }
+  ]
+},
+{
+  "id": "n5-79",
+  "category": "Contadores",
+  "title": "〜個",
+  "formula": "Número + 個",
+  "description": "Contador general para objetos pequeños.",
+  "examples": [
+    { "jp": "りんごを 三個[さんこ] 買[か]いました。", "es": "Compré tres manzanas." },
+    { "jp": "卵[たまご]を 二個[にこ] ください。", "es": "Dos huevos, por favor." }
+  ]
+},
+{
+  "id": "n5-80",
+  "category": "Expresión",
+  "title": "〜と思います",
+  "formula": "Oración + と思います",
+  "description": "Expresa opinión o pensamiento.",
+  "examples": [
+    { "jp": "日本語[にほんご]は 難[むずか]しいと 思[おも]います。", "es": "Creo que el japonés es difícil." },
+    { "jp": "明日[あした]は 雨[あめ]だと 思[おも]います。", "es": "Creo que mañana lloverá." }
+  ]
+},
+{
+  "id": "n5-81",
+  "category": "Expresión",
+  "title": "〜と言いました",
+  "formula": "Oración + と 言いました",
+  "description": "Expresa lo que alguien dijo.",
+  "examples": [
+    { "jp": "先生[せんせい]は 行[い]くと 言[い]いました。", "es": "El profesor dijo que iba." },
+    { "jp": "彼[かれ]は 大丈夫[だいじょうぶ]だと 言[い]いました。", "es": "Él dijo que estaba bien." }
+  ]
+},
+{
+  "id": "n5-82",
+  "category": "Expresión",
+  "title": "どうして",
+  "formula": "どうして + oración",
+  "description": "Pregunta por la razón (¿por qué?).",
+  "examples": [
+    { "jp": "どうして 来[こ]なかったですか。", "es": "¿Por qué no viniste?" },
+    { "jp": "どうして 泣[な]いていますか。", "es": "¿Por qué estás llorando?" }
+  ]
+},
+{
+  "id": "n5-83",
+  "category": "Expresión",
+  "title": "〜から (razón)",
+  "formula": "Oración + から",
+  "description": "Indica causa o razón.",
+  "examples": [
+    { "jp": "雨[あめ]ですから 行[い]きません。", "es": "No voy porque llueve." },
+    { "jp": "忙[いそが]しいから 行[い]けません。", "es": "No puedo ir porque estoy ocupado." }
+  ]
+},
+{
+  "id": "n5-84",
+  "category": "Expresión",
+  "title": "〜ので",
+  "formula": "Oración + ので",
+  "description": "Indica causa o razón (más formal que から).",
+  "examples": [
+    { "jp": "雨[あめ]なので 行[い]きません。", "es": "No voy porque llueve." },
+    { "jp": "静[しず]かなので 好[す]きです。", "es": "Me gusta porque es tranquilo." }
+  ]
+},
+{
+  "id": "n5-85",
+  "category": "Verbos",
+  "title": "〜ながら",
+  "formula": "Raíz verbal + ながら",
+  "description": "Indica que dos acciones ocurren al mismo tiempo.",
+  "examples": [
+    { "jp": "音楽[おんがく]を 聞[き]きながら 勉強[べんきょう]します。", "es": "Estudio escuchando música." },
+    { "jp": "歩[ある]きながら 話[はな]します。", "es": "Hablo mientras camino." }
+  ]
+},
+{
+  "id": "n5-86",
+  "category": "Expresión",
+  "title": "〜でしょう",
+  "formula": "Oración + でしょう",
+  "description": "Expresa probabilidad o confirmación suave.",
+  "examples": [
+    { "jp": "明日[あした]は 雨[あめ]でしょう。", "es": "Probablemente mañana lloverá." },
+    { "jp": "大丈夫[だいじょうぶ]でしょう。", "es": "Estará bien, supongo." }
+  ]
+},
+{
+  "id": "n5-87",
+  "category": "Verbos",
+  "title": "〜するつもりです",
+  "formula": "Verbo diccionario + つもりです",
+  "description": "Expresa intención futura.",
+  "examples": [
+    { "jp": "日本[にほん]へ 行[い]くつもりです。", "es": "Tengo la intención de ir a Japón." },
+    { "jp": "勉強[べんきょう]するつもりです。", "es": "Planeo estudiar." }
+  ]
+},
+{
+  "id": "n5-88",
+  "category": "Cambio",
+  "title": "〜になる",
+  "formula": "N / Adjな + に なる",
+  "description": "Indica cambio de estado (sustantivos y adjetivos な).",
+  "examples": [
+    { "jp": "先生[せんせい]に なりました。", "es": "Me convertí en profesor." },
+    { "jp": "元気[げんき]に なりました。", "es": "Me puse bien." }
+  ]
+},
+{
+  "id": "n5-89",
+  "category": "Cambio",
+  "title": "〜くなる",
+  "formula": "Adjい → Adjく + なる",
+  "description": "Indica cambio de estado con adjetivos い.",
+  "examples": [
+    { "jp": "寒[さむ]く なりました。", "es": "Se volvió frío." },
+    { "jp": "高[たか]く なりました。", "es": "Se volvió caro." }
+  ]
+},
+{
+  "id": "n5-90",
+  "category": "Expresión",
+  "title": "〜がほしい",
+  "formula": "N + が + ほしいです",
+  "description": "Expresa deseo de tener algo.",
+  "examples": [
+    { "jp": "新[あたら]しい 車[くるま]が ほしいです。", "es": "Quiero un coche nuevo." },
+    { "jp": "時間[じかん]が ほしいです。", "es": "Quiero tiempo." }
+  ]
+},
+{
+  "id": "n5-91",
+  "category": "Expresión",
+  "title": "〜ほうがいい",
+  "formula": "Verbo pasado + ほうがいい",
+  "description": "Da consejo o recomendación.",
+  "examples": [
+    { "jp": "早[はや]く 寝[ね]た ほうが いいです。", "es": "Es mejor que te acuestes temprano." },
+    { "jp": "病院[びょういん]へ 行[い]った ほうが いいです。", "es": "Será mejor que vayas al hospital." }
+  ]
+},
+{
+  "id": "n5-92",
+  "category": "Expresión",
+  "title": "〜ませんでしたか",
+  "formula": "Raíz verbal + ませんでしたか",
+  "description": "Pregunta confirmando algo pasado.",
+  "examples": [
+    { "jp": "昨日[きのう] 行[い]きませんでしたか。", "es": "¿No fuiste ayer?" },
+    { "jp": "見[み]ませんでしたか。", "es": "¿No lo viste?" }
+  ]
+},
+{
+  "id": "n5-93",
+  "category": "Expresión",
+  "title": "〜ましょうよ",
+  "formula": "Raíz verbal + ましょうよ",
+  "description": "Invitación con énfasis o insistencia suave.",
+  "examples": [
+    { "jp": "行[い]きましょうよ。", "es": "Vamos, venga." },
+    { "jp": "食[た]べましょうよ。", "es": "Comamos, anda." }
+  ]
+},
+{
+  "id": "n5-94",
+  "category": "Expresión",
+  "title": "〜前に (sustantivo)",
+  "formula": "N + の + 前に",
+  "description": "Indica antes de un evento o sustantivo.",
+  "examples": [
+    { "jp": "試験[しけん]の 前[まえ]に 勉強[べんきょう]します。", "es": "Estudio antes del examen." },
+    { "jp": "仕事[しごと]の 前[まえ]に コーヒーを 飲[の]みます。", "es": "Bebo café antes del trabajo." }
+  ]
+},
+{
+  "id": "n5-95",
+  "category": "Expresión",
+  "title": "〜後で (sustantivo)",
+  "formula": "N + の + 後で",
+  "description": "Indica después de un evento o sustantivo.",
+  "examples": [
+    { "jp": "授業[じゅぎょう]の 後[あと]で 会[あ]いましょう。", "es": "Nos vemos después de clase." },
+    { "jp": "映画[えいが]の 後[あと]で 食[た]べます。", "es": "Comeré después de la película." }
+  ]
+},
+{
+  "id": "n5-96",
+  "category": "Tiempo",
+  "title": "〜とき",
+  "formula": "Verbo / Adj + とき",
+  "description": "Indica el momento en que ocurre algo.",
+  "examples": [
+    { "jp": "日本[にほん]へ 行[い]く とき、写真[しゃしん]を 撮[と]ります。", "es": "Cuando voy a Japón, tomo fotos." },
+    { "jp": "暇[ひま]な とき、テレビを 見[み]ます。", "es": "Cuando estoy libre, veo televisión." }
+  ]
+},
+{
+  "id": "n5-97",
+  "category": "Expresión",
+  "title": "〜だけ",
+  "formula": "N + だけ",
+  "description": "Indica limitación (solo).",
+  "examples": [
+    { "jp": "水[みず]だけ 飲[の]みます。", "es": "Solo bebo agua." },
+    { "jp": "一人[ひとり]だけ 来[き]ました。", "es": "Solo vino una persona." }
+  ]
+},
+{
+  "id": "n5-98",
+  "category": "Expresión",
+  "title": "〜くらい / ぐらい",
+  "formula": "N / Cantidad + くらい",
+  "description": "Indica cantidad aproximada.",
+  "examples": [
+    { "jp": "一時間[いちじかん]くらい 勉強[べんきょう]しました。", "es": "Estudié aproximadamente una hora." },
+    { "jp": "三千円[さんぜんえん]ぐらい です。", "es": "Son unos 3000 yenes." }
+  ]
 }
   ]
 }

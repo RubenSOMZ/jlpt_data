@@ -1,1 +1,267 @@
+{
+  "sentences": [
+
+{ "id": "s1", "jp_parts": "日本語[にほんご]が 少[すこ]し ずつ 話[はな]せる ように なりました。", "es": "He llegado a poder hablar japonés poco a poco." },
+{ "id": "s2", "jp_parts": "大学[だいがく]を 卒業[そつぎょう]した ばかり なので まだ 仕事[しごと]が ありません。", "es": "Como acabo de graduarme, todavía no tengo trabajo." },
+{ "id": "s3", "jp_parts": "来年[らいねん]から 海外[かいがい]で 働[はたら]く ことに なりました。", "es": "Se ha decidido que trabajaré en el extranjero desde el próximo año." },
+{ "id": "s4", "jp_parts": "高[たか]い から といって 必[かなら]ずしも いい わけでは ありません。", "es": "No necesariamente es bueno solo porque sea caro." },
+{ "id": "s5", "jp_parts": "若[わか]い うちに いろいろな 経験[けいけん]を した ほうが いいです。", "es": "Es mejor tener varias experiencias mientras uno es joven." },
+{ "id": "s6", "jp_parts": "この 写真[しゃしん]を 見[み]る たびに 旅行[りょこう]を 思[おも]い出[だ]します。", "es": "Cada vez que veo esta foto recuerdo el viaje." },
+{ "id": "s7", "jp_parts": "彼[かれ]は もう 家[いえ]に 着[つ]いて いる に 違[ちが]いない。", "es": "Seguro que ya ha llegado a casa." },
+{ "id": "s8", "jp_parts": "電車[でんしゃ]は もう 出発[しゅっぱつ]した はず です。", "es": "El tren ya debería haber salido." },
+{ "id": "s9", "jp_parts": "今年[ことし]は 毎日[まいにち] 運動[うんどう]する ことに しました。", "es": "Este año he decidido hacer ejercicio todos los días." },
+{ "id": "s10", "jp_parts": "年[とし]を 取[と]る に つれて 体力[たいりょく]が 落[お]ちて きます。", "es": "A medida que envejeces, tu resistencia disminuye." },
+
+{ "id": "s11", "jp_parts": "先生[せんせい]は 学生[がくせい]に 対[たい]して とても 厳[きび]しいです。", "es": "El profesor es muy estricto con los estudiantes." },
+{ "id": "s12", "jp_parts": "友達[ともだち]の おかげで 試験[しけん]に 合格[ごうかく]できました。", "es": "Gracias a mi amigo pude aprobar el examen." },
+{ "id": "s13", "jp_parts": "雨[あめ]の せいで 試合[しあい]が 中止[ちゅうし]に なりました。", "es": "El partido fue cancelado por culpa de la lluvia." },
+{ "id": "s14", "jp_parts": "今[いま] 出[で]かける ところ です。", "es": "Estoy justo a punto de salir." },
+{ "id": "s15", "jp_parts": "会議[かいぎ]の 最中[さいちゅう]に 電話[でんわ]が 鳴[な]りました。", "es": "El teléfono sonó en medio de la reunión." },
+{ "id": "s16", "jp_parts": "彼女[かのじょ]は 泣[な]き そうな 顔[かお]を して いました。", "es": "Ella tenía cara de estar a punto de llorar." },
+{ "id": "s17", "jp_parts": "その 話[はなし]を 聞[き]いて 驚[おどろ]かざるを えませんでした。", "es": "No pude evitar sorprenderme al oír esa historia." },
+{ "id": "s18", "jp_parts": "努力[どりょく]すれば する ほど 上手[じょうず]に なります。", "es": "Cuanto más te esfuerces, mejor serás." },
+{ "id": "s19", "jp_parts": "彼[かれ]は 来[く]る と 言[い]って いた のに 来[き]ませんでした。", "es": "Dijo que vendría, pero no vino." },
+{ "id": "s20", "jp_parts": "そんな に 心配[しんぱい]する ことは ありません。", "es": "No hay necesidad de preocuparse tanto." },
+
+{ "id": "s21", "jp_parts": "彼[かれ]は 何[なに]も 言[い]わずに 出[で]て 行[い]きました。", "es": "Se fue sin decir nada." },
+{ "id": "s22", "jp_parts": "事故[じこ]に あった かと 思[おも]う と 心配[しんぱい]でした。", "es": "Pensé que había tenido un accidente y me preocupé." },
+{ "id": "s23", "jp_parts": "日本[にほん]に 来[き]て 以来[いらい] ずっと 忙[いそが]しいです。", "es": "Desde que vine a Japón he estado ocupado." },
+{ "id": "s24", "jp_parts": "この 町[まち]は 昔[むかし]に 比[くら]べて 便利[べんり]に なりました。", "es": "Esta ciudad se ha vuelto más conveniente comparada con antes." },
+{ "id": "s25", "jp_parts": "彼[かれ]は 病気[びょうき]らしく 学校[がっこう]を 休[やす]んで います。", "es": "Parece que está enfermo y ha faltado a la escuela." },
+{ "id": "s26", "jp_parts": "そんな ことは あり得[え]ない と 思[おも]います。", "es": "Creo que eso es imposible." },
+{ "id": "s27", "jp_parts": "この 問題[もんだい]は 子供[こども]に は 難[むずか]し すぎます。", "es": "Este problema es demasiado difícil para niños." },
+{ "id": "s28", "jp_parts": "忙[いそが]しい にも かかわらず 手伝[てつだ]って くれました。", "es": "Me ayudó a pesar de estar ocupado." },
+{ "id": "s29", "jp_parts": "その 結果[けっか] 試験[しけん]に 失敗[しっぱい]しました。", "es": "Como resultado, suspendí el examen." },
+{ "id": "s30", "jp_parts": "この 仕事[しごと]は 思[おも]った 以上[いじょう]に 大変[たいへん]です。", "es": "Este trabajo es más duro de lo que pensaba." },
+{ "id": "s31", "jp_parts": "彼[かれ]は 忙[いそが]しい らしく まだ 来[き]て いません。", "es": "Parece que está ocupado y todavía no ha venido." },
+{ "id": "s32", "jp_parts": "その 話[はなし]は 本当[ほんとう] とは 限[かぎ]りません。", "es": "No necesariamente esa historia es verdad." },
+{ "id": "s33", "jp_parts": "試験[しけん]に 合格[ごうかく]できる かどうか 分[わ]かりません。", "es": "No sé si podré aprobar el examen." },
+{ "id": "s34", "jp_parts": "彼女[かのじょ]は まるで 子供[こども]の ように 笑[わら]いました。", "es": "Ella se rió como si fuera una niña." },
+{ "id": "s35", "jp_parts": "日本[にほん]に 来[き]て から 日本語[にほんご]が 上手[じょうず]に なりました。", "es": "Desde que vine a Japón, mi japonés ha mejorado." },
+{ "id": "s36", "jp_parts": "その 仕事[しごと]は 私[わたし]には 無理[むり] という もの です。", "es": "Ese trabajo es simplemente imposible para mí." },
+{ "id": "s37", "jp_parts": "彼[かれ]は 約束[やくそく]を 忘[わす]れた に 違[ちが]いない。", "es": "Seguro que olvidó la promesa." },
+{ "id": "s38", "jp_parts": "年[とし]を 取[と]る に つれて 記憶力[きおくりょく]が 弱[よわ]く なります。", "es": "A medida que envejeces, la memoria se debilita." },
+{ "id": "s39", "jp_parts": "その 結果[けっか] 彼[かれ]は 会社[かいしゃ]を 辞[や]める ことに なりました。", "es": "Como resultado, decidió dejar la empresa." },
+{ "id": "s40", "jp_parts": "この 問題[もんだい]は 思[おも]った ほど 難[むずか]しく ありません。", "es": "Este problema no es tan difícil como pensaba." },
+
+{ "id": "s41", "jp_parts": "その ニュースを 聞[き]いた とたん 涙[なみだ]が 出[で]ました。", "es": "En cuanto escuché la noticia, me salieron lágrimas." },
+{ "id": "s42", "jp_parts": "彼女[かのじょ]は 日本語[にほんご]を 話[はな]す ことに 慣[な]れて きました。", "es": "Se ha ido acostumbrando a hablar japonés." },
+{ "id": "s43", "jp_parts": "雨[あめ]が 降[ふ]り 続[つづ]いた ため 川[かわ]が あふれました。", "es": "Como siguió lloviendo, el río se desbordó." },
+{ "id": "s44", "jp_parts": "彼[かれ]は 来[く]る どころか 連絡[れんらく]も しませんでした。", "es": "Lejos de venir, ni siquiera llamó." },
+{ "id": "s45", "jp_parts": "若[わか]い うちに 海外[かいがい]で 働[はたら]いて みたいです。", "es": "Quiero trabajar en el extranjero mientras soy joven." },
+{ "id": "s46", "jp_parts": "その 問題[もんだい]は 私[わたし]に とって 重要[じゅうよう]です。", "es": "Ese problema es importante para mí." },
+{ "id": "s47", "jp_parts": "彼女[かのじょ]は 忙[いそが]しい ながらも 毎日[まいにち] 勉強[べんきょう]して います。", "es": "Aunque está ocupada, estudia todos los días." },
+{ "id": "s48", "jp_parts": "この 本[ほん]は 子供[こども]に も 理解[りかい]できる ように 書[か]いて あります。", "es": "Este libro está escrito para que incluso los niños puedan entenderlo." },
+{ "id": "s49", "jp_parts": "彼[かれ]は 成功[せいこう]する と 信[しん]じて います。", "es": "Creo que tendrá éxito." },
+{ "id": "s50", "jp_parts": "その 計画[けいかく]は 中止[ちゅうし]せざるを えませんでした。", "es": "No tuvimos más remedio que cancelar el plan." },
+
+{ "id": "s51", "jp_parts": "彼女[かのじょ]は 笑顔[えがお]を 見[み]せ ながら 話[はな]しました。", "es": "Habló mostrando una sonrisa." },
+{ "id": "s52", "jp_parts": "この 町[まち]は 昔[むかし]と 比[くら]べて 便利[べんり]に なりました。", "es": "Esta ciudad se ha vuelto más conveniente comparada con antes." },
+{ "id": "s53", "jp_parts": "彼[かれ]は 疲[つか]れて いる くせに 休[やす]もうと しません。", "es": "Aunque está cansado, no intenta descansar." },
+{ "id": "s54", "jp_parts": "試験[しけん]に 合格[ごうかく]した 以上[いじょう] 頑張[がんば]らなければ なりません。", "es": "Ya que he aprobado el examen, debo esforzarme." },
+{ "id": "s55", "jp_parts": "その 話[はなし]は 本当[ほんとう] らしいです。", "es": "Parece que esa historia es verdadera." },
+{ "id": "s56", "jp_parts": "彼女[かのじょ]は 約束[やくそく]を 守[まも]らない ことが あります。", "es": "A veces no cumple sus promesas." },
+{ "id": "s57", "jp_parts": "彼[かれ]は まさか 来[こ]ない とは 思[おも]いませんでした。", "es": "No pensé que no vendría." },
+{ "id": "s58", "jp_parts": "この 問題[もんだい]は 解[と]けない ことは ありません。", "es": "No es que este problema no se pueda resolver." },
+{ "id": "s59", "jp_parts": "彼女[かのじょ]は 怒[おこ]った まま 帰[かえ]りました。", "es": "Se fue todavía enfadada." },
+{ "id": "s60", "jp_parts": "その 映画[えいが]は 見[み]る 価値[かち]が あります。", "es": "Esa película merece la pena verla." },
+
+{ "id": "s61", "jp_parts": "彼[かれ]は 失敗[しっぱい]した ものの すぐ 立[た]ち直[なお]りました。", "es": "Aunque fracasó, se recuperó rápidamente." },
+{ "id": "s62", "jp_parts": "日本語[にほんご]を 勉強[べんきょう]する につれて 自信[じしん]が ついて きました。", "es": "A medida que estudio japonés, he ganado confianza." },
+{ "id": "s63", "jp_parts": "彼女[かのじょ]は 来[こ]ない かもしれません。", "es": "Puede que ella no venga." },
+{ "id": "s64", "jp_parts": "その 仕事[しごと]は 思[おも]った ほど 簡単[かんたん]では ありませんでした。", "es": "Ese trabajo no fue tan fácil como pensaba." },
+{ "id": "s65", "jp_parts": "彼[かれ]は 医者[いしゃ]に なる つもり らしいです。", "es": "Parece que tiene la intención de ser médico." },
+{ "id": "s66", "jp_parts": "そんな に 無理[むり]を する ことは ありません。", "es": "No hace falta esforzarse tanto." },
+{ "id": "s67", "jp_parts": "彼女[かのじょ]は 試験[しけん]に 合格[ごうかく]する に 決[き]まっています。", "es": "Está claro que ella aprobará el examen." },
+{ "id": "s68", "jp_parts": "彼[かれ]は 日本[にほん]に 来[き]て 以来[いらい] 友達[ともだち]が たくさん できました。", "es": "Desde que vino a Japón, ha hecho muchos amigos." },
+{ "id": "s69", "jp_parts": "その 問題[もんだい]について 考[かんが]えざるを えません。", "es": "No tengo más remedio que pensar en ese problema." },
+{ "id": "s70", "jp_parts": "彼女[かのじょ]は 何[なん]でも できる かの ように 見[み]えます。", "es": "Parece que puede hacer cualquier cosa." },
+
+{ "id": "s71", "jp_parts": "この 本[ほん]は 読[よ]み やすい という より 難[むずか]しいです。", "es": "Este libro es más bien difícil que fácil de leer." },
+{ "id": "s72", "jp_parts": "彼[かれ]は 失敗[しっぱい]する どころか 大成功[だいせいこう]しました。", "es": "Lejos de fracasar, tuvo un gran éxito." },
+{ "id": "s73", "jp_parts": "そんな 危険[きけん]な ことは 子供[こども]に させられません。", "es": "No se puede hacer que un niño haga algo tan peligroso." },
+{ "id": "s74", "jp_parts": "彼女[かのじょ]は 来[く]る 途中[とちゅう]で 事故[じこ]に あいました。", "es": "Tuvo un accidente de camino." },
+{ "id": "s75", "jp_parts": "この 問題[もんだい]は 誰[だれ]に でも 分[わ]かる わけでは ありません。", "es": "No todo el mundo entiende este problema." },
+{ "id": "s76", "jp_parts": "彼[かれ]は 来[こ]ない ことに しました。", "es": "Decidió no venir." },
+{ "id": "s77", "jp_parts": "その 結果[けっか] 彼女[かのじょ]は 優勝[ゆうしょう]しました。", "es": "Como resultado, ella ganó." },
+{ "id": "s78", "jp_parts": "彼[かれ]は そんな ことを 言[い]う べきでは なかった。", "es": "No debería haber dicho eso." },
+{ "id": "s79", "jp_parts": "この 町[まち]は 住[す]み やすい だけで なく 安全[あんぜん]です。", "es": "Esta ciudad no solo es fácil para vivir, sino también segura." },
+{ "id": "s80", "jp_parts": "彼女[かのじょ]は 怒[おこ]って いる ような 気[き]が します。", "es": "Tengo la sensación de que está enfadada." },
+
+{ "id": "s81", "jp_parts": "日本語[にほんご]を 勉強[べんきょう]し 始[はじ]めた ばかり です。", "es": "Acabo de empezar a estudiar japonés." },
+{ "id": "s82", "jp_parts": "彼[かれ]は 仕事[しごと]を やめる ことに した そうです。", "es": "Parece que ha decidido dejar el trabajo." },
+{ "id": "s83", "jp_parts": "その 問題[もんだい]は 思[おも]った 以上[いじょう]に 難[むずか]しかったです。", "es": "Ese problema fue más difícil de lo que pensaba." },
+{ "id": "s84", "jp_parts": "彼女[かのじょ]は 来[く]る はずが ありません。", "es": "No hay forma de que ella venga." },
+{ "id": "s85", "jp_parts": "彼[かれ]は まるで 何[なに]も 知[し]らない かの ようでした。", "es": "Era como si no supiera nada." },
+{ "id": "s86", "jp_parts": "この 仕事[しごと]は 一人[ひとり]では でき そうに ありません。", "es": "No parece que pueda hacer este trabajo solo." },
+{ "id": "s87", "jp_parts": "彼女[かのじょ]は 泣[な]き そうに なりながら 話[はな]しました。", "es": "Habló mientras estaba a punto de llorar." },
+{ "id": "s88", "jp_parts": "その 結果[けっか] 多[おお]くの 人[ひと]が 困[こま]りました。", "es": "Como resultado, muchas personas tuvieron problemas." },
+{ "id": "s89", "jp_parts": "彼[かれ]は 来[こ]ない と 思[おも]いきや 急[きゅう]に 現[あらわ]れました。", "es": "Cuando pensé que no vendría, apareció de repente." },
+{ "id": "s90", "jp_parts": "この 本[ほん]は 子供向[こどもむ]け という より 大人向[おとなむ]け です。", "es": "Este libro es más para adultos que para niños." },
+
+{ "id": "s91", "jp_parts": "彼女[かのじょ]は 何度[なんど]も 失敗[しっぱい]した 末[すえ]に 成功[せいこう]しました。", "es": "Tras muchos fracasos, finalmente tuvo éxito." },
+{ "id": "s92", "jp_parts": "そんな に 心配[しんぱい]する ことは ない と 思[おも]います。", "es": "Creo que no hay que preocuparse tanto." },
+{ "id": "s93", "jp_parts": "彼[かれ]は 来[く]る に しても 遅[おそ]いでしょう。", "es": "Aunque venga, será tarde." },
+{ "id": "s94", "jp_parts": "この 問題[もんだい]は 私[わたし]には 解決[かいけつ]でき そうも ありません。", "es": "No parece que yo pueda resolver este problema." },
+{ "id": "s95", "jp_parts": "彼女[かのじょ]は 急[きゅう]に 笑[わら]い 出[だ]しました。", "es": "De repente empezó a reír." },
+{ "id": "s96", "jp_parts": "その 仕事[しごと]は 思[おも]った ほど 大変[たいへん]では なかった。", "es": "Ese trabajo no fue tan duro como pensaba." },
+{ "id": "s97", "jp_parts": "彼[かれ]は 失敗[しっぱい]した とは いえ 努力[どりょく]しました。", "es": "Aunque fracasó, se esforzó." },
+{ "id": "s98", "jp_parts": "この 計画[けいかく]は 成功[せいこう]する に 違[ちが]いありません。", "es": "Este plan seguramente tendrá éxito." },
+{ "id": "s99", "jp_parts": "彼女[かのじょ]は まるで 夢[ゆめ]を 見[み]て いる かの ようでした。", "es": "Era como si estuviera soñando." },
+{ "id": "s100", "jp_parts": "その 結果[けっか] 問題[もんだい]は 解決[かいけつ]しました。", "es": "Como resultado, el problema se resolvió." },
+{ "id": "s101", "jp_parts": "彼[かれ]は 来[く]る はず だった のに 来[き]ませんでした。", "es": "Se suponía que él vendría, pero no vino." },
+{ "id": "s102", "jp_parts": "雨[あめ]が 降[ふ]る かもしれない ので 傘[かさ]を 持[も]って 行[い]きます。", "es": "Puede que llueva, así que llevaré paraguas." },
+{ "id": "s103", "jp_parts": "日本語[にほんご]が 上手[じょうず]に なる ために 毎日[まいにち] 練習[れんしゅう]して います。", "es": "Practico todos los días para mejorar mi japonés." },
+{ "id": "s104", "jp_parts": "彼女[かのじょ]は 笑[わら]い ながら 話[はな]して いました。", "es": "Ella hablaba mientras se reía." },
+{ "id": "s105", "jp_parts": "試験[しけん]の 結果[けっか]に よって 進学[しんがく]できる か 決[き]まります。", "es": "Dependiendo del resultado del examen, se decidirá si puedo continuar estudios." },
+{ "id": "s106", "jp_parts": "そんな に 急[いそ]がなくても いい のでは ありませんか。", "es": "¿No hace falta darse tanta prisa, verdad?" },
+{ "id": "s107", "jp_parts": "電車[でんしゃ]が 遅[おく]れた ために 会議[かいぎ]に 間[ま]に 合[あ]いませんでした。", "es": "No llegué a tiempo a la reunión debido al retraso del tren." },
+{ "id": "s108", "jp_parts": "彼[かれ]は 何[なに]も 食[た]べない まま 出[で]かけました。", "es": "Salió sin comer nada." },
+{ "id": "s109", "jp_parts": "この 本[ほん]は 読[よ]めば 読[よ]む ほど 面白[おもしろ]いです。", "es": "Cuanto más lees este libro, más interesante es." },
+{ "id": "s110", "jp_parts": "最近[さいきん] 忙[いそが]しくて 旅行[りょこう]どころでは ありません。", "es": "Últimamente estoy tan ocupado que no es momento para viajar." },
+
+{ "id": "s111", "jp_parts": "彼女[かのじょ]は まるで 先生[せんせい]の ように 話[はな]します。", "es": "Ella habla como si fuera profesora." },
+{ "id": "s112", "jp_parts": "その ニュースを 聞[き]いて 驚[おどろ]く ばかり でした。", "es": "Al escuchar esa noticia, solo pude sorprenderme." },
+{ "id": "s113", "jp_parts": "今[いま]にも 雨[あめ]が 降[ふ]り 出[だ]し そうです。", "es": "Parece que va a empezar a llover en cualquier momento." },
+{ "id": "s114", "jp_parts": "この 問題[もんだい]は 私[わたし]に とって 難[むずか]し すぎます。", "es": "Este problema es demasiado difícil para mí." },
+{ "id": "s115", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]る に 違[ちが]いない。", "es": "Seguro que cumplirá su promesa." },
+{ "id": "s116", "jp_parts": "説明[せつめい]を 聞[き]いた ところ 少[すこ]し 分[わ]かりました。", "es": "Después de escuchar la explicación, entendí un poco." },
+{ "id": "s117", "jp_parts": "雨[あめ]が やんだ ところ です。", "es": "Justo ha dejado de llover." },
+{ "id": "s118", "jp_parts": "彼[かれ]は 子供[こども]の ころ よく 川[かわ]で 遊[あそ]んだ もの です。", "es": "Cuando era niño, solía jugar mucho en el río." },
+{ "id": "s119", "jp_parts": "そんな 失礼[しつれい]な ことを 言[い]う べきでは ありません。", "es": "No deberías decir algo tan grosero." },
+{ "id": "s120", "jp_parts": "彼女[かのじょ]は 怒[おこ]って いる ように 見[み]えます。", "es": "Parece que ella está enfadada." },
+
+{ "id": "s121", "jp_parts": "時間[じかん]が 経[た]つ に つれて 不安[ふあん]が 大[おお]きく なりました。", "es": "A medida que pasaba el tiempo, mi ansiedad aumentaba." },
+{ "id": "s122", "jp_parts": "その 計画[けいかく]は 中止[ちゅうし]に なる ことに なりました。", "es": "Se decidió que el plan sería cancelado." },
+{ "id": "s123", "jp_parts": "彼[かれ]は 忙[いそが]しい と 言[い]い ながら 手伝[てつだ]って くれました。", "es": "Aunque decía que estaba ocupado, me ayudó." },
+{ "id": "s124", "jp_parts": "この 町[まち]は 以前[いぜん]に 比[くら]べて 静[しず]かに なりました。", "es": "Esta ciudad se ha vuelto más tranquila comparada con antes." },
+{ "id": "s125", "jp_parts": "試験[しけん]に 合格[ごうかく]できる ように 願[ねが]って います。", "es": "Deseo poder aprobar el examen." },
+{ "id": "s126", "jp_parts": "彼女[かのじょ]は 泣[な]き 出[だ]し そうな 目[め]を して いました。", "es": "Tenía ojos como si estuviera a punto de llorar." },
+{ "id": "s127", "jp_parts": "彼[かれ]は 遅刻[ちこく]した ことを 謝[あやま]る べき です。", "es": "Debería disculparse por haber llegado tarde." },
+{ "id": "s128", "jp_parts": "そんな 難[むずか]しい 話[はなし]は 子供[こども]には 理解[りかい]できません。", "es": "Un tema tan difícil no puede ser entendido por niños." },
+{ "id": "s129", "jp_parts": "彼[かれ]は 何[なん]でも 知[し]って いる かの ように 話[はな]します。", "es": "Habla como si lo supiera todo." },
+{ "id": "s130", "jp_parts": "努力[どりょく]した かいが あって 成功[せいこう]しました。", "es": "Mi esfuerzo valió la pena y tuve éxito." },
+
+{ "id": "s131", "jp_parts": "その 事件[じけん]は 今[いま]も 調査中[ちょうさちゅう]です。", "es": "Ese incidente aún está bajo investigación." },
+{ "id": "s132", "jp_parts": "彼女[かのじょ]は 笑[わら]う どころか 泣[な]き 出[だ]しました。", "es": "Lejos de reír, empezó a llorar." },
+{ "id": "s133", "jp_parts": "この 問題[もんだい]は 誰[だれ]に でも 解[と]ける わけでは ありません。", "es": "No cualquiera puede resolver este problema." },
+{ "id": "s134", "jp_parts": "彼[かれ]は 来[こ]ない に しても 連絡[れんらく] ぐらい する べき です。", "es": "Aunque no venga, al menos debería avisar." },
+{ "id": "s135", "jp_parts": "この 本[ほん]は 一日[いちにち]で 読[よ]み 終[お]える ほど 短[みじか]いです。", "es": "Este libro es tan corto que se puede terminar en un día." },
+{ "id": "s136", "jp_parts": "彼[かれ]は 何度[なんど]も 挑戦[ちょうせん]した 末[すえ]に 成功[せいこう]しました。", "es": "Tras intentarlo muchas veces, finalmente tuvo éxito." },
+{ "id": "s137", "jp_parts": "そんな 危険[きけん]な ことは する べきでは ありません。", "es": "No deberías hacer algo tan peligroso." },
+{ "id": "s138", "jp_parts": "彼女[かのじょ]は うれしさの あまり 泣[な]いて しまいました。", "es": "Lloró de tanta alegría." },
+{ "id": "s139", "jp_parts": "時間[じかん]が ない とは いえ 約束[やくそく]は 守[まも]る べき です。", "es": "Aunque no tengas tiempo, debes cumplir tu promesa." },
+{ "id": "s140", "jp_parts": "彼[かれ]は 疲[つか]れて いる にも かかわらず 働[はたら]き 続[つづ]けました。", "es": "Siguió trabajando a pesar de estar cansado." },
+
+{ "id": "s141", "jp_parts": "この 問題[もんだい]について もう 少[すこ]し 考[かんが]える 必要[ひつよう]が あります。", "es": "Es necesario pensar un poco más sobre este problema." },
+{ "id": "s142", "jp_parts": "彼女[かのじょ]は 約束[やくそく]を 忘[わす]れた らしいです。", "es": "Parece que ella olvidó la promesa." },
+{ "id": "s143", "jp_parts": "その 結果[けっか] 会社[かいしゃ]は 大[おお]きな 損失[そんしつ]を 出[だ]しました。", "es": "Como resultado, la empresa sufrió grandes pérdidas." },
+{ "id": "s144", "jp_parts": "彼[かれ]は まさか 失敗[しっぱい]する とは 思[おも]って いませんでした。", "es": "No pensaba que fuera a fracasar." },
+{ "id": "s145", "jp_parts": "日本語[にほんご]を 勉強[べんきょう]し 始[はじ]めて から 三年[さんねん]に なります。", "es": "Han pasado tres años desde que empecé a estudiar japonés." },
+{ "id": "s146", "jp_parts": "彼女[かのじょ]は 病気[びょうき]の ため 会社[かいしゃ]を 休[やす]みました。", "es": "Faltó al trabajo debido a una enfermedad." },
+{ "id": "s147", "jp_parts": "その 映画[えいが]は 子供向[こどもむ]け と いう より 大人向[おとなむ]け です。", "es": "Esa película es más bien para adultos que para niños." },
+{ "id": "s148", "jp_parts": "彼[かれ]は 成功[せいこう]する と 信[しん]じて 疑[うたが]いません。", "es": "No duda de que tendrá éxito." },
+{ "id": "s149", "jp_parts": "そんな ことを する なんて 信[しん]じられません。", "es": "No puedo creer que haga algo así." },
+{ "id": "s150", "jp_parts": "将来[しょうらい] 医者[いしゃ]に なる つもり です。", "es": "Tengo la intención de ser médico en el futuro." },
+{ "id": "s151", "jp_parts": "彼[かれ]は 約束[やくそく]した にもかかわらず 連絡[れんらく]も せずに 帰[かえ]ってしまった。", "es": "A pesar de que lo prometió, se fue sin siquiera avisar." },
+
+{ "id": "s152", "jp_parts": "雨[あめ]が 降[ふ]る おそれがある ので 試合[しあい]は 中止[ちゅうし]になる かもしれない。", "es": "Como existe el riesgo de que llueva, el partido podría cancelarse." },
+
+{ "id": "s153", "jp_parts": "忙[いそが]しい ながらも 毎日[まいにち] 日本語[にほんご]の 勉強[べんきょう]を 続[つづ]けている。", "es": "Aunque está ocupado, continúa estudiando japonés cada día." },
+
+{ "id": "s154", "jp_parts": "この 問題[もんだい]は 簡単[かんたん]そうに 見[み]えて 実[じつ]は とても 難[むずか]しい。", "es": "Este problema parece fácil, pero en realidad es muy difícil." },
+
+{ "id": "s155", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する ことにした 以上[いじょう] 最後[さいご]まで 頑張[がんば]る つもりだ。", "es": "Ya que decidió estudiar en el extranjero, piensa esforzarse hasta el final." },
+
+{ "id": "s156", "jp_parts": "説明[せつめい]を 聞[き]いた ところで すぐに 理解[りかい]できる わけではない。", "es": "Aunque escuches la explicación, no significa que lo entiendas de inmediato." },
+
+{ "id": "s157", "jp_parts": "彼[かれ]は 成功[せいこう]した とはいえ 多[おお]くの 苦労[くろう]を 経験[けいけん]した。", "es": "Aunque tuvo éxito, pasó por muchas dificultades." },
+
+{ "id": "s158", "jp_parts": "準備[じゅんび]が でき 次第[しだい] すぐに 出発[しゅっぱつ]してください。", "es": "Por favor, sal en cuanto estés listo." },
+
+{ "id": "s159", "jp_parts": "彼[かれ]は 遅刻[ちこく]した ばかりか 宿題[しゅくだい]も 忘[わす]れてきた。", "es": "No solo llegó tarde, sino que además olvidó la tarea." },
+
+{ "id": "s160", "jp_parts": "この 本[ほん]は 子供[こども]向[む]けと いうより むしろ 大人[おとな]向けだ。", "es": "Este libro es más para adultos que para niños." },
+
+{ "id": "s161", "jp_parts": "彼女[かのじょ]は 泣[な]き 出[だ]さん ばかりの 表情[ひょうじょう]で 立[た]っていた。", "es": "Estaba de pie con una expresión a punto de llorar." },
+
+{ "id": "s162", "jp_parts": "事故[じこ]が 起[お]こる おそれがある ため 工事[こうじ]は 中止[ちゅうし]された。", "es": "La obra fue cancelada debido al riesgo de accidente." },
+
+{ "id": "s163", "jp_parts": "彼[かれ]は 試験[しけん]に 合格[ごうかく]した かのように 喜[よろこ]んでいた。", "es": "Se alegraba como si hubiera aprobado el examen." },
+
+{ "id": "s164", "jp_parts": "会議[かいぎ]は 予定[よてい]どおりに 進[すす]んだ わけではない。", "es": "La reunión no avanzó exactamente según lo previsto." },
+
+{ "id": "s165", "jp_parts": "彼女[かのじょ]は 疲[つか]れている にもかかわらず 手伝[てつだ]ってくれた。", "es": "A pesar de estar cansada, me ayudó." },
+
+{ "id": "s166", "jp_parts": "説明[せつめい]が 足[た]りない せいで 誤解[ごかい]が 生[う]まれた。", "es": "Debido a la falta de explicación, surgió un malentendido." },
+
+{ "id": "s167", "jp_parts": "時間[じかん]が ない からといって 諦[あきら]める わけにはいかない。", "es": "Aunque no tengamos tiempo, no podemos rendirnos." },
+
+{ "id": "s168", "jp_parts": "彼[かれ]は 来[く]る どころか 連絡[れんらく]さえ してこなかった。", "es": "Lejos de venir, ni siquiera contactó." },
+
+{ "id": "s169", "jp_parts": "この 問題[もんだい]は 考[かんが]えれば 考[かんが]える ほど 難[むずか]しくなる。", "es": "Cuanto más lo piensas, más difícil se vuelve." },
+
+{ "id": "s170", "jp_parts": "彼女[かのじょ]は 先生[せんせい]に ほめられた ことを きっかけに 自信[じしん]を 持[も]った。", "es": "Ganó confianza a raíz de que la profesora la elogiara." },
+
+{ "id": "s171", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らない ばかりか 言[い]い訳[わけ]まで した。", "es": "No solo no cumplió la promesa, sino que además puso excusas." },
+
+{ "id": "s172", "jp_parts": "成功[せいこう]する かどうかは 努力[どりょく]に かかっている。", "es": "Que tenga éxito o no depende del esfuerzo." },
+
+{ "id": "s173", "jp_parts": "彼女[かのじょ]は 本当[ほんとう]に 知[し]っている かのような 話[はな]し方[かた]を した。", "es": "Habló como si realmente lo supiera." },
+
+{ "id": "s174", "jp_parts": "彼[かれ]は 何度[なんど]も 注意[ちゅうい]された にもかかわらず 同[おな]じ 失敗[しっぱい]を した。", "es": "A pesar de ser advertido muchas veces, cometió el mismo error." },
+
+{ "id": "s175", "jp_parts": "この 店[みせ]は 安[やす]い だけでなく 味[あじ]も いい。", "es": "Este restaurante no solo es barato, sino que además es sabroso." },
+
+{ "id": "s176", "jp_parts": "彼[かれ]は 帰[かえ]った かと 思[おも]いきや また 戻[もど]ってきた。", "es": "Cuando pensé que se había ido, volvió." },
+
+{ "id": "s177", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する ために 貯金[ちょきん]を 続[つづ]けている。", "es": "Está ahorrando para estudiar en el extranjero." },
+
+{ "id": "s178", "jp_parts": "彼[かれ]は 失敗[しっぱい]した とはいうものの 大[おお]きな 経験[けいけん]を 得[え]た。", "es": "Aunque fracasó, obtuvo una gran experiencia." },
+
+{ "id": "s179", "jp_parts": "彼女[かのじょ]は 試験[しけん]に 合格[ごうかく]する ことなく 帰国[きこく]した。", "es": "Regresó a su país sin aprobar el examen." },
+
+{ "id": "s180", "jp_parts": "天気[てんき]が 良[よ]ければ 良[よ]い ほど 観光客[かんこうきゃく]が 増[ふ]える。", "es": "Cuanto mejor es el clima, más turistas aumentan." },
+
+{ "id": "s181", "jp_parts": "彼[かれ]は 説明[せつめい]する までもなく 理解[りかい]していた。", "es": "Entendió sin necesidad de explicación." },
+
+{ "id": "s182", "jp_parts": "彼女[かのじょ]は 成功[せいこう]を 夢見[ゆめみ]る あまり 健康[けんこう]を 害[がい]した。", "es": "Por obsesionarse con el éxito, dañó su salud." },
+
+{ "id": "s183", "jp_parts": "この 商品[しょうひん]は 高価[こうか]な だけあって 品質[ひんしつ]が いい。", "es": "Es caro y por eso su calidad es buena." },
+
+{ "id": "s184", "jp_parts": "彼[かれ]は 忙[いそが]しい というより 怠[なま]けている だけだ。", "es": "Más que ocupado, simplemente es perezoso." },
+
+{ "id": "s185", "jp_parts": "彼女[かのじょ]は 泣[な]きそうに なりながら 事情[じじょう]を 説明[せつめい]した。", "es": "Explicó la situación casi llorando." },
+
+{ "id": "s186", "jp_parts": "試験[しけん]に 合格[ごうかく]した うえに 奨学金[しょうがくきん]も もらった。", "es": "Aprobó el examen y además recibió una beca." },
+
+{ "id": "s187", "jp_parts": "彼[かれ]は 失敗[しっぱい]した ことを きっかけとして 成長[せいちょう]した。", "es": "Creció a raíz de su fracaso." },
+
+{ "id": "s188", "jp_parts": "彼女[かのじょ]は 嬉[うれ]しさの あまり 涙[なみだ]を 流[なが]した。", "es": "Lloró de tanta alegría." },
+
+{ "id": "s189", "jp_parts": "彼[かれ]は 成功[せいこう]する ものと ばかり 思[おも]っていた。", "es": "Estaba convencido de que tendría éxito." },
+
+{ "id": "s190", "jp_parts": "彼女[かのじょ]は 試験[しけん]が 終[お]わる やいなや 眠[ねむ]ってしまった。", "es": "En cuanto terminó el examen, se quedó dormida." },
+
+{ "id": "s191", "jp_parts": "彼[かれ]は 留学[りゅうがく]する にあたって 多[おお]くの 準備[じゅんび]を した。", "es": "Al irse a estudiar al extranjero, hizo muchos preparativos." },
+
+{ "id": "s192", "jp_parts": "彼女[かのじょ]は 試験[しけん]に 落[お]ちた からには もう一度[いちど] 受[う]ける つもりだ。", "es": "Ya que suspendió el examen, piensa volver a intentarlo." },
+
+{ "id": "s193", "jp_parts": "彼[かれ]は 失敗[しっぱい]した としても 諦[あきら]めない だろう。", "es": "Aunque fracase, probablemente no se rendirá." },
+
+{ "id": "s194", "jp_parts": "彼女[かのじょ]は 何度[なんど] 注意[ちゅうい]しても 聞[き]く 耳[みみ]を 持[も]たない。", "es": "Por más que la adviertan, no escucha." },
+
+{ "id": "s195", "jp_parts": "彼[かれ]は 成功[せいこう]しよう と する あまり 周囲[しゅうい]が 見[み]えなくなった。", "es": "Por intentar demasiado tener éxito, perdió la perspectiva." },
+
+{ "id": "s196", "jp_parts": "彼女[かのじょ]は 疲[つか]れている どころか とても 元気[げんき]だ。", "es": "Lejos de estar cansada, está muy enérgica." },
+
+{ "id": "s197", "jp_parts": "彼[かれ]は 説明[せつめい]する かわりに 実際[じっさい]に やって 見[み]せた。", "es": "En vez de explicarlo, lo demostró haciéndolo." },
+
+{ "id": "s198", "jp_parts": "彼女[かのじょ]は 断[ことわ]る に 断[ことわ]れず 引[ひ]き受[う]けてしまった。", "es": "No pudo negarse y terminó aceptándolo." },
+
+{ "id": "s199", "jp_parts": "彼[かれ]は 成功[せいこう]した かと思[おも]えば すぐに 失敗[しっぱい]した。", "es": "Cuando parecía que había tenido éxito, enseguida fracasó." },
+
+{ "id": "s200", "jp_parts": "彼女[かのじょ]は 努力[どりょく]した かいがあって 試験[しけん]に 合格[ごうかく]した。", "es": "Gracias a su esfuerzo, aprobó el examen." }
+  ]
+}
 

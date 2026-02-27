@@ -1,1 +1,307 @@
+{
+  "questions": [
+{ "id": "q1", "question": "毎日 日本語を 勉強する_____ しています。", "options": ["ように", "ために", "そうに", "みたいに"], "correct": 0, "explanation": "〜ようにする = intentar / procurar hacer algo." },
 
+{ "id": "q2", "question": "富士山に 登ったこと_____ あります。", "options": ["を", "が", "に", "で"], "correct": 1, "explanation": "〜たことがある = haber tenido la experiencia de." },
+
+{ "id": "q3", "question": "来年 日本へ 行く_____ です。", "options": ["つもり", "はず", "ため", "そう"], "correct": 0, "explanation": "〜つもり = intención." },
+
+{ "id": "q4", "question": "明日 早く 起き_____ なりません。", "options": ["ては", "なくては", "ないで", "なくても"], "correct": 1, "explanation": "〜なくてはならない = obligación." },
+
+{ "id": "q5", "question": "このケーキは 甘_____ です。", "options": ["すぎる", "がち", "らしい", "みたい"], "correct": 0, "explanation": "〜すぎる = demasiado." },
+
+{ "id": "q6", "question": "音楽を 聞き_____ 宿題を します。", "options": ["ながら", "ても", "ので", "たら"], "correct": 0, "explanation": "〜ながら = hacer dos acciones al mismo tiempo." },
+
+{ "id": "q7", "question": "宿題を 忘れ_____ しまいました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てしまう = acción completada o lamentable." },
+
+{ "id": "q8", "question": "雨が 降り_____ です。", "options": ["そう", "よう", "らしい", "みたい"], "correct": 0, "explanation": "〜そうだ (apariencia inmediata)." },
+
+{ "id": "q9", "question": "熱が あるなら、病院へ 行った_____ いいです。", "options": ["ほうが", "つもりが", "そうが", "ようが"], "correct": 0, "explanation": "〜ほうがいい = consejo." },
+
+{ "id": "q10", "question": "時間が ない_____、タクシーで 行きます。", "options": ["から", "でも", "ながら", "のに"], "correct": 0, "explanation": "から = causa." },
+
+{ "id": "q11", "question": "雨が 降っ_____、試合は 中止です。", "options": ["たら", "ても", "ながら", "ので"], "correct": 0, "explanation": "〜たら = condición." },
+
+{ "id": "q12", "question": "高い_____ 買いません。", "options": ["なら", "でも", "ながら", "そう"], "correct": 0, "explanation": "〜なら = si es el caso que." },
+
+{ "id": "q13", "question": "忙しい_____、手伝います。", "options": ["けれども", "ので", "から", "ても"], "correct": 3, "explanation": "〜ても = aunque." },
+
+{ "id": "q14", "question": "この映画は 面白_____ そうです。", "options": ["い", "く", "そう", "みたい"], "correct": 0, "explanation": "Adjetivo い sin い + そう → 面白そう." },
+
+{ "id": "q15", "question": "子ども_____ 時、よく 川で 遊びました。", "options": ["の", "な", "だった", "で"], "correct": 2, "explanation": "N + だった時 = cuando era." },
+
+{ "id": "q16", "question": "漢字が 読める_____ なりました。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ようになる = llegar a poder." },
+
+{ "id": "q17", "question": "雨が 降る_____、出かけません。", "options": ["なら", "そう", "ため", "みたい"], "correct": 0, "explanation": "〜なら = si resulta que." },
+
+{ "id": "q18", "question": "この本は 読み_____ です。", "options": ["やすい", "にくい", "すぎる", "たい"], "correct": 0, "explanation": "〜やすい = fácil de." },
+
+{ "id": "q19", "question": "日本語は 難しい_____ 面白いです。", "options": ["けれども", "から", "ので", "ても"], "correct": 0, "explanation": "けれども = pero." },
+
+{ "id": "q20", "question": "授業に 遅れない_____ 早く 出ました。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ように (propósito con verbo potencial)." },
+
+{ "id": "q21", "question": "昨日の パーティーは 楽し_____ でした。", "options": ["かった", "くて", "い", "そう"], "correct": 0, "explanation": "Adjetivo い pasado: 〜かった." },
+
+{ "id": "q22", "question": "先生は 来ない_____ です。", "options": ["らしい", "そう", "よう", "みたいに"], "correct": 0, "explanation": "〜らしい = información de oídas." },
+
+{ "id": "q23", "question": "財布を 落とし_____ しまいました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てしまう." },
+
+{ "id": "q24", "question": "映画を 見る_____、ご飯を 食べます。", "options": ["前に", "後で", "ながら", "でも"], "correct": 0, "explanation": "〜前に = antes de." },
+
+{ "id": "q25", "question": "日本へ 行った_____ があります。", "options": ["こと", "の", "もの", "ため"], "correct": 0, "explanation": "〜たことがある." },
+
+{ "id": "q26", "question": "この問題は 子ども_____ できます。", "options": ["でも", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜でも = incluso." },
+
+{ "id": "q27", "question": "一人_____ できません。", "options": ["しか", "だけ", "でも", "ほど"], "correct": 0, "explanation": "〜しか〜ない = solamente." },
+
+{ "id": "q28", "question": "この町は 前_____ にぎやかです。", "options": ["より", "ほど", "しか", "でも"], "correct": 0, "explanation": "Comparación: より." },
+
+{ "id": "q29", "question": "疲れた_____、もう 寝ます。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "ので = causa formal." },
+
+{ "id": "q30", "question": "今日は 寒い_____ コートを 着ます。", "options": ["から", "ても", "ながら", "のに"], "correct": 0, "explanation": "から = razón." },
+
+{ "id": "q31", "question": "食べ_____ ください。", "options": ["て", "ないで", "ながら", "ても"], "correct": 0, "explanation": "〜てください = petición." },
+
+{ "id": "q32", "question": "ここで 写真を 撮っ_____ も いいですか。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てもいい = permiso." },
+
+{ "id": "q33", "question": "窓を 開け_____ ください。", "options": ["ないで", "て", "ながら", "ても"], "correct": 0, "explanation": "〜ないでください = prohibición." },
+
+{ "id": "q34", "question": "お金が 足りない_____ 買えません。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "Causa con ので." },
+
+{ "id": "q35", "question": "走っ_____、転びました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "Forma て para conexión de acciones." },
+
+{ "id": "q36", "question": "日本語が 上手に なり_____ です。", "options": ["たい", "すぎる", "らしい", "みたい"], "correct": 0, "explanation": "〜たい = deseo." },
+
+{ "id": "q37", "question": "昨日は 雨_____ 行きませんでした。", "options": ["で", "が", "を", "に"], "correct": 0, "explanation": "で indica causa natural." },
+
+{ "id": "q38", "question": "この問題は 難し_____ そうです。", "options": ["そう", "く", "い", "みたい"], "correct": 1, "explanation": "Adjetivo い → quitar い + そう → 難しそう." },
+
+{ "id": "q39", "question": "漢字を 忘れない_____ 毎日 書きます。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ように para objetivo con verbo negativo." },
+
+{ "id": "q40", "question": "明日 試験が ある_____、勉強します。", "options": ["から", "けど", "ながら", "ても"], "correct": 0, "explanation": "から = causa." },
+
+{ "id": "q41", "question": "この店は 安い_____、おいしいです。", "options": ["し", "から", "けど", "ても"], "correct": 0, "explanation": "〜し = enumerar razones." },
+
+{ "id": "q42", "question": "週末は 映画を 見たり、本を 読んだり_____。", "options": ["します", "しました", "する", "して"], "correct": 0, "explanation": "〜たり〜たりする = acciones representativas." },
+
+{ "id": "q43", "question": "この漢字を 使っ_____ みてください。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てみる = intentar hacer." },
+
+{ "id": "q44", "question": "田中さんは 来る_____ です。", "options": ["はず", "そう", "よう", "みたい"], "correct": 0, "explanation": "〜はず = expectativa lógica." },
+
+{ "id": "q45", "question": "雨が 降る_____ しれません。", "options": ["かも", "そう", "よう", "らしく"], "correct": 0, "explanation": "〜かもしれない = posibilidad." },
+
+{ "id": "q46", "question": "時間が あれ_____、手伝います。", "options": ["ば", "たら", "なら", "ても"], "correct": 0, "explanation": "Condicional 〜ば." },
+
+{ "id": "q47", "question": "この問題は 難しすぎ_____ できません。", "options": ["て", "る", "た", "ない"], "correct": 0, "explanation": "〜すぎて = demasiado y resultado negativo." },
+
+{ "id": "q48", "question": "来年 日本へ 留学し_____ と思います。", "options": ["よう", "たい", "る", "た"], "correct": 0, "explanation": "〜ようと思う = intención." },
+
+{ "id": "q49", "question": "毎日 運動する_____ にしました。", "options": ["こと", "の", "もの", "ため"], "correct": 0, "explanation": "〜ことにする = decidir hacer." },
+
+{ "id": "q50", "question": "今日は 来なく_____ いいです。", "options": ["ても", "ては", "なくては", "ないで"], "correct": 0, "explanation": "〜なくてもいい = no es necesario." },
+
+{ "id": "q51", "question": "彼は 日本語が 上手な_____ 英語も 上手です。", "options": ["うえに", "けど", "から", "でも"], "correct": 0, "explanation": "〜うえに = además de." },
+
+{ "id": "q52", "question": "このケーキは 思った_____ 甘くないです。", "options": ["より", "ほど", "しか", "でも"], "correct": 1, "explanation": "〜ほど〜ない = no tan… como." },
+
+{ "id": "q53", "question": "薬を 飲んだ_____、元気に なりました。", "options": ["ら", "ば", "なら", "ても"], "correct": 0, "explanation": "〜たら = cuando / después de." },
+
+{ "id": "q54", "question": "ドアを 開ける_____、猫が 入ってきました。", "options": ["と", "ば", "ても", "ながら"], "correct": 0, "explanation": "〜と = cuando (resultado natural)." },
+
+{ "id": "q55", "question": "日本へ 行く_____ お金を 貯めています。", "options": ["ために", "ように", "そうに", "らしく"], "correct": 0, "explanation": "〜ために = propósito con verbo acción." },
+
+{ "id": "q56", "question": "忘れ物を しない_____ メモを 書きます。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ように para objetivo con verbo negativo." },
+
+{ "id": "q57", "question": "この本は 子ども_____ 読めます。", "options": ["でも", "しか", "ほど", "だけ"], "correct": 0, "explanation": "〜でも = incluso." },
+
+{ "id": "q58", "question": "一時間_____ 待ちました。", "options": ["も", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜も = énfasis de cantidad mayor a lo esperado." },
+
+{ "id": "q59", "question": "水を 飲ま_____ ないでください。", "options": ["ない", "なく", "な", "ず"], "correct": 2, "explanation": "Forma ないでください → 飲まないで." },
+
+{ "id": "q60", "question": "この店は 高い_____ 買いません。", "options": ["ので", "けど", "ながら", "のに"], "correct": 0, "explanation": "ので = causa." },
+
+{ "id": "q61", "question": "部屋を きれいに し_____ ください。", "options": ["て", "ないで", "ながら", "ても"], "correct": 0, "explanation": "〜てください = petición." },
+
+{ "id": "q62", "question": "日本語を 勉強すれ_____ 上手に なります。", "options": ["ば", "たら", "なら", "ても"], "correct": 0, "explanation": "Condicional 〜ば." },
+
+{ "id": "q63", "question": "昨日は 疲れ_____ 早く 寝ました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "Forma て para causa simple." },
+
+{ "id": "q64", "question": "雨が 降ってい_____ 行きます。", "options": ["ても", "たら", "ば", "と"], "correct": 0, "explanation": "〜ても = aunque." },
+
+{ "id": "q65", "question": "映画を 見る_____ に、ご飯を 食べました。", "options": ["前", "後", "間", "中"], "correct": 0, "explanation": "〜前に = antes de." },
+
+{ "id": "q66", "question": "この漢字は 読み_____ です。", "options": ["にくい", "やすい", "すぎる", "たい"], "correct": 0, "explanation": "〜にくい = difícil de." },
+
+{ "id": "q67", "question": "電車に 乗り遅れ_____ しまいました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てしまう = lamentación." },
+
+{ "id": "q68", "question": "毎日 日本語を 話す_____ しています。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ようにする = intentar hacer hábito." },
+
+{ "id": "q69", "question": "この映画は 子どもに_____ 難しいです。", "options": ["とって", "よって", "よると", "ついて"], "correct": 0, "explanation": "〜にとって = para (desde el punto de vista)." },
+
+{ "id": "q70", "question": "彼は 学生_____ 先生では ありません。", "options": ["で", "に", "が", "を"], "correct": 0, "explanation": "Copulativa negativa formal." },
+
+{ "id": "q71", "question": "朝ごはんを 食べ_____ 学校へ 行きました。", "options": ["てから", "ながら", "ても", "たり"], "correct": 0, "explanation": "〜てから = después de." },
+
+{ "id": "q72", "question": "今日は 暑い_____ エアコンを つけました。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "ので = causa." },
+
+{ "id": "q73", "question": "この問題は 思った_____ 簡単でした。", "options": ["より", "ほど", "しか", "でも"], "correct": 0, "explanation": "Comparación con より." },
+
+{ "id": "q74", "question": "彼は 日本に 10年_____ 住んでいます。", "options": ["も", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜も = énfasis cantidad grande." },
+
+{ "id": "q75", "question": "明日 雨が 降る_____ 行きません。", "options": ["なら", "ば", "と", "ても"], "correct": 0, "explanation": "〜なら = si resulta que." },
+
+{ "id": "q76", "question": "ここで タバコを 吸っ_____ は いけません。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てはいけない = prohibición." },
+
+{ "id": "q77", "question": "来週 試験が ある_____ 勉強しています。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "Causa con ので." },
+
+{ "id": "q78", "question": "一人で 行くのは 不安_____、友達と 行きます。", "options": ["なので", "けど", "から", "ても"], "correct": 0, "explanation": "なので = causa con na-adjetivo." },
+
+{ "id": "q79", "question": "もっと 日本語を 勉強しなければ なり_____。", "options": ["ません", "ます", "ました", "ない"], "correct": 0, "explanation": "〜なければなりません = obligación." },
+
+{ "id": "q80", "question": "先生に 聞い_____ ほうが いいです。", "options": ["た", "て", "ない", "ます"], "correct": 0, "explanation": "〜たほうがいい = consejo." },
+
+{ "id": "q81", "question": "この本を 読んで_____ ください。", "options": ["みて", "いて", "おいて", "あって"], "correct": 0, "explanation": "〜てみる = intentar hacer algo." },
+
+{ "id": "q82", "question": "昨日は 雨が 降っ_____、出かけませんでした。", "options": ["たので", "ても", "ながら", "たり"], "correct": 0, "explanation": "〜ので = causa." },
+
+{ "id": "q83", "question": "日本へ 行く_____ 日本語を 勉強しています。", "options": ["ために", "ように", "そうに", "らしく"], "correct": 0, "explanation": "〜ために = propósito." },
+
+{ "id": "q84", "question": "子どもの_____、よく 泳ぎました。", "options": ["ころ", "まえ", "あと", "あいだ"], "correct": 0, "explanation": "〜ころ = cuando (tiempo pasado lejano)." },
+
+{ "id": "q85", "question": "この問題は 難し_____ そうです。", "options": ["そう", "く", "い", "みたい"], "correct": 1, "explanation": "Adjetivo い → quitar い + そう." },
+
+{ "id": "q86", "question": "毎日 運動する_____ しています。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ようにする = intentar hábito." },
+
+{ "id": "q87", "question": "時間が なかっ_____ 行けませんでした。", "options": ["たので", "ても", "ながら", "たり"], "correct": 0, "explanation": "Causa en pasado con ので." },
+
+{ "id": "q88", "question": "漢字を 忘れない_____ ノートに 書きます。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "Objetivo con verbo negativo → ように." },
+
+{ "id": "q89", "question": "このケーキは 甘すぎ_____ 食べられません。", "options": ["て", "る", "た", "ない"], "correct": 0, "explanation": "〜すぎて = demasiado y resultado." },
+
+{ "id": "q90", "question": "来年 日本へ 行く_____ です。", "options": ["つもり", "はず", "そう", "みたい"], "correct": 0, "explanation": "〜つもり = intención." },
+
+{ "id": "q91", "question": "毎日 本を 読む_____ にしました。", "options": ["こと", "の", "もの", "ため"], "correct": 0, "explanation": "〜ことにする = decidir hacer." },
+
+{ "id": "q92", "question": "今日は 来なく_____ いいです。", "options": ["ても", "ては", "なくては", "ないで"], "correct": 0, "explanation": "〜なくてもいい = no necesario." },
+
+{ "id": "q93", "question": "彼は 日本語が 上手な_____ 英語も 上手です。", "options": ["うえに", "けど", "から", "でも"], "correct": 0, "explanation": "〜うえに = además." },
+
+{ "id": "q94", "question": "この映画は 思った_____ 面白くなかった。", "options": ["ほど", "より", "しか", "でも"], "correct": 0, "explanation": "〜ほど〜ない = no tan… como." },
+
+{ "id": "q95", "question": "雨が 降っ_____ 試合は 中止です。", "options": ["たら", "ても", "ながら", "たり"], "correct": 0, "explanation": "〜たら = condición." },
+
+{ "id": "q96", "question": "ドアを 開ける_____、犬が 入ってきました。", "options": ["と", "ば", "ても", "ながら"], "correct": 0, "explanation": "〜と = resultado natural." },
+
+{ "id": "q97", "question": "日本語が 上手に なり_____ です。", "options": ["たい", "すぎる", "らしい", "みたい"], "correct": 0, "explanation": "〜たい = deseo." },
+
+{ "id": "q98", "question": "一人_____ できません。", "options": ["では", "しか", "ほど", "でも"], "correct": 0, "explanation": "一人では = énfasis negativo." },
+
+{ "id": "q99", "question": "水を 飲ま_____ ないでください。", "options": ["ない", "な", "なく", "ず"], "correct": 1, "explanation": "Forma correcta: 飲まないで." },
+
+{ "id": "q100", "question": "部屋を きれいに し_____ ください。", "options": ["て", "ないで", "ながら", "ても"], "correct": 0, "explanation": "〜てください." },
+
+{ "id": "q101", "question": "明日 雨が 降る_____ 行きません。", "options": ["なら", "ば", "と", "ても"], "correct": 0, "explanation": "〜なら = si es el caso que." },
+
+{ "id": "q102", "question": "先生に 聞い_____ ほうが いいです。", "options": ["た", "て", "ない", "ます"], "correct": 0, "explanation": "〜たほうがいい = consejo." },
+
+{ "id": "q103", "question": "昨日は 忙しく_____ 行けませんでした。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "Adjetivo い → くて." },
+
+{ "id": "q104", "question": "毎日 日本語を 話す_____ しています。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ようにする." },
+
+{ "id": "q105", "question": "この町は 前_____ にぎやかです。", "options": ["より", "ほど", "しか", "でも"], "correct": 0, "explanation": "Comparación con より." },
+
+{ "id": "q106", "question": "一時間_____ 待ちました。", "options": ["も", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜も = énfasis cantidad grande." },
+
+{ "id": "q107", "question": "もっと 勉強しなければ なり_____。", "options": ["ません", "ます", "ました", "ない"], "correct": 0, "explanation": "〜なければなりません." },
+
+{ "id": "q108", "question": "この問題は 子ども_____ できます。", "options": ["でも", "しか", "ほど", "だけ"], "correct": 0, "explanation": "〜でも = incluso." },
+
+{ "id": "q109", "question": "映画を 見る_____ ご飯を 食べました。", "options": ["前に", "後で", "ながら", "でも"], "correct": 0, "explanation": "〜前に." },
+
+{ "id": "q110", "question": "朝ごはんを 食べ_____ 学校へ 行きました。", "options": ["てから", "ながら", "ても", "たり"], "correct": 0, "explanation": "〜てから." },
+
+{ "id": "q111", "question": "この漢字は 読み_____ です。", "options": ["にくい", "やすい", "すぎる", "たい"], "correct": 0, "explanation": "〜にくい = difícil." },
+
+{ "id": "q112", "question": "電車に 乗り遅れ_____ しまいました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てしまう." },
+
+{ "id": "q113", "question": "彼は 日本に 10年_____ 住んでいます。", "options": ["も", "しか", "だけ", "ほど"], "correct": 0, "explanation": "〜も = cantidad grande." },
+
+{ "id": "q114", "question": "ここで タバコを 吸っ_____ は いけません。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てはいけない." },
+
+{ "id": "q115", "question": "来週 試験が ある_____ 勉強しています。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "Causa con ので." },
+
+{ "id": "q116", "question": "一人で 行くのは 不安_____ 友達と 行きます。", "options": ["なので", "けど", "から", "ても"], "correct": 0, "explanation": "なので = causa formal." },
+
+{ "id": "q117", "question": "雨が 降っ_____ も 行きます。", "options": ["ても", "たら", "ば", "と"], "correct": 0, "explanation": "〜ても = aunque." },
+
+{ "id": "q118", "question": "時間が あれ_____ 手伝います。", "options": ["ば", "たら", "なら", "ても"], "correct": 0, "explanation": "Condicional 〜ば." },
+
+{ "id": "q119", "question": "毎日 日本語を 勉強する_____ つもりです。", "options": ["つもりで", "ためで", "そうで", "ようで"], "correct": 0, "explanation": "Forma correcta con intención." },
+
+{ "id": "q120", "question": "このケーキは 思った_____ 甘くない。", "options": ["より", "ほど", "しか", "でも"], "correct": 1, "explanation": "〜ほど〜ない." },
+
+{ "id": "q121", "question": "漢字が 読める_____ なりました。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "〜ようになる." },
+
+{ "id": "q122", "question": "先生は 来ない_____ です。", "options": ["らしい", "そう", "よう", "みたいに"], "correct": 0, "explanation": "〜らしい = rumor." },
+
+{ "id": "q123", "question": "この映画は 面白_____ そうです。", "options": ["そう", "く", "い", "みたい"], "correct": 1, "explanation": "Quitar い antes de そう." },
+
+{ "id": "q124", "question": "薬を 飲んだ_____ 元気に なりました。", "options": ["ら", "ば", "なら", "ても"], "correct": 0, "explanation": "〜たら." },
+
+{ "id": "q125", "question": "毎日 日本語を 話す_____ しています。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "Hábito con ようにする." },
+
+{ "id": "q126", "question": "子ども_____ 時、よく 泳ぎました。", "options": ["の", "な", "だった", "で"], "correct": 2, "explanation": "N + だった時." },
+
+{ "id": "q127", "question": "もっと 早く 起きなければ なり_____。", "options": ["ません", "ます", "ました", "ない"], "correct": 0, "explanation": "Obligación formal." },
+
+{ "id": "q128", "question": "映画を 見たり 本を 読んだり_____。", "options": ["します", "しました", "する", "して"], "correct": 0, "explanation": "〜たり〜たりする." },
+
+{ "id": "q129", "question": "この問題は 難しすぎ_____ できません。", "options": ["て", "る", "た", "ない"], "correct": 0, "explanation": "〜すぎて." },
+
+{ "id": "q130", "question": "彼は 学生_____ 先生では ありません。", "options": ["で", "に", "が", "を"], "correct": 0, "explanation": "Copulativa で." },
+
+{ "id": "q131", "question": "今日は 暑い_____ エアコンを つけました。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "Causa con ので." },
+
+{ "id": "q132", "question": "この町は 前_____ 静かです。", "options": ["より", "ほど", "しか", "でも"], "correct": 0, "explanation": "Comparación." },
+
+{ "id": "q133", "question": "忘れ物を しない_____ メモします。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "Objetivo negativo." },
+
+{ "id": "q134", "question": "昨日は 雨_____ 行きませんでした。", "options": ["で", "が", "を", "に"], "correct": 0, "explanation": "で indica causa." },
+
+{ "id": "q135", "question": "走っ_____ 転びました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "Forma て conexión." },
+
+{ "id": "q136", "question": "時間が ない_____ タクシーで 行きます。", "options": ["ので", "けど", "ながら", "ても"], "correct": 0, "explanation": "Causa." },
+
+{ "id": "q137", "question": "明日 試験が ある_____ 勉強します。", "options": ["から", "けど", "ながら", "ても"], "correct": 0, "explanation": "から = razón." },
+
+{ "id": "q138", "question": "この問題は 思った_____ 簡単でした。", "options": ["より", "ほど", "しか", "でも"], "correct": 0, "explanation": "Comparación con より." },
+
+{ "id": "q139", "question": "日本へ 行った_____ があります。", "options": ["こと", "の", "もの", "ため"], "correct": 0, "explanation": "〜たことがある." },
+
+{ "id": "q140", "question": "彼は 来る_____ です。", "options": ["はず", "そう", "よう", "みたい"], "correct": 0, "explanation": "〜はず." },
+
+{ "id": "q141", "question": "雨が 降る_____ しれません。", "options": ["かも", "そう", "よう", "らしく"], "correct": 0, "explanation": "〜かもしれない." },
+
+{ "id": "q142", "question": "映画を 見る_____ に ご飯を 食べました。", "options": ["前", "後", "間", "中"], "correct": 0, "explanation": "〜前に." },
+
+{ "id": "q143", "question": "この本は 読み_____ です。", "options": ["やすい", "にくい", "すぎる", "たい"], "correct": 0, "explanation": "〜やすい." },
+
+{ "id": "q144", "question": "電車に 乗り遅れ_____ しまいました。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てしまう." },
+
+{ "id": "q145", "question": "ここで 写真を 撮っ_____ も いいですか。", "options": ["て", "で", "に", "が"], "correct": 0, "explanation": "〜てもいい." },
+
+{ "id": "q146", "question": "窓を 開け_____ ください。", "options": ["ないで", "て", "ながら", "ても"], "correct": 0, "explanation": "〜ないでください." },
+
+{ "id": "q147", "question": "もっと 日本語を 勉強し_____ たいです。", "options": ["たい", "て", "ます", "ない"], "correct": 0, "explanation": "〜たい deseo." },
+
+{ "id": "q148", "question": "この映画は 面白_____ です。", "options": ["そう", "く", "い", "みたい"], "correct": 0, "explanation": "Adjetivo い sin い + そう." },
+
+{ "id": "q149", "question": "毎日 日本語を 話す_____ しています。", "options": ["ように", "ために", "そうに", "らしく"], "correct": 0, "explanation": "Hábito con ようにする." },
+
+{ "id": "q150", "question": "明日 雨が 降っ_____ 行きません。", "options": ["たら", "ても", "ながら", "たり"], "correct": 0, "explanation": "〜たら = condición." } 
+
+
+
+
+  ]
+}

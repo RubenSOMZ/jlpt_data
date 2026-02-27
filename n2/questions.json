@@ -1,1 +1,408 @@
+{
+  "questions": [
 
+{ "id": "q1", "question": "景気の悪化_____、失業率が上昇している。", "options": ["に伴い", "に比べて", "に反して", "に限って"], "correct": 0, "explanation": "〜に伴い = junto con / como consecuencia de." },
+
+{ "id": "q2", "question": "努力した_____、必ず成功するとは限らない。", "options": ["からといって", "ものの", "次第で", "にしては"], "correct": 0, "explanation": "〜からといって…とは限らない = no necesariamente." },
+
+{ "id": "q3", "question": "彼女の説明は分かりやすい_____、少し長すぎる。", "options": ["反面", "うえで", "限り", "末に"], "correct": 0, "explanation": "〜反面 = por otro lado." },
+
+{ "id": "q4", "question": "十分に検討した_____、決定を下すべきだ。", "options": ["うえで", "あげく", "次第で", "にかけて"], "correct": 0, "explanation": "〜うえで = después de / tras." },
+
+{ "id": "q5", "question": "彼の態度は学生_____生意気だ。", "options": ["にしては", "に対して", "に応じて", "にわたって"], "correct": 0, "explanation": "〜にしては = para ser…" },
+
+{ "id": "q6", "question": "事故の原因は現在調査中で、詳細は分かり_____。", "options": ["かねる", "かねない", "かける", "かえる"], "correct": 0, "explanation": "〜かねる = no poder (formal)." },
+
+{ "id": "q7", "question": "この薬は症状_____効果があります。", "options": ["に応じて", "に比べて", "に対して", "にかけて"], "correct": 0, "explanation": "〜に応じて = según." },
+
+{ "id": "q8", "question": "彼の話は信用する_____値しない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に値しない = no merece." },
+
+{ "id": "q9", "question": "試験の結果_____、進学先が決まる。", "options": ["次第で", "あげく", "限り", "末に"], "correct": 0, "explanation": "〜次第で = depende de." },
+
+{ "id": "q10", "question": "雨天_____、イベントは中止となります。", "options": ["の場合", "の末", "の限り", "の反面"], "correct": 0, "explanation": "En caso de…" },
+
+{ "id": "q11", "question": "彼の発言は事実_____反している。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に反する = ir en contra de." },
+
+{ "id": "q12", "question": "努力の_____、ついに目標を達成した。", "options": ["末に", "限りに", "反面に", "次第に"], "correct": 0, "explanation": "〜の末に = después de mucho esfuerzo." },
+
+{ "id": "q13", "question": "彼女は歌手としての才能_____いる。", "options": ["に恵まれて", "に応じて", "に比べて", "に反して"], "correct": 0, "explanation": "〜に恵まれる = estar dotado de." },
+
+{ "id": "q14", "question": "無断欠席は理由のいかん_____、認められない。", "options": ["にかかわらず", "に伴い", "に限って", "にわたって"], "correct": 0, "explanation": "〜いかんにかかわらず = independientemente de." },
+
+{ "id": "q15", "question": "状況_____、計画を変更する可能性がある。", "options": ["によっては", "に応じては", "に反しては", "に限っては"], "correct": 0, "explanation": "〜によっては = dependiendo de." },
+
+{ "id": "q16", "question": "その行為は許される_____ではない。", "options": ["べき", "はず", "わけ", "もの"], "correct": 3, "explanation": "〜ものではない = no se debe." },
+
+{ "id": "q17", "question": "会議は予定_____進められた。", "options": ["どおりに", "に伴って", "に応じて", "に反して"], "correct": 0, "explanation": "〜どおりに = tal como." },
+
+{ "id": "q18", "question": "彼の成功は努力_____ほかならない。", "options": ["のたまものに", "の末に", "の限りに", "の反面に"], "correct": 0, "explanation": "〜にほかならない = no es más que." },
+
+{ "id": "q19", "question": "その噂は事実_____ない。", "options": ["とは限ら", "に違い", "に相違", "に決まっ"], "correct": 0, "explanation": "〜とは限らない = no necesariamente." },
+
+{ "id": "q20", "question": "年齢_____、応募は可能です。", "options": ["を問わず", "に応じて", "に比べて", "に伴って"], "correct": 0, "explanation": "〜を問わず = sin importar." },
+
+{ "id": "q21", "question": "説明を聞いた_____、理解できなかった。", "options": ["ものの", "うえで", "末に", "次第で"], "correct": 0, "explanation": "〜ものの = aunque." },
+
+{ "id": "q22", "question": "彼の態度は社会人_____無責任だ。", "options": ["にしては", "に応じて", "に反して", "に伴って"], "correct": 0, "explanation": "Para ser…" },
+
+{ "id": "q23", "question": "状況を考えた_____、判断すべきだ。", "options": ["うえで", "あげく", "限り", "末に"], "correct": 0, "explanation": "Tras considerar…" },
+
+{ "id": "q24", "question": "失敗した_____、諦めるわけにはいかない。", "options": ["からといって", "反面", "限り", "末に"], "correct": 0, "explanation": "Aunque haya fallado…" },
+
+{ "id": "q25", "question": "この問題は議論する_____ある。", "options": ["に値する", "に伴う", "に反する", "に応じる"], "correct": 0, "explanation": "〜に値する = merece." },
+
+{ "id": "q26", "question": "準備不足の_____、結果は当然だ。", "options": ["ゆえに", "反面に", "限りに", "末に"], "correct": 0, "explanation": "〜ゆえに = debido a (formal)." },
+
+{ "id": "q27", "question": "予算の範囲_____計画を立てる。", "options": ["内で", "に伴い", "に応じて", "に反して"], "correct": 0, "explanation": "Dentro de…" },
+
+{ "id": "q28", "question": "彼の行動は理解に苦しむ_____だ。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "〜ものだ = expresa emoción / juicio." },
+
+{ "id": "q29", "question": "天候の悪化_____、試合は延期された。", "options": ["に伴い", "に比べて", "に限って", "に応じて"], "correct": 0, "explanation": "Junto con / debido a." },
+
+{ "id": "q30", "question": "事情_____、今回は参加できない。", "options": ["により", "に限り", "に反し", "に伴い"], "correct": 0, "explanation": "〜により = debido a." },
+
+{ "id": "q31", "question": "一度約束した_____、守るべきだ。", "options": ["以上は", "反面は", "末は", "限りは"], "correct": 0, "explanation": "〜以上は = ya que…" },
+
+{ "id": "q32", "question": "彼の話は信じる_____足りる。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に足りる = suficiente para." },
+
+{ "id": "q33", "question": "この制度は時代_____合わない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に合う / 合わない." },
+
+{ "id": "q34", "question": "多くの困難を乗り越えた_____、成功した。", "options": ["末に", "反面に", "限りに", "次第に"], "correct": 0, "explanation": "Después de mucho…" },
+
+{ "id": "q35", "question": "彼の説明は長い_____、要点が明確だ。", "options": ["ものの", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "Aunque…" },
+
+{ "id": "q36", "question": "この仕事は経験者_____限る。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に限る = lo mejor es." },
+
+{ "id": "q37", "question": "本人の同意_____、契約は無効だ。", "options": ["なしに", "に伴い", "に応じて", "に比べて"], "correct": 0, "explanation": "〜なしに = sin." },
+
+{ "id": "q38", "question": "彼の意見は尊重する_____ある。", "options": ["に値する", "に伴う", "に反する", "に応じる"], "correct": 0, "explanation": "Merece respeto." },
+
+{ "id": "q39", "question": "事情_____、延期することになった。", "options": ["により", "に限り", "に反し", "に伴い"], "correct": 0, "explanation": "Debido a." },
+
+{ "id": "q40", "question": "努力なくして成功はあり_____。", "options": ["得ない", "かねる", "かねない", "かえる"], "correct": 0, "explanation": "〜得ない = no puede ocurrir." },
+
+{ "id": "q41", "question": "彼の態度は礼儀_____欠けている。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に欠ける = carecer de." },
+
+{ "id": "q42", "question": "この問題は専門家_____相談すべきだ。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "Consultar con." },
+
+{ "id": "q43", "question": "計画は予定_____進んでいない。", "options": ["どおりに", "に伴い", "に応じて", "に反して"], "correct": 0, "explanation": "Tal como." },
+
+{ "id": "q44", "question": "この制度は検討の余地がある_____だ。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Expresa juicio." },
+
+{ "id": "q45", "question": "彼の発言は事実_____基づいている。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に基づく = basado en." },
+
+{ "id": "q46", "question": "状況_____判断が必要だ。", "options": ["に応じた", "に反した", "に伴った", "に限った"], "correct": 0, "explanation": "Según la situación." },
+
+{ "id": "q47", "question": "努力した_____、報われなかった。", "options": ["にもかかわらず", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "A pesar de." },
+
+{ "id": "q48", "question": "この件は私の責任_____ほかない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜にほかない = no es más que." },
+
+{ "id": "q49", "question": "規則_____違反した場合、罰金が科される。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に違反する." },
+
+{ "id": "q50", "question": "彼の成功は才能_____努力の結果だ。", "options": ["のみならず", "に伴い", "に応じて", "に反して"], "correct": 0, "explanation": "〜のみならず = no solo…" },
+{ "id": "q51", "question": "今回の計画は成功する_____ない。", "options": ["とは限ら", "に違い", "に相違", "に決まっ"], "correct": 0, "explanation": "〜とは限らない = no necesariamente." },
+
+{ "id": "q52", "question": "新制度の導入_____、多くの問題が明らかになった。", "options": ["に伴い", "に比べて", "に反して", "に限って"], "correct": 0, "explanation": "〜に伴い = junto con / a raíz de." },
+
+{ "id": "q53", "question": "経験が不足している_____、今回の任務は難しい。", "options": ["だけに", "のみならず", "どころか", "ものの"], "correct": 0, "explanation": "〜だけに = precisamente porque." },
+
+{ "id": "q54", "question": "予想_____結果となった。", "options": ["に反する", "に応じる", "に伴う", "に限る"], "correct": 0, "explanation": "〜に反する = contrario a." },
+
+{ "id": "q55", "question": "時間がない_____、結論を急ぐべきではない。", "options": ["からといって", "だけあって", "のみならず", "どころか"], "correct": 0, "explanation": "No por eso…" },
+
+{ "id": "q56", "question": "この提案は検討に_____する。", "options": ["値", "伴", "反", "応"], "correct": 0, "explanation": "検討に値する = merece consideración." },
+
+{ "id": "q57", "question": "責任者_____、最後までやり遂げる義務がある。", "options": ["として", "にしては", "に対して", "において"], "correct": 0, "explanation": "〜として = en calidad de." },
+
+{ "id": "q58", "question": "状況は改善する_____見込みだ。", "options": ["ものの", "どころか", "どころではない", "に違いない"], "correct": 0, "explanation": "〜ものの = aunque." },
+
+{ "id": "q59", "question": "この地域では高齢化が進む_____だ。", "options": ["一方", "末", "限り", "次第"], "correct": 0, "explanation": "〜一方だ = sigue en aumento." },
+
+{ "id": "q60", "question": "会議中は私語を慎む_____だ。", "options": ["べき", "はず", "もの", "こと"], "correct": 0, "explanation": "〜べきだ = deber." },
+
+{ "id": "q61", "question": "実力不足を認めざるを_____。", "options": ["得ない", "かねる", "かねない", "終えない"], "correct": 0, "explanation": "〜ざるを得ない = no queda más remedio." },
+
+{ "id": "q62", "question": "この結果は努力の成果_____ない。", "options": ["にほかなら", "に限ら", "に基づか", "に応じら"], "correct": 0, "explanation": "〜にほかならない = no es más que." },
+
+{ "id": "q63", "question": "本人の説明_____、事実とは思えない。", "options": ["によれば", "に比べて", "に対して", "に伴って"], "correct": 0, "explanation": "〜によれば = según." },
+
+{ "id": "q64", "question": "健康を犠牲にしてまで働く_____ない。", "options": ["ものでは", "はずでは", "ことでは", "わけでは"], "correct": 0, "explanation": "〜ものではない = no se debe." },
+
+{ "id": "q65", "question": "予算の削減_____、計画が見直された。", "options": ["に伴い", "に反し", "に比べ", "に限り"], "correct": 0, "explanation": "Debido a / junto con." },
+
+{ "id": "q66", "question": "そんな無責任な発言は許される_____ない。", "options": ["はずが", "べきが", "ものが", "ことが"], "correct": 0, "explanation": "〜はずがない = imposible." },
+
+{ "id": "q67", "question": "成功するかどうかは努力_____いる。", "options": ["次第だ", "限りだ", "反面だ", "末だ"], "correct": 0, "explanation": "Depende de." },
+
+{ "id": "q68", "question": "その行為は法律_____違反している。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に違反する." },
+
+{ "id": "q69", "question": "彼の意見は現実_____即していない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に即する = ajustarse a." },
+
+{ "id": "q70", "question": "条件_____、契約を解除できる。", "options": ["によっては", "に応じては", "に反しては", "に限っては"], "correct": 0, "explanation": "Dependiendo de." },
+
+{ "id": "q71", "question": "新技術の開発_____、競争が激化している。", "options": ["をめぐって", "に応じて", "に反して", "に限って"], "correct": 0, "explanation": "〜をめぐって = en torno a." },
+
+{ "id": "q72", "question": "努力したから_____、必ず成功するわけではない。", "options": ["といって", "のみならず", "どころか", "だけあって"], "correct": 0, "explanation": "No por eso." },
+
+{ "id": "q73", "question": "彼の態度は社会人としてある_____だ。", "options": ["まじき", "べき", "はず", "もの"], "correct": 0, "explanation": "〜まじき = impropio de." },
+
+{ "id": "q74", "question": "その決定は慎重に検討した_____出された。", "options": ["うえで", "あげく", "限り", "末に"], "correct": 0, "explanation": "Tras considerar." },
+
+{ "id": "q75", "question": "資金不足の_____、計画は中止となった。", "options": ["ため", "ものの", "反面", "限り"], "correct": 0, "explanation": "Debido a." },
+
+{ "id": "q76", "question": "結果は期待に_____ものだった。", "options": ["反する", "応じる", "伴う", "限る"], "correct": 0, "explanation": "Contrario a la expectativa." },
+
+{ "id": "q77", "question": "全力を尽くした_____、悔いはない。", "options": ["以上", "反面", "末", "限り"], "correct": 0, "explanation": "Ya que…" },
+
+{ "id": "q78", "question": "この薬は副作用が出るおそれが_____。", "options": ["ある", "いる", "なる", "できる"], "correct": 0, "explanation": "おそれがある = riesgo." },
+
+{ "id": "q79", "question": "その説明では納得する_____いかない。", "options": ["わけには", "ものには", "ことには", "はずには"], "correct": 0, "explanation": "〜わけにはいかない = no se puede aceptar." },
+
+{ "id": "q80", "question": "彼の成功は偶然_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es simple casualidad." },
+
+{ "id": "q81", "question": "経験を積む_____、判断力が向上する。", "options": ["につれて", "に反して", "に限って", "に伴っては"], "correct": 0, "explanation": "A medida que." },
+
+{ "id": "q82", "question": "彼の発言は誤解を招き_____。", "options": ["かねない", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Puede causar." },
+
+{ "id": "q83", "question": "状況は悪化する_____だ。", "options": ["一方", "末", "限り", "次第"], "correct": 0, "explanation": "Sigue empeorando." },
+
+{ "id": "q84", "question": "責任を取らずに済む_____ない。", "options": ["はずが", "べきが", "ものが", "ことが"], "correct": 0, "explanation": "Imposible." },
+
+{ "id": "q85", "question": "規則に_____、処分が決まる。", "options": ["従って", "反して", "伴って", "応じて"], "correct": 0, "explanation": "Según." },
+
+{ "id": "q86", "question": "彼の説明は論理的である_____、説得力に欠ける。", "options": ["ものの", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "Aunque." },
+
+{ "id": "q87", "question": "全員の賛成_____、計画は承認された。", "options": ["をもって", "に伴い", "に応じて", "に反して"], "correct": 0, "explanation": "Con." },
+
+{ "id": "q88", "question": "失敗を恐れる_____、挑戦するべきだ。", "options": ["どころか", "のみならず", "ばかりか", "に対して"], "correct": 0, "explanation": "Lejos de…" },
+
+{ "id": "q89", "question": "今回の事故は人為的ミス_____ものだ。", "options": ["による", "に応じる", "に伴う", "に反する"], "correct": 0, "explanation": "Causado por." },
+
+{ "id": "q90", "question": "期限までに提出できる_____ない。", "options": ["とは限ら", "に違い", "に相違", "に決まっ"], "correct": 0, "explanation": "No necesariamente." },
+
+{ "id": "q91", "question": "その発言は誤解を招くおそれが_____。", "options": ["ある", "いる", "なる", "できる"], "correct": 0, "explanation": "Riesgo de." },
+
+{ "id": "q92", "question": "法律の改正_____、制度が変更された。", "options": ["に伴い", "に反し", "に比べ", "に限り"], "correct": 0, "explanation": "Con la reforma." },
+
+{ "id": "q93", "question": "能力不足を理由に断る_____ない。", "options": ["わけにはいか", "ものではな", "はずがな", "ことがな"], "correct": 0, "explanation": "No puedo rechazar." },
+
+{ "id": "q94", "question": "問題の解決_____、時間が必要だ。", "options": ["には", "とは", "では", "からは"], "correct": 0, "explanation": "Para resolver." },
+
+{ "id": "q95", "question": "この制度は時代の変化_____対応していない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "Responder a." },
+
+{ "id": "q96", "question": "努力の結果_____、成功を収めた。", "options": ["として", "にしては", "に対して", "において"], "correct": 0, "explanation": "Como resultado." },
+
+{ "id": "q97", "question": "その提案は現実的とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de decir." },
+
+{ "id": "q98", "question": "被害は予想_____大きかった。", "options": ["以上に", "以下に", "ばかりに", "のみならず"], "correct": 0, "explanation": "Más de lo esperado." },
+
+{ "id": "q99", "question": "今回の成功は偶然_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es casualidad." },
+
+{ "id": "q100", "question": "状況を無視する_____いかない。", "options": ["わけには", "ものには", "ことには", "はずには"], "correct": 0, "explanation": "No se puede ignorar." },
+
+{ "id": "q101", "question": "この問題は一朝一夕に解決できる_____ない。", "options": ["ものでは", "はずでは", "ことでは", "わけでは"], "correct": 0, "explanation": "〜ものではない = no es algo que…" },
+
+{ "id": "q102", "question": "責任者として最後までやり遂げる_____がある。", "options": ["義務", "予定", "希望", "都合"], "correct": 0, "explanation": "義務がある = tener obligación." },
+
+{ "id": "q103", "question": "新しい方針は現状_____即していない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に即する = ajustarse a." },
+
+{ "id": "q104", "question": "多くの犠牲の_____、改革は実現した。", "options": ["末に", "反面に", "限りに", "次第に"], "correct": 0, "explanation": "〜の末に = tras mucho…" },
+
+{ "id": "q105", "question": "条件_____、参加が認められる場合がある。", "options": ["によっては", "に応じては", "に反しては", "に限っては"], "correct": 0, "explanation": "Dependiendo de." },
+
+{ "id": "q106", "question": "その態度は社会人としてある_____行為だ。", "options": ["まじき", "べき", "はず", "もの"], "correct": 0, "explanation": "〜まじき = impropio de." },
+
+{ "id": "q107", "question": "予想に_____結果が出た。", "options": ["反する", "応じる", "伴う", "限る"], "correct": 0, "explanation": "Contrario a lo esperado." },
+
+{ "id": "q108", "question": "資金不足のため、計画は延期せざるを_____。", "options": ["得ない", "かねる", "終えない", "かねない"], "correct": 0, "explanation": "〜ざるを得ない." },
+
+{ "id": "q109", "question": "説明不足は誤解を招き_____。", "options": ["かねない", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Puede provocar." },
+
+{ "id": "q110", "question": "彼の成功は努力の結果_____ほかない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜にほかない." },
+
+{ "id": "q111", "question": "問題解決_____、専門家の助言が必要だ。", "options": ["には", "とは", "では", "からは"], "correct": 0, "explanation": "Para…" },
+
+{ "id": "q112", "question": "景気は回復するどころか、悪化する_____だ。", "options": ["一方", "末", "限り", "次第"], "correct": 0, "explanation": "〜一方だ = sigue…" },
+
+{ "id": "q113", "question": "事実_____基づいて判断すべきだ。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に基づく." },
+
+{ "id": "q114", "question": "その提案は検討に値する_____だ。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "Juicio enfático." },
+
+{ "id": "q115", "question": "経験が豊富な_____、判断が的確だ。", "options": ["だけに", "のみならず", "どころか", "ものの"], "correct": 0, "explanation": "Precisamente porque." },
+
+{ "id": "q116", "question": "状況は改善する見込みは_____。", "options": ["ない", "ある", "いる", "できる"], "correct": 0, "explanation": "見込みはない = no hay perspectivas." },
+
+{ "id": "q117", "question": "この制度は再検討の余地がある_____。", "options": ["ものだ", "はずだ", "ことだ", "わけだ"], "correct": 0, "explanation": "Expresa evaluación." },
+
+{ "id": "q118", "question": "努力したからといって成功する_____ない。", "options": ["とは限ら", "に違い", "に相違", "に決まっ"], "correct": 0, "explanation": "No necesariamente." },
+
+{ "id": "q119", "question": "本人の意思_____反して決定された。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜に反する." },
+
+{ "id": "q120", "question": "責任を回避する_____いかない。", "options": ["わけには", "ものには", "ことには", "はずには"], "correct": 0, "explanation": "No se puede evitar." },
+
+{ "id": "q121", "question": "この結果は予想_____上回った。", "options": ["を", "に", "で", "が"], "correct": 0, "explanation": "〜を上回る." },
+
+{ "id": "q122", "question": "環境問題_____、国際会議が開かれた。", "options": ["をめぐって", "に応じて", "に反して", "に限って"], "correct": 0, "explanation": "En torno a." },
+
+{ "id": "q123", "question": "状況の変化_____、方針を見直す。", "options": ["に伴い", "に反し", "に比べ", "に限り"], "correct": 0, "explanation": "Junto con." },
+
+{ "id": "q124", "question": "その説明では納得できる_____ない。", "options": ["わけが", "ものが", "ことが", "はずが"], "correct": 0, "explanation": "No hay manera de…" },
+
+{ "id": "q125", "question": "全力を尽くした_____、結果に悔いはない。", "options": ["以上", "反面", "末", "限り"], "correct": 0, "explanation": "Ya que…" },
+
+{ "id": "q126", "question": "誤った情報は混乱を招き_____。", "options": ["かねない", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Puede causar." },
+
+{ "id": "q127", "question": "今回の失敗は準備不足_____ものだ。", "options": ["による", "に応じる", "に伴う", "に反する"], "correct": 0, "explanation": "Causado por." },
+
+{ "id": "q128", "question": "時間の経過_____、記憶は薄れていく。", "options": ["とともに", "に反して", "に限って", "に伴っては"], "correct": 0, "explanation": "Con el paso del tiempo." },
+
+{ "id": "q129", "question": "その態度は理解に苦しむ_____だ。", "options": ["もの", "はず", "こと", "わけ"], "correct": 0, "explanation": "Expresa juicio." },
+
+{ "id": "q130", "question": "その理論は現実_____そぐわない。", "options": ["に", "と", "で", "が"], "correct": 0, "explanation": "〜にそぐわない = no encajar con." },
+
+{ "id": "q131", "question": "努力なくして成功はあり_____。", "options": ["得ない", "かねる", "かねない", "終えない"], "correct": 0, "explanation": "No puede existir." },
+
+{ "id": "q132", "question": "計画は予定どおりに進む_____ない。", "options": ["とは限ら", "に違い", "に相違", "に決まっ"], "correct": 0, "explanation": "No necesariamente." },
+
+{ "id": "q133", "question": "この問題は簡単に解決できる_____ない。", "options": ["ものでは", "はずでは", "ことでは", "わけでは"], "correct": 0, "explanation": "No es algo que…" },
+
+{ "id": "q134", "question": "予算削減_____、事業は縮小された。", "options": ["に伴い", "に反し", "に比べ", "に限り"], "correct": 0, "explanation": "Debido a." },
+
+{ "id": "q135", "question": "結果は努力の程度_____左右される。", "options": ["によって", "に反して", "に限って", "に伴って"], "correct": 0, "explanation": "Depende de." },
+
+{ "id": "q136", "question": "その判断は合理的とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de decir." },
+
+{ "id": "q137", "question": "彼の説明は筋が通っている_____、納得できない。", "options": ["ものの", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "Aunque." },
+
+{ "id": "q138", "question": "健康あっての人生_____。", "options": ["だ", "である", "です", "だった"], "correct": 0, "explanation": "Expresión fija." },
+
+{ "id": "q139", "question": "責任者の承認_____、実施できない。", "options": ["なしに", "に伴い", "に応じて", "に比べて"], "correct": 0, "explanation": "Sin." },
+
+{ "id": "q140", "question": "この制度は改善の余地がある_____。", "options": ["ものだ", "はずだ", "ことだ", "わけだ"], "correct": 0, "explanation": "Evaluación." },
+
+{ "id": "q141", "question": "状況を考慮した_____判断が必要だ。", "options": ["うえでの", "あげくの", "限りの", "末の"], "correct": 0, "explanation": "Tras considerar." },
+
+{ "id": "q142", "question": "彼の発言は事実に基づく_____とは思えない。", "options": ["もの", "はず", "こと", "わけ"], "correct": 0, "explanation": "No parece algo basado en…" },
+
+{ "id": "q143", "question": "その決定は慎重な検討の_____出された。", "options": ["末に", "反面に", "限りに", "次第に"], "correct": 0, "explanation": "Después de mucho análisis." },
+
+{ "id": "q144", "question": "今回の成功は努力_____賜物だ。", "options": ["の", "に", "で", "が"], "correct": 0, "explanation": "努力の賜物." },
+
+{ "id": "q145", "question": "環境保護_____、企業の責任が問われている。", "options": ["をめぐって", "に応じて", "に反して", "に限って"], "correct": 0, "explanation": "En torno a." },
+
+{ "id": "q146", "question": "事情が事情なだけに、延期もやむを_____。", "options": ["得ない", "かねる", "終えない", "かねない"], "correct": 0, "explanation": "No queda más remedio." },
+
+{ "id": "q147", "question": "説明を聞いた_____、疑問は残った。", "options": ["ものの", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "Aunque." },
+
+{ "id": "q148", "question": "この結果は偶然_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es casualidad." },
+
+{ "id": "q149", "question": "実力不足を痛感せざるを_____。", "options": ["得なかった", "かねなかった", "終えなかった", "かねなかった"], "correct": 0, "explanation": "Pasado de ざるを得ない." },
+
+{ "id": "q150", "question": "現状に満足する_____、改善を目指すべきだ。", "options": ["どころか", "のみならず", "ばかりか", "に対して"], "correct": 0, "explanation": "Lejos de…" },
+{ "id": "q151", "question": "この問題は放置すればする_____、事態は悪化する。", "options": ["ほど", "だけ", "こそ", "さえ"], "correct": 0, "explanation": "〜ば〜ほど = cuanto más…, más…" },
+
+{ "id": "q152", "question": "努力の結果_____、今の成功がある。", "options": ["あってこそ", "がゆえに", "にしては", "に限って"], "correct": 0, "explanation": "〜あってこそ = gracias a que…" },
+
+{ "id": "q153", "question": "彼の発言は冗談では_____、本気だった。", "options": ["すまされない", "かまわない", "ならない", "おわらない"], "correct": 0, "explanation": "No se puede tomar como broma." },
+
+{ "id": "q154", "question": "状況が状況_____、延期もやむを得ない。", "options": ["なだけに", "にしては", "に限って", "に比べて"], "correct": 0, "explanation": "Precisamente porque la situación es la que es." },
+
+{ "id": "q155", "question": "事実関係を確認する_____、結論は出せない。", "options": ["ことなくしては", "に伴っては", "に反しては", "に応じては"], "correct": 0, "explanation": "Sin…, no se puede…" },
+
+{ "id": "q156", "question": "責任者たる_____、最後まで説明すべきだ。", "options": ["もの", "こと", "わけ", "はず"], "correct": 0, "explanation": "〜たるもの = como alguien que es…" },
+
+{ "id": "q157", "question": "彼の成功は偶然に_____ない。", "options": ["よるものでは", "よるものが", "よるものを", "よるものに"], "correct": 0, "explanation": "No se debe a la casualidad." },
+
+{ "id": "q158", "question": "説明不足は誤解を招く_____ある。", "options": ["おそれが", "に違いが", "わけが", "はずが"], "correct": 0, "explanation": "おそれがある = riesgo de." },
+
+{ "id": "q159", "question": "この制度は時代の要請_____生まれた。", "options": ["を受けて", "に伴って", "に反して", "に応じては"], "correct": 0, "explanation": "Como resultado de recibir…" },
+
+{ "id": "q160", "question": "一度決めた_____、最後までやり抜くべきだ。", "options": ["からには", "どころか", "のみならず", "に対して"], "correct": 0, "explanation": "〜からには = ya que…" },
+
+{ "id": "q161", "question": "問題は解決した_____、根本的な課題は残っている。", "options": ["かに見えて", "どころか", "のみならず", "ばかりか"], "correct": 0, "explanation": "Aunque parece que…" },
+
+{ "id": "q162", "question": "その態度は理解できない_____でもない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No es que no se entienda…" },
+
+{ "id": "q163", "question": "結果のいかん_____、責任は免れない。", "options": ["を問わず", "に応じて", "に反して", "に伴って"], "correct": 0, "explanation": "Independientemente de." },
+
+{ "id": "q164", "question": "彼の実力は高く評価するに_____。", "options": ["値する", "伴う", "反する", "応じる"], "correct": 0, "explanation": "Merece alta valoración." },
+
+{ "id": "q165", "question": "努力なくして成功はあり得ない_____。", "options": ["といっても過言ではない", "わけではない", "はずがない", "ものではない"], "correct": 0, "explanation": "No es exagerado decir que…" },
+
+{ "id": "q166", "question": "彼の説明は論理的である_____、現実味に欠ける。", "options": ["とはいえ", "ゆえに", "以上", "限り"], "correct": 0, "explanation": "Aunque dicho eso…" },
+
+{ "id": "q167", "question": "状況は改善する見込みはほとんど_____。", "options": ["ないといっていい", "ないに違いない", "ないはずだ", "ないことだ"], "correct": 0, "explanation": "Se puede decir que casi no hay…" },
+
+{ "id": "q168", "question": "彼の発言は誤解を招きかねない_____ある。", "options": ["ものが", "ことが", "わけが", "はずが"], "correct": 1, "explanation": "ことがある = puede suceder que…" },
+
+{ "id": "q169", "question": "この結果は予想を上回る_____だった。", "options": ["もの", "はず", "こと", "わけ"], "correct": 0, "explanation": "Sustantivador enfático." },
+
+{ "id": "q170", "question": "本人の同意なくしては実施する_____。", "options": ["ことはできない", "ものではない", "はずがない", "わけではない"], "correct": 0, "explanation": "Sin…, no se puede…" },
+
+{ "id": "q171", "question": "この問題は一企業にとどまらず、社会全体_____影響を与えている。", "options": ["にまで", "にのみ", "にこそ", "にさえ"], "correct": 0, "explanation": "Hasta…" },
+
+{ "id": "q172", "question": "彼の態度は責任感に欠ける_____あるまい。", "options": ["と言わざるを", "と言うべき", "と言うはず", "と言うもの"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q173", "question": "状況の変化に応じて柔軟に対応する_____求められる。", "options": ["ことが", "ものが", "わけが", "はずが"], "correct": 0, "explanation": "Se requiere que…" },
+
+{ "id": "q174", "question": "彼の成功は努力の賜物_____ない。", "options": ["にほかなら", "に限ら", "に基づか", "に応じら"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q175", "question": "説明を聞いた上での判断_____、異論はない。", "options": ["とあれば", "にしては", "に限って", "に比べて"], "correct": 0, "explanation": "Si es una decisión tras escuchar…" },
+
+{ "id": "q176", "question": "この制度は改善の余地があると言わざるを_____。", "options": ["得ない", "かねる", "終えない", "かねない"], "correct": 0, "explanation": "No queda más que decir…" },
+
+{ "id": "q177", "question": "現実を直視することなくして問題は解決する_____。", "options": ["まい", "べきだ", "はずだ", "ものだ"], "correct": 0, "explanation": "まい = probablemente no / no ocurrirá." },
+
+{ "id": "q178", "question": "この状況は楽観視できる_____ない。", "options": ["ものでは", "はずでは", "ことでは", "わけでは"], "correct": 0, "explanation": "No es algo que pueda tomarse a la ligera." },
+
+{ "id": "q179", "question": "彼の努力は評価されて_____しかるべきだ。", "options": ["しかる", "ある", "いる", "なる"], "correct": 0, "explanation": "〜てしかるべきだ = merece…" },
+
+{ "id": "q180", "question": "条件が整い_____、計画は実行に移される。", "options": ["次第", "末", "限り", "反面"], "correct": 0, "explanation": "〜次第 = tan pronto como…" },
+
+{ "id": "q181", "question": "一概に否定する_____ない。", "options": ["ことも", "ものも", "わけも", "はずも"], "correct": 0, "explanation": "No se puede negar categóricamente." },
+
+{ "id": "q182", "question": "彼の説明は一理ある_____だ。", "options": ["もの", "はず", "こと", "わけ"], "correct": 0, "explanation": "Tiene algo de razón." },
+
+{ "id": "q183", "question": "今回の決定はやむを得ない措置と_____べきだ。", "options": ["見る", "見せる", "見られる", "見える"], "correct": 0, "explanation": "Debe considerarse…" },
+
+{ "id": "q184", "question": "状況が改善しない限り、再開はあり_____。", "options": ["得ない", "かねない", "かねる", "終えない"], "correct": 0, "explanation": "No puede darse." },
+
+{ "id": "q185", "question": "その提案は現実的とは言い_____。", "options": ["がたい", "かねる", "得ない", "終えない"], "correct": 0, "explanation": "Difícil de llamar…" },
+
+{ "id": "q186", "question": "彼の説明は納得できない_____でもない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No es que no sea convincente." },
+
+{ "id": "q187", "question": "この制度は時代遅れと言わざるを_____。", "options": ["得ない", "かねない", "終えない", "かねる"], "correct": 0, "explanation": "No se puede sino decir…" },
+
+{ "id": "q188", "question": "全体像を把握することなくして判断は下せ_____。", "options": ["まい", "べきだ", "はずだ", "ものだ"], "correct": 0, "explanation": "No se podrá…" },
+
+{ "id": "q189", "question": "彼の態度は批判を免れ_____。", "options": ["ない", "ある", "いる", "できる"], "correct": 0, "explanation": "No puede evitar críticas." },
+
+{ "id": "q190", "question": "この結果は驚きに_____ない。", "options": ["値し", "伴い", "反し", "応じ"], "correct": 0, "explanation": "No merece sorpresa." },
+
+{ "id": "q191", "question": "状況を踏まえた上での判断_____尊重すべきだ。", "options": ["であれば", "にしては", "に限って", "に比べて"], "correct": 0, "explanation": "Si es una decisión basada en…" },
+
+{ "id": "q192", "question": "彼の成功は並々ならぬ努力の結果_____ない。", "options": ["にほかなら", "に限ら", "に基づか", "に応じら"], "correct": 0, "explanation": "No es más que…" },
+
+{ "id": "q193", "question": "説明不足は誤解を生む原因と_____言える。", "options": ["して", "にして", "として", "と"], "correct": 2, "explanation": "〜として言える = puede considerarse como." },
+
+{ "id": "q194", "question": "この制度は改善されてしかる_____。", "options": ["べきだ", "ものだ", "はずだ", "ことだ"], "correct": 0, "explanation": "Debería ser mejorado." },
+
+{ "id": "q195", "question": "状況の深刻さを考えれば、対策を講じないわけには_____。", "options": ["いかない", "ならない", "できない", "すまない"], "correct": 0, "explanation": "No se puede no…" },
+
+{ "id": "q196", "question": "彼の発言は到底容認できるもの_____ない。", "options": ["では", "にも", "こそ", "さえ"], "correct": 0, "explanation": "No es algo que pueda aceptarse." },
+
+{ "id": "q197", "question": "今回の失敗は準備不足と言わざるを_____。", "options": ["得ない", "かねる", "終えない", "かねない"], "correct": 0, "explanation": "No queda más que decir…" },
+
+{ "id": "q198", "question": "この問題は簡単には解決する_____。", "options": ["まい", "べきだ", "はずだ", "ものだ"], "correct": 0, "explanation": "Probablemente no se resolverá fácilmente." },
+
+{ "id": "q199", "question": "彼の努力は称賛に_____。", "options": ["値する", "伴う", "反する", "応じる"], "correct": 0, "explanation": "Merece elogio." },
+
+{ "id": "q200", "question": "状況が改善しない限り、問題は解決する_____ない。", "options": ["ことは", "ものは", "わけは", "はずは"], "correct": 0, "explanation": "No se resolverá mientras…" } 
+
+
+
+
+
+
+  ]
+}

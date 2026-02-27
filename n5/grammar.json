@@ -16,6 +16,74 @@
       "es": "Esto es un libro."
     }
   ]
+},
+    {
+  "id": "n5-2",
+  "category": "Estructura básica",
+  "title": "〜は〜じゃありません",
+  "formula": "S + は + N / Adj + じゃありません",
+  "description": "Forma negativa formal de です. Indica que el sujeto no es o no tiene la cualidad expresada.",
+  "examples": [
+    {
+      "jp": "私[わたし]は 学生[がくせい]じゃありません。",
+      "es": "No soy estudiante."
+    },
+    {
+      "jp": "今日[きょう]は 休[やす]みじゃありません。",
+      "es": "Hoy no es día libre."
+    }
+  ]
+},
+{
+  "id": "n5-3",
+  "category": "Estructura básica",
+  "title": "〜は〜ですか",
+  "formula": "S + は + N / Adj + ですか",
+  "description": "Forma interrogativa formal. Se usa para hacer preguntas simples.",
+  "examples": [
+    {
+      "jp": "あなたは 先生[せんせい]ですか。",
+      "es": "¿Eres profesor?"
+    },
+    {
+      "jp": "これは 高[たか]いですか。",
+      "es": "¿Esto es caro?"
+    }
+  ]
+},
+{
+  "id": "n5-4",
+  "category": "Partícula",
+  "title": "も",
+  "formula": "S + も",
+  "description": "Partícula que significa 'también'. Sustituye a は cuando se añade información similar.",
+  "examples": [
+    {
+      "jp": "私[わたし]も 学生[がくせい]です。",
+      "es": "Yo también soy estudiante."
+    },
+    {
+      "jp": "彼[かれ]も 行[い]きます。",
+      "es": "Él también va."
+    }
+  ]
+},
+{
+  "id": "n5-5",
+  "category": "Partícula",
+  "title": "の (posesión)",
+  "formula": "N1 + の + N2",
+  "description": "Indica posesión o relación entre dos sustantivos.",
+  "examples": [
+    {
+      "jp": "私[わたし]の 本[ほん]です。",
+      "es": "Es mi libro."
+    },
+    {
+      "jp": "日本[にほん]の 車[くるま]です。",
+      "es": "Es un coche japonés."
+    }
+  ]
 }
   ]
 }

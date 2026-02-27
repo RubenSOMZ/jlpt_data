@@ -1,1 +1,407 @@
+{
+  "sentences": [
 
+
+{ "id": "s1", "jp_parts": "政府[せいふ]は 景気[けいき]回復[かいふく]を 目指[めざ]して 新[あら]たな 政策[せいさく]を 打[う]ち出[だ]した。", "es": "El gobierno lanzó nuevas políticas con el objetivo de recuperar la economía." },
+
+{ "id": "s2", "jp_parts": "彼[かれ]は 失敗[しっぱい]した とはいえ その 経験[けいけん]は 無駄[むだ]ではなかった。", "es": "Aunque fracasó, esa experiencia no fue inútil." },
+
+{ "id": "s3", "jp_parts": "状況[じょうきょう]が 変[か]わらない かぎり 計画[けいかく]は 実行[じっこう]できない。", "es": "Mientras la situación no cambie, el plan no puede ejecutarse." },
+
+{ "id": "s4", "jp_parts": "彼女[かのじょ]は 努力[どりょく]した 末[すえ]に ようやく 成功[せいこう]を 手[て]に入[い]れた。", "es": "Tras muchos esfuerzos, finalmente logró el éxito." },
+
+{ "id": "s5", "jp_parts": "事故[じこ]の 原因[げんいん]は 調査[ちょうさ]の 結果[けっか] 明[あき]らかになった。", "es": "La causa del accidente quedó clara tras la investigación." },
+
+{ "id": "s6", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らなかった ばかりか 言[い]い訳[わけ]まで した。", "es": "No solo rompió la promesa, sino que además puso excusas." },
+
+{ "id": "s7", "jp_parts": "天候[てんこう]が 悪化[あっか]した ため 試合[しあい]は 中止[ちゅうし]せざるを 得[え]なかった。", "es": "Debido al empeoramiento del clima, no quedó más remedio que cancelar el partido." },
+
+{ "id": "s8", "jp_parts": "彼女[かのじょ]は 疲[つか]れている にもかかわらず 最後[さいご]まで 参加[さんか]した。", "es": "Aunque estaba cansada, participó hasta el final." },
+
+{ "id": "s9", "jp_parts": "問題[もんだい]が 発生[はっせい]した 場合[ばあい]は 直[ただ]ちに 連絡[れんらく]してください。", "es": "En caso de que surja un problema, contacte inmediatamente." },
+
+{ "id": "s10", "jp_parts": "彼[かれ]は 成功[せいこう]する ものと ばかり 思[おも]っていた。", "es": "Estaba convencido de que tendría éxito." },
+
+{ "id": "s11", "jp_parts": "会議[かいぎ]は 予定[よてい]どおりに 進[すす]んだ わけではない。", "es": "La reunión no avanzó exactamente según lo previsto." },
+
+{ "id": "s12", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する にあたって 多[おお]くの 準備[じゅんび]を した。", "es": "Al irse a estudiar al extranjero, hizo muchos preparativos." },
+
+{ "id": "s13", "jp_parts": "彼[かれ]は 努力[どりょく]した にもかかわらず 結果[けっか]は 出[で]なかった。", "es": "Aunque se esforzó, no obtuvo resultados." },
+
+{ "id": "s14", "jp_parts": "経済[けいざい]が 回復[かいふく]しない かぎり 失業率[しつぎょうりつ]は 下[さ]がらない。", "es": "Mientras la economía no se recupere, el desempleo no bajará." },
+
+{ "id": "s15", "jp_parts": "彼女[かのじょ]は 驚[おどろ]きの あまり 言葉[ことば]を 失[うしな]った。", "es": "Se quedó sin palabras de la sorpresa." },
+
+{ "id": "s16", "jp_parts": "彼[かれ]は 成功[せいこう]した とはいうものの 課題[かだい]は まだ 多[おお]い。", "es": "Aunque tuvo éxito, aún quedan muchos desafíos." },
+
+{ "id": "s17", "jp_parts": "事故[じこ]を 防[ふせ]ぐ ためには 事前[じぜん]の 確認[かくにん]が 欠[か]かせない。", "es": "Para prevenir accidentes, la verificación previa es indispensable." },
+
+{ "id": "s18", "jp_parts": "彼女[かのじょ]は 病気[びょうき]を おして 試合[しあい]に 出場[しゅつじょう]した。", "es": "Participó en el partido pese a estar enferma." },
+
+{ "id": "s19", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らない ことが 多[おお]い にもかかわらず 信頼[しんらい]されている。", "es": "Aunque a menudo no cumple promesas, es confiado." },
+
+{ "id": "s20", "jp_parts": "この 計画[けいかく]は 成功[せいこう]する 可能性[かのうせい]が 高[たか]い と 見[み]られている。", "es": "Se considera que este plan tiene altas probabilidades de éxito." },
+
+{ "id": "s21", "jp_parts": "彼女[かのじょ]は 合格[ごうかく]する まで 勉強[べんきょう]を 続[つづ]けた。", "es": "Continuó estudiando hasta aprobar." },
+
+{ "id": "s22", "jp_parts": "彼[かれ]は 断[ことわ]る ことなく 引[ひ]き受[う]けた。", "es": "Lo aceptó sin negarse." },
+
+{ "id": "s23", "jp_parts": "会議[かいぎ]は 延期[えんき]される ことに なった。", "es": "Se decidió posponer la reunión." },
+
+{ "id": "s24", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した かのように 振[ふ]る舞[ま]った。", "es": "Actuó como si hubiera tenido éxito." },
+
+{ "id": "s25", "jp_parts": "景気[けいき]が 悪化[あっか]した 結果[けっか] 多[おお]くの 企業[きぎょう]が 倒産[とうさん]した。", "es": "Como resultado del empeoramiento económico, muchas empresas quebraron." },
+
+{ "id": "s26", "jp_parts": "彼[かれ]は 注意[ちゅうい]された にもかかわらず 同[おな]じ ミスを 繰[く]り返[かえ]した。", "es": "A pesar de haber sido advertido, repitió el mismo error." },
+
+{ "id": "s27", "jp_parts": "結果[けっか]が 出[で]る まで 安心[あんしん]する わけにはいかない。", "es": "No podemos quedarnos tranquilos hasta que salgan los resultados." },
+
+{ "id": "s28", "jp_parts": "彼女[かのじょ]は 努力[どりょく]した 末[すえ]に 奨学金[しょうがくきん]を 得[え]た。", "es": "Tras mucho esfuerzo, consiguió una beca." },
+
+{ "id": "s29", "jp_parts": "事故[じこ]が 起[お]きた 以上[いじょう] 責任[せきにん]を 取[と]らざるを 得[え]ない。", "es": "Ya que ocurrió el accidente, no queda más remedio que asumir la responsabilidad." },
+
+{ "id": "s30", "jp_parts": "彼[かれ]は 失敗[しっぱい]した とはいえ 経験[けいけん]を 積[つ]む ことが できた。", "es": "Aunque fracasó, pudo ganar experiencia." },
+
+{ "id": "s31", "jp_parts": "状況[じょうきょう]に よっては 計画[けいかく]を 変更[へんこう]する ことも ある。", "es": "Dependiendo de la situación, el plan puede cambiar." },
+
+{ "id": "s32", "jp_parts": "彼女[かのじょ]は 疲[つか]れている にもかかわらず 残業[ざんぎょう]した。", "es": "Aunque estaba cansada, hizo horas extra." },
+
+{ "id": "s33", "jp_parts": "景気[けいき]が 回復[かいふく]しない かぎり 問題[もんだい]は 解決[かいけつ]しない。", "es": "Mientras la economía no se recupere, el problema no se resolverá." },
+
+{ "id": "s34", "jp_parts": "彼[かれ]は 成功[せいこう]する ものと 思[おも]われていた。", "es": "Se pensaba que tendría éxito." },
+
+{ "id": "s35", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する にあたって 両親[りょうしん]と 相談[そうだん]した。", "es": "Consultó con sus padres al irse a estudiar al extranjero." },
+
+{ "id": "s36", "jp_parts": "天候[てんこう]が 悪化[あっか]した ため 試合[しあい]は 延期[えんき]された。", "es": "Debido al empeoramiento del clima, el partido fue aplazado." },
+
+{ "id": "s37", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らなかった ばかりか 連絡[れんらく]もしなかった。", "es": "No solo no cumplió la promesa, sino que tampoco contactó." },
+
+{ "id": "s38", "jp_parts": "問題[もんだい]が 解決[かいけつ]しない かぎり 前[まえ]に 進[すす]めない。", "es": "Mientras el problema no se resuelva, no podremos avanzar." },
+
+{ "id": "s39", "jp_parts": "彼女[かのじょ]は 緊張[きんちょう]の あまり 声[こえ]が 出[で]なかった。", "es": "De los nervios, no le salía la voz." },
+
+{ "id": "s40", "jp_parts": "彼[かれ]は 成功[せいこう]した としても 満足[まんぞく]しない だろう。", "es": "Aunque tenga éxito, probablemente no quedará satisfecho." },
+
+{ "id": "s41", "jp_parts": "計画[けいかく]は 中止[ちゅうし]せざるを 得[え]なかった。", "es": "No quedó más remedio que cancelar el plan." },
+
+{ "id": "s42", "jp_parts": "彼女[かのじょ]は 病気[びょうき]を おして 会議[かいぎ]に 出席[しゅっせき]した。", "es": "Asistió a la reunión pese a estar enferma." },
+
+{ "id": "s43", "jp_parts": "結果[けっか]が 悪[わる]かった にもかかわらず 彼[かれ]は 落[お]ち着[つ]いていた。", "es": "Aunque el resultado fue malo, él estaba tranquilo." },
+
+{ "id": "s44", "jp_parts": "彼女[かのじょ]は 合格[ごうかく]する まで 努力[どりょく]を 続[つづ]けた。", "es": "Continuó esforzándose hasta aprobar." },
+
+{ "id": "s45", "jp_parts": "状況[じょうきょう]に 応[おう]じて 対応[たいおう]を 変[か]える 必要[ひつよう]が ある。", "es": "Es necesario cambiar la respuesta según la situación." },
+
+{ "id": "s46", "jp_parts": "彼[かれ]は 断[ことわ]る ことなく 依頼[いらい]を 受[う]けた。", "es": "Aceptó la solicitud sin negarse." },
+
+{ "id": "s47", "jp_parts": "事故[じこ]が 起[お]きた 以上[いじょう] 原因[げんいん]を 調[しら]べる べきだ。", "es": "Ya que ocurrió el accidente, debemos investigar la causa." },
+
+{ "id": "s48", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した かのように 話[はな]していた。", "es": "Hablaba como si hubiera tenido éxito." },
+
+{ "id": "s49", "jp_parts": "景気[けいき]が 悪化[あっか]した 結果[けっか] 失業者[しつぎょうしゃ]が 増[ふ]えた。", "es": "Como resultado del deterioro económico, aumentó el desempleo." },
+
+{ "id": "s50", "jp_parts": "彼[かれ]は 注意[ちゅうい]された にもかかわらず 態度[たいど]を 変[か]えなかった。", "es": "A pesar de ser advertido, no cambió su actitud." },
+
+{ "id": "s51", "jp_parts": "結果[けっか]が 出[で]る までは 判断[はんだん]できない。", "es": "No se puede juzgar hasta que salgan los resultados." },
+
+{ "id": "s52", "jp_parts": "彼女[かのじょ]は 努力[どりょく]の 末[すえ]に 目標[もくひょう]を 達成[たっせい]した。", "es": "Tras mucho esfuerzo, alcanzó su objetivo." },
+
+{ "id": "s53", "jp_parts": "状況[じょうきょう]が 改善[かいぜん]しない かぎり 問題[もんだい]は 続[つづ]く。", "es": "Mientras la situación no mejore, el problema continuará." },
+
+{ "id": "s54", "jp_parts": "彼[かれ]は 成功[せいこう]する と 見[み]られている。", "es": "Se considera que tendrá éxito." },
+
+{ "id": "s55", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する にあたって 必要[ひつよう]な 書類[しょるい]を そろえた。", "es": "Reunió los documentos necesarios al irse a estudiar al extranjero." },
+
+{ "id": "s56", "jp_parts": "天候[てんこう]が 悪[わる]い ため 試合[しあい]は 中止[ちゅうし]された。", "es": "Debido al mal tiempo, el partido fue cancelado." },
+
+{ "id": "s57", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らない ばかりか 逆[ぎゃく]に 文句[もんく]を 言[い]った。", "es": "No solo no cumplió la promesa, sino que además se quejó." },
+
+{ "id": "s58", "jp_parts": "問題[もんだい]が 解決[かいけつ]しない かぎり 計画[けいかく]は 実行[じっこう]できない。", "es": "Mientras el problema no se resuelva, el plan no puede ejecutarse." },
+
+{ "id": "s59", "jp_parts": "彼女[かのじょ]は 驚[おどろ]きの あまり 立[た]ち上[あ]がった。", "es": "Se levantó de la sorpresa." },
+
+{ "id": "s60", "jp_parts": "彼[かれ]は 成功[せいこう]した としても 慢心[まんしん]しない だろう。", "es": "Aunque tenga éxito, probablemente no se confiará." },
+
+{ "id": "s61", "jp_parts": "計画[けいかく]は 延期[えんき]せざるを 得[え]なかった。", "es": "No quedó más remedio que posponer el plan." },
+
+{ "id": "s62", "jp_parts": "彼女[かのじょ]は 病気[びょうき]にもかかわらず 出勤[しゅっきん]した。", "es": "Fue a trabajar a pesar de estar enferma." },
+
+{ "id": "s63", "jp_parts": "結果[けっか]が 悪[わる]かった にもかかわらず 前向[まえむ]きだった。", "es": "Aunque el resultado fue malo, mantuvo una actitud positiva." },
+
+{ "id": "s64", "jp_parts": "彼女[かのじょ]は 合格[ごうかく]する まで 諦[あきら]めなかった。", "es": "No se rindió hasta aprobar." },
+
+{ "id": "s65", "jp_parts": "状況[じょうきょう]に 応[おう]じて 判断[はんだん]する 必要[ひつよう]が ある。", "es": "Es necesario juzgar según la situación." },
+
+{ "id": "s66", "jp_parts": "彼[かれ]は 断[ことわ]る ことなく 責任[せきにん]を 引[ひ]き受[う]けた。", "es": "Aceptó la responsabilidad sin negarse." },
+
+{ "id": "s67", "jp_parts": "事故[じこ]が 起[お]きた 以上[いじょう] 再発防止[さいはつぼうし]が 求[もと]められる。", "es": "Ya que ocurrió el accidente, se exige prevenir que vuelva a suceder." },
+
+{ "id": "s68", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した かのような 表情[ひょうじょう]を していた。", "es": "Tenía una expresión como si hubiera tenido éxito." },
+
+{ "id": "s69", "jp_parts": "景気[けいき]が 悪化[あっか]した 結果[けっか] 消費[しょうひ]が 減[へ]った。", "es": "Como resultado del deterioro económico, disminuyó el consumo." },
+
+{ "id": "s70", "jp_parts": "彼[かれ]は 注意[ちゅうい]された にもかかわらず 態度[たいど]を 改[あらた]めなかった。", "es": "A pesar de ser advertido, no corrigió su actitud." },
+
+{ "id": "s71", "jp_parts": "結果[けっか]が 出[で]る までは 楽観視[らっかんし]できない。", "es": "No se puede ser optimista hasta que salgan los resultados." },
+
+{ "id": "s72", "jp_parts": "彼女[かのじょ]は 努力[どりょく]の 末[すえ]に 昇進[しょうしん]した。", "es": "Tras mucho esfuerzo, fue ascendida." },
+
+{ "id": "s73", "jp_parts": "状況[じょうきょう]が 変[か]わらない かぎり 解決[かいけつ]は 難[むずか]しい。", "es": "Mientras la situación no cambie, la solución es difícil." },
+
+{ "id": "s74", "jp_parts": "彼[かれ]は 成功[せいこう]する と 期待[きたい]されている。", "es": "Se espera que tenga éxito." },
+
+{ "id": "s75", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する にあたって 多額[たがく]の 費用[ひよう]が かかった。", "es": "Le costó mucho dinero irse a estudiar al extranjero." },
+
+{ "id": "s76", "jp_parts": "天候[てんこう]が 悪[わる]かった ため 旅行[りょこう]は 中止[ちゅうし]となった。", "es": "Debido al mal tiempo, el viaje fue cancelado." },
+
+{ "id": "s77", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らない ばかりか 人[ひと]を 傷[きず]つけた。", "es": "No solo no cumplió la promesa, sino que hirió a alguien." },
+
+{ "id": "s78", "jp_parts": "問題[もんだい]が 解決[かいけつ]しない かぎり 不安[ふあん]は 消[き]えない。", "es": "Mientras el problema no se resuelva, la ansiedad no desaparecerá." },
+
+{ "id": "s79", "jp_parts": "彼女[かのじょ]は 驚[おどろ]きの あまり 声[こえ]を 上[あ]げた。", "es": "Gritó de la sorpresa." },
+
+{ "id": "s80", "jp_parts": "彼[かれ]は 成功[せいこう]した としても 自慢[じまん]しない だろう。", "es": "Aunque tenga éxito, probablemente no presumirá." },
+
+{ "id": "s81", "jp_parts": "計画[けいかく]は 変更[へんこう]せざるを 得[え]なかった。", "es": "No quedó más remedio que cambiar el plan." },
+
+{ "id": "s82", "jp_parts": "彼女[かのじょ]は 病気[びょうき]にもかかわらず 最後[さいご]まで 働[はたら]いた。", "es": "Trabajó hasta el final pese a estar enferma." },
+
+{ "id": "s83", "jp_parts": "結果[けっか]が 悪[わる]かった にもかかわらず 前進[ぜんしん]した。", "es": "Aunque el resultado fue malo, avanzó." },
+
+{ "id": "s84", "jp_parts": "彼女[かのじょ]は 合格[ごうかく]する まで 挑戦[ちょうせん]し続[つづ]けた。", "es": "Continuó intentándolo hasta aprobar." },
+
+{ "id": "s85", "jp_parts": "状況[じょうきょう]に 応[おう]じて 柔軟[じゅうなん]に 対応[たいおう]する べきだ。", "es": "Debemos adaptarnos con flexibilidad según la situación." },
+
+{ "id": "s86", "jp_parts": "彼[かれ]は 断[ことわ]る ことなく 任務[にんむ]を 引[ひ]き受[う]けた。", "es": "Aceptó la misión sin negarse." },
+
+{ "id": "s87", "jp_parts": "事故[じこ]が 起[お]きた 以上[いじょう] 再発防止策[さいはつぼうしさく]が 必要[ひつよう]だ。", "es": "Ya que ocurrió el accidente, se necesitan medidas preventivas." },
+
+{ "id": "s88", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した かのような 態度[たいど]を とった。", "es": "Adoptó una actitud como si hubiera tenido éxito." },
+
+{ "id": "s89", "jp_parts": "景気[けいき]が 悪化[あっか]した 結果[けっか] 物価[ぶっか]が 上[あ]がった。", "es": "Como resultado del deterioro económico, subieron los precios." },
+
+{ "id": "s90", "jp_parts": "彼[かれ]は 注意[ちゅうい]された にもかかわらず 同[おな]じ 行動[こうどう]を とった。", "es": "A pesar de ser advertido, tomó la misma acción." },
+
+{ "id": "s91", "jp_parts": "結果[けっか]が 出[で]る までは 判断[はんだん]を 控[ひか]える べきだ。", "es": "Debemos abstenernos de juzgar hasta que salgan los resultados." },
+
+{ "id": "s92", "jp_parts": "彼女[かのじょ]は 努力[どりょく]の 末[すえ]に 評価[ひょうか]された。", "es": "Fue valorada tras mucho esfuerzo." },
+
+{ "id": "s93", "jp_parts": "状況[じょうきょう]が 変[か]わらない かぎり 前進[ぜんしん]できない。", "es": "Mientras la situación no cambie, no podremos avanzar." },
+
+{ "id": "s94", "jp_parts": "彼[かれ]は 成功[せいこう]する と 信[しん]じられている。", "es": "Se cree que tendrá éxito." },
+
+{ "id": "s95", "jp_parts": "彼女[かのじょ]は 留学[りゅうがく]する にあたって 多[おお]くの 課題[かだい]に 直面[ちょくめん]した。", "es": "Al estudiar en el extranjero, enfrentó muchos desafíos." },
+
+{ "id": "s96", "jp_parts": "天候[てんこう]が 悪[わる]かった ため 登山[とざん]は 中止[ちゅうし]された。", "es": "Debido al mal tiempo, el ascenso fue cancelado." },
+
+{ "id": "s97", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]らない ばかりか 責任[せきにん]も 取[と]らなかった。", "es": "No solo no cumplió la promesa, sino que tampoco asumió responsabilidad." },
+
+{ "id": "s98", "jp_parts": "問題[もんだい]が 解決[かいけつ]しない かぎり 不満[ふまん]は 続[つづ]く。", "es": "Mientras el problema no se resuelva, la insatisfacción continuará." },
+
+{ "id": "s99", "jp_parts": "彼女[かのじょ]は 驚[おどろ]きの あまり 涙[なみだ]を 流[なが]した。", "es": "Lloró de la sorpresa." },
+
+{ "id": "s100", "jp_parts": "彼[かれ]は 成功[せいこう]した としても 気[き]を 抜[ぬ]かない だろう。", "es": "Aunque tenga éxito, probablemente no bajará la guardia." },
+
+{ "id": "s101", "jp_parts": "制度[せいど]の 変更[へんこう]に 伴[ともな]って 手続[てつづ]きも 複雑[ふくざつ]になった。", "es": "Con el cambio del sistema, los trámites también se volvieron más complejos." },
+
+{ "id": "s102", "jp_parts": "彼[かれ]は 説明[せつめい]した ものの 納得[なっとく]してもらえなかった。", "es": "Aunque lo explicó, no logró convencerlos." },
+
+{ "id": "s103", "jp_parts": "景気[けいき]の 悪化[あっか]に 伴[ともな]い 失業者[しつぎょうしゃ]が 増加[ぞうか]している。", "es": "Con el deterioro económico, el desempleo está aumentando." },
+
+{ "id": "s104", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した といっても 過言[かごん]ではない。", "es": "No sería exagerado decir que tuvo éxito." },
+
+{ "id": "s105", "jp_parts": "問題[もんだい]を めぐって 意見[いけん]が 対立[たいりつ]している。", "es": "Las opiniones están divididas en torno al problema." },
+
+{ "id": "s106", "jp_parts": "彼[かれ]は 病気[びょうき]の ため 退職[たいしょく]せざるを 得[え]なかった。", "es": "No tuvo más remedio que dejar el trabajo por enfermedad." },
+
+{ "id": "s107", "jp_parts": "結果[けっか]は 努力[どりょく]の 賜物[たまもの]に ほかならない。", "es": "El resultado no es otra cosa que fruto del esfuerzo." },
+
+{ "id": "s108", "jp_parts": "事実[じじつ]が 明[あき]らかに なる に つれて 世論[よろん]も 変化[へんか]した。", "es": "A medida que los hechos se aclaraban, la opinión pública cambió." },
+
+{ "id": "s109", "jp_parts": "彼女[かのじょ]は 反対[はんたい]した ものの 最終的[さいしゅうてき]には 同意[どうい]した。", "es": "Aunque se opuso, finalmente estuvo de acuerdo." },
+
+{ "id": "s110", "jp_parts": "環境[かんきょう]問題[もんだい]の 解決[かいけつ]が 急務[きゅうむ]だと 言[い]わざるを 得[え]ない。", "es": "No se puede dejar de decir que resolver el problema ambiental es urgente." },
+
+{ "id": "s111", "jp_parts": "経済[けいざい]成長[せいちょう]に 伴[ともな]い 生活水準[せいかつすいじゅん]も 向上[こうじょう]した。", "es": "Con el crecimiento económico, el nivel de vida también mejoró." },
+
+{ "id": "s112", "jp_parts": "彼[かれ]は 責任[せきにん]を 取[と]る ほか なかった。", "es": "No tuvo otra opción que asumir la responsabilidad." },
+
+{ "id": "s113", "jp_parts": "新[あたら]しい 技術[ぎじゅつ]の 導入[どうにゅう]に よって 生産性[せいさんせい]が 高[たか]まった。", "es": "Gracias a la introducción de nueva tecnología, la productividad aumentó." },
+
+{ "id": "s114", "jp_parts": "彼女[かのじょ]は 疑問[ぎもん]を 抱[いだ]き つつも 指示[しじ]に 従[したが]った。", "es": "Aunque tenía dudas, siguió las instrucciones." },
+
+{ "id": "s115", "jp_parts": "計画[けいかく]の 変更[へんこう]を 余儀[よぎ]なくされた。", "es": "Se vio obligado a cambiar el plan." },
+
+{ "id": "s116", "jp_parts": "事故[じこ]の 原因[げんいん]は 人為的[じんいてき]ミスに よる ものだ。", "es": "La causa del accidente se debe a un error humano." },
+
+{ "id": "s117", "jp_parts": "彼[かれ]は 努力[どりょく]した だけの 成果[せいか]は あった と 言[い]える。", "es": "Se puede decir que obtuvo resultados acordes a su esfuerzo." },
+
+{ "id": "s118", "jp_parts": "物価[ぶっか]の 上昇[じょうしょう]に 伴[ともな]って 生活費[せいかつひ]も 増[ふ]えた。", "es": "Con el aumento de precios, los gastos de vida también crecieron." },
+
+{ "id": "s119", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した とは 限[かぎ]らない。", "es": "No necesariamente tuvo éxito." },
+
+{ "id": "s120", "jp_parts": "この 問題[もんだい]は 早急[そうきゅう]に 解決[かいけつ]される べきだ。", "es": "Este problema debe resolverse urgentemente." },
+
+{ "id": "s121", "jp_parts": "世代[せだい]が 変[か]わる に つれて 価値観[かちかん]も 変化[へんか]する。", "es": "A medida que cambian las generaciones, también cambian los valores." },
+
+{ "id": "s122", "jp_parts": "彼[かれ]は 約束[やくそく]を 破[やぶ]った ものの 謝罪[しゃざい]した。", "es": "Aunque rompió la promesa, se disculpó." },
+
+{ "id": "s123", "jp_parts": "政策[せいさく]の 見直[みなお]しが 必要[ひつよう]だと 考[かんが]えられる。", "es": "Se considera necesaria la revisión de la política." },
+
+{ "id": "s124", "jp_parts": "彼女[かのじょ]は 責任[せきにん]を 免[まぬが]れない 立場[たちば]に ある。", "es": "Está en una posición en la que no puede eludir la responsabilidad." },
+
+{ "id": "s125", "jp_parts": "改革[かいかく]に 伴[ともな]い 組織[そしき]の 再編[さいへん]が 行[おこな]われた。", "es": "Con la reforma, se llevó a cabo una reorganización." },
+
+{ "id": "s126", "jp_parts": "彼[かれ]は 無罪[むざい]だと 主張[しゅちょう]している。", "es": "Afirma que es inocente." },
+
+{ "id": "s127", "jp_parts": "需要[じゅよう]が 高[たか]まる に つれて 価格[かかく]も 上昇[じょうしょう]した。", "es": "A medida que aumentó la demanda, los precios también subieron." },
+
+{ "id": "s128", "jp_parts": "彼女[かのじょ]は 努力[どりょく]した にもかかわらず 報[むく]われなかった。", "es": "Aunque se esforzó, no fue recompensada." },
+
+{ "id": "s129", "jp_parts": "状況[じょうきょう]を 考慮[こうりょ]した うえで 判断[はんだん]すべきだ。", "es": "Debe juzgarse teniendo en cuenta la situación." },
+
+{ "id": "s130", "jp_parts": "彼[かれ]は 失敗[しっぱい]を 教訓[きょうくん]として 次[つぎ]に 生[い]かした。", "es": "Utilizó el fracaso como lección para la siguiente vez." },
+
+{ "id": "s131", "jp_parts": "社会[しゃかい]の 変化[へんか]に 伴[ともな]って 法律[ほうりつ]も 改正[かいせい]された。", "es": "Con los cambios sociales, también se reformaron las leyes." },
+
+{ "id": "s132", "jp_parts": "彼女[かのじょ]は 参加[さんか]する かどうか 迷[まよ]っている。", "es": "Está dudando si participar o no." },
+
+{ "id": "s133", "jp_parts": "この 問題[もんだい]は 軽視[けいし]できない と 言[い]わざるを 得[え]ない。", "es": "No se puede dejar de decir que este problema no puede tomarse a la ligera." },
+
+{ "id": "s134", "jp_parts": "彼[かれ]は 約束[やくそく]を 守[まも]る べき 立場[たちば]に ある。", "es": "Está en una posición en la que debe cumplir su promesa." },
+
+{ "id": "s135", "jp_parts": "人口[じんこう]の 増加[ぞうか]に 伴[ともな]って 環境[かんきょう]問題[もんだい]が 深刻化[しんこくか]している。", "es": "Con el aumento de la población, los problemas ambientales se agravan." },
+
+{ "id": "s136", "jp_parts": "彼女[かのじょ]は 批判[ひはん]を 受[う]け つつも 信念[しんねん]を 貫[つらぬ]いた。", "es": "Aunque fue criticada, mantuvo sus convicciones." },
+
+{ "id": "s137", "jp_parts": "計画[けいかく]の 中止[ちゅうし]を 余儀[よぎ]なくされた。", "es": "Se vio obligado a cancelar el plan." },
+
+{ "id": "s138", "jp_parts": "彼[かれ]は 成功[せいこう]した とは 限[かぎ]らない が 努力[どりょく]は 認[みと]められる。", "es": "Puede que no haya tenido éxito, pero su esfuerzo es reconocido." },
+
+{ "id": "s139", "jp_parts": "需要[じゅよう]の 変化[へんか]に 応[おう]じて 生産[せいさん]量[りょう]が 調整[ちょうせい]された。", "es": "La producción se ajustó según los cambios en la demanda." },
+
+{ "id": "s140", "jp_parts": "彼女[かのじょ]は 責任[せきにん]を 取[と]る ほか ない 状況[じょうきょう]だ。", "es": "Está en una situación en la que no tiene más remedio que asumir la responsabilidad." },
+
+{ "id": "s141", "jp_parts": "社会[しゃかい]の 高齢化[こうれいか]に 伴[ともな]って 医療費[いりょうひ]が 増加[ぞうか]している。", "es": "Con el envejecimiento de la sociedad, los gastos médicos están aumentando." },
+
+{ "id": "s142", "jp_parts": "彼[かれ]は 事実[じじつ]を 認[みと]めざるを 得[え]なかった。", "es": "No tuvo más remedio que admitir los hechos." },
+
+{ "id": "s143", "jp_parts": "問題[もんだい]の 解決[かいけつ]に 向[む]けて 取り組[と]り始[はじ]めた。", "es": "Comenzó a trabajar para resolver el problema." },
+
+{ "id": "s144", "jp_parts": "彼女[かのじょ]は 反対[はんたい]された にもかかわらず 計画[けいかく]を 実行[じっこう]した。", "es": "A pesar de la oposición, ejecutó el plan." },
+
+{ "id": "s145", "jp_parts": "制度[せいど]の 改正[かいせい]に よって 条件[じょうけん]が 厳[きび]しくなった。", "es": "Con la reforma del sistema, las condiciones se volvieron más estrictas." },
+
+{ "id": "s146", "jp_parts": "彼[かれ]は 成功[せいこう]を 収[おさ]めた と 言[い]っても いい。", "es": "Se puede decir que logró el éxito." },
+
+{ "id": "s147", "jp_parts": "環境[かんきょう]の 変化[へんか]に 伴[ともな]い 生態系[せいたいけい]も 影響[えいきょう]を 受[う]けている。", "es": "Con los cambios ambientales, los ecosistemas también se ven afectados." },
+
+{ "id": "s148", "jp_parts": "彼女[かのじょ]は 疑問[ぎもん]を 持[も]ちながらも 研究[けんきゅう]を 続[つづ]けた。", "es": "Continuó la investigación aunque tenía dudas." },
+
+{ "id": "s149", "jp_parts": "改革[かいかく]の 実施[じっし]を 余儀[よぎ]なくされた。", "es": "Se vio obligado a implementar la reforma." },
+
+{ "id": "s150", "jp_parts": "彼[かれ]は 事態[じたい]を 重[おも]く 見[み]る べきだ。", "es": "Debería tomarse la situación en serio." },
+
+{ "id": "s151", "jp_parts": "人口[じんこう]の 減少[げんしょう]に 伴[ともな]って 労働力[ろうどうりょく]が 不足[ふそく]している。", "es": "Con la disminución de la población, falta mano de obra." },
+
+{ "id": "s152", "jp_parts": "彼女[かのじょ]は 批判[ひはん]を 受[う]けた ものの 計画[けいかく]を 断念[だんねん]しなかった。", "es": "Aunque fue criticada, no abandonó el plan." },
+
+{ "id": "s153", "jp_parts": "状況[じょうきょう]の 改善[かいぜん]が 求[もと]められている。", "es": "Se exige una mejora de la situación." },
+
+{ "id": "s154", "jp_parts": "彼[かれ]は 責任[せきにん]を 回避[かいひ]する わけにはいかない。", "es": "No puede evitar la responsabilidad." },
+
+{ "id": "s155", "jp_parts": "社会[しゃかい]の 変化[へんか]に 応[おう]じて 教育制度[きょういくせいど]も 改革[かいかく]された。", "es": "El sistema educativo también fue reformado según los cambios sociales." },
+
+{ "id": "s156", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した と 言[い]える だろう。", "es": "Se podría decir que tuvo éxito." },
+
+{ "id": "s157", "jp_parts": "需要[じゅよう]の 増加[ぞうか]に 伴[ともな]い 生産[せいさん]が 拡大[かくだい]した。", "es": "Con el aumento de la demanda, la producción se expandió." },
+
+{ "id": "s158", "jp_parts": "彼[かれ]は 事実[じじつ]を 隠[かく]し きれなかった。", "es": "No pudo ocultar los hechos." },
+
+{ "id": "s159", "jp_parts": "問題[もんだい]の 深刻化[しんこくか]を 防[ふせ]ぐ ため 対策[たいさく]が 講[こう]じられた。", "es": "Se tomaron medidas para evitar que el problema se agravara." },
+
+{ "id": "s160", "jp_parts": "彼女[かのじょ]は 反対[はんたい]を 押[お]し切[き]って 実行[じっこう]した。", "es": "Lo llevó a cabo imponiéndose a la oposición." },
+
+{ "id": "s161", "jp_parts": "制度[せいど]の 変更[へんこう]に よって 手数料[てすうりょう]が 上[あ]がった。", "es": "Con el cambio del sistema, las comisiones subieron." },
+
+{ "id": "s162", "jp_parts": "彼[かれ]は 成功[せいこう]を 夢見[ゆめみ]て 努力[どりょく]を 続[つづ]けた。", "es": "Continuó esforzándose soñando con el éxito." },
+
+{ "id": "s163", "jp_parts": "環境[かんきょう]の 悪化[あっか]に 伴[ともな]い 健康被害[けんこうひがい]が 増[ふ]えている。", "es": "Con el deterioro ambiental, los daños a la salud están aumentando." },
+
+{ "id": "s164", "jp_parts": "彼女[かのじょ]は 疑問[ぎもん]を 抱[いだ]いた まま 会議[かいぎ]を 終[お]えた。", "es": "Terminó la reunión aún con dudas." },
+
+{ "id": "s165", "jp_parts": "改革[かいかく]の 必要性[ひつようせい]が 指摘[してき]されている。", "es": "Se señala la necesidad de reforma." },
+
+{ "id": "s166", "jp_parts": "彼[かれ]は 責任[せきにん]を 果[は]たす べきだ。", "es": "Debe cumplir con su responsabilidad." },
+
+{ "id": "s167", "jp_parts": "人口[じんこう]増加[ぞうか]に 伴[ともな]って 都市問題[としもんだい]が 深刻化[しんこくか]した。", "es": "Con el aumento de la población, los problemas urbanos se agravaron." },
+
+{ "id": "s168", "jp_parts": "彼女[かのじょ]は 批判[ひはん]を 受[う]けながらも 活動[かつどう]を 続[つづ]けた。", "es": "Continuó su actividad aunque fue criticada." },
+
+{ "id": "s169", "jp_parts": "状況[じょうきょう]の 改善[かいぜん]に 向[む]けて 努力[どりょく]が 続[つづ]けられている。", "es": "Se siguen realizando esfuerzos para mejorar la situación." },
+
+{ "id": "s170", "jp_parts": "彼[かれ]は 成功[せいこう]する 可能性[かのうせい]が 高[たか]い。", "es": "Tiene altas probabilidades de éxito." },
+
+{ "id": "s171", "jp_parts": "社会[しゃかい]の 変化[へんか]に 伴[ともな]い 価値観[かちかん]も 多様化[たようか]している。", "es": "Con los cambios sociales, los valores se diversifican." },
+
+{ "id": "s172", "jp_parts": "彼女[かのじょ]は 成功[せいこう]した と 自信[じしん]を 持[も]って 言[い]った。", "es": "Dijo con confianza que tuvo éxito." },
+
+{ "id": "s173", "jp_parts": "需要[じゅよう]の 減少[げんしょう]に 伴[ともな]い 生産[せいさん]が 縮小[しゅくしょう]した。", "es": "Con la disminución de la demanda, la producción se redujo." },
+
+{ "id": "s174", "jp_parts": "彼[かれ]は 事実[じじつ]を 認[みと]める ほか なかった。", "es": "No tuvo más remedio que admitir los hechos." },
+
+{ "id": "s175", "jp_parts": "問題[もんだい]の 解決[かいけつ]に 取り組[と]む 必要[ひつよう]が ある。", "es": "Es necesario abordar la resolución del problema." },
+
+{ "id": "s176", "jp_parts": "彼女[かのじょ]は 反対[はんたい]を 受[う]けた にもかかわらず 決断[けつだん]した。", "es": "Tomó la decisión pese a la oposición." },
+
+{ "id": "s177", "jp_parts": "制度[せいど]の 見直[みなお]しに 伴[ともな]って 条件[じょうけん]が 緩和[かんわ]された。", "es": "Con la revisión del sistema, las condiciones se flexibilizaron." },
+
+{ "id": "s178", "jp_parts": "彼[かれ]は 成功[せいこう]を 確信[かくしん]している。", "es": "Está convencido de que tendrá éxito." },
+
+{ "id": "s179", "jp_parts": "環境[かんきょう]の 変化[へんか]に 伴[ともな]い 動植物[どうしょくぶつ]にも 影響[えいきょう]が 出[で]ている。", "es": "Con los cambios ambientales, también se ven afectados animales y plantas." },
+
+{ "id": "s180", "jp_parts": "彼女[かのじょ]は 疑問[ぎもん]を 解決[かいけつ]する ため 研究[けんきゅう]を 続[つづ]けた。", "es": "Continuó investigando para resolver sus dudas." },
+
+{ "id": "s181", "jp_parts": "改革[かいかく]の 実現[じつげん]が 期待[きたい]されている。", "es": "Se espera la realización de la reforma." },
+
+{ "id": "s182", "jp_parts": "彼[かれ]は 責任[せきにん]を 全[まっと]うした。", "es": "Cumplió completamente con su responsabilidad." },
+
+{ "id": "s183", "jp_parts": "人口[じんこう]減少[げんしょう]に 伴[ともな]って 地方[ちほう]経済[けいざい]が 衰退[すいたい]している。", "es": "Con la disminución de la población, la economía local está decayendo." },
+
+{ "id": "s184", "jp_parts": "彼女[かのじょ]は 批判[ひはん]を 乗[の]り越[こ]えて 成功[せいこう]した。", "es": "Superó las críticas y tuvo éxito." },
+
+{ "id": "s185", "jp_parts": "状況[じょうきょう]の 改善[かいぜん]が 急務[きゅうむ]だ。", "es": "Es urgente mejorar la situación." },
+
+{ "id": "s186", "jp_parts": "彼[かれ]は 成功[せいこう]する ため 全力[ぜんりょく]を 尽[つ]くした。", "es": "Hizo todo lo posible para tener éxito." },
+
+{ "id": "s187", "jp_parts": "社会[しゃかい]の 変化[へんか]に 伴[ともな]って 働[はたら]き方[かた]も 変[か]わってきた。", "es": "Con los cambios sociales, la forma de trabajar también ha cambiado." },
+
+{ "id": "s188", "jp_parts": "彼女[かのじょ]は 成功[せいこう]を 信[しん]じて 疑[うたが]わなかった。", "es": "Nunca dudó del éxito." },
+
+{ "id": "s189", "jp_parts": "需要[じゅよう]の 変化[へんか]に 伴[ともな]って 企業[きぎょう]戦略[せんりゃく]も 見直[みなお]された。", "es": "Con los cambios en la demanda, las estrategias empresariales fueron revisadas." },
+
+{ "id": "s190", "jp_parts": "彼[かれ]は 事実[じじつ]を 公表[こうひょう]する ことにした。", "es": "Decidió hacer públicos los hechos." },
+
+{ "id": "s191", "jp_parts": "問題[もんだい]の 解決[かいけつ]には 時間[じかん]が かかる と 見[み]られている。", "es": "Se considera que la resolución del problema llevará tiempo." },
+
+{ "id": "s192", "jp_parts": "彼女[かのじょ]は 反対[はんたい]に も めげず 計画[けいかく]を 実行[じっこう]した。", "es": "Llevó a cabo el plan sin dejarse desanimar por la oposición." },
+
+{ "id": "s193", "jp_parts": "制度[せいど]の 改革[かいかく]が 求[もと]められている。", "es": "Se exige la reforma del sistema." },
+
+{ "id": "s194", "jp_parts": "彼[かれ]は 成功[せいこう]を 手[て]に 入[い]れた と 言[い]える。", "es": "Se puede decir que alcanzó el éxito." },
+
+{ "id": "s195", "jp_parts": "環境[かんきょう]の 変化[へんか]に 伴[ともな]い 農業[のうぎょう]にも 影響[えいきょう]が 出[で]ている。", "es": "Con los cambios ambientales, la agricultura también se ve afectada." },
+
+{ "id": "s196", "jp_parts": "彼女[かのじょ]は 疑問[ぎもん]を 解消[かいしょう]する ことが できた。", "es": "Pudo resolver sus dudas." },
+
+{ "id": "s197", "jp_parts": "改革[かいかく]の 必要性[ひつようせい]を 認[みと]めざるを 得[え]ない。", "es": "No se puede dejar de reconocer la necesidad de reforma." },
+
+{ "id": "s198", "jp_parts": "彼[かれ]は 責任[せきにん]を 果[は]たす ため 行動[こうどう]した。", "es": "Actuó para cumplir con su responsabilidad." },
+
+{ "id": "s199", "jp_parts": "人口[じんこう]問題[もんだい]の 解決[かいけつ]が 急[いそ]がれている。", "es": "Se está apresurando la resolución del problema demográfico." },
+
+{ "id": "s200", "jp_parts": "彼女[かのじょ]は 成功[せいこう]を 信[しん]じて 努力[どりょく]を 続[つづ]けた。", "es": "Continuó esforzándose creyendo en el éxito." }
+
+
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "grammar": [
   {
-    "id": "n1-1",
-    "category": "Tiempo",
-    "title": "〜なり 〜なり",
-    "formula": "V1 (Diccionario) + なり + V2 (Diccionario) + なり",
-    "description": "Indica que tan pronto como ocurre la primera acción, le sigue otra inmediata. A diferencia de niveles anteriores, se usa para describir comportamientos ajenos con un matiz de sorpresa.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 私[わたし]の 顔[かお]を 見[み]る なり、泣き出し[なきだし]た。",
-        "es": "En cuanto me vio la cara, rompió a llorar."
-      }
-    ]
-  },
+  "id": "n1-1",
+  "category": "Condición",
+  "title": "〜んがために",
+  "formula": "V (Forma Nai sin nai) + んがために",
+  "description": "Indica un propósito u objetivo fundamental por el cual se realiza un esfuerzo extremo. Es la versión más literaria de 'tame ni'.",
+  "examples": [
+    {
+      "jp": "真実[しんじつ]を 明[あき]らかに せんがために、彼[かれ]は 闘[たたか]い 続け[つづけ]た。",
+      "es": "Siguió luchando con el único fin de sacar a la luz la verdad."
+    }
+  ]
+},
   {
     "id": "n1-2",
     "category": "Tiempo",
@@ -92,31 +92,31 @@
     ]
   },
   {
-    "id": "n1-8",
-    "category": "Tiempo",
-    "title": "〜を限りに",
-    "formula": "Sustantivo (Tiempo) + を 限りに[かぎりに]",
-    "description": "Indica que un estado o acción llega a su fin absoluto en ese momento. Se usa para anuncios de retiro o cese de actividad.",
-    "examples": [
-      {
-        "jp": "今日[きょう] を 限りに[かぎりに]、この 店[みせ]を 閉[し]める ことに した。",
-        "es": "He decidido cerrar esta tienda a partir de hoy (siendo hoy el último día)."
-      }
-    ]
-  },
+  "id": "n1-8",
+  "category": "Tiempo",
+  "title": "〜と思いきや",
+  "formula": "Frase + と 思い[おも]いきや",
+  "description": "Indica que el hablante pensaba que sucedería algo, pero ocurrió algo totalmente diferente e inesperado.",
+  "examples": [
+    {
+      "jp": "やっと 終わった[おわった] と 思い[おも]いきや、また 新しい[あたらしい] 仕事[しごと]を 頼まれた[たのまれた]。",
+      "es": "Justo cuando pensaba que por fin había terminado, me pidieron otro trabajo nuevo."
+    }
+  ]
+},
   {
-    "id": "n1-9",
-    "category": "Tiempo",
-    "title": "〜をもって",
-    "formula": "Sustantivo + を もって",
-    "description": "Registro formal para indicar el tiempo de finalización o el medio por el cual se realiza un acto oficial.",
-    "examples": [
-      {
-        "jp": "二[に]月[がつ] 二[に]十[じゅう]日[にち] を もって、願書[がんしょ]の 受付[うけつけ]を 終了[しゅうりょう]します。",
-        "es": "A partir del 20 de febrero, finaliza el plazo de recepción de solicitudes."
-      }
-    ]
-  },
+  "id": "n1-9",
+  "category": "Resultado",
+  "title": "〜しまつだ",
+  "formula": "Verbo (Diccionario) + 始末[しまつ]だ",
+  "description": "Indica que, tras una serie de eventos negativos, se ha llegado a un resultado final lamentable o desastroso.",
+  "examples": [
+    {
+      "jp": "借金[しゃっきん]を 重[かさ]ね、最後[さいご]には 家[いえ]まで 失[うしな]う 始末[しまつ]だ。",
+      "es": "Acumuló deudas y, al final, terminó perdiendo incluso su casa."
+    }
+  ]
+},
   {
     "id": "n1-10",
     "category": "Tiempo",
@@ -573,18 +573,18 @@
     ]
   },
   {
-    "id": "n1-45",
-    "category": "Elección",
-    "title": "〜なり 〜なり",
-    "formula": "S1 / V1 + なり + S2 / V2 + なり",
-    "description": "Presenta dos o más opciones como ejemplos para indicar que cualquiera de ellas es válida para resolver una situación.",
-    "examples": [
-      {
-        "jp": "分[わ]からない ことが あれば、先生[せんせい]に 聞[き]く なり 本[ほん]で 調[しら]べる なり して ください。",
-        "es": "Si hay algo que no entiendas, haz algo como preguntarle al profesor o buscar en un libro."
-      }
-    ]
-  },
+  "id": "n1-45",
+  "category": "Lamento",
+  "title": "〜ものを",
+  "formula": "Frase (Informal) + ものを",
+  "description": "Se usa al final de la frase para expresar arrepentimiento o queja por algo que no ocurrió. 'Si tan solo hubiera...'.",
+  "examples": [
+    {
+      "jp": "早く[はやく] 言[い]えば いい ものを、どうして 黙[だま]って いたの？",
+      "es": "Si tan solo lo hubieras dicho pronto (habría estado bien)... ¿por qué te quedaste callado?"
+    }
+  ]
+},
   {
     "id": "n1-46",
     "category": "Contraste",

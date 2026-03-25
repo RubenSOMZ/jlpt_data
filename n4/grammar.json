@@ -224,7 +224,7 @@
     {
       "id": "n4-14",
       "category": "Causa",
-      "title": "なくて (Reasons and Causes)",
+      "title": "なくて (Razones y causas)",
       "formula": "V (forma ない → なくて) / Adj (→ くて)",
       "description": "Indica que el estado negativo de la primera parte es la causa de una emoción o situación posterior. 'Como no... / Al no...'.",
       "examples": [
@@ -258,7 +258,7 @@
     {
       "id": "n4-16",
       "category": "Pasiva",
-      "title": "れる・られる (Passive)",
+      "title": "れる・られる (Pasiva)",
       "formula": "V (forma pasiva)",
       "description": "Indica que el sujeto recibe una acción de otro. Se usa a menudo para expresar que una acción ajena nos causa molestia o pesar.",
       "examples": [
@@ -496,7 +496,7 @@
     {
       "id": "n4-30",
       "category": "Frecuencia",
-      "title": "に (Frequency)",
+      "title": "に (Frecuencia)",
       "formula": "Periodo de tiempo + に + Cantidad",
       "description": "Indica la frecuencia con la que ocurre una acción en un periodo determinado. 'Al' o 'por'.",
       "examples": [
@@ -751,7 +751,7 @@
     {
       "id": "n4-45",
       "category": "Intención",
-      "title": "う・よう (Volitional)",
+      "title": "う・よう (Volitiva)",
       "formula": "V (forma volitiva)",
       "description": "Se utiliza para invitar a alguien a hacer algo o para expresar la propia intención de manera informal. 'Hagamos...' o 'voy a...'.",
       "examples": [
@@ -1261,7 +1261,7 @@
     {
       "id": "n4-75",
       "category": "Énfasis",
-      "title": "Number + も",
+      "title": "Número + も",
       "formula": "Número + も",
       "description": "Se añade a una cantidad para enfatizar que es mucho más de lo esperado o, en frases negativas, para indicar 'ni siquiera'.",
       "examples": [
@@ -1448,7 +1448,7 @@
     {
       "id": "n4-86",
       "category": "Límite Mínimo",
-      "title": "(Amount) + は",
+      "title": "(Cantidad) + は",
       "formula": "Cantidad + は",
       "description": "Se añade a una cantidad para indicar el límite mínimo esperado. 'Al menos'.",
       "examples": [
@@ -1465,7 +1465,7 @@
     {
       "id": "n4-87",
       "category": "Indefinido",
-      "title": "何 + (Counter) + か",
+      "title": "何 + (Contador) + か",
       "formula": "何[なん] + Contador + か",
       "description": "Indica una cantidad indeterminada pero pequeña. 'Algunos', 'unos cuantos' o 'varios'.",
       "examples": [
@@ -1499,7 +1499,7 @@
     {
       "id": "n4-89",
       "category": "Limitación",
-      "title": "(Number) + しか〜ない",
+      "title": "(Número) + しか〜ない",
       "formula": "Cantidad + しか + V-nai",
       "description": "Enfatiza que la cantidad es insuficiente o pequeña. 'Solo' o 'nada más que'.",
       "examples": [
@@ -1601,7 +1601,7 @@
     {
       "id": "n4-95",
       "category": "Petición",
-      "title": "～て (Casual Request)",
+      "title": "～て (Petición casual)",
       "formula": "V (forma て)",
       "description": "Forma casual y abreviada de '～てください'. Se usa con personas cercanas. 'Por favor, haz...'.",
       "examples": [
@@ -1635,7 +1635,7 @@
     {
       "id": "n4-97",
       "category": "Causativo",
-      "title": "せる・させる (Causative)",
+      "title": "せる・させる (Causativa)",
       "formula": "V (forma causiva)",
       "description": "Indica que el sujeto hace que alguien realice una acción o permite que la haga. 'Hacer hacer' o 'dejar hacer'.",
       "examples": [
@@ -1703,7 +1703,7 @@
     {
       "id": "n4-101",
       "category": "Causa",
-      "title": "～て (Reasons and Causes)",
+      "title": "～て (Razones y causas)",
       "formula": "V-te / Adj-te / Sustantivo + で",
       "description": "Indica que la primera parte de la frase es la causa o razón de la situación o sentimiento posterior. 'Debido a...' o 'porque...'.",
       "examples": [
@@ -1720,7 +1720,7 @@
     {
       "id": "n4-102",
       "category": "Causativo-Pasivo",
-      "title": "させられる (Causative-Passive)",
+      "title": "させられる (Causativa-Pasiva)",
       "formula": "V (forma causativa-pasiva)",
       "description": "Indica que el sujeto es obligado por otra persona a realizar una acción que no desea. 'Ser obligado a hacer...'.",
       "examples": [
@@ -1737,7 +1737,7 @@
     {
       "id": "n4-103",
       "category": "Manera / Medio",
-      "title": "～て (Means and Manner)",
+      "title": "～て (Medios y maneras)",
       "formula": "V (forma て)",
       "description": "Indica el medio, el método o la manera en que se realiza la acción principal. 'Haciendo...' o 'por medio de...'.",
       "examples": [
@@ -1924,7 +1924,7 @@
     {
       "id": "n4-114",
       "category": "Secuencia / Paralelo",
-      "title": "〜て (Non-Sequence)",
+      "title": "〜て (Secuencia)",
       "formula": "V-te / Adj-te",
       "description": "Se utiliza para conectar oraciones que describen estados paralelos o acciones que no necesariamente siguen un orden temporal estricto.",
       "examples": [
@@ -1941,7 +1941,7 @@
     {
       "id": "n4-115",
       "category": "Petición",
-      "title": "ないで (Casual Request)",
+      "title": "ないで (Petición casual)",
       "formula": "V (forma ない) + で",
       "description": "Forma casual de pedir a alguien que no realice una acción. Es la abreviatura de '〜ないでください'.",
       "examples": [
@@ -2264,7 +2264,7 @@
     {
       "id": "n4-134",
       "category": "Potencial",
-      "title": "れる・られる (Potential)",
+      "title": "れる・られる (Potencial)",
       "formula": "V (forma potencial)",
       "description": "Indica que el sujeto tiene la capacidad o posibilidad de realizar una acción. 'Poder (hacer)'.",
       "examples": [
@@ -2468,7 +2468,7 @@
     {
       "id": "n4-146",
       "category": "Razón",
-      "title": "し (Reasons)",
+      "title": "し (Razón)",
       "formula": "Frase (informal) + し",
       "description": "Se utiliza para enumerar varias razones o características que llevan a una conclusión. 'Y además...'.",
       "examples": [
@@ -2928,7 +2928,7 @@
     {
       "id": "n4-173",
       "category": "Pregunta Indirecta",
-      "title": "(Question-Phrase) + か",
+      "title": "(Frase interrogativa) + か",
       "formula": "Interrogativo + Frase informal + か",
       "description": "Se utiliza para incluir una pregunta dentro de otra oración. '... si...'.",
       "examples": [

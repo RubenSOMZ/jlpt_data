@@ -1432,7 +1432,7 @@
       "id": "n4-85",
       "category": "Semejanza",
       "title": "様 + に・な",
-      "formula": "Sustantivo + のよう[よう]に / のよう[よう]な",
+      "formula": "Sustantivo + のように / のような",
       "description": "Se utiliza para hacer comparaciones o dar ejemplos. 'Como' o 'parecido a'.",
       "examples": [
         {
@@ -1440,7 +1440,7 @@
           "es": "Quiero volverme rico como él."
         },
         {
-          "jp": "今日[きょう]は春[はる]のよう[よう]な天気[てんき]ですね。",
+          "jp": "今日[きょう]は春[はる]のような天気[てんき]ですね。",
           "es": "Hoy hace un tiempo parecido al de la primavera, ¿verdad?"
         }
       ]
@@ -2120,7 +2120,7 @@
           "es": "Le llevo su equipaje (humilde)."
         },
         {
-          "jp": "お名前[なまえ]をお聞き[き]します。",
+          "jp": "お名前[なまえ]をお聞きします。",
           "es": "Le pregunto su nombre (humilde)."
         }
       ]

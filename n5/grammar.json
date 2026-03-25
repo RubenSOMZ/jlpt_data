@@ -156,7 +156,7 @@
     {
       "id": "n5-10",
       "category": "Adjetivo",
-      "title": "い-Adjective",
+      "title": "い-Adjetivo",
       "formula": "Adj-i + です",
       "description": "Adjetivos que terminan en la sílaba 'i'. Se pueden usar directamente antes de un sustantivo o al final de la oración.",
       "examples": [
@@ -173,7 +173,7 @@
     {
       "id": "n5-11",
       "category": "Adjetivo",
-      "title": "な-Adjective",
+      "title": "な-Adjetivo",
       "formula": "Adj-na + な + Sustantivo",
       "description": "Adjetivos que necesitan la partícula 'na' para modificar a un sustantivo. Funcionan de forma similar a los sustantivos.",
       "examples": [
@@ -258,7 +258,7 @@
     {
       "id": "n5-16",
       "category": "Verbo",
-      "title": "る-Verb (Dictionary)",
+      "title": "る-Verb (Diccionario)",
       "formula": "Verbo (Grupo 2 / Ichidan)",
       "description": "Verbos que terminan en 'ru' precedido de los sonidos 'i' o 'e'. En forma diccionario indican una acción habitual o futura.",
       "examples": [
@@ -275,7 +275,7 @@
     {
       "id": "n5-17",
       "category": "Verbo",
-      "title": "う-Verb (Dictionary)",
+      "title": "う-Verb (Diccionario)",
       "formula": "Verbo (Grupo 1 / Godan)",
       "description": "Verbos que terminan en sonidos de la columna 'u' (u, ku, su, tsu, mu, bu, nu, ru, gu). Indican acción habitual o futura.",
       "examples": [
@@ -326,7 +326,7 @@
     {
       "id": "n5-20",
       "category": "Verbo",
-      "title": "る-Verb (Negative)",
+      "title": "る-Verb (Negativo)",
       "formula": "V (Grupo 2) + ない / ません",
       "description": "Forma negativa de los verbos del Grupo 2. Indica que una acción no se realiza.",
       "examples": [
@@ -343,7 +343,7 @@
     {
       "id": "n5-21",
       "category": "Verbo",
-      "title": "う-Verb (Negative)",
+      "title": "う-Verb (Negativo)",
       "formula": "V (Grupo 1) + ません / (columna a) + ない",
       "description": "Forma negativa de los verbos del Grupo 1. Para la forma informal, se cambia la 'u' final por la columna 'a' más 'nai'.",
       "examples": [
@@ -632,7 +632,7 @@
     {
       "id": "n5-38",
       "category": "Adjetivo",
-      "title": "い-Adjective (Past)",
+      "title": "い-Adjetivo (Pasado)",
       "formula": "Adj-i (quitar い) + かった (です)",
       "description": "Indica el pasado de un adjetivo de tipo -i. 'Era...' o 'fue...'.",
       "examples": [
@@ -666,7 +666,7 @@
     {
       "id": "n5-40",
       "category": "Adjetivo",
-      "title": "い-Adjective + (Noun)",
+      "title": "い-Adjetivo + (Nombre)",
       "formula": "Adj-i + Sustantivo",
       "description": "Se coloca el adjetivo de tipo -i directamente antes del sustantivo para describirlo.",
       "examples": [
@@ -683,7 +683,7 @@
     {
       "id": "n5-41",
       "category": "Adjetivo",
-      "title": "な-Adjective + (Noun)",
+      "title": "な-Adjetivo + (Nombre)",
       "formula": "Adj-na + な + Sustantivo",
       "description": "Se utiliza la partícula 'na' para conectar un adjetivo de tipo -na con el sustantivo que describe.",
       "examples": [
@@ -751,7 +751,7 @@
     {
       "id": "n5-45",
       "category": "Verbo",
-      "title": "る-Verb (Past)",
+      "title": "る-Verb (Pasado)",
       "formula": "V (raíz) + た / ました",
       "description": "Indica el pasado de los verbos del Grupo 2 (Ichidan).",
       "examples": [
@@ -768,7 +768,7 @@
     {
       "id": "n5-46",
       "category": "Verbo",
-      "title": "う-Verb (Past)",
+      "title": "う-Verb (Pasado)",
       "formula": "V (forma た / ました)",
       "description": "Indica el pasado de los verbos del Grupo 1 (Godan). La terminación varía según la sílaba final del verbo.",
       "examples": [
@@ -836,7 +836,7 @@
     {
       "id": "n5-50",
       "category": "Existencia",
-      "title": "がある + (Noun)",
+      "title": "がある + (Nombre)",
       "formula": "Sustantivo A + がある + Sustantivo B",
       "description": "Se utiliza para describir un sustantivo (B) mencionando algo que posee o que tiene (A).",
       "examples": [
@@ -972,7 +972,7 @@
     {
       "id": "n5-58",
       "category": "Verbo",
-      "title": "る-Verb (Negative-Past)",
+      "title": "る-Verb (Pasado negativo)",
       "formula": "V (raíz) + なかった / ませんでした",
       "description": "Indica la forma pasada negativa de los verbos del Grupo 2 (Ichidan).",
       "examples": [
@@ -989,7 +989,7 @@
     {
       "id": "n5-59",
       "category": "Verbo",
-      "title": "う-Verb (Negative-Past)",
+      "title": "う-Verb (Pasado negativo)",
       "formula": "V (forma informal negativa) + かった / ませんでした",
       "description": "Indica la forma pasada negativa de los verbos del Grupo 1 (Godan).",
       "examples": [
@@ -1006,7 +1006,7 @@
     {
       "id": "n5-60",
       "category": "Conjunción",
-      "title": "～て (Conjunction)",
+      "title": "～て (Conjunción)",
       "formula": "V (forma て)",
       "description": "Se utiliza para conectar dos o más acciones que ocurren secuencialmente. 'Y luego...'.",
       "examples": [
@@ -1142,7 +1142,7 @@
     {
       "id": "n5-68",
       "category": "Adjetivo",
-      "title": "い-Adjective + です (Predicate)",
+      "title": "い-Adjetivo + です (Predicado)",
       "formula": "Adj-i + です",
       "description": "Indica que un adjetivo de tipo -i actúa como el predicado de la oración de forma cortés.",
       "examples": [
@@ -1159,7 +1159,7 @@
     {
       "id": "n5-69",
       "category": "Adjetivo",
-      "title": "な-Adjective + だ (Predicate)",
+      "title": "な-Adjetivo + だ (Predicado)",
       "formula": "Adj-na + だ",
       "description": "Indica que un adjetivo de tipo -na actúa como el predicado de la oración de forma informal añadiendo 'da'.",
       "examples": [
@@ -1278,7 +1278,7 @@
     {
       "id": "n5-76",
       "category": "Verbo",
-      "title": "Verb (Non-Past)",
+      "title": "Verb (No Pasado)",
       "formula": "V (Diccionario / ます)",
       "description": "Indica una acción que ocurre de forma habitual o que ocurrirá en el futuro.",
       "examples": [
@@ -1295,7 +1295,7 @@
     {
       "id": "n5-77",
       "category": "Modificación",
-      "title": "～た + (Noun)",
+      "title": "～た + (Nombre)",
       "formula": "V (forma た) + Sustantivo",
       "description": "Se utiliza un verbo en forma pasada para describir o modificar a un sustantivo.",
       "examples": [
@@ -1329,7 +1329,7 @@
     {
       "id": "n5-79",
       "category": "Prohibición",
-      "title": "な (Prohibitive)",
+      "title": "な (Prohibición)",
       "formula": "V (Diccionario) + な",
       "description": "Partícula que se añade al verbo en forma diccionario para dar una orden prohibitiva fuerte. 'No (hagas)...'.",
       "examples": [
@@ -1448,7 +1448,7 @@
     {
       "id": "n5-86",
       "category": "Tiempo",
-      "title": "～て (Sequence)",
+      "title": "～て (Secuencia)",
       "formula": "V (forma て), V...",
       "description": "Se utiliza para listar acciones en orden cronológico. 'Hago X y (luego) Y'.",
       "examples": [
@@ -1635,7 +1635,7 @@
     {
       "id": "n5-97",
       "category": "Límite",
-      "title": "Noun + まで",
+      "title": "Nombre + まで",
       "formula": "Sustantivo (Lugar / Tiempo) + まで",
       "description": "Indica el punto final o el límite de un trayecto o de un periodo de tiempo. 'Hasta'.",
       "examples": [
@@ -2043,7 +2043,7 @@
     {
       "id": "n5-122",
       "category": "Conjunción",
-      "title": "～て (Adjectives and Nouns)",
+      "title": "～て (Adjetivos and Nombres)",
       "formula": "Adj-i (→ くて) / Sustantivo + で / Adj-na + で",
       "description": "Se utiliza para conectar varios adjetivos o sustantivos que describen una misma cosa o persona. 'Y...'.",
       "examples": [
@@ -2060,7 +2060,7 @@
     {
       "id": "n5-123",
       "category": "Conjunción",
-      "title": "～て (Qualities and States)",
+      "title": "～て (Cualidades y estados)",
       "formula": "Frase 1 (forma て) + Frase 2",
       "description": "Conecta oraciones para listar estados o cualidades que ocurren en paralelo.",
       "examples": [
@@ -2111,7 +2111,7 @@
     {
       "id": "n5-126",
       "category": "Sustantivación",
-      "title": "(Adjective) + のは",
+      "title": "(Adjetivo) + のは",
       "formula": "Adj + のは",
       "description": "Se utiliza para convertir un adjetivo en un sustantivo para referirse a un objeto o concepto específico. 'El que es...' o 'lo que es...'.",
       "examples": [

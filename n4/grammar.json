@@ -1151,7 +1151,7 @@
           "es": "Quiero un coche nuevo."
         },
         {
-          "jp": "休み[やすみ]が欲[ほ]しいです。",
+          "jp": "休[やす]みが欲[ほ]しいです。",
           "es": "Quiero vacaciones (tiempo libre)."
         }
       ]
@@ -1525,7 +1525,7 @@
           "es": "Este es uno de los problemas de este pueblo."
         },
         {
-          "jp": "漢字[かんじ]を覚[おぼ]えるのは難しい[むずかしい]ことの一[ひと]つだ。",
+          "jp": "漢字[かんじ]を覚[おぼ]えるのは難[むずか]しいことの一[ひと]つだ。",
           "es": "Memorizar kanji es una de las cosas difíciles."
         }
       ]
@@ -1538,7 +1538,7 @@
       "description": "Doble negación que enfatiza que 'todo el mundo' o 'siempre' ocurre algo. 'No hay nadie que no...'.",
       "examples": [
         {
-          "jp": "悩み[なやみ]のない人[ひと]はいません。",
+          "jp": "悩[なや]みのない人[ひと]はいません。",
           "es": "No hay nadie que no tenga preocupaciones (todo el mundo las tiene)."
         },
         {
@@ -2682,7 +2682,7 @@
           "es": "Rezo para que apruebes."
         },
         {
-          "jp": "病気[びょうき]が早く[はやく]治[なお]るように祈[いの]っています。",
+          "jp": "病気[びょうき]が早[はや]く治[なお]るように祈[いの]っています。",
           "es": "Deseo de todo corazón que te cures pronto de tu enfermedad."
         }
       ]
@@ -2869,7 +2869,7 @@
           "es": "No me di cuenta del error."
         },
         {
-          "jp": "忘れ[わすれ]物[もの]に気[き]が付[つ]いて、家[うち]に帰[かえ]りました。",
+          "jp": "忘[わす]れ物[もの]に気[き]が付[つ]いて、家[うち]に帰[かえ]りました。",
           "es": "Me percaté de que me olvidaba algo y volví a casa."
         }
       ]
@@ -2967,7 +2967,7 @@
       "description": "Se utiliza para dar un consejo o sugerencia a otra persona. '¿Por qué no...?' o '¿qué tal si...?'.",
       "examples": [
         {
-          "jp": "少し[すこし]休[やす]んだらどうですか。",
+          "jp": "少[すこ]し休[やす]んだらどうですか。",
           "es": "¿Por qué no descansas un poco?"
         },
         {
@@ -3018,7 +3018,7 @@
       "description": "Indica una información que es de conocimiento general o un rumor extendido. 'Se dice que...'.",
       "examples": [
         {
-          "jp": "納豆[なっとう]は体に[からだに]いいと言[い]われています。",
+          "jp": "納豆[なっとう]は体[からだ]にいいと言[い]われています。",
           "es": "Se dice que el natto es bueno para el cuerpo."
         },
         {

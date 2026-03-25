@@ -1181,11 +1181,11 @@
       "description": "Indica que uno no puede controlar un impulso y termina realizando una acción inevitablemente. 'No puedo evitar...'.",
       "examples": [
         {
-          "jp": "その 映画[えいが]を 見[み]て、泣[な]かない では いられない[ではいられない]。",
+          "jp": "その 映画[えいが]を 見[み]て、泣[な]かない では いられない。",
           "es": "No puedo evitar llorar al ver esa película."
         },
         {
-          "jp": "この 曲[きょく]を 聞[き]く と、踊[おど]ら ない では いられない[ではいられない]。",
+          "jp": "この 曲[きょく]を 聞[き]く と、踊[おど]ら ない では いられない。",
           "es": "Cuando escucho esta canción, no puedo evitar ponerme a bailar."
         }
       ]

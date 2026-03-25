@@ -1414,7 +1414,7 @@
     {
       "id": "n3-84",
       "category": "Interjección",
-      "title": "さ (Interjection)",
+      "title": "さ (Interjección)",
       "formula": "V / Frase + さ",
       "description": "Se usa para llamar la atención o indicar una pausa antes de seguir hablando. 'Bueno...', 'mira...' o 'así que...'.",
       "examples": [
@@ -1431,7 +1431,7 @@
     {
       "id": "n3-85",
       "category": "Muletilla",
-      "title": "さ (Filler)",
+      "title": "さ (Muletilla)",
       "formula": "Frase + さ + Frase",
       "description": "Partícula usada al final de frases cortas para dar ritmo o enfatizar que lo que se dice es obvio. 'Sabes...', 'viste...' o 'pues...'.",
       "examples": [

@@ -1538,11 +1538,11 @@
       "description": "Expresa un propósito firme o un objetivo importante por el cual se realiza un gran esfuerzo. Es muy formal.",
       "examples": [
         {
-          "jp": "夢[ゆめ]を 実現[じじげん] せんが ために[せんがために]、毎日[まいにち] 必死[ひっし]で 働[はたら]いている。",
+          "jp": "夢[ゆめ]を 実現[じじげん] せんが ために、毎日[まいにち] 必死[ひっし]で 働[はたら]いている。",
           "es": "Trabaja desesperadamente todos los días para hacer realidad su sueño."
         },
         {
-          "jp": "真実[しんじつ]を 明[あき]らかに せんが ために[せんがために]、調査[ちょうさ]を 続[つづ]けている。",
+          "jp": "真実[しんじつ]を 明[あき]らかに せんが ために、調査[ちょうさ]を 続[つづ]けている。",
           "es": "Continúa la investigación con el fin de esclarecer la verdad."
         }
       ]

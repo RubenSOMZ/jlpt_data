@@ -437,7 +437,7 @@
           "es": "Tanto si llueve como si no, el partido se llevará a cabo."
         },
         {
-          "jp": "彼[かれ]が 反対[はんたい] しよう[しよう]が しまいが、私は 留学[りゅうがく]する つもりだ。",
+          "jp": "彼[かれ]が 反対[はんたい] しようが しまいが、私は 留学[りゅうがく]する つもりだ。",
           "es": "Me oponga o no, tengo la intención de ir a estudiar al extranjero."
         }
       ]
@@ -658,7 +658,7 @@
           "es": "Este niño tiene un talento innato (de nacimiento) para la música."
         },
         {
-          "jp": "インターネットのおかげで、家[いえ]に い[い] ながらに 世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。",
+          "jp": "インターネットのおかげで、家[いえ]に い ながらに 世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。",
           "es": "Gracias a internet, se puede obtener información de todo el mundo estando en casa."
         }
       ]
@@ -1317,11 +1317,11 @@
       "description": "Indica que el resultado de algo depende totalmente de una persona, factor o situación.",
       "examples": [
         {
-          "jp": "合格[ごうかく]できるかどうかは、君[きみ]の 努力[どりょく] に かかっている[かかっている]。",
+          "jp": "合格[ごうかく]できるかどうかは、君[きみ]の 努力[どりょく] に かかっている。",
           "es": "Que puedas aprobar o no depende de tu esfuerzo."
         },
         {
-          "jp": "この 試合[しあい]の 勝敗[しょうはい]は、最後[さいご]の 一打[いちだ] に かかっている[かかっている]。",
+          "jp": "この 試合[しあい]の 勝敗[しょうはい]は、最後[さいご]の 一打[いちだ] に かかっている。",
           "es": "La victoria o derrota de este partido depende del último golpe."
         }
       ]
@@ -1436,11 +1436,11 @@
       "description": "Indica que todo un grupo o entidad participa en algo. 'Con todo/a...'.",
       "examples": [
         {
-          "jp": "彼[かれ]とは 家族[かぞく] ぐるみで[ぐるみで] 付き合[つきあ]っている。",
+          "jp": "彼[かれ]とは 家族[かぞく] ぐるみで 付き合[つきあ]っている。",
           "es": "Nos relacionamos con él incluyendo a toda la familia."
         },
         {
-          "jp": "町[まち] ぐるみで[ぐるみで] 環境[かんきょう] 保護[ほご]に 取り組[とりく]んでいる。",
+          "jp": "町[まち] ぐるみで 環境[かんきょう] 保護[ほご]に 取り組[とりく]んでいる。",
           "es": "Todo el pueblo (como unidad) está trabajando en la protección del medio ambiente."
         }
       ]
@@ -1555,11 +1555,11 @@
       "description": "Indica que algo se hace o sucede sin que importe la situación, razón o resultado de X. 'Independientemente de...'.",
       "examples": [
         {
-          "jp": "理由[りゆう]の いかんによらず[いかんによらず]、遅刻[ちこく]は 認[みと]められない。",
+          "jp": "理由[りゆう]の いかんによらず、遅刻[ちこく]は 認[みと]められない。",
           "es": "Independientemente de la razón, no se permite llegar tarde."
         },
         {
-          "jp": "結果[けっか]の いかんによらず[いかんによらず]、全力[ぜんりょく]を 尽[つ]くしたことに 意味[いみ]が ある。",
+          "jp": "結果[けっか]の いかんによらず、全力[ぜんりょく]を 尽[つ]くしたことに 意味[いみ]が ある。",
           "es": "Independientemente del resultado, lo importante es que te esforzaste al máximo."
         }
       ]
@@ -1576,7 +1576,7 @@
           "es": "La carretera está tan congestionada que aunque quiera avanzar, no puedo."
         },
         {
-          "jp": "連絡先[れんらくさき]が 分[わ]からなくて、連絡[れんらく] しよう[しよう] にも できない[できない]。",
+          "jp": "連絡先[れんらくさき]が 分[わ]からなくて、連絡[れんらく] しよう にも できない。",
           "es": "No sé su información de contacto, así que aunque quiera contactarlo, no puedo."
         }
       ]
@@ -1644,7 +1644,7 @@
           "es": "No es que no entienda sus sentimientos (puedo entenderlos un poco)."
         },
         {
-          "jp": "頑張[がんば]れば、できない[できない] でも ない[でもない]。",
+          "jp": "頑張[がんば]れば、できない でも ない[でもない]。",
           "es": "Si te esfuerzas, no es que sea imposible (se puede hacer)."
         }
       ]
@@ -1674,11 +1674,11 @@
       "description": "Se usa cuando el hablante estaba convencido de algo, pero la realidad resultó ser diferente. 'Estaba bajo la impresión de que...'.",
       "examples": [
         {
-          "jp": "今日[きょう]は 休[やす]み だ[だ] ものと 思[おも]っていたのに、仕事[しごと]が 入[はい]った。",
+          "jp": "今日[きょう]は 休[やす]み だ ものと 思[おも]っていたのに、仕事[しごと]が 入[はい]った。",
           "es": "Estaba convencido de que hoy era mi día libre, pero me salió trabajo."
         },
         {
-          "jp": "彼[かれ]は 独身[どくしん] だ[だ] ものと 思[おも]っていたら、結婚[けっこん]していた。",
+          "jp": "彼[かれ]は 独身[どくしん] だ ものと 思[おも]っていたら、結婚[けっこん]していた。",
           "es": "Pensaba que él era soltero, pero resultó que estaba casado."
         }
       ]
@@ -1759,11 +1759,11 @@
       "description": "Se usa para enumerar múltiples cosas o situaciones (generalmente negativas o abrumadoras) que ocurren al mismo tiempo.",
       "examples": [
         {
-          "jp": "今日[きょう]は 雨[あめ]は 降[ふ]る わ[わ] 風[かぜ]は 強[つよ]い わ[わ]で、大変[たいへん]な 一日[いちにち]だった。",
+          "jp": "今日[きょう]は 雨[あめ]は 降[ふ]る わ 風[かぜ]は 強[つよ]い わで、大変[たいへん]な 一日[いちにち]だった。",
           "es": "Hoy ha sido un día terrible: que si llueve, que si hace un viento fuerte..."
         },
         {
-          "jp": "借金[しゃっきん]は ある わ[わ] 失業[しつぎょう]する わ[わ]で、もう 最悪[さいあく]だ。",
+          "jp": "借金[しゃっきん]は ある わ 失業[しつぎょう]する わで、もう 最悪[さいあく]だ。",
           "es": "Entre que tengo deudas y que me he quedado sin trabajo, esto es lo peor."
         }
       ]
@@ -1776,11 +1776,11 @@
       "description": "Indica un grado mínimo de algo. 'Al menos un poco' o 'Aunque sea...'.",
       "examples": [
         {
-          "jp": "お忙[おいそが]しいとは 思[おも]いますが、一度[いちど] なりとも[なりとも] お会[おあ]いしたいです。",
+          "jp": "お忙[おいそが]しいとは 思[おも]いますが、一度[いちど] なりとも お会[おあ]いしたいです。",
           "es": "Sé que está ocupado, pero me gustaría verle aunque sea una sola vez."
         },
         {
-          "jp": "何[なに]か お役[おやく]に 立[た]ちたいので、少[すこ]し なりとも[なりとも] お手伝[おてつだ]いさせてください。",
+          "jp": "何[なに]か お役[おやく]に 立[た]ちたいので、少[すこ]し なりとも お手伝[おてつだ]いさせてください。",
           "es": "Como quiero ser de ayuda, por favor déjeme ayudarle aunque sea un poco."
         }
       ]
@@ -1827,11 +1827,11 @@
       "description": "Expresa un fuerte deseo de que algo suceda, aunque sea difícil o parezca imposible. '¿No habrá forma de...?' o 'Ojalá pudiera...'.",
       "examples": [
         {
-          "jp": "この 病気[びょうき]が 治[なお]らない ものだろうか[ものだろうか]。",
+          "jp": "この 病気[びょうき]が 治[なお]らない ものだろうか。",
           "es": "¿No habrá alguna forma de curar esta enfermedad?"
         },
         {
-          "jp": "一日[いちにち]が 48時間[よんじゅうはちじかん]に ならない ものだろうか[ものだろうか]。",
+          "jp": "一日[いちにち]が 48時間[よんじゅうはちじかん]に ならない ものだろうか。",
           "es": "¿No podría un día tener 48 horas? (Ojalá las tuviera)."
         }
       ]
@@ -1844,11 +1844,11 @@
       "description": "Expresa la firme voluntad de realizar algo para demostrar la propia capacidad o determinación ante los demás. '¡Te demostraré que...!' o '¡Lo haré pase lo que pase!'.",
       "examples": [
         {
-          "jp": "今度[こんど]の 試験[しけん]には、絶対[ぜったい]に 合格[ごうかく] して[して] 見[み]せる。",
+          "jp": "今度[こんど]の 試験[しけん]には、絶対[ぜったい]に 合格[ごうかく] して 見[み]せる。",
           "es": "¡Te demostraré que aprobaré el próximo examen sin falta!"
         },
         {
-          "jp": "いつか 必[かなら]ず 世界一[せかいいち]に なって[なって] 見[み]せる。",
+          "jp": "いつか 必[かなら]ず 世界一[せかいいち]に なって 見[み]せる。",
           "es": "¡Algún día, sin duda, demostraré que puedo ser el mejor del mundo!"
         }
       ]
@@ -1895,11 +1895,11 @@
       "description": "Expresión formal y arcaica utilizada en avisos o carteles para prohibir una acción. 'No se debe...' o 'Prohibido...'.",
       "examples": [
         {
-          "jp": "ここには 入[はい]る べからず[べからず]。",
+          "jp": "ここには 入[はい]る べからず。",
           "es": "No se debe entrar aquí (Prohibida la entrada)."
         },
         {
-          "jp": "芝生[しばふ]に 入[はい]る べからず[べからず]。",
+          "jp": "芝生[しばふ]に 入[はい]る べからず。",
           "es": "No se debe pisar el césped."
         }
       ]
@@ -1980,11 +1980,11 @@
       "description": "Se añade a ciertos sustantivos para indicar que algo empieza a tener el aspecto, la atmósfera o las características de ese sustantivo.",
       "examples": [
         {
-          "jp": "少[すこ]しずつ 春[はる] めいて[めいて] きましたね。",
+          "jp": "少[すこ]しずつ 春[はる] めいて きましたね。",
           "es": "Poco a poco empieza a sentirse el aire de la primavera, ¿verdad?"
         },
         {
-          "jp": "彼[かれ]の 言葉[ことば]には 皮肉[ひにく] めいた[めいた] 響[ひび]きが あった。",
+          "jp": "彼[かれ]の 言葉[ことば]には 皮肉[ひにく] めいた 響[ひび]きが あった。",
           "es": "Sus palabras tenían un eco que sonaba a ironía."
         }
       ]
@@ -2048,11 +2048,11 @@
       "description": "Se utiliza en lenguaje coloquial para expresar que alguien realiza una acción con gran intensidad, frecuencia o de forma desenfrenada.",
       "examples": [
         {
-          "jp": "昨日[きのう]は ストレス 発散[はっさん]のために、カラオケで 歌[うた]い まくった[まくった]。",
+          "jp": "昨日[きのう]は ストレス 発散[はっさん]のために、カラオケで 歌[うた]い まくった。",
           "es": "Ayer canté como un loco en el karaoke para liberar el estrés."
         },
         {
-          "jp": "彼[かれ]は 怒[おこ]って、部屋[へや]の 中[なか]を 荒[あ]らし まくった[まくった]。",
+          "jp": "彼[かれ]は 怒[おこ]って、部屋[へや]の 中[なか]を 荒[あ]らし まくった。",
           "es": "Él se enfadó y desordenó toda la habitación frenéticamente."
         }
       ]
@@ -2065,11 +2065,11 @@
       "description": "Enumera varias causas o situaciones abrumadoras (generalmente negativas) para explicar el motivo de un estado actual. 'Entre que... y que...'.",
       "examples": [
         {
-          "jp": "雨[あめ]に 降[ふ]られる わ[わ] 道[みち]に 迷[まよ]う わ[わ] で、散々な[さんざんな] 目[め]に あった。",
+          "jp": "雨[あめ]に 降[ふ]られる わ 道[みち]に 迷[まよ]う わ で、散々な[さんざんな] 目[め]に あった。",
           "es": "Entre que me llovió y que me perdí, pasé un rato horrible."
         },
         {
-          "jp": "仕事[しごと]は 忙[いそが]しい わ[わ] 風邪[かぜ]は 引[ひ]く わ[わ] で、もう 大変[たいへん]です。",
+          "jp": "仕事[しごと]は 忙[いそが]しい わ 風邪[かぜ]は 引[ひ]く わ で、もう 大変[たいへん]です。",
           "es": "Entre el ajetreo del trabajo y que me he resfriado, estoy fatal."
         }
       ]
@@ -2150,11 +2150,11 @@
       "description": "Enfatiza que ni siquiera una unidad mínima (un segundo, un céntimo, una persona) es permitida o existe.",
       "examples": [
         {
-          "jp": "試験[しけん]の 時[とき]は、一秒[いちびょう] たりとも[たりとも] 無駄[むだ]に できない。",
+          "jp": "試験[しけん]の 時[とき]は、一秒[いちびょう] たりとも 無駄[むだ]に できない。",
           "es": "Durante el examen, no se puede desperdiciar ni un solo segundo."
         },
         {
-          "jp": "彼[かれ]は 1円[いちえん] たりとも[たりとも] むだづかいは しない。",
+          "jp": "彼[かれ]は 1円[いちえん] たりとも むだづかいは しない。",
           "es": "Él no malgasta ni un solo yen."
         }
       ]
@@ -2235,7 +2235,7 @@
       "description": "Se usa para introducir un tema y expresar una queja, crítica o descontento sobre el mismo. 'Si hablamos de...'.",
       "examples": [
         {
-          "jp": "うちの 息子[むすこ] と 来[とき]たら、毎日[まいにち] 遊[あそ]び まくって[まくって] 困[こま]る。",
+          "jp": "うちの 息子[むすこ] と 来[とき]たら、毎日[まいにち] 遊[あそ]び まくって 困[こま]る。",
           "es": "Si hablamos de mi hijo, no hace más que jugar todos los días y es un problema."
         },
         {
@@ -2252,11 +2252,11 @@
       "description": "Indica que algo o alguien tiene la apariencia de un sustantivo o se comporta como tal. 'Parecer' o 'Tener aires de'.",
       "examples": [
         {
-          "jp": "彼[かれ]は まだ 中学生[ちゅうがくせい]だが、大人[おとな] びた[びた] 顔[かお]を している。",
+          "jp": "彼[かれ]は まだ 中学生[ちゅうがくせい]だが、大人[おとな] びた 顔[かお]を している。",
           "es": "Él todavía es estudiante de secundaria, pero tiene una cara que parece de adulto."
         },
         {
-          "jp": "古[ふる] びた[びた] 建物[たてもの]が 並[なら]んでいる。",
+          "jp": "古[ふる] びた 建物[たてもの]が 並[なら]んでいる。",
           "es": "Hay edificios que se ven antiguos alineados en la calle."
         }
       ]
@@ -2286,11 +2286,11 @@
       "description": "Enfatiza que la razón principal de una acción o sentimiento es precisamente lo que se acaba de mencionar. 'Precisamente porque'.",
       "examples": [
         {
-          "jp": "子供[こども]を 愛[あい]していれば こそ[こそ]、厳[きび]しく 叱[しか]るのです。",
+          "jp": "子供[こども]を 愛[あい]していれば こそ、厳[きび]しく 叱[しか]るのです。",
           "es": "Precisamente porque amo a mis hijos, les riño con severidad."
         },
         {
-          "jp": "合格[ごうかく]の ための 努力[どりょく]を すれば[すれば] こそ[こそ]、結果[けっか]が 出[で]る。",
+          "jp": "合格[ごうかく]の ための 努力[どりょく]を すれば こそ、結果[けっか]が 出[で]る。",
           "es": "Solo si te esfuerzas para aprobar (precisamente por ese esfuerzo), obtendrás resultados."
         }
       ]
@@ -2307,7 +2307,7 @@
           "es": "Si te sientes mal, no hay problema en que te vayas temprano a casa."
         },
         {
-          "jp": "手術[しゅじゅつ]の 後[あと]は、軽[かる]い 運動[うんどう]を して[して] も 差し支[さしつか]えない。",
+          "jp": "手術[しゅじゅつ]の 後[あと]は、軽[かる]い 運動[うんどう]を して も 差し支[さしつか]えない。",
           "es": "Después de la operación, no importa si haces ejercicio ligero."
         }
       ]
@@ -2354,11 +2354,11 @@
       "description": "Indica que aunque no se llegue al nivel ideal A, al menos se alcanza un nivel aceptable o cercano B. 'Aunque no sea..., al menos...'.",
       "examples": [
         {
-          "jp": "完璧[かんぺき] ではない[ではない] までも[までも]、合格[ごうかく] 点[てん]は 取[と]れた。",
+          "jp": "完璧[かんぺき] ではない までも、合格[ごうかく] 点[てん]は 取[と]れた。",
           "es": "Aunque no fuera perfecto, al menos pude sacar la nota para aprobar."
         },
         {
-          "jp": "毎日[まいにち] とは 言[い]わない までも[までも]、週[しゅう]に 三回[さんかい]は 運動[うんどう]しよう。",
+          "jp": "毎日[まいにち] とは 言[い]わない までも、週[しゅう]に 三回[さんかい]は 運動[うんどう]しよう。",
           "es": "Aunque no digas de hacerlo todos los días, al menos hagamos ejercicio tres veces por semana."
         }
       ]
@@ -2388,11 +2388,11 @@
       "description": "Indica que un problema o fenómeno no se limita solo al caso mencionado, sino que es algo común en general.",
       "examples": [
         {
-          "jp": "不景気[ふけいき]なのは、わが社[わがしゃ] に 限[にかぎ]った ことではない[ことではない]。",
+          "jp": "不景気[ふけいき]なのは、わが社[わがしゃ] に 限[にかぎ]った ことではない。",
           "es": "Estar en recesión no es algo que se limite solo a nuestra empresa."
         },
         {
-          "jp": "若者[わかもの]の 言葉遣[ことばづか]いが 乱[みだ]れているのは、日本[にほん] に 限[にかぎ]った ことではない[ことではない]。",
+          "jp": "若者[わかもの]の 言葉遣[ことばづか]いが 乱[みだ]れているのは、日本[にほん] に 限[にかぎ]った ことではない。",
           "es": "Que el lenguaje de los jóvenes se esté degradando no es algo limitado solo a Japón."
         }
       ]
@@ -2405,11 +2405,11 @@
       "description": "Indica que la diferencia entre dos cosas es tan grande que ni siquiera se pueden comparar. 'No tiene comparación con'.",
       "examples": [
         {
-          "jp": "今[いま]の 生活[せいかつ]は、昔[むかし] とは 比[くら]べものに ならない[ならない]ほど 豊[ゆた]かだ。",
+          "jp": "今[いま]の 生活[せいかつ]は、昔[むかし] とは 比[くら]べものに ならないほど 豊[ゆた]かだ。",
           "es": "La vida actual es rica hasta el punto de no tener comparación con la de antes."
         },
         {
-          "jp": "プロの 実力[じつりょく]は、アマチュア とは 比[くら]べものに ならない[ならない]。",
+          "jp": "プロの 実力[じつりょく]は、アマチュア とは 比[くら]べものに ならない。",
           "es": "La habilidad de un profesional no tiene comparación con la de un aficionado."
         }
       ]
@@ -2511,7 +2511,7 @@
           "es": "¡Mi gato (es increíble), otra vez se robó el pescado y se lo comió!"
         },
         {
-          "jp": "今日[きょう]の 暑[あつ]さ ったら、我慢[がまん] できない[できない]ほどだ。",
+          "jp": "今日[きょう]の 暑[あつ]さ ったら、我慢[がまん] できないほどだ。",
           "es": "El calor de hoy es algo que sencillamente no se puede aguantar."
         }
       ]
@@ -2524,11 +2524,11 @@
       "description": "Expresión formal que se usa para dar una razón o excusa, especialmente cuando se pide perdón por una falta de experiencia o conocimiento.",
       "examples": [
         {
-          "jp": "不慣[ふな]れな こととて[こととて]、ご 迷惑[めいわく]を おかけしました。",
+          "jp": "不慣[ふな]れな こととて、ご 迷惑[めいわく]を おかけしました。",
           "es": "Debido a mi falta de experiencia, les he causado molestias."
         },
         {
-          "jp": "子供[こども]の した こととて[こととて]、どうか お 許[ゆる]し ください。",
+          "jp": "子供[こども]の した こととて、どうか お 許[ゆる]し ください。",
           "es": "Al ser algo que hizo un niño, por favor, discúlpenlo."
         }
       ]
@@ -2541,11 +2541,11 @@
       "description": "Indica que algo está lleno de una misma cosa o que solo ocurren eventos de un mismo tipo. Se usa para colores o situaciones.",
       "examples": [
         {
-          "jp": "今日[きょう]は いい こと ずくめ[ずくめ] の 一日[いちにち] だった。",
+          "jp": "今日[きょう]は いい こと ずくめ の 一日[いちにち] だった。",
           "es": "Hoy ha sido un día en el que solo me han pasado cosas buenas."
         },
         {
-          "jp": "彼女[かのじょ]は 今日[きょう]、黒[くろ] ずくめ[ずくめ] の 服装[ふくそう]を している。",
+          "jp": "彼女[かのじょ]は 今日[きょう]、黒[くろ] ずくめ の 服装[ふくそう]を している。",
           "es": "Ella hoy va vestida completamente de negro."
         }
       ]
@@ -2677,11 +2677,11 @@
       "description": "Indica que el resultado o la interpretación de algo cambia dependiendo del método o la forma en que se haga.",
       "examples": [
         {
-          "jp": "考[かんが]え 様[よう] によっては[によっては]、これも いい 経験[けいけん]だ。",
+          "jp": "考[かんが]え 様[よう] によっては、これも いい 経験[けいけん]だ。",
           "es": "Dependiendo de cómo se mire (de la forma de pensar), esto también es una buena experiencia."
         },
         {
-          "jp": "やり[やり] 様[よう] によっては[によっては]、もっと 早[はや]く 終[お]わるはずだ。",
+          "jp": "やり 様[よう] によっては、もっと 早[はや]く 終[お]わるはずだ。",
           "es": "Dependiendo de cómo se haga, debería terminar mucho más rápido."
         }
       ]
@@ -2694,11 +2694,11 @@
       "description": "Expresa que algo es totalmente imposible de realizar en las circunstancias actuales. 'No hay forma de...'.",
       "examples": [
         {
-          "jp": "貧[まず]しい 私[わたし]には、家[いえ]を 買[か]うなんて 望[のぞ]む べくもない[べくもない]。",
+          "jp": "貧[まず]しい 私[わたし]には、家[いえ]を 買[か]うなんて 望[のぞ]む べくもない。",
           "es": "Para alguien pobre como yo, no hay ni esperanza de soñar con comprar una casa."
         },
         {
-          "jp": "優勝[ゆうしょう]なんて、今[いま]の 実力[じつりょく]では 望[のぞ]む べくもない[べくもない]。",
+          "jp": "優勝[ゆうしょう]なんて、今[いま]の 実力[じつりょく]では 望[のぞ]む べくもない。",
           "es": "Con mi habilidad actual, no tengo ni la más mínima posibilidad de ganar el campeonato."
         }
       ]
@@ -2728,11 +2728,11 @@
       "description": "Indica que se realiza una acción o se toma una decisión basándose en una suposición o trato específico. 'Dando por hecho que...'.",
       "examples": [
         {
-          "jp": "この 計画[けいかく]は 失敗[しっぱい]した ものとして[ものとして]、次[つぎ]を 考[かんが]えよう。",
+          "jp": "この 計画[けいかく]は 失敗[しっぱい]した ものとして、次[つぎ]を 考[かんが]えよう。",
           "es": "Dando por hecho que este plan falló, pensemos en el siguiente."
         },
         {
-          "jp": "今日[きょう]の 会議[かいぎ]は なかった ものとして[ものとして]、忘[わす]れてください。",
+          "jp": "今日[きょう]の 会議[かいぎ]は なかった ものとして、忘[わす]れてください。",
           "es": "Por favor, olvídenlo, actúen como si la reunión de hoy no hubiera existido."
         }
       ]
@@ -2762,11 +2762,11 @@
       "description": "Indica que, por razones sociales, morales o de responsabilidad, uno no puede evitar hacer algo o debe hacerlo obligatoriamente.",
       "examples": [
         {
-          "jp": "これだけ 迷惑[めいわく]を かけたのだから、謝[あやま]らずには すまない[すまない]。",
+          "jp": "これだけ 迷惑[めいわく]を かけたのだから、謝[あやま]らずには すまない。",
           "es": "Después de haber causado tantas molestias, no puedo no disculparme (tengo que hacerlo)."
         },
         {
-          "jp": "他人[たにん]の 車[くるま]を 壊[こわ]したなら、弁償[べんしょう] せずには すまない[すまない]だろう。",
+          "jp": "他人[たにん]の 車[くるま]を 壊[こわ]したなら、弁償[べんしょう] せずには すまないだろう。",
           "es": "Si rompes el coche de otra persona, no te librarás de pagar los daños."
         }
       ]
@@ -2813,11 +2813,11 @@
       "description": "Se utiliza para advertir que si llegara a ocurrir una situación hipotética (generalmente negativa), las consecuencias serían graves.",
       "examples": [
         {
-          "jp": "締め切[しめき]りに 遅[おく]れよう ものなら[ものなら]、契約[けいやく]を 打ち切[うちき]られる。",
+          "jp": "締め切[しめき]りに 遅[おく]れよう ものなら、契約[けいやく]を 打ち切[うちき]られる。",
           "es": "Como llegues a retrasarte en la fecha de entrega, te cancelarán el contrato."
         },
         {
-          "jp": "そんな ところで 居眠[いねむ]りを しよう ものなら[ものなら]、風邪[かぜ]を 引[ひ]くよ。",
+          "jp": "そんな ところで 居眠[いねむ]りを しよう ものなら、風邪[かぜ]を 引[ひ]くよ。",
           "es": "Si se te ocurre quedarte dormido en un lugar así, vas a pillar un resfriado."
         }
       ]
@@ -2830,7 +2830,7 @@
       "description": "Se usa para comparar dos cosas o personas, resaltando un contraste muy fuerte entre ellas.",
       "examples": [
         {
-          "jp": "真面目[まじめ]な 兄[あに] に 引き換[にひきか]え、弟[おとうと]は 遊[あそ]び まわって[まわって]いる。",
+          "jp": "真面目[まじめ]な 兄[あに] に 引き換[にひきか]え、弟[おとうと]は 遊[あそ]び まわっている。",
           "es": "En marcado contraste con su hermano mayor, que es serio, el menor no hace más que andar de fiesta."
         },
         {
@@ -2847,11 +2847,11 @@
       "description": "Indica que si ocurre cierta condición, todo el esfuerzo anterior habrá sido en vano o la situación no tendrá más remedio. 'Ahí se acaba todo'.",
       "examples": [
         {
-          "jp": "いくら 稼[かせ]いでも、体[からだ]を 壊[こわ]してしまえば それまでだ[それまでだ]。",
+          "jp": "いくら 稼[かせ]いでも、体[からだ]を 壊[こわ]してしまえば それまでだ。",
           "es": "Por mucho que ganes, si destruyes tu salud, ahí se acaba todo (no sirve de nada)."
         },
         {
-          "jp": "どんなに 良[よ]い 案[あん]でも、実行[じっこう] しなければ それまでだ[それまでだ]。",
+          "jp": "どんなに 良[よ]い 案[あん]でも、実行[じっこう] しなければ それまでだ。",
           "es": "Por muy buena que sea una idea, si no se ejecuta, no sirve para nada."
         }
       ]
@@ -2885,7 +2885,7 @@
           "es": "La policía definitivamente atrapará al culpable (no lo dejarán escapar)."
         },
         {
-          "jp": "彼女[かのじょ]の 歌声[うたごえ]は、聞[き]く 者[もの]を 感動[かんどう] させ[させ] ずには 措[ずにはお]かない。",
+          "jp": "彼女[かのじょ]の 歌声[うたごえ]は、聞[き]く 者[もの]を 感動[かんどう] させ ずには 措[ずにはお]かない。",
           "es": "Su voz no deja de conmover a todo aquel que la escucha."
         }
       ]
@@ -2919,7 +2919,7 @@
           "es": "No puedo soportar que haga tanto calor todos los días."
         },
         {
-          "jp": "隣[となり]の 部屋[へや]が こんなに うるさくては[うるさくては] 叶[かな]わない。",
+          "jp": "隣[となり]の 部屋[へや]が こんなに うるさくては 叶[かな]わない。",
           "es": "No se puede aguantar que la habitación de al lado sea tan ruidosa."
         }
       ]
@@ -2932,11 +2932,11 @@
       "description": "Se utiliza en contextos formales para indicar que se realiza una acción con dos objetivos a la vez. 'Aprovechando para' o 'Al mismo tiempo que'.",
       "examples": [
         {
-          "jp": "ご 挨拶[あいさつ] かたがた[かたがた]、お 伺[うかが]いしました。",
+          "jp": "ご 挨拶[あいさつ] かたがた、お 伺[うかが]いしました。",
           "es": "He venido a visitarle aprovechando la ocasión para saludarle."
         },
         {
-          "jp": "散歩[さんぽ] かたがた[かたがた]、買い物[かいもの]に 行[い]く。",
+          "jp": "散歩[さんぽ] かたがた、買い物[かいもの]に 行[い]く。",
           "es": "Voy a hacer las compras y, al mismo tiempo, dar un paseo."
         }
       ]
@@ -2949,11 +2949,11 @@
       "description": "Indica que una situación obliga a alguien a tomar una decisión o realizar una acción que no deseaba.",
       "examples": [
         {
-          "jp": "不況[ふきょう]が 企業[きぎょう]に 減員[げんいん] を 余儀[よぎ]なく させた[させた]。",
+          "jp": "不況[ふきょう]が 企業[きぎょう]に 減員[げんいん] を 余儀[よぎ]なく させた。",
           "es": "La recesión obligó a las empresas a reducir su personal."
         },
         {
-          "jp": "突然[とつぜん]の 雨[あめ]が 私[わたし]たちに 中止[ちゅうし] を 余儀[よぎ]なく させた[させた]。",
+          "jp": "突然[とつぜん]の 雨[あめ]が 私[わたし]たちに 中止[ちゅうし] を 余儀[よぎ]なく させた。",
           "es": "La lluvia repentina nos obligó a suspender (la actividad)."
         }
       ]
@@ -2966,11 +2966,11 @@
       "description": "En este nivel, expresa una fuerte determinación o un sentimiento de revancha. '¡Ya verás!' o '¡Lo haré pase lo que pase!'.",
       "examples": [
         {
-          "jp": "今度[こんど]こそ、絶対[ぜったい]に 勝[か]って やる[やる]。",
+          "jp": "今度[こんど]こそ、絶対[ぜったい]に 勝[か]って やる。",
           "es": "¡Esta vez sí que te voy a ganar pase lo que pase!"
         },
         {
-          "jp": "見[み]てろ、いつか 見返[みかえ]して やる[やる]。",
+          "jp": "見[み]てろ、いつか 見返[みかえ]して やる。",
           "es": "¡Solo mira, algún día te demostraré de lo que soy capaz!"
         }
       ]
@@ -2983,11 +2983,11 @@
       "description": "Indica que no hay nada más que hacer excepto una sola cosa. 'Solamente' o 'Lo único que queda'.",
       "examples": [
         {
-          "jp": "今は ただ[ただ] 成功[せいこう]を 祈[いの]る のみ[のみ]だ。",
+          "jp": "今は ただ 成功[せいこう]を 祈[いの]る のみだ。",
           "es": "Ahora solamente queda rezar por el éxito."
         },
         {
-          "jp": "合格[ごうかく]の ためには、ただ[ただ] 努力[どりょく] ある のみ[のみ]だ。",
+          "jp": "合格[ごうかく]の ためには、ただ 努力[どりょく] ある のみだ。",
           "es": "Para aprobar, lo único que queda es esforzarse."
         }
       ]
@@ -3017,11 +3017,11 @@
       "description": "Se utiliza para conectar una información o mensaje con un sustantivo (como noticia, rumor o carta). 'Que dice que...'.",
       "examples": [
         {
-          "jp": "来年[らいねん] 結婚[けっこん]する との[との] 知[し]らせが 届[とど]いた。",
+          "jp": "来年[らいねん] 結婚[けっこん]する との 知[し]らせが 届[とど]いた。",
           "es": "Me llegó la noticia de que se casará el próximo año."
         },
         {
-          "jp": "彼[かれ]は 欠席[けっせき]する との[との] ことです。",
+          "jp": "彼[かれ]は 欠席[けっせき]する との ことです。",
           "es": "Dicen que él va a estar ausente."
         }
       ]

@@ -1096,11 +1096,11 @@
       "description": "Indica el propósito o la razón por la cual se hace algo basándose en lo dicho anteriormente. 'Para ello' o 'Por esa razón'.",
       "examples": [
         {
-          "jp": "留学[りゅうがく] したい です。その ため[ため] に お金[おかね] を 貯[た]めて います。",
+          "jp": "留学[りゅうがく] したい です。その ため に お金[おかね] を 貯[た]めて います。",
           "es": "Quiero estudiar en el extranjero. Para ello, estoy ahorrando dinero."
         },
         {
-          "jp": "明日[あした] は テスト です。その ため[ため] に 今夜[こんや] は 勉強[べんきょう] し ます。",
+          "jp": "明日[あした] は テスト です。その ため に 今夜[こんや] は 勉強[べんきょう] し ます。",
           "es": "Mañana hay examen. Por esa razón, estudiaré esta noche."
         }
       ]

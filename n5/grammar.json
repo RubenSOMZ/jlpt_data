@@ -1071,7 +1071,7 @@
         }
       ]
     },
-     {
+    {
       "id": "n5-64",
       "category": "Interrogativo",
       "title": "誰",
@@ -2065,11 +2065,11 @@
       "description": "Conecta oraciones para listar estados o cualidades que ocurren en paralelo.",
       "examples": [
         {
-          "jp": "弟[おとうと]は元気[げんき]で, よく遊[あそ]びます。",
+          "jp": "弟[おとうと]は元気[げんき]で,よく遊[あそ]びます。",
           "es": "Mi hermano pequeño tiene mucha energía y juega mucho."
         },
         {
-          "jp": "天気[てんき]が良[よ]くて, 気持[きも]ちがいいです。",
+          "jp": "天気[てんき]が良[よ]くて,気持[きも]ちがいいです。",
           "es": "Hace buen tiempo y se siente bien."
         }
       ]

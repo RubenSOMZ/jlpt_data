@@ -1,1824 +1,3293 @@
 {
   "grammar": [
-  {
-  "id": "n1-1",
-  "category": "Condición",
-  "title": "〜んがために",
-  "formula": "V (Forma Nai sin nai) + んがために",
-  "description": "Indica un propósito u objetivo fundamental por el cual se realiza un esfuerzo extremo. Es la versión más literaria de 'tame ni'.",
-  "examples": [
     {
-      "jp": "真実[しんじつ]を 明[あき]らかに せんがために、彼[かれ]は 闘[たたか]い 続け[つづけ]た。",
-      "es": "Siguió luchando con el único fin de sacar a la luz la verdad."
+      "id": "n1-1",
+      "category": "Actitud",
+      "title": "敢[あ]えて",
+      "formula": "敢えて + V",
+      "description": "Atreverse a; hacerlo deliberadamente a pesar de las dificultades o de que no sea necesario.",
+      "examples": [
+        {
+          "jp": "嫌[きら]われる のを 承知[しょうち]で、敢[あ]えて 彼[かれ]に 忠告[ちゅうこく] した。",
+          "es": "Aun sabiendo que me odiaría, me atreví a darle un consejo."
+        }
+      ]
+    },
+    {
+      "id": "n1-2",
+      "category": "Énfasis",
+      "title": "あくまでも",
+      "formula": "あくまでも + Frase",
+      "description": "Hasta el final; persistentemente; absolutamente. Indica que una postura o situación no cambia.",
+      "examples": [
+        {
+          "jp": "これ は あくまでも 個人[こじん]的な 意見[いけん] です。",
+          "es": "Esto es, estrictamente hablando, una opinión personal."
+        }
+      ]
+    },
+    {
+      "id": "n1-3",
+      "category": "Expectativa",
+      "title": "案[あん]の定[じょう]",
+      "formula": "案の定 + Frase",
+      "description": "Tal como se esperaba; como era de suponer. Se usa frecuentemente para resultados negativos.",
+      "examples": [
+        {
+          "jp": "案[あん]の定[じょう]、彼[かれ]は 今日[きょう]も 遅刻[ちこく] して きた。",
+          "es": "Tal como esperábamos, él volvió a llegar tarde hoy."
+        }
+      ]
+    },
+    {
+      "id": "n1-4",
+      "category": "Tiempo",
+      "title": "あらかじめ",
+      "formula": "あらかじめ + V",
+      "description": "De antemano; previamente; con antelación.",
+      "examples": [
+        {
+          "jp": "欠席[けっせき]の 場合[ばあい]は、あらかじめ 連絡[れんらく] して ください。",
+          "es": "En caso de ausencia, por favor avise de antemano."
+        }
+      ]
+    },
+    {
+      "id": "n1-5",
+      "category": "Relación",
+      "title": "あっての",
+      "formula": "N1 + あっての + N2",
+      "description": "Que solo puede existir gracias a...; que le debe todo a la existencia de N1.",
+      "examples": [
+        {
+          "jp": "ファン あっての プロ 野球[やきゅう] です。",
+          "es": "El béisbol profesional solo existe gracias a los fans."
+        }
+      ]
+    },
+    {
+      "id": "n1-6",
+      "category": "Causa",
+      "title": "ばこそ",
+      "formula": "V-ba / Adj-ba / N + であれば + こそ",
+      "description": "Precisamente porque... (enfatiza una razón positiva que no parece obvia).",
+      "examples": [
+        {
+          "jp": "愛[あい]して いれば こそ、厳しく[きびしく] 叱る[しかる] のです。",
+          "es": "Precisamente porque te quiero, te regaño con severidad."
+        }
+      ]
+    },
+    {
+      "id": "n1-7",
+      "category": "Límite",
+      "title": "〜ばそれまでだ",
+      "formula": "V-ba / V-tara + それまでだ",
+      "description": "Si ocurre [X], se acabó; ahí termina todo y no hay nada más que hacer.",
+      "examples": [
+        {
+          "jp": "どんなに 稼い[かせい]でも、体[からだ]を 壊して[こわして] しまえば それまでだ。",
+          "es": "No importa cuánto ganes, si destruyes tu salud, se acabó."
+        }
+      ]
+    },
+    {
+      "id": "n1-8",
+      "category": "Prohibición",
+      "title": "〜べからず / 〜べからざる",
+      "formula": "V (Diccionario) + べからず / べからざる",
+      "description": "No se debe; prohibido. 'Bekarazu' se usa en carteles; 'Bekarazaru' modifica sustantivos.",
+      "examples": [
+        {
+          "jp": "ここ に ゴミを 捨てる[すてる] べからず。",
+          "es": "Prohibido tirar basura aquí."
+        }
+      ]
+    },
+    {
+      "id": "n1-9",
+      "category": "Propósito",
+      "title": "〜べく",
+      "formula": "V (Diccionario) + べく (hacer -> すべく)",
+      "description": "Con el propósito de; para poder lograr [X]. Es una forma formal de 'tame ni'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は 医者[いしゃ]に なる べく、一生懸命[いっしょうけんめい] 勉強[べんきょう] して いる。",
+          "es": "Él está estudiando con todas sus fuerzas para convertirse en médico."
+        }
+      ]
+    },
+    {
+      "id": "n1-10",
+      "category": "Imposibilidad",
+      "title": "〜べくもない",
+      "formula": "V (Diccionario) + べくもない",
+      "description": "No hay forma de; es totalmente imposible de... (generalmente con verbos de pensamiento).",
+      "examples": [
+        {
+          "jp": "その 時[とき]の 私[わたし]には、知る[しる] べく も なかった。",
+          "es": "En aquel momento, no había forma de que yo lo supiera."
+        }
+      ]
+    },
+    {
+      "id": "n1-11",
+      "category": "Consecuencia",
+      "title": "〜べくして",
+      "formula": "V (Diccionario) + べくして + V (pasado)",
+      "description": "Como era de esperar; siguiendo el curso natural de las cosas. Algo que tenía que pasar.",
+      "examples": [
+        {
+          "jp": "この 事故[じこ]は 起こる[おこる] べくして 起こった[おこった]。",
+          "es": "Este accidente ocurrió porque tenía que ocurrir (era inevitable)."
+        }
+      ]
+    },
+    {
+      "id": "n1-12",
+      "category": "Apariencia",
+      "title": "〜びる / 〜びた",
+      "formula": "N / Adj + びる",
+      "description": "Parecerse a; comportarse como; tener el aire de... (ej. otonabita: que parece adulto).",
+      "examples": [
+        {
+          "jp": "彼[かれ]は 中学生[ちゅうがくせい] なのに、大人[おとな] びた 顔[かお]を して いる。",
+          "es": "Aunque es un estudiante de secundaria, tiene una cara que parece de adulto."
+        }
+      ]
+    },
+    {
+      "id": "n1-13",
+      "category": "Modo",
+      "title": "〜ぶり / 〜っぷり",
+      "formula": "V (Raíz) + ぶり",
+      "description": "Estilo; manera; forma de realizar una acción.",
+      "examples": [
+        {
+          "jp": "彼[かれ]の 働き[はたらき] ぶり を 見て[みて]、安心[あんしん] した。",
+          "es": "Me tranquilicé al ver su manera de trabajar."
+        }
+      ]
+    },
+    {
+      "id": "n1-14",
+      "category": "Actitud",
+      "title": "〜ぶる / 〜ぶった",
+      "formula": "N / Adj + ぶる",
+      "description": "Aparentar ser; dárselas de; actuar como algo que no se es realmente.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は 金持ち[かねもち] ぶって いるが、実は[じつは] 借金[しゃっきん] まみれ だ。",
+          "es": "Él se las da de rico, pero en realidad está cubierto de deudas."
+        }
+      ]
+    },
+    {
+      "id": "n1-15",
+      "category": "Énfasis",
+      "title": "〜だに",
+      "formula": "V (Diccionario) / N + だに",
+      "description": "Tan solo con...; incluso... (se usa con verbos como pensar, imaginar o soñar).",
+      "examples": [
+        {
+          "jp": "そんな 惨事[さんじ]は、想像[そうぞう] する だに 恐ろしい[おそろしい]。",
+          "es": "Un desastre así es aterrador tan solo de imaginarlo."
+        }
+      ]
+    },
+    {
+      "id": "n1-16",
+      "category": "Enumeración",
+      "title": "〜だの 〜だの",
+      "formula": "V / Adj / N + だの",
+      "description": "Que si esto, que si aquello. Se usa para enumerar ejemplos, generalmente con matiz de queja.",
+      "examples": [
+        {
+          "jp": "給料[きゅうりょう]が 安い[やすい] だの 休み[やすみ]が ない だの、文句[もんく] ばかり 言う[いう]。",
+          "es": "No para de quejarse de que si el sueldo es bajo, que si no hay vacaciones..."
+        }
+      ]
+    },
+    {
+      "id": "n1-17",
+      "category": "Contraste",
+      "title": "〜だろうに",
+      "formula": "Frase + だろうに",
+      "description": "A pesar de que probablemente...; con lo que sería... (expresa lamento o suposición fuerte).",
+      "examples": [
+        {
+          "jp": "もっと 早く[はやく] 言えば[いえば] 助かった[たすかった] だろうに。",
+          "es": "Con lo que te habrías salvado si lo hubieras dicho antes..."
+        }
+      ]
+    },
+    {
+      "id": "n1-18",
+      "category": "Indiferencia",
+      "title": "〜であれ / 〜であろうと",
+      "formula": "N / Partícula + であれ",
+      "description": "Sea quien sea; sea lo que sea; no importa qué. Indica que la situación no cambia.",
+      "examples": [
+        {
+          "jp": "理由[りゆう]が 何[なに] で あれ、暴力[ぼうりょく] は いけない。",
+          "es": "Sea cual sea la razón, la violencia no está bien."
+        }
+      ]
+    },
+    {
+      "id": "n1-19",
+      "category": "Indiferencia",
+      "title": "〜であれ 〜であれ",
+      "formula": "N1 + であれ + N2 + であれ",
+      "description": "Ya sea A o B; sea cual sea el caso entre dos opciones similares.",
+      "examples": [
+        {
+          "jp": "ビール で あれ ワイン で あれ、お 酒[さけ] は お 酒[さけ] だ。",
+          "es": "Ya sea cerveza o vino, el alcohol es alcohol."
+        }
+      ]
+    },
+    {
+      "id": "n1-20",
+      "category": "Adición",
+      "title": "〜でもあり 〜でもある",
+      "formula": "N / Adj + でも あり",
+      "description": "Es tanto A como B; posee ambas características simultáneamente.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は 私[わたし]の 先生[せんせい] で も あり、親友[しんゆう] で も ある。",
+          "es": "Él es tanto mi profesor como mi mejor amigo."
+        }
+      ]
+    },
+    {
+      "id": "n1-21",
+      "category": "Negación",
+      "title": "でも何[なん]でもない",
+      "formula": "N / Adj + でも何でもない",
+      "description": "No es para nada...; no es en absoluto... Se usa para negar algo con énfasis.",
+      "examples": [
+        {
+          "jp": "そんな こと、私[わたし]にとっては 痛く[いたく]も 何[なん]とも ない。",
+          "es": "Eso para mí no me duele en lo más mínimo."
+        }
+      ]
+    },
+    {
+      "id": "n1-22",
+      "category": "Énfasis",
+      "title": "でなくてなんだろう",
+      "formula": "N + でなくてなんだろう",
+      "description": "Si esto no es [X], ¿qué es? Se usa para afirmar que algo es definitivamente [X].",
+      "examples": [
+        {
+          "jp": "これ が 愛[あい] でなくて なんだろう。",
+          "es": "Si esto no es amor, ¿qué es? (Definitivamente es amor)."
+        }
+      ]
+    },
+    {
+      "id": "n1-23",
+      "category": "Duda",
+      "title": "ではあるまいか",
+      "formula": "V (Diccionario) / N + ではあるまいか",
+      "description": "¿No será que...? Una forma muy formal y literaria de expresar una duda o suposición.",
+      "examples": [
+        {
+          "jp": "これ が 解決[かいけつ] 策[さく] では あるまいか。",
+          "es": "¿No será esta la solución?"
+        }
+      ]
+    },
+    {
+      "id": "n1-24",
+      "category": "Justificación",
+      "title": "ではあるまいし",
+      "formula": "V / N + ではあるまいし",
+      "description": "No es como si...; ya que no eres... Se usa para criticar o dar un consejo basado en que la situación no es extrema.",
+      "examples": [
+        {
+          "jp": "子供[こども] では あるまいし、泣く[なく] のは やめなさい。",
+          "es": "No eres un niño, deja de llorar."
+        }
+      ]
+    },
+    {
+      "id": "n1-25",
+      "category": "Límite",
+      "title": "では済[す]まない",
+      "formula": "V-te / N + では済まない",
+      "description": "No basta con...; no se soluciona solo con... Indica que se requiere algo más para cerrar el asunto.",
+      "examples": [
+        {
+          "jp": "謝る[あやまる] だけ では 済まない[すまない]。",
+          "es": "No basta con pedir disculpas (no se soluciona solo con eso)."
+        }
+      ]
+    },
+    {
+      "id": "n1-26",
+      "category": "Imposibilidad",
+      "title": "どうにも〜ない",
+      "formula": "どうにも + V-nai",
+      "description": "No hay forma de...; por más que se intente, no se puede lograr.",
+      "examples": [
+        {
+          "jp": "今[いま]となっては、どうにも できない。",
+          "es": "A estas alturas, no hay nada que se pueda hacer."
+        }
+      ]
+    },
+    {
+      "id": "n1-27",
+      "category": "Tiempo",
+      "title": "が早[はや]いか",
+      "formula": "V (Diccionario) + が早いか",
+      "description": "Nada más...; tan pronto como... Indica que una acción ocurre inmediatamente después de otra.",
+      "examples": [
+        {
+          "jp": "ベル が 鳴る[なる] が 早い[はやい] か、生徒[せいと]たちは 飛び出し[とびだし]た。",
+          "es": "Nada más sonar el timbre, los estudiantes salieron disparados."
+        }
+      ]
+    },
+    {
+      "id": "n1-28",
+      "category": "Comparación",
+      "title": "〜が〜なら、〜も〜だ",
+      "formula": "N1 + が + N1 + なら、N2 + も + N2 + だ",
+      "description": "Si el [X] es así, el [Y] también lo es. Generalmente se usa para críticas negativas (ej. de tal palo tal astilla).",
+      "examples": [
+        {
+          "jp": "親[おや] も 親[おや] なら、子[こ] も 子[こ] だ。",
+          "es": "Si los padres son así, los hijos también (de tal palo tal astilla)."
+        }
+      ]
+    },
+    {
+      "id": "n1-29",
+      "category": "Apariencia",
+      "title": "〜がましい",
+      "formula": "N / V-raiz + がましい",
+      "description": "Parecerse a...; sonar como... Se usa para indicar que algo tiene un aire o matiz molesto o inapropiado.",
+      "examples": [
+        {
+          "jp": "押し付け[おしつけ] がましい 態度[たいど] は 嫌[きら]われる。",
+          "es": "Una actitud que parece impositiva es odiada."
+        }
+      ]
+    },
+    {
+      "id": "n1-30",
+      "category": "Tiempo",
+      "title": "〜がてら",
+      "formula": "N / V-raiz + がてら",
+      "description": "Aprovechando que...; al mismo tiempo que... Se usa cuando se realiza una acción principal y se aprovecha para otra secundaria.",
+      "examples": [
+        {
+          "jp": "散歩[さんぽ] がてら、郵便[ゆうびん] 局[きょく] に 行って[いって] くる。",
+          "es": "Aprovechando que voy a dar un paseo, iré a la oficina de correos."
+        }
+      ]
+    },
+    {
+      "id": "n1-31",
+      "category": "Similitud",
+      "title": "ごとき / ごとく",
+      "formula": "V / N + の + ごとき / ごとく",
+      "description": "Como; como si fuera. Es una forma literaria de 'you na' o 'you ni'.",
+      "examples": [
+        {
+          "jp": "風[かぜ] の ごとく 走り[はしり] 去った[さった]。",
+          "es": "Se fue corriendo como el viento."
+        }
+      ]
+    },
+    {
+      "id": "n1-32",
+      "category": "Inclusión",
+      "title": "〜ぐるみ",
+      "formula": "N + ぐるみ",
+      "description": "Junto con...; incluyendo a todo el... Indica que un grupo entero está involucrado.",
+      "examples": [
+        {
+          "jp": "町[まち] ぐるみ で イベント を 盛り上げる[もりあげる]。",
+          "es": "Todo el pueblo (incluyendo a todos) anima el evento."
+        }
+      ]
+    },
+    {
+      "id": "n1-33",
+      "category": "Consecuencia",
+      "title": "羽目[はめ]になる",
+      "formula": "V (Diccionario) + 羽目になる",
+      "description": "Acabar en la situación de...; verse obligado a (algo desagradable).",
+      "examples": [
+        {
+          "jp": "結局[けっきょく]、借金[しゃっきん] を 返す[かえす] 羽目[はめ] に なった。",
+          "es": "Al final, acabé teniendo que devolver el préstamo."
+        }
+      ]
+    },
+    {
+      "id": "n1-34",
+      "category": "Juicio",
+      "title": "ほどのことではない",
+      "formula": "V (Diccionario) + ほどのことではない",
+      "description": "No es para tanto; no hay necesidad de llegar al extremo de hacer [X].",
+      "examples": [
+        {
+          "jp": "心配[しんぱい] する ほど の こと ではない。",
+          "es": "No es para tanto como para preocuparse."
+        }
+      ]
+    },
+    {
+      "id": "n1-35",
+      "category": "Preferencia",
+      "title": "ほうがましだ",
+      "formula": "V / Adj + ほうがましだ",
+      "description": "Es preferible...; es mejor [A] que [B] (aunque ninguna opción sea buena).",
+      "examples": [
+        {
+          "jp": "あんな 奴[やつ] に 謝る[あやまる] くらい なら、死ぬ[しぬ] ほう が まし だ。",
+          "es": "Prefiero morir antes que pedirle perdón a un tipo como ese."
+        }
+      ]
+    },
+    {
+      "id": "n1-36",
+      "category": "Modo",
+      "title": "放題[ほうだい]",
+      "formula": "V-raiz + 放題",
+      "description": "Hacer algo sin límites; a su antojo; todo lo que uno quiera (generalmente con matiz negativo o de descontrol).",
+      "examples": [
+        {
+          "jp": "息子[むosuko] は 部屋[へや] を 散らかし[ちらかし] 放題[ほうだい] だ。",
+          "es": "Mi hijo tiene la habitación desordenada a más no poder (a su antojo)."
+        }
+      ]
+    },
+    {
+      "id": "n1-37",
+      "category": "Dependencia",
+      "title": "いかん だ / いかんによっては",
+      "formula": "N + (の) + いかん だ",
+      "description": "Dependiendo de...; según sea... Indica que el resultado depende de la naturaleza de N.",
+      "examples": [
+        {
+          "jp": "試験[しけん]の 結果[けっか] いかん では、卒業[そつぎょう] できない。",
+          "es": "Dependiendo de los resultados del examen, no podré graduarme."
+        }
+      ]
+    },
+    {
+      "id": "n1-38",
+      "category": "Dependencia",
+      "title": "いかんにかかわらず",
+      "formula": "N + の + いかんにかかわらず",
+      "description": "Sin importar...; independientemente de... Indica que algo no cambia sea cual sea la situación de N.",
+      "examples": [
+        {
+          "jp": "理由[りゆう] の いかん に かかわらず、不許可[ふきょか] です。",
+          "es": "Independientemente de la razón, no está permitido."
+        }
+      ]
+    },
+    {
+      "id": "n1-39",
+      "category": "Énfasis",
+      "title": "いかなる",
+      "formula": "いかなる + N",
+      "description": "Cualquier clase de...; sea cual sea. Es una forma muy formal de 'donna'.",
+      "examples": [
+        {
+          "jp": "いかなる 困難[こんなん] にも 立ち向かう[たちむかう]。",
+          "es": "Me enfrentaré a cualquier clase de dificultad."
+        }
+      ]
+    },
+    {
+      "id": "n1-40",
+      "category": "Grado",
+      "title": "いかに",
+      "formula": "いかに + Adj / Adv",
+      "description": "Cómo; de qué manera; hasta qué punto. Se usa para enfatizar el grado de algo.",
+      "examples": [
+        {
+          "jp": "いかに 努力[どりょく] して も、運[うん] も 必要[ひつよう] だ。",
+          "es": "Por mucho que te esfuerces (sin importar cuánto), la suerte también es necesaria."
+        }
+      ]
+    },
+    {
+      "id": "n1-41",
+      "category": "Énfasis",
+      "title": "いかにも",
+      "formula": "いかにも + Adj / V",
+      "description": "Ciertamente; verdaderamente; realmente. Se usa para enfatizar que algo es exactamente como parece o se describe.",
+      "examples": [
+        {
+          "jp": "いかにも 彼[かれ] らしい 答え[こたえ] だ。",
+          "es": "Es una respuesta muy típica de él (ciertamente parece de él)."
+        }
+      ]
+    },
+    {
+      "id": "n1-42",
+      "category": "Indiferencia",
+      "title": "いずれにしても / いずれにせよ",
+      "formula": "いずれにしても + Frase",
+      "description": "En cualquier caso; de todas formas; sea como sea. Indica que el resultado será el mismo independientemente de la situación.",
+      "examples": [
+        {
+          "jp": "いずれにせよ、明日[あした] 結果[けっか] が 分かる[わかる]。",
+          "es": "En cualquier caso, mañana sabremos el resultado."
+        }
+      ]
+    },
+    {
+      "id": "n1-43",
+      "category": "Apariencia",
+      "title": "〜じみた",
+      "formula": "N + じみた",
+      "description": "Parecerse a...; tener un aire de... Se usa a menudo para decir que algo tiene un aspecto negativo o sospechoso.",
+      "examples": [
+        {
+          "jp": "そんな 脅迫[きょうはく] じみた こと は やめなさい。",
+          "es": "Deja de decir cosas que suenan a amenaza."
+        }
+      ]
+    },
+    {
+      "id": "n1-44",
+      "category": "Duda",
+      "title": "〜か否[いな]か",
+      "formula": "V / Adj / N + か否か",
+      "description": "Si... o no. Es una forma muy formal y literaria de 'ka dou ka'.",
+      "examples": [
+        {
+          "jp": "参加[さんか] する か 否[いな] か を 報告[ほうこく] して ください。",
+          "es": "Por favor, informe si participará o no."
+        }
+      ]
+    },
+    {
+      "id": "n1-45",
+      "category": "Expectativa",
+      "title": "〜かと思[おも]いきや",
+      "formula": "Frase + かと思いきや",
+      "description": "Cuando pensaba que...; contra todo pronóstico resultó que... Indica sorpresa ante algo que contradice lo esperado.",
+      "examples": [
+        {
+          "jp": "やっと 晴れた[はれた] か と 思いきや[おもいきや]、また 雨[あめ] が 降り出した[ふりだした]。",
+          "es": "Cuando pensaba que por fin había despejado, empezó a llover de nuevo."
+        }
+      ]
+    },
+    {
+      "id": "n1-46",
+      "category": "Sentimiento",
+      "title": "〜の極[きわ]みだ / 限り[かぎり]だ",
+      "formula": "Adj-na + の至り / Adj-i + 限りだ",
+      "description": "Sentir algo intensamente; ser el colmo de... Se usa para expresar una emoción máxima (alegría, tristeza, honor).",
+      "examples": [
+        {
+          "jp": "こんな 賞[しょう] を いただけて、光栄[こうえい] の 至り[いたり] です。",
+          "es": "Es el mayor de los honores recibir un premio como este."
+        }
+      ]
+    },
+    {
+      "id": "n1-47",
+      "category": "Consecuencia",
+      "title": "甲斐[かい]もなく",
+      "formula": "V-ta / N + の + 甲斐もなく",
+      "description": "A pesar de...; de nada sirvió... Indica que a pesar de haber hecho un esfuerzo, el resultado fue nulo o negativo.",
+      "examples": [
+        {
+          "jp": "手術[しゅじゅつ] の 甲斐[かい] も なく、彼[かれ] は 亡くなった[なくなった]。",
+          "es": "A pesar de la operación (fue en vano), él falleció."
+        }
+      ]
+    },
+    {
+      "id": "n1-48",
+      "category": "Probabilidad",
+      "title": "可能性[かのうせい]がある",
+      "formula": "V / N + の + 可能性がある",
+      "description": "Existe la posibilidad de que...; es posible que...",
+      "examples": [
+        {
+          "jp": "今夜[こんや] は 雪[ゆき] が 降る[ふる] 可能性[かのうせい] が ある。",
+          "es": "Existe la posibilidad de que nieva esta noche."
+        }
+      ]
+    },
+    {
+      "id": "n1-49",
+      "category": "Cantidad",
+      "title": "〜からある / 〜からの",
+      "formula": "Número (peso, medida) + からある",
+      "description": "Tanto como...; más de... Se usa para enfatizar que una cantidad, peso o tamaño es sorprendentemente grande.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は ２０キロ から ある 荷物[にもつ] を 背負って[せおって] いる。",
+          "es": "Él carga un equipaje de más de 20 kilos."
+        }
+      ]
+    },
+    {
+      "id": "n1-50",
+      "category": "Alternancia",
+      "title": "〜かれ〜かれ",
+      "formula": "Adj-i (raiz) + かれ + Adj-i (raiz) + かれ",
+      "description": "Tarde o temprano; más o menos. Indica que un estado ocurrirá inevitablemente (ej. osokare hayakare: tarde o temprano).",
+      "examples": [
+        {
+          "jp": "遅かれ[おそかれ] 早かれ[はやかれ]、真相[しんそう] は 明らかに[あきらかに] なる。",
+          "es": "Tarde o temprano, la verdad saldrá a la luz."
+        }
+      ]
+    },
+    {
+      "id": "n1-51",
+      "category": "Tiempo",
+      "title": "〜かたがた",
+      "formula": "N + かたがた",
+      "description": "Aprovechando que...; al mismo tiempo que... Se usa para indicar que una acción se realiza con dos propósitos.",
+      "examples": [
+        {
+          "jp": "散歩[さんぽ] かたがた、買い物[かいもの] に 行く[いく]。",
+          "es": "Voy a ir de compras aprovechando que doy un paseo."
+        }
+      ]
+    },
+    {
+      "id": "n1-52",
+      "category": "Ocupación",
+      "title": "〜かたわら",
+      "formula": "V-dict / N + の + かたわら",
+      "description": "Al mismo tiempo que...; paralelamente a... Indica que alguien realiza una actividad principal y otra secundaria.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 会社[かいしゃ] 員[いん] の かたわら、小説[しょうせつ] を 書いて[かいて] いる。",
+          "es": "Él escribe novelas al mismo tiempo que trabaja en una empresa."
+        }
+      ]
+    },
+    {
+      "id": "n1-53",
+      "category": "Tiempo",
+      "title": "かつて",
+      "formula": "かつて + V",
+      "description": "En otro tiempo; anteriormente; una vez. Indica algo que ocurrió o existió en el pasado.",
+      "examples": [
+        {
+          "jp": "ここ は かつて 賑やかな[にぎやかな] 商店[しょうてん] 街[がい] だった。",
+          "es": "Esto fue anteriormente una calle comercial muy concurrida."
+        }
+      ]
+    },
+    {
+      "id": "n1-54",
+      "category": "Tendencia",
+      "title": "嫌[きら]いがある",
+      "formula": "V-dict / N + の + 嫌いがある",
+      "description": "Tener la tendencia a...; tener el mal hábito de... Se usa para señalar un aspecto negativo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 物事[ものごと] を 誇張[こちょう] して 言う[いう] 嫌い[きらい] が ある。",
+          "es": "Él tiene la mala tendencia de exagerar las cosas."
+        }
+      ]
+    },
+    {
+      "id": "n1-55",
+      "category": "Límite",
+      "title": "切[き]りがない",
+      "formula": "Frase + 切りがない",
+      "description": "No tener fin; no terminar nunca. Indica que una acción o situación se repite infinitamente.",
+      "examples": [
+        {
+          "jp": "不満[ふまん] を 言い出したら[いいだしたら] 切り[きり] が ない。",
+          "es": "Si empiezas a quejarte, no acabarás nunca."
+        }
+      ]
+    },
+    {
+      "id": "n1-56",
+      "category": "Énfasis",
+      "title": "〜きっての",
+      "formula": "N + きっての + N",
+      "description": "El mejor de...; el más destacado de... Indica que alguien es el representante máximo de un grupo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は うち の 学校[がっこう] きって の 秀才[しゅうさい] だ。",
+          "es": "Él es el alumno más brillante de toda nuestra escuela."
+        }
+      ]
+    },
+    {
+      "id": "n1-57",
+      "category": "Grado",
+      "title": "極[きわ]まる / 極まりない",
+      "formula": "Adj-na + 極まる / 極まりない",
+      "description": "Extremadamente...; sumamente... Se usa para enfatizar un estado, casi siempre negativo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 態度[たいど] は 失礼[しつれい] 極まりない[きわまりない]。",
+          "es": "Su actitud es extremadamente grosera."
+        }
+      ]
+    },
+    {
+      "id": "n1-58",
+      "category": "Contraste",
+      "title": "こそあれ",
+      "formula": "N / Adj + こそあれ",
+      "description": "Aunque existe [X]...; a pesar de que... Indica que aunque algo existe, el resultado o situación principal no cambia.",
+      "examples": [
+        {
+          "jp": "苦労[くろう] こそ あれ、毎日[まいにち] 充実[じゅうじつ] して いる。",
+          "es": "A pesar de que hay dificultades, me siento realizado cada día."
+        }
+      ]
+    },
+    {
+      "id": "n1-59",
+      "category": "Contraste",
+      "title": "こそすれ",
+      "formula": "V-raiz + こそすれ",
+      "description": "Hacer [X] pero nunca [Y]. Se usa para enfatizar que se realiza una acción pero se excluye totalmente su opuesta.",
+      "examples": [
+        {
+          "jp": "感謝[かんしゃ] こそ すれ、恨む[うらむ] こと など ない。",
+          "es": "Te estoy agradecido, para nada te guardo rencor."
+        }
+      ]
+    },
+    {
+      "id": "n1-60",
+      "category": "Contraste",
+      "title": "こそ〜が / けれど",
+      "formula": "N + こそ 〜 が",
+      "description": "Ciertamente es [X], pero... Se usa para admitir un hecho pero añadir una objeción o contraste.",
+      "examples": [
+        {
+          "jp": "値段[ねだん] こそ 高い[たかい] が、品質[ひんしつ] は 抜群[ばつぐん] だ。",
+          "es": "Ciertamente el precio es alto, pero la calidad es excelente."
+        }
+      ]
+    },
+    {
+      "id": "n1-61",
+      "category": "Grado",
+      "title": "ことごとく",
+      "formula": "ことごとく + V",
+      "description": "Completamente; totalmente; todos y cada uno. Indica que no hay excepciones en el resultado.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 提案[て提案] は ことごとく 却下[きゃっか] された。",
+          "es": "Sus propuestas fueron rechazadas todas y cada una de ellas."
+        }
+      ]
+    },
+    {
+      "id": "n1-62",
+      "category": "Grado extremo",
+      "title": "ことこの上[うえ]ない",
+      "formula": "Adj / V + ことこの上ない",
+      "description": "Lo más... de todo; insuperable. Indica que nada supera el grado de la cualidad mencionada.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 態度[たいど] は 失礼[しつれい] こと この上[うえ]ない。",
+          "es": "Su actitud es lo más grosera que puede haber."
+        }
+      ]
+    },
+    {
+      "id": "n1-63",
+      "category": "Causa",
+      "title": "こともあって",
+      "formula": "V / N + こともあって",
+      "description": "En parte porque...; también debido a... Se usa para dar una razón entre varias posibles.",
+      "examples": [
+        {
+          "jp": "疲れ[つかれ] て いた こと も あって、すぐ に 寝て[ねて] しまった。",
+          "es": "En parte porque estaba cansado, me quedé dormido enseguida."
+        }
+      ]
+    },
+    {
+      "id": "n1-64",
+      "category": "Condición",
+      "title": "ことなしに",
+      "formula": "V-dict + ことなしに",
+      "description": "Sin hacer...; sin que ocurra... Indica que algo no puede suceder si no se cumple una acción previa.",
+      "examples": [
+        {
+          "jp": "努力[どりょく] する こと なしに 成功[せいこう] は あり 得ない[えない]。",
+          "es": "No puede haber éxito sin hacer un esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "n1-65",
+      "category": "Objetivo",
+      "title": "ことのないように",
+      "formula": "V-dict / V-nai + ことのないように",
+      "description": "Para que no ocurra...; con el fin de evitar que... Se usa para dar advertencias o consejos.",
+      "examples": [
+        {
+          "jp": "二[に] 度[ど] と 同じ[おなじ] 失敗[しっぱい] を する こと の ない ように 気[き] を つけなさい。",
+          "es": "Ten cuidado para no volver a cometer el mismo error."
+        }
+      ]
+    },
+    {
+      "id": "n1-66",
+      "category": "Causa",
+      "title": "こととて",
+      "formula": "V / N + (の) + こととて",
+      "description": "Debido a que...; ya que... Es una forma muy formal de expresar una causa, a menudo usada para pedir disculpas.",
+      "examples": [
+        {
+          "jp": "急[きゅう] な こととて、何[なに] も お もてなし できず 申し訳[もうしわけ] ありません。",
+          "es": "Como ha sido algo repentino, lamento no poder ofrecerle ninguna atención."
+        }
+      ]
+    },
+    {
+      "id": "n1-67",
+      "category": "Preferencia",
+      "title": "くらいなら",
+      "formula": "V-dict + くらいなら",
+      "description": "Si tengo que... prefiero... Indica que la primera opción es tan mala que se prefiere cualquier otra cosa.",
+      "examples": [
+        {
+          "jp": "彼[かれ] に 謝る[あやまる] くらい なら、会社[かいしゃ] を 辞める[やめる]。",
+          "es": "Antes que pedirle perdón a él, prefiero renunciar a la empresa."
+        }
+      ]
+    },
+    {
+      "id": "n1-68",
+      "category": "Límite",
+      "title": "くらいのものだ",
+      "formula": "V / N + くらいのものだ",
+      "description": "Es de los pocos que...; solo... Se usa para enfatizar que algo es único o muy limitado en su clase.",
+      "examples": [
+        {
+          "jp": "君[きみ] が 頼める[たのめる] の は、彼[かれ] くらい の もの だ。",
+          "es": "Él es de los pocos a los que puedes pedirle un favor."
+        }
+      ]
+    },
+    {
+      "id": "n1-69",
+      "category": "Límite",
+      "title": "までだ / までのことだ",
+      "formula": "V-dict + までだ",
+      "description": "Solo; simplemente. Indica que no hay otra opción o que el motivo de una acción es simple.",
+      "examples": [
+        {
+          "jp": "誰[だれ] も 協力[きょうりょく] しない なら、一人[ひとり] で やる まで だ。",
+          "es": "Si nadie ayuda, simplemente lo haré solo."
+        }
+      ]
+    },
+    {
+      "id": "n1-70",
+      "category": "Juicio",
+      "title": "までもない",
+      "formula": "V-dict + までもない",
+      "description": "No hace falta ni siquiera...; es tan obvio que no es necesario. Se usa para cosas evidentes.",
+      "examples": [
+        {
+          "jp": "そんな こと は 言う[いう] まで も ない。",
+          "es": "Ni siquiera hace falta decir tal cosa (es obvio)."
+        }
+      ]
+    },
+    {
+      "id": "n1-71",
+      "category": "Moral",
+      "title": "まじき",
+      "formula": "V-dict + まじき + N",
+      "description": "Que no debe; imperdonable. Se usa para indicar que una conducta es impropia de una profesión o estatus.",
+      "examples": [
+        {
+          "jp": "これ は 医者[いしゃ] として ある まじき 行為[こうい] だ。",
+          "es": "Este es un acto impropio de un médico."
+        }
+      ]
+    },
+    {
+      "id": "n1-72",
+      "category": "Modo",
+      "title": "まくる",
+      "formula": "V-raiz + まくる",
+      "description": "Hacer algo sin parar; insistentemente; desenfrenadamente. Indica una acción repetida con gran energía.",
+      "examples": [
+        {
+          "jp": "試験[しけん] の 前[まえ] に 勉強[べんきょう] し まくった。",
+          "es": "Estudié como un loco antes del examen."
+        }
+      ]
+    },
+    {
+      "id": "n1-73",
+      "category": "Estado",
+      "title": "まみれ",
+      "formula": "N + まみれ",
+      "description": "Cubierto de...; manchado de... Se usa para sustancias desagradables que cubren una superficie (sangre, barro, deudas).",
+      "examples": [
+        {
+          "jp": "子供[こども] たち は 泥[どろ] まみれ に なって 遊ん で いる。",
+          "es": "Los niños están jugando cubiertos de barro."
+        }
+      ]
+    },
+    {
+      "id": "n1-74",
+      "category": "Énfasis",
+      "title": "まるっきり",
+      "formula": "まるっきり + V-nai / Adj",
+      "description": "Completamente; totalmente; en absoluto. Generalmente se usa con frases negativas.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 話[はなし] は まるっきり 嘘[うそ] だ。",
+          "es": "Su historia es una mentira total."
+        }
+      ]
+    },
+    {
+      "id": "n1-75",
+      "category": "Apariencia",
+      "title": "めく",
+      "formula": "N + めく",
+      "description": "Parecer...; tener el aire de... Se usa para indicar que algo empieza a mostrar rasgos de una estación o estado.",
+      "examples": [
+        {
+          "jp": "風[かぜ] が 冷たく[つめたく] なり、秋[あき] めいて きた。",
+          "es": "El viento se ha vuelto frío, empieza a sentirse el otoño."
+        }
+      ]
+    },
+    {
+      "id": "n1-76",
+      "category": "Similitud",
+      "title": "も同然[どうぜん]だ",
+      "formula": "V / N + も同然だ",
+      "description": "Prácticamente lo mismo que...; es como si fuera... Indica que aunque no lo es técnicamente, el efecto es igual.",
+      "examples": [
+        {
+          "jp": "この 車[くるま] は 新品[しんぴん] も 同然[どうぜん] だ。",
+          "es": "Este coche está prácticamente como nuevo."
+        }
+      ]
+    },
+    {
+      "id": "n1-77",
+      "category": "Adición",
+      "title": "もさることながら",
+      "formula": "N1 + もさることながら + N2",
+      "description": "No solo [X] (que es obvio), sino también [Y] (que es incluso más importante).",
+      "examples": [
+        {
+          "jp": "この レストラン は 味[あじ] も さることながら、サービス も 素晴らしい[すばらしい]。",
+          "es": "En este restaurante, no solo la comida es buena, sino que el servicio también es excelente."
+        }
+      ]
+    },
+    {
+      "id": "n1-78",
+      "category": "Negación",
+      "title": "もしないで",
+      "formula": "V-raiz + もしないで",
+      "description": "Sin siquiera hacer...; sin el más mínimo intento de... Enfatiza la falta de una acción que se esperaba.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 努力[どりょく] も しない で 文句[もんく] ばかり 言って[いって] いる。",
+          "es": "Él no hace más que quejarse sin siquiera esforzarse."
+        }
+      ]
+    },
+    {
+      "id": "n1-79",
+      "category": "Tiempo",
+      "title": "もはや",
+      "formula": "もはや + V",
+      "description": "Ya; ya no. Enfatiza que una situación ha llegado a un punto en el que no hay vuelta atrás.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は もはや 我が[わが] チーム に 欠か[かか] せない 存在[そんざい] だ。",
+          "es": "Él es ya una presencia indispensable en nuestro equipo."
+        }
+      ]
+    },
+    {
+      "id": "n1-80",
+      "category": "Causa",
+      "title": "もので",
+      "formula": "V / Adj / N + もので",
+      "description": "Debido a que...; es que... Se usa para dar una explicación o excusa, a menudo en lenguaje hablado formal.",
+      "examples": [
+        {
+          "jp": "道[みち] が 混んで[こんで] いた もので、遅れて[おくれて] しまいました。",
+          "es": "Es que el camino estaba congestionado, por eso llegué tarde."
+        }
+      ]
+    },
+    {
+      "id": "n1-81",
+      "category": "Contraste",
+      "title": "ものを",
+      "formula": "Frase + ものを",
+      "description": "Si tan solo...; a pesar de que... Expresa lamento o frustración por algo que no ocurrió como se esperaba.",
+      "examples": [
+        {
+          "jp": "もっと 早く[はやく] 言えば[いえば] いい ものを、黙って[だまって] いるから 困る[こまる]んだ。",
+          "es": "Si tan solo lo hubieras dicho antes... el problema es que te quedas callado."
+        }
+      ]
+    },
+    {
+      "id": "n1-82",
+      "category": "Suposición",
+      "title": "ものと思われる / ものと見[み]られる",
+      "formula": "V / Adj / N + ものと思われる",
+      "description": "Se cree que...; se espera que... Indica una suposición objetiva basada en la situación actual.",
+      "examples": [
+        {
+          "jp": "犯人[はんにん] は 海外[かいがい] へ 逃亡[とうぼう] したもの と 思われる[おもわれる]。",
+          "es": "Se cree que el criminal ha huido al extranjero."
+        }
+      ]
+    },
+    {
+      "id": "n1-83",
+      "category": "Regla",
+      "title": "ものとする",
+      "formula": "V-dict + ものとする",
+      "description": "Se establece que...; se considerará como... Se usa en leyes o contratos para definir una norma.",
+      "examples": [
+        {
+          "jp": "採用[さいよう] 試験[しけん] は 毎年[まいねん] ４月[しがつ] に 行う[おこなう] もの と する。",
+          "es": "Se establece que el examen de empleo se realizará cada año en abril."
+        }
+      ]
+    },
+    {
+      "id": "n1-84",
+      "category": "Suposición",
+      "title": "ものとして",
+      "formula": "V / Adj / N + ものとして",
+      "description": "Asumiendo que...; bajo la suposición de que... Indica que se actúa basándose en una premisa.",
+      "examples": [
+        {
+          "jp": "この 計画[けいかく] は 中止[ちゅうし] に なった もの と して 話[はなし] を 進めよう[すすめよう]。",
+          "es": "Sigamos hablando asumiendo que este plan ha sido cancelado."
+        }
+      ]
+    },
+    {
+      "id": "n1-85",
+      "category": "Conjunción",
+      "title": "もしくは",
+      "formula": "N1 + もしくは + N2",
+      "description": "O bien; o de lo contrario. Es una forma muy formal de decir 'soretomo' o 'matawa'.",
+      "examples": [
+        {
+          "jp": "電話[でんわ] もしくは メール で ご 連絡[れんらく] ください。",
+          "es": "Por favor, contáctenos por teléfono o por correo electrónico."
+        }
+      ]
+    },
+    {
+      "id": "n1-86",
+      "category": "Apariencia",
+      "title": "んばかりに",
+      "formula": "V-nai (sin nai) + んばかりに",
+      "description": "Como si estuviera a punto de... Indica que algo está tan cerca de ocurrir que casi se puede ver.",
+      "examples": [
+        {
+          "jp": "彼女[かのじょ] は 溢れ[あふれ]んばかりの 笑顔[えがお] で 挨拶[あいさつ] した。",
+          "es": "Ella saludó con una sonrisa que parecía que iba a desbordarse."
+        }
+      ]
+    },
+    {
+      "id": "n1-87",
+      "category": "Propósito",
+      "title": "んがため（に）",
+      "formula": "V-nai (sin nai) + んがため",
+      "description": "Con el propósito de...; para lograr... Es una forma extremadamente formal de 'tame ni'.",
+      "examples": [
+        {
+          "jp": "夢[ゆめ] を 実現[じつげん] せんがため、必死[ひっし] で 働いた[はたらいた]。",
+          "es": "Trabajó desesperadamente para hacer realidad su sueño."
+        }
+      ]
+    },
+    {
+      "id": "n1-88",
+      "category": "Estado",
+      "title": "ながらに / ながらの",
+      "formula": "V-raiz / N + ながらに",
+      "description": "Mientras se mantiene el estado original; sin cambiar desde... Se usa para indicar que una condición persiste.",
+      "examples": [
+        {
+          "jp": "この 子[こ] は 生まれ[うまれ] ながら に 才能[さいのう] が ある。",
+          "es": "Este niño tiene talento de nacimiento (desde que nació)."
+        }
+      ]
+    },
+    {
+      "id": "n1-89",
+      "category": "Límite",
+      "title": "ないまでも",
+      "formula": "V-nai + までも",
+      "description": "Aunque no llegue al nivel de...; si bien no es [X], al menos es [Y].",
+      "examples": [
+        {
+          "jp": "完璧[かんぺき] とは 言わ[いわ] ない までも、かなり 良い[よい] 出来[でき] だ。",
+          "es": "Aunque no se puede decir que sea perfecto, es un trabajo bastante bueno."
+        }
+      ]
+    },
+    {
+      "id": "n1-90",
+      "category": "Posibilidad",
+      "title": "ないものでもない",
+      "formula": "V-nai + ものでもない",
+      "description": "No es que sea totalmente imposible; podría ser que... Es una doble negación para suavizar una afirmación.",
+      "examples": [
+        {
+          "jp": "一生懸命[いっしょうけんめい] 頼めば[たのめば]、貸して[かして] くれない ものでもない。",
+          "es": "Si se lo pides con todas tus fuerzas, no es imposible que te lo preste."
+        }
+      ]
+    },
+    {
+      "id": "n1-91",
+      "category": "Deseo",
+      "title": "ないものか / ないものだろうか",
+      "formula": "V-nai + ものか",
+      "description": "¿Acaso no habría forma de...?; ¿no se podrá...? Expresa un fuerte deseo de que algo cambie.",
+      "examples": [
+        {
+          "jp": "どうにかして 解決[かいけつ] できない もの か。",
+          "es": "¿No habrá alguna forma de solucionarlo de alguna manera?"
+        }
+      ]
+    },
+    {
+      "id": "n1-92",
+      "category": "Probabilidad",
+      "title": "ないとも限[かぎ]らない",
+      "formula": "V-nai + とも限らない",
+      "description": "No es seguro que no...; existe la posibilidad de que... Indica que algo malo podría ocurrir.",
+      "examples": [
+        {
+          "jp": "油断[ゆだん] する と、失敗[しっぱい] しない とも 限らない[かぎらない]。",
+          "es": "Si te descuidas, no es imposible que fracases."
+        }
+      ]
+    },
+    {
+      "id": "n1-93",
+      "category": "Condición",
+      "title": "なくしては",
+      "formula": "N + なくしては",
+      "description": "Sin [X] es imposible; si no hay [X] no puede ocurrir [Y].",
+      "examples": [
+        {
+          "jp": "皆様[みなさま] の 協力[きょうりょく] なくしては、成功[せいこう] は あり 得ない[えない]。",
+          "es": "Sin la cooperación de todos ustedes, el éxito no es posible."
+        }
+      ]
+    },
+    {
+      "id": "n1-94",
+      "category": "Grado",
+      "title": "並[な]み",
+      "formula": "N + 並み",
+      "description": "Al mismo nivel que...; ordinario; promedio. Indica que algo es igual a la media de su clase.",
+      "examples": [
+        {
+          "jp": "今年[ことし] の 暑さ[あつさ] は 平年[へいねん] 並み[なみ] だ。",
+          "es": "El calor de este año está al nivel de un año normal."
+        }
+      ]
+    },
+    {
+      "id": "n1-95",
+      "category": "Énfasis",
+      "title": "なんという / なんと / なんて",
+      "formula": "なんという + N / なんと + Adj",
+      "description": "¡Qué...! ¡Vaya...! Se usa para expresar sorpresa, admiración o decepción intensa.",
+      "examples": [
+        {
+          "jp": "なんと 美しい[うつくしい] 景色[けしき] なんだろう。",
+          "es": "¡Qué paisaje tan hermoso es este!"
+        }
+      ]
+    },
+    {
+      "id": "n1-96",
+      "category": "Énfasis",
+      "title": "何[なに]しろ",
+      "formula": "何しろ + Frase",
+      "description": "En cualquier caso; después de todo; lo que pasa es que... Se usa para enfatizar una razón principal.",
+      "examples": [
+        {
+          "jp": "何しろ[なにしろ] 初めて[はじめて] の こと なので、不手際[ふてぎわ] は ご 容赦[ようしゃ] ください。",
+          "es": "Como es la primera vez (después de todo), por favor perdone cualquier error."
+        }
+      ]
+    },
+    {
+      "id": "n1-97",
+      "category": "Exclusividad",
+      "title": "ならでは",
+      "formula": "N + ならでは",
+      "description": "Único de...; especial de... Indica que algo solo es posible gracias a las características únicas de N.",
+      "examples": [
+        {
+          "jp": "この 素晴らしい[すばらしい] 景色[けしき] は 日本[にほん] ならでは だ。",
+          "es": "Este maravilloso paisaje es algo único de Japón."
+        }
+      ]
+    },
+    {
+      "id": "n1-98",
+      "category": "Contraste",
+      "title": "ならいざしらず",
+      "formula": "V / N + ならいざしらず",
+      "description": "Si fuera [X] sería otra cosa, pero...; no sé en el caso de [X], pero en este...",
+      "examples": [
+        {
+          "jp": "昔[むかし] なら いざしらず、今[いま] は そんな こと は 通じない[つうじない]。",
+          "es": "Si fuera en los viejos tiempos tal vez, pero hoy en día eso ya no funciona."
+        }
+      ]
+    },
+    {
+      "id": "n1-99",
+      "category": "Tiempo",
+      "title": "なり",
+      "formula": "V-dict + なり",
+      "description": "Nada más...; en cuanto... Indica que una acción ocurre inmediatamente después de otra, a menudo de forma inesperada.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 部屋[へや] に 入る[はいる] なり、泣き出した[なきだした]。",
+          "es": "Nada más entrar en la habitación, él se echó a llorar."
+        }
+      ]
+    },
+    {
+      "id": "n1-100",
+      "category": "Modo",
+      "title": "なりに / なりの",
+      "formula": "V / Adj / N + なりに",
+      "description": "A su manera; adecuado a... Indica que algo se hace según la capacidad o estilo propio de cada uno.",
+      "examples": [
+        {
+          "jp": "私[わたし] なり に 一生懸命[いっしょうけんめい] 考えて[かんがえて] みます。",
+          "es": "Intentaré pensarlo seriamente a mi manera."
+        }
+      ]
+    },
+    {
+      "id": "n1-101",
+      "category": "Límite",
+      "title": "なりとも",
+      "formula": "N + なりとも",
+      "description": "Al menos; aunque sea un poco. Se usa para proponer una cantidad mínima suficiente.",
+      "examples": [
+        {
+          "jp": "一目[ひとめ] なりとも お 会い[あい] したい です。",
+          "es": "Me gustaría verle aunque sea solo un momento."
+        }
+      ]
+    },
+    {
+      "id": "n1-102",
+      "category": "Alternativa",
+      "title": "なり〜なり",
+      "formula": "N1 + なり + N2 + なり",
+      "description": "Ya sea A o B; por ejemplo A o B. Se usa para dar ejemplos de opciones posibles.",
+      "examples": [
+        {
+          "jp": "辞書[じしょ] で 調べる[しらべる] なり、先生[せんせい] に 聞く[きく] なり しなさい。",
+          "es": "Investígalo en el diccionario o pregúntale al profesor (haz algo)."
+        }
+      ]
+    },
+    {
+      "id": "n1-103",
+      "category": "Negación",
+      "title": "なしに / なしで",
+      "formula": "N + なしに",
+      "description": "Sin...; sin hacer... Indica que algo ocurre sin la presencia o acción de N.",
+      "examples": [
+        {
+          "jp": "断り[ことわり] なし に 勝手[かって] な こと を しては いけない。",
+          "es": "No debes hacer lo que quieras sin pedir permiso."
+        }
+      ]
+    },
+    {
+      "id": "n1-104",
+      "category": "Adición",
+      "title": "に",
+      "formula": "N1 + に + N2",
+      "description": "Y; además de; en combinación con... Se usa para resaltar la unión de dos cosas que van bien juntas.",
+      "examples": [
+        {
+          "jp": "赤[あか] に 白[しろ] の 水玉[みずたま] 模様[もよう] が 可愛い[かわいい]。",
+          "es": "El patrón de puntos blancos sobre el rojo es lindo."
+        }
+      ]
+    },
+    {
+      "id": "n1-105",
+      "category": "Valor",
+      "title": "に値[あたい]する",
+      "formula": "V-dict / N + に値する",
+      "description": "Merecer; ser digno de... Indica que algo tiene el valor suficiente para recibir una acción o juicio.",
+      "examples": [
+        {
+          "jp": "これ は 賞賛[しょうさん] に 値する[あたいする] 素晴らしい[すばらしい] 作品[さくひん] だ。",
+          "es": "Esta es una obra maravillosa que merece ser elogiada."
+        }
+      ]
+    },
+    {
+      "id": "n1-106",
+      "category": "Estado",
+      "title": "にあって",
+      "formula": "N + にあって",
+      "description": "En la situación de...; bajo las circunstancias de... Es una forma formal de 'de' o 'ni oite'.",
+      "examples": [
+        {
+          "jp": "不況[ふきょう] 下[か] に あって、売上[うりあげ] を 伸ばして[のばして] いる。",
+          "es": "Bajo la situación de recesión, las ventas están aumentando."
+        }
+      ]
+    },
+    {
+      "id": "n1-107",
+      "category": "Contraste",
+      "title": "に引[ひ]き換[か]え",
+      "formula": "V / Adj / N + (no) + に引き換え",
+      "description": "En total contraste con...; a diferencia de... Resalta una diferencia extrema entre dos sujetos.",
+      "examples": [
+        {
+          "jp": "勉強[べんきょう] 家[か] の 兄[あに] に 引き換え[ひきかえ]、弟[おとうと] は 遊び[あそび] ばかり して いる。",
+          "es": "A diferencia de su hermano mayor estudioso, el menor no hace más que jugar."
+        }
+      ]
+    },
+    {
+      "id": "n1-108",
+      "category": "Consecuencia",
+      "title": "に至[いた]る",
+      "formula": "V-dict / N + に至る",
+      "description": "Llegar a...; alcanzar el punto de... Indica el resultado final de un proceso o camino.",
+      "examples": [
+        {
+          "jp": "色々[いろいろ] あった が、和解[わかい] に 至った[いたった]。",
+          "es": "Pasaron muchas cosas, pero finalmente llegamos a una reconciliación."
+        }
+      ]
+    },
+    {
+      "id": "n1-109",
+      "category": "Extensión",
+      "title": "に至[いた]るまで",
+      "formula": "N + に至るまで",
+      "description": "Desde... hasta incluso... Abarca todo un rango, llegando incluso a detalles inesperados.",
+      "examples": [
+        {
+          "jp": "この 本[ほん] は 専門[せんもん] 的[てき] な 内容[ないよう] から 雑談[ざつだん] に 至る[いたる] まで 面白い[おもしろい]。",
+          "es": "Este libro es interesante, desde el contenido técnico hasta incluso las anécdotas."
+        }
+      ]
+    },
+    {
+      "id": "n1-110",
+      "category": "Contraste",
+      "title": "に至[いた]っても",
+      "formula": "V-dict / N + に至っても",
+      "description": "Incluso habiendo llegado al punto de...; aun cuando la situación es crítica.",
+      "examples": [
+        {
+          "jp": "死[し] の 直前[ちょくぜん] に 至って[いたって] も、彼[かれ] は 冷静[れいせい] だった。",
+          "es": "Incluso habiendo llegado al borde de la muerte, él mantuvo la calma."
+        }
+      ]
+    },
+    {
+      "id": "n1-111",
+      "category": "Focus",
+      "title": "に至[いた]っては",
+      "formula": "V-dict / N + に至っては",
+      "description": "En cuanto a...; tratándose de (un caso extremo). Se usa para dar el ejemplo más exagerado de una situación.",
+      "examples": [
+        {
+          "jp": "不況[ふきょう] で 倒産[とうさん] が 相次いで[あいついで] いる。A社[えーしゃ] に 至って[いたって] は 負債[ふさい] が 巨額[きょがく] だ。",
+          "es": "Debido a la recesión hay quiebras sucesivas. En el caso extremo de la empresa A, la deuda es colosal."
+        }
+      ]
+    },
+    {
+      "id": "n1-112",
+      "category": "Opinión",
+      "title": "に言[い]わせれば",
+      "formula": "N + に言わせれば",
+      "description": "Si me lo preguntas a mí / según la opinión de [X]. Se usa para dar un punto de vista personal.",
+      "examples": [
+        {
+          "jp": "私[わたし] に 言わ[いわ] せれば、彼[かれ] の 努力[どりょく] は まだ 足りない[たりない]。",
+          "es": "Si me preguntas a mí, su esfuerzo todavía no es suficiente."
+        }
+      ]
+    },
+    {
+      "id": "n1-113",
+      "category": "Adición",
+      "title": "に限[かぎ]ったことではない",
+      "formula": "N + に限ったことではない",
+      "description": "No se limita solo a...; no es un problema exclusivo de...",
+      "examples": [
+        {
+          "jp": "これ は 若者[わかもの] に 限った[かぎった] こと ではない。",
+          "es": "Esto no es algo que se limite solo a los jóvenes."
+        }
+      ]
+    },
+    {
+      "id": "n1-114",
+      "category": "Consecuencia",
+      "title": "にかかっては / にかかったら",
+      "formula": "N + にかかっては",
+      "description": "Cuando es manejado por [X]; si se trata de [X]. Indica que alguien tiene una habilidad especial para cambiar el resultado.",
+      "examples": [
+        {
+          "jp": "料理[りょうり] の 名人[めいじん] に かかって は、残り物[のこりもの] も ご馳走[ごちそう] に なる。",
+          "es": "En manos de un maestro de cocina, incluso las sobras se convierten en un festín."
+        }
+      ]
+    },
+    {
+      "id": "n1-115",
+      "category": "Dependencia",
+      "title": "にかかっている",
+      "formula": "N + にかかっている",
+      "description": "Depender de...; estar en manos de... Indica que el éxito o resultado depende totalmente de ese factor.",
+      "examples": [
+        {
+          "jp": "合格[ごうかく] できる か どうか は、君[きみ] の 努力[どりょく] に かかって いる。",
+          "es": "Que puedas aprobar o no depende de tu esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "n1-116",
+      "category": "Excusa",
+      "title": "にかこつけて",
+      "formula": "N + にかこつけて",
+      "description": "Usar como pretexto; poner como excusa. Se usa cuando el interés real es otro.",
+      "examples": [
+        {
+          "jp": "出張[しゅっちょう] に かこつけて 観光[かんこう] を 楽しんだ[たのしんだ]。",
+          "es": "Usando el viaje de negocios como pretexto, disfrutó del turismo."
+        }
+      ]
+    },
+    {
+      "id": "n1-117",
+      "category": "Ocupación",
+      "title": "にかまけて",
+      "formula": "N + にかまけて",
+      "description": "Estar tan ocupado con [X] que se descuida lo demás.",
+      "examples": [
+        {
+          "jp": "仕事[しごと] に かまけて 健康[けんこう] 管理[かんり] を 怠って[おこたって] いた。",
+          "es": "Estando tan absorto en el trabajo, descuidé mi salud."
+        }
+      ]
+    },
+    {
+      "id": "n1-118",
+      "category": "Juicio",
+      "title": "に難[かた]くない",
+      "formula": "V-dict / N + に難くない",
+      "description": "No es difícil de... (imaginar, entender, adivinar). Indica que algo es obvio dada la situación.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 失望[しつぼう] ぶり は 想像[そうぞう] に 難く[かたく] ない。",
+          "es": "No es difícil imaginar su nivel de decepción."
+        }
+      ]
+    },
+    {
+      "id": "n1-119",
+      "category": "Relación",
+      "title": "にまつわる",
+      "formula": "N + にまつわる",
+      "description": "Relacionado con...; asociado a... Se usa para historias, leyendas o rumores alrededor de algo.",
+      "examples": [
+        {
+          "jp": "この お 寺[てら] に まつわる 伝説[でんせつ] を 知って[しって] います か。",
+          "es": "¿Conoces la leyenda relacionada con este templo?"
+        }
+      ]
+    },
+    {
+      "id": "n1-120",
+      "category": "Base",
+      "title": "に則[のっと]って",
+      "formula": "N + に則って",
+      "description": "Basándose en; de acuerdo con (leyes, tradiciones o normas). Indica que se sigue un estándar formal.",
+      "examples": [
+        {
+          "jp": "儀式[ぎしき] は 古い[ふるい] 伝統[でんとう] に 則って[のっとって] 行われた[おこなわれた]。",
+          "es": "La ceremonia se llevó a cabo siguiendo estrictamente las antiguas tradiciones."
+        }
+      ]
+    },
+    {
+      "id": "n1-121",
+      "category": "Tiempo",
+      "title": "に先駆[さきが]けて",
+      "formula": "N + に先駆けて",
+      "description": "Previamente a...; siendo el primero en... Indica que algo se hace antes que nadie o antes de un evento.",
+      "examples": [
+        {
+          "jp": "世界[せかい] に 先駆けて[さきがけて]、新[あたら]しい 技術[ぎじゅつ] を 開発[かいはつ] した。",
+          "es": "Fuimos los primeros en el mundo en desarrollar esta nueva tecnología."
+        }
+      ]
+    },
+    {
+      "id": "n1-122",
+      "category": "Sentimiento",
+      "title": "に忍[しの]びない",
+      "formula": "V-dict + に忍びない",
+      "description": "No tener corazón para...; no poder soportar la idea de... Indica que algo causa tanta pena que no se puede hacer.",
+      "examples": [
+        {
+          "jp": "古い[ふるい] 本[ほん] を 捨てる[すてる] の は 忍びない[しのびない]。",
+          "es": "No tengo corazón para tirar libros viejos."
+        }
+      ]
+    },
+    {
+      "id": "n1-123",
+      "category": "Condición",
+      "title": "にしたところで / としたところで",
+      "formula": "N + にしたところで",
+      "description": "Incluso desde el punto de vista de...; incluso si fuera el caso de... Indica que el resultado sería el mismo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] に した ところで、この 問題[もんだい] は 解決[かいけつ] できない だろう。",
+          "es": "Incluso para él, probablemente este problema sea irresoluble."
+        }
+      ]
+    },
+    {
+      "id": "n1-124",
+      "category": "Estado",
+      "title": "にして",
+      "formula": "N + にして",
+      "description": "Solo a los... (edad/tiempo); al mismo tiempo que... Se usa para enfatizar una condición especial o simultaneidad.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は ４０歳[よんじゅっさい] に して 初めて[はじめて] 免許[めんきょ] を 取った[とった]。",
+          "es": "Él obtuvo su licencia por primera vez recién a los 40 años."
+        }
+      ]
+    },
+    {
+      "id": "n1-125",
+      "category": "Base",
+      "title": "に即[そく]して",
+      "formula": "N + に即して",
+      "description": "De acuerdo con...; basándose en (los hechos o la realidad). Indica que algo se ajusta a la situación real.",
+      "examples": [
+        {
+          "jp": "事実[じじつ] に 即して[そくして]、ありのまま を 話して[はなして] ください。",
+          "es": "Por favor, cuéntalo todo tal como es, basándote en los hechos."
+        }
+      ]
+    },
+    {
+      "id": "n1-126",
+      "category": "Valor",
+      "title": "に耐[た]える / に耐[た]えない",
+      "formula": "V-dict / N + に耐える",
+      "description": "Vale la pena hacer...; es insoportable hacer... Se usa para juzgar si algo merece ser visto, leído o escuchado.",
+      "examples": [
+        {
+          "jp": "この 映画[えいが] は 鑑賞[かんしょう] に 耐える[たえる] 作品[さくひん] だ。",
+          "es": "Esta película es una obra que realmente vale la pena ver."
+        }
+      ]
+    },
+    {
+      "id": "n1-127",
+      "category": "Valor",
+      "title": "に足[た]らない / に足[た]りない",
+      "formula": "V-dict / N + に足りない",
+      "description": "No merece la pena...; no es suficiente para... Indica que algo carece de valor o importancia.",
+      "examples": [
+        {
+          "jp": "それ は 取る[とる] に 足りない[たりない] 問題[もんだい] だ。",
+          "es": "Ese es un problema que no merece ni ser mencionado."
+        }
+      ]
+    },
+    {
+      "id": "n1-128",
+      "category": "Valor",
+      "title": "に足[た]る / に足[た]りる",
+      "formula": "V-dict / N + に足る",
+      "description": "Ser digno de...; merecer... Indica que algo tiene el valor necesario (ej. confianza, respeto).",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 信頼[しんらい] に 足る[たる] 人物[じんぶつ] だ。",
+          "es": "Él es una persona digna de confianza."
+        }
+      ]
+    },
+    {
+      "id": "n1-129",
+      "category": "Base",
+      "title": "に照[て]らして",
+      "formula": "N + に照らして",
+      "description": "A la luz de...; comparando con... Se usa cuando se toma una decisión basándose en leyes, normas o experiencias.",
+      "examples": [
+        {
+          "jp": "憲法[けんぽう] に 照らして[てらして] 判断[はんだん] を 下す[くだす]。",
+          "es": "Se emitirá un juicio a la luz de la constitución."
+        }
+      ]
+    },
+    {
+      "id": "n1-130",
+      "category": "Adición",
+      "title": "にとどまらず",
+      "formula": "V-dict / N + にとどまらず",
+      "description": "No se limita solo a...; no solo sino que además... Indica que el alcance es mayor de lo esperado.",
+      "examples": [
+        {
+          "jp": "被害[ひがい] は 一[いち] 地域[ちいき] に とどまらず、全国[ぜんこく] に 広がった[ひろがった]。",
+          "es": "Los daños no se limitaron a una región, sino que se extendieron por todo el país."
+        }
+      ]
+    },
+    {
+      "id": "n1-131",
+      "category": "Juicio",
+      "title": "には無理[むり]がある",
+      "formula": "Frase + には無理がある",
+      "description": "Es poco razonable; es forzado; es imposible de lograr tal como está.",
+      "examples": [
+        {
+          "jp": "その 計画[けいかく] を 一[いち] 日[にち] で やる の には 無理[むり] が ある。",
+          "es": "Es imposible (poco razonable) intentar hacer ese plan en un solo día."
+        }
+      ]
+    },
+    {
+      "id": "n1-132",
+      "category": "Independencia",
+      "title": "によらず",
+      "formula": "N + によらず",
+      "description": "Independientemente de...; sin importar... Indica que algo no depende del factor mencionado.",
+      "examples": [
+        {
+          "jp": "職種[しょくしゅ] に よらず、給料[きゅうりょう] は 一律[いちりつ] です。",
+          "es": "Independientemente del tipo de trabajo, el sueldo es el mismo."
+        }
+      ]
+    },
+    {
+      "id": "n1-133",
+      "category": "Proceso",
+      "title": "に〜を重[かさ]ねて",
+      "formula": "N + に + N + を重ねて",
+      "description": "Tras repetir...; después de mucha acumulación de... Se usa para logros obtenidos tras mucho esfuerzo o tiempo.",
+      "examples": [
+        {
+          "jp": "研究[けんきゅう] に 研究[けんきゅう] を 重ねて[かさねて]、ようやく 成功[せいこう] した。",
+          "es": "Tras muchísima investigación, finalmente tuvimos éxito."
+        }
+      ]
+    },
+    {
+      "id": "n1-134",
+      "category": "Crítica",
+      "title": "にもほどがある",
+      "formula": "V / Adj / N + にもほどがある",
+      "description": "Todo tiene un límite; hay un límite para lo aceptable. Se usa para criticar algo excesivo.",
+      "examples": [
+        {
+          "jp": "冗談[じょうだん] に も ほど が ある。",
+          "es": "Incluso las bromas tienen un límite."
+        }
+      ]
+    },
+    {
+      "id": "n1-135",
+      "category": "Comparación",
+      "title": "にも増[ま]して",
+      "formula": "N + にも増して",
+      "description": "Más que...; por encima de... Indica que el estado actual supera a uno anterior o a otro nivel.",
+      "examples": [
+        {
+          "jp": "今日[きょう] は いつも に も 増して[まして] 綺麗[きれい] だ。",
+          "es": "Hoy estás más hermosa que de costumbre."
+        }
+      ]
+    },
+    {
+      "id": "n1-136",
+      "category": "Juicio",
+      "title": "には当[あ]たらない",
+      "formula": "V-dict / N + には当たらない",
+      "description": "No es para tanto; no hay necesidad de... Indica que una reacción no es proporcional a la situación.",
+      "examples": [
+        {
+          "jp": "驚く[おどろく] に は 当たら[あたら] ない。",
+          "es": "No hay por qué sorprenderse."
+        }
+      ]
+    },
+    {
+      "id": "n1-137",
+      "category": "Juicio",
+      "title": "には及[およ]ばない",
+      "formula": "V-dict / N + には及ばない",
+      "description": "No es necesario; no llega al nivel de... Se usa para decir que algo no hace falta o que no puede compararse.",
+      "examples": [
+        {
+          "jp": "心配[しんぱい] する に は 及び[および] ません。",
+          "es": "No es necesario preocuparse."
+        }
+      ]
+    },
+    {
+      "id": "n1-138",
+      "category": "Sentimiento",
+      "title": "の至[いた]り",
+      "formula": "N + の至り",
+      "description": "El colmo de...; el punto máximo de... Se usa para expresar una emoción extrema de forma muy formal.",
+      "examples": [
+        {
+          "jp": "若気[わかげ] の 至り[いたり] で 失敗[しっぱい] して しまった。",
+          "es": "Fracasé por un arrebato de inmadurez (propio de la juventud)."
+        }
+      ]
+    },
+    {
+      "id": "n1-139",
+      "category": "Sentimiento",
+      "title": "の極[きわ]み",
+      "formula": "N + の極み",
+      "description": "El colmo de...; el grado máximo de... Indica que una situación ha llegado a su límite.",
+      "examples": [
+        {
+          "jp": "不摂生[ふせっせい] の 極み[きわみ] だ。",
+          "es": "Es el colmo de la mala salud (falta de autocuidado)."
+        }
+      ]
+    },
+    {
+      "id": "n1-140",
+      "category": "Énfasis",
+      "title": "のなんのって",
+      "formula": "V / Adj + のなんのって",
+      "description": "¡No te imaginas cuánto...!; extremadamente... Indica un grado que no se puede expresar con palabras.",
+      "examples": [
+        {
+          "jp": "あの 時[とき] は 驚いた[おどろいた] の なんのって！",
+          "es": "¡No te imaginas lo mucho que me sorprendí en aquel momento!"
+        }
+      ]
+    },
+    {
+      "id": "n1-141",
+      "category": "Duda",
+      "title": "のやら / ものやら",
+      "formula": "Frase + のやら",
+      "description": "Me pregunto si...; no sé si... Expresa incertidumbre o duda filosófica.",
+      "examples": [
+        {
+          "jp": "どこ まで 本当[ほんとう] な のやら。",
+          "es": "Me pregunto hasta qué punto será verdad."
+        }
+      ]
+    },
+    {
+      "id": "n1-142",
+      "category": "Duda",
+      "title": "のやら 〜 のやら",
+      "formula": "Frase + のやら 〜 のやら",
+      "description": "Ya sea A o B (no lo sé); no sé si es esto o aquello.",
+      "examples": [
+        {
+          "jp": "嬉しい[うれしい] のやら 悲しい[かなしい] のやら 分からない[わからない]。",
+          "es": "No sé si estoy feliz o triste."
+        }
+      ]
+    },
+    {
+      "id": "n1-143",
+      "category": "Base",
+      "title": "を踏[ふ]まえて",
+      "formula": "N + を踏まえて",
+      "description": "Teniendo en cuenta...; basándose en... Indica que se usa una información previa para avanzar.",
+      "examples": [
+        {
+          "jp": "反省[はんせい] 点[てん] を 踏まえて[ふまえて]、次[つぎ] の 計画[けいかく] を 立てる[たてる]。",
+          "es": "Hacer el próximo plan teniendo en cuenta los errores anteriores."
+        }
+      ]
+    },
+    {
+      "id": "n1-144",
+      "category": "Tiempo",
+      "title": "を経[へ]て",
+      "formula": "N + を経て",
+      "description": "A través de...; después de pasar por... Indica el paso del tiempo o de distintas etapas.",
+      "examples": [
+        {
+          "jp": "数[すう] ヶ月[かげつ] を 経て[へて]、ようやく 完成[かんせい] した。",
+          "es": "Tras pasar varios meses, finalmente se completó."
+        }
+      ]
+    },
+    {
+      "id": "n1-145",
+      "category": "Tiempo",
+      "title": "を控[ひか]えて",
+      "formula": "N + を控えて",
+      "description": "Ante la proximidad de...; en vísperas de... Indica que un evento importante va a ocurrir pronto.",
+      "examples": [
+        {
+          "jp": "結婚[けっこん] を 控えて[ひかえて]、準備[じゅんび] で 忙しい[いそがしい]。",
+          "es": "Ante la proximidad de la boda, estoy ocupado con los preparativos."
+        }
+      ]
+    },
+    {
+      "id": "n1-146",
+      "category": "Actitud",
+      "title": "をいいことに",
+      "formula": "V / N + をいいことに",
+      "description": "Aprovechándose de que... (con matiz negativo). Indica realizar una acción injusta usando una excusa favorable.",
+      "examples": [
+        {
+          "jp": "先生[せんせい] が いない の を いい こと に、サボって いる。",
+          "es": "Aprovechándose de que el profesor no está, está holgazaneando."
+        }
+      ]
+    },
+    {
+      "id": "n1-147",
+      "category": "Contraste",
+      "title": "を顧[かえり]みず",
+      "formula": "N + を顧みず",
+      "description": "Sin preocuparse por...; a pesar de... Indica ignorar el peligro o las consecuencias por un objetivo.",
+      "examples": [
+        {
+          "jp": "危険[きけん] を 顧みず[かえりみず]、子供[こども] を 助けた[たすけた]。",
+          "es": "Salvó al niño sin preocuparse por el peligro."
+        }
+      ]
+    },
+    {
+      "id": "n1-148",
+      "category": "Límite",
+      "title": "を限[かぎ]りに",
+      "formula": "N + を限りに",
+      "description": "A partir de... (siendo la última vez); hoy termina definitivamente...",
+      "examples": [
+        {
+          "jp": "今日[きょう] を 限りに[かぎりに]、タバコ を やめる。",
+          "es": "A partir de hoy (siendo hoy el último día), dejo de fumar."
+        }
+      ]
+    },
+    {
+      "id": "n1-149",
+      "category": "Propósito",
+      "title": "を兼[か]ねて",
+      "formula": "N + を兼ねて",
+      "description": "Al mismo tiempo que...; con el doble propósito de...",
+      "examples": [
+        {
+          "jp": "散歩[さんぽ] を 兼ねて[かねて] 買い物[かいもの] に 行く[いく]。",
+          "es": "Voy a ir de compras, sirviendo también como paseo."
+        }
+      ]
+    },
+    {
+      "id": "n1-150",
+      "category": "Inicio",
+      "title": "を皮切[かわき]りに",
+      "formula": "N + を皮切りに",
+      "description": "Empezando por...; a partir de [X] empezaron a ocurrir cosas similares.",
+      "examples": [
+        {
+          "jp": "東京[とうきょう] を 皮切りに[かわきりに]、全国[ぜんこく] で ツアー が 始まる[はじまる]。",
+          "es": "Empezando por Tokio, la gira comenzará por todo el país."
+        }
+      ]
+    },
+    {
+      "id": "n1-151",
+      "category": "Tiempo",
+      "title": "を機[き]に",
+      "formula": "N + を機に",
+      "description": "A raíz de...; tomando [X] como oportunidad para un cambio.",
+      "examples": [
+        {
+          "jp": "引越し[ひっこし] を 機[き] に、断捨離[だんしゃり] を した。",
+          "es": "A raíz de la mudanza, hice limpieza general."
+        }
+      ]
+    },
+    {
+      "id": "n1-152",
+      "category": "Sentimiento",
+      "title": "を禁[きん]じ得[え]ない",
+      "formula": "N + を禁じ得ない",
+      "description": "No poder evitar sentir... Indica una emoción profunda que brota naturalmente.",
+      "examples": [
+        {
+          "jp": "犯人[はんにん] の 残忍[ざんにん]さ に 怒り[いかり] を 禁じ[きんじ] 得ない[えない]。",
+          "es": "No puedo evitar sentir ira ante la crueldad del criminal."
+        }
+      ]
+    },
+    {
+      "id": "n1-153",
+      "category": "Contraste",
+      "title": "をものともせずに",
+      "formula": "N + をものともせずに",
+      "description": "Haciendo caso omiso de...; sin dejarse vencer por (dificultades o peligros).",
+      "examples": [
+        {
+          "jp": "周囲[しゅうい] の 反対[はんたい] を ものとも せずに 突き進んだ[つきすすんだ]。",
+          "es": "Avanzó con determinación haciendo caso omiso de la oposición de su entorno."
+        }
+      ]
+    },
+    {
+      "id": "n1-154",
+      "category": "Método",
+      "title": "をもって / をもちまして",
+      "formula": "N + をもって",
+      "description": "Por medio de...; a través de...; en el momento de... (muy formal).",
+      "examples": [
+        {
+          "jp": "書面[しょめん] を もって ご 連絡[れんらく] いたします。",
+          "es": "Le contactaremos por medio de un documento escrito."
+        }
+      ]
+    },
+    {
+      "id": "n1-155",
+      "category": "Exclusividad",
+      "title": "をおいて 〜 ない",
+      "formula": "N + をおいて 〜 ない",
+      "description": "Aparte de [X], no hay otro; solo [X] puede ser...",
+      "examples": [
+        {
+          "jp": "彼[かれ] を おいて 他[ほか] に 適任[てきにん] 者[しゃ] は いない。",
+          "es": "Aparte de él, no hay nadie más adecuado para el cargo."
+        }
+      ]
+    },
+    {
+      "id": "n1-156",
+      "category": "Contraste",
+      "title": "を推[お]して",
+      "formula": "N + を推して",
+      "description": "A pesar de...; venciendo la resistencia o dificultad de...",
+      "examples": [
+        {
+          "jp": "病気[びょうき] を 推して[おして] 出席[しゅっせき] した。",
+          "es": "Asistió a pesar de su enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "n1-157",
+      "category": "Tiempo",
+      "title": "を境[さかい]に",
+      "formula": "N + を境に",
+      "description": "A partir de...; desde que ocurrió [X] hubo un gran cambio.",
+      "examples": [
+        {
+          "jp": "その 事件[じけん] を 境[さかい] に、彼[かれ] は 変わった[かわった]。",
+          "es": "A partir de aquel incidente, él cambió."
+        }
+      ]
+    },
+    {
+      "id": "n1-158",
+      "category": "Obligación",
+      "title": "を余儀[よぎ]なくされる",
+      "formula": "N + を余儀なくされる",
+      "description": "No tener más remedio que hacer...; ser obligado por las circunstancias.",
+      "examples": [
+        {
+          "jp": "不況[ふきょう] の ため 閉店[へいてん] を 余儀なく[よぎなく] された。",
+          "es": "Debido a la recesión, no hubo más remedio que cerrar la tienda."
+        }
+      ]
+    },
+    {
+      "id": "n1-159",
+      "category": "Contraste",
+      "title": "をよそに",
+      "formula": "N + をよそに",
+      "description": "Ignorando por completo...; sin tener en cuenta las preocupaciones de los demás.",
+      "examples": [
+        {
+          "jp": "親[おや] の 心配[しんぱい] を よそに、彼[かれ] は 遊び歩いて[あそびあるいて] いる。",
+          "es": "Ignorando por completo la preocupación de sus padres, él se pasa el día de fiesta."
+        }
+      ]
+    },
+    {
+      "id": "n1-160",
+      "category": "Condición",
+      "title": "を前提[ぜんてい]として",
+      "formula": "N + を前提として",
+      "description": "Bajo la premisa de...; con la condición o asunción de que...",
+      "examples": [
+        {
+          "jp": "結婚[けっこん] を 前提[ぜんてい] に 交際[こうさい] して ください。",
+          "es": "Por favor, sal conmigo con la intención de casarnos."
+        }
+      ]
+    },
+    {
+      "id": "n1-161",
+      "category": "Sentimiento",
+      "title": "思[おも]いをする",
+      "formula": "Adj / V + 思いをする",
+      "description": "Sentirse de cierta manera; pasar por una experiencia emocional.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 辛い[つらい] 思い[おもい] を した ようだ。",
+          "es": "Parece que él pasó por una experiencia dolorosa."
+        }
+      ]
+    },
+    {
+      "id": "n1-162",
+      "category": "Tiempo",
+      "title": "折[おり]に",
+      "formula": "N + の / V + 折に",
+      "description": "En el momento de...; con ocasión de... Es una forma formal de decir 'toki ni'.",
+      "examples": [
+        {
+          "jp": "来日[らいにち] の 折[おり] には、是非[ぜひ] お 会い[あい] したい です。",
+          "es": "Con ocasión de su visita a Japón, me gustaría mucho verle."
+        }
+      ]
+    },
+    {
+      "id": "n1-163",
+      "category": "Grado",
+      "title": "およそ",
+      "formula": "およそ + N / Adj",
+      "description": "Aproximadamente; en general; (con negativo) para nada.",
+      "examples": [
+        {
+          "jp": "それ は およそ 信じ[しんじ] られない 話[はなし] だ。",
+          "es": "Esa es una historia que para nada se puede creer."
+        }
+      ]
+    },
+    {
+      "id": "n1-164",
+      "category": "Partícula",
+      "title": "さ",
+      "formula": "Frase + さ",
+      "description": "Partícula final que indica aserción, énfasis o que algo es obvio.",
+      "examples": [
+        {
+          "jp": "そんな こと、分かって[わかって] いる さ。",
+          "es": "Ese tipo de cosas, pues claro que las sé."
+        }
+      ]
+    },
+    {
+      "id": "n1-165",
+      "category": "Apariencia",
+      "title": "さも",
+      "formula": "さも + Adj / V",
+      "description": "Verdaderamente; como si realmente... Se usa para enfatizar una apariencia.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は さも 嬉し[うれし] そうに 話した[はなした]。",
+          "es": "Él habló como si realmente estuviera muy feliz."
+        }
+      ]
+    },
+    {
+      "id": "n1-166",
+      "category": "Condición",
+      "title": "さもないと",
+      "formula": "さもないと + Frase",
+      "description": "De lo contrario; si no... Se usa para advertir sobre una consecuencia negativa.",
+      "examples": [
+        {
+          "jp": "急ぎ[いそぎ] なさい。さもないと 遅刻[ちこく] する よ。",
+          "es": "Date prisa. De lo contrario, llegarás tarde."
+        }
+      ]
+    },
+    {
+      "id": "n1-167",
+      "category": "Suposición",
+      "title": "さぞ",
+      "formula": "さぞ + Adj / V + ことだろう",
+      "description": "Seguramente; sin duda... Expresa una fuerte empatía sobre cómo se siente otro.",
+      "examples": [
+        {
+          "jp": "ご 両親[りょうしん] は さぞ お 喜び[よろこび] の こと でしょう。",
+          "es": "Sin duda sus padres estarán muy felices."
+        }
+      ]
+    },
+    {
+      "id": "n1-168",
+      "category": "Consecuencia",
+      "title": "始末[しまつ]だ",
+      "formula": "V-dict + 始末だ",
+      "description": "Acabar en...; terminar de mala manera. Indica un resultado negativo final.",
+      "examples": [
+        {
+          "jp": "挙句[あげく]の 果て[はて]に、泣き出す[なきだす] 始末[しまつ] だ。",
+          "es": "Al final de todo, acabó por echarse a llorar."
+        }
+      ]
+    },
+    {
+      "id": "n1-169",
+      "category": "Tiempo",
+      "title": "そばから",
+      "formula": "V-dict / V-ta + そばから",
+      "description": "Nada más hacer...; tan pronto como... Indica una acción repetitiva que deshace la anterior.",
+      "examples": [
+        {
+          "jp": "掃除[そうじ] する そば から 子供[こども] が 散らかす[ちらかす]。",
+          "es": "Nada más limpiar, el niño lo desordena."
+        }
+      ]
+    },
+    {
+      "id": "n1-170",
+      "category": "Dificultad",
+      "title": "〜そびれる",
+      "formula": "V-raiz + そびれる",
+      "description": "Perder la oportunidad de...; fallar en hacer algo que se quería.",
+      "examples": [
+        {
+          "jp": "彼[かれ] に 本当[ほんとう] の こと を 言い[いい] そびれた。",
+          "es": "Perdí la oportunidad de decirle la verdad."
+        }
+      ]
+    },
+    {
+      "id": "n1-171",
+      "category": "Error",
+      "title": "損[そこ]なう / 損[そこ]ねる",
+      "formula": "V-raiz + 損なう",
+      "description": "Hacer algo mal por error; fallar en hacer; estar a punto de (algo malo).",
+      "examples": [
+        {
+          "jp": "買い[かい] 損ねた[そこねた] 雑誌[ざっし] を 探し[さがし] て いる。",
+          "es": "Estoy buscando la revista que no llegué a comprar (por error/descuido)."
+        }
+      ]
+    },
+    {
+      "id": "n1-172",
+      "category": "Imposibilidad",
+      "title": "術[すべ]がない",
+      "formula": "V-dict + 術がない",
+      "description": "No haber forma de...; no tener medios para... Indica una falta absoluta de opciones.",
+      "examples": [
+        {
+          "jp": "今[いま] となっては、知る[しる] 術[すべ] も ない。",
+          "es": "A estas alturas, no hay forma de saberlo."
+        }
+      ]
+    },
+    {
+      "id": "n1-173",
+      "category": "Énfasis",
+      "title": "すら / ですら",
+      "formula": "N + すら",
+      "description": "Incluso... Se usa para dar un ejemplo extremo (similar a 'sae' pero más formal).",
+      "examples": [
+        {
+          "jp": "名前[なまえ] すら 忘れて[わすれて] しまった。",
+          "es": "He olvidado incluso mi propio nombre."
+        }
+      ]
+    },
+    {
+      "id": "n1-174",
+      "category": "Causa",
+      "title": "た弾[はず]みに / た拍子[ひょうし]に",
+      "formula": "V-ta + 弾みに",
+      "description": "En el momento en que...; por el impulso de... Indica una causa accidental.",
+      "examples": [
+        {
+          "jp": "転んだ[ころんだ] 弾み[はずみ] に 鞄[かばん] を 落とした[おとした]。",
+          "es": "En el momento de tropezar, se me cayó el bolso."
+        }
+      ]
+    },
+    {
+      "id": "n1-175",
+      "category": "Apariencia",
+      "title": "たことにする",
+      "formula": "V-ta + ことにする",
+      "description": "Fingir que...; actuar como si [X] fuera cierto (aunque no lo sea).",
+      "examples": [
+        {
+          "jp": "この 話[はなし] は 聞かなかった[きかなかった] こと に して ください。",
+          "es": "Por favor, haz como si no hubieras oído esta historia."
+        }
+      ]
+    },
+    {
+      "id": "n1-176",
+      "category": "Condición",
+      "title": "たところで",
+      "formula": "V-ta + ところで",
+      "description": "Incluso si...; por mucho que... Indica que la acción no servirá para nada.",
+      "examples": [
+        {
+          "jp": "今さら[いまさら] 謝った[あやまった] ところで、許さない[ゆるさない]。",
+          "es": "Incluso si te disculpas ahora, no te perdonaré."
+        }
+      ]
+    },
+    {
+      "id": "n1-177",
+      "category": "Intención",
+      "title": "たつもりはない",
+      "formula": "V-ta + つもりはない",
+      "description": "No tener la intención de...; no haber querido decir/hacer eso.",
+      "examples": [
+        {
+          "jp": "君[きみ] を 傷つける[きずつける] つもり は なかった。",
+          "es": "No tuve la intención de herirte."
+        }
+      ]
+    },
+    {
+      "id": "n1-178",
+      "category": "Límite",
+      "title": "ただ〜のみだ",
+      "formula": "ただ + V-dict / N + のみだ",
+      "description": "Solo; no queda más que... Indica que no hay otra opción o camino.",
+      "examples": [
+        {
+          "jp": "ただ 成功[せいこう] を 祈る[いのる] のみ だ。",
+          "es": "Solo queda rezar por el éxito."
+        }
+      ]
+    },
+    {
+      "id": "n1-179",
+      "category": "Experiencia",
+      "title": "ためしがない",
+      "formula": "V-ta + ためしがない",
+      "description": "Nunca ha ocurrido que...; jamás ha sido el caso de... Expresa incredulidad.",
+      "examples": [
+        {
+          "jp": "彼[かれ] が 約束[やくそく] を 守った[まもった] ためし が ない。",
+          "es": "Jamás se ha dado el caso de que él cumpla una promesa."
+        }
+      ]
+    },
+    {
+      "id": "n1-180",
+      "category": "Consecuencia",
+      "title": "たら最後[さいご]",
+      "formula": "V-tara + 最後",
+      "description": "Si ocurre [X], es el fin; una vez que pase [X], no habrá vuelta atrás.",
+      "examples": [
+        {
+          "jp": "一度[いちど] 嘘[うそ] を つい たら 最後[さいご]、信用[しんよう] を 失う[うしなう]。",
+          "es": "Si mientes una vez, será el fin de tu credibilidad."
+        }
+      ]
+    },
+    {
+      "id": "n1-181",
+      "category": "Condición",
+      "title": "たら〜たで",
+      "formula": "V-tara + V-ta + で",
+      "description": "Si ocurre, pues bueno; si es así, se aceptará como tal (aunque no sea ideal).",
+      "examples": [
+        {
+          "jp": "安ければ[やすければ]、安い[やすい] た で 問題[もんだい] も ある。",
+          "es": "Si es barato, pues siendo barato también tendrá sus problemas."
+        }
+      ]
+    },
+    {
+      "id": "n1-182",
+      "category": "Condición",
+      "title": "たら〜ところだ",
+      "formula": "V-tara + V-ta + ところだ",
+      "description": "Si hubiera pasado [X], entonces habría resultado en [Y] (hipotético).",
+      "examples": [
+        {
+          "jp": "もう少し[もうすこし] で 車[くるま] に 惹かれる[ひかれる] ところ だった。",
+          "es": "Por poco me atropella el coche."
+        }
+      ]
+    },
+    {
+      "id": "n1-183",
+      "category": "Énfasis",
+      "title": "たりとも",
+      "formula": "N (1) + たりとも",
+      "description": "Ni siquiera (una unidad mínima). Se usa para enfatizar una negación total.",
+      "examples": [
+        {
+          "jp": "一[いち] 秒[びょう] たりとも 無駄[むだ] に できない。",
+          "es": "No podemos desperdiciar ni un solo segundo."
+        }
+      ]
+    },
+    {
+      "id": "n1-184",
+      "category": "Deber",
+      "title": "たるもの / たる",
+      "formula": "N + たるもの",
+      "description": "Alguien que es...; en su calidad de [X], debería... Se usa para hablar de deberes.",
+      "examples": [
+        {
+          "jp": "学生[がくせい] たる もの、勉強[べんきょう] に 励む[はげむ] べき だ。",
+          "es": "Alguien que es estudiante debería esforzarse en sus estudios."
+        }
+      ]
+    },
+    {
+      "id": "n1-185",
+      "category": "Sentimiento",
+      "title": "て敵[かな]わない",
+      "formula": "Adj-te / V-te + かなわない",
+      "description": "No poder soportar...; es demasiado molesto/irresistible.",
+      "examples": [
+        {
+          "jp": "隣[となり] が うるさくて かなわ ない。",
+          "es": "No soporto que el vecino haga tanto ruido."
+        }
+      ]
+    },
+    {
+      "id": "n1-186",
+      "category": "Tiempo",
+      "title": "てからというもの",
+      "formula": "V-te + からというもの",
+      "description": "Desde que ocurrió... (y las cosas cambiaron). Enfatiza un cambio duradero.",
+      "examples": [
+        {
+          "jp": "日本[にほん] に 来て[きて] から という もの、毎日[まいにち] が 楽しい[たのしい]。",
+          "es": "Desde que vine a Japón, todos los días son divertidos."
+        }
+      ]
+    },
+    {
+      "id": "n1-187",
+      "category": "Voluntad",
+      "title": "てみせる",
+      "formula": "V-te + みせる",
+      "description": "Demostrar que...; haré [X] sin falta para que lo veas.",
+      "examples": [
+        {
+          "jp": "今度[こんど] こそ 合格[ごうかく] して みせる。",
+          "es": "Esta vez demostraré que puedo aprobar (lo haré sin falta)."
+        }
+      ]
+    },
+    {
+      "id": "n1-188",
+      "category": "Deber",
+      "title": "てしかるべきだ",
+      "formula": "V-te + しかるべきだ",
+      "description": "Es natural que...; es lo que debería hacerse dada la situación.",
+      "examples": [
+        {
+          "jp": "それ は もっと 評価[ひょうか] されて しかるべき だ。",
+          "es": "Eso debería ser más valorado (es lo natural)."
+        }
+      ]
+    },
+    {
+      "id": "n1-189",
+      "category": "Juicio",
+      "title": "て済[す]むことではない",
+      "formula": "V-te + 済むことではない",
+      "description": "No se soluciona solo con...; no es suficiente con hacer [X].",
+      "examples": [
+        {
+          "jp": "謝って[あやまって] 済む[すむ] こと ではない。",
+          "es": "No es algo que se solucione simplemente pidiendo perdón."
+        }
+      ]
+    },
+    {
+      "id": "n1-190",
+      "category": "Sentimiento",
+      "title": "てやまない",
+      "formula": "V-te + やまない",
+      "description": "No dejar de...; desear algo desde lo más profundo (siempre positivo).",
+      "examples": [
+        {
+          "jp": "皆様[みなさま] の 幸せ[しあわせ] を 願って[ねがって] やみません。",
+          "es": "Deseo vuestra felicidad desde el fondo de mi corazón (no dejo de desearlo)."
+        }
+      ]
+    },
+    {
+      "id": "n1-191",
+      "category": "Posición",
+      "title": "手前[てまえ]",
+      "formula": "V / N + 手前",
+      "description": "Considerando mi posición frente a...; debido a que dije/hice [X].",
+      "examples": [
+        {
+          "jp": "子供[こども] の 前[まえ] で 約束[やくそく] した 手前[てまえ]、守ら[まもら] なければならない。",
+          "es": "Habiendo hecho la promesa ante mi hijo, tengo que cumplirla."
+        }
+      ]
+    },
+    {
+      "id": "n1-192",
+      "category": "Imposibilidad",
+      "title": "てもどうにもならない",
+      "formula": "V-temo + どうにもならない",
+      "description": "No sirve de nada; no hay nada que se pueda hacer al respecto.",
+      "examples": [
+        {
+          "jp": "今さら[いまさら] 後悔[こうかい] して も どうにも ならない。",
+          "es": "A estas alturas, arrepentirse no sirve de nada."
+        }
+      ]
+    },
+    {
+      "id": "n1-193",
+      "category": "Permiso",
+      "title": "ても差[さ]し支[つか]えない",
+      "formula": "V-temo / N + でも差し支えない",
+      "description": "No hay inconveniente en...; está bien si se hace [X] (muy formal).",
+      "examples": [
+        {
+          "jp": "お 返事[へんじ] は 明日[あした] でも 差し支え[さしつかえ] ありません。",
+          "es": "No hay inconveniente si la respuesta es mañana."
+        }
+      ]
+    },
+    {
+      "id": "n1-194",
+      "category": "Advertencia",
+      "title": "ても知らない",
+      "formula": "Frase + ても知らない",
+      "description": "Si sigues así, no me hago responsable; ya verás lo que pasa.",
+      "examples": [
+        {
+          "jp": "そんなに 遊ん で ばかり いて も 知ら ない よ。",
+          "es": "Si no haces más que jugar, ya verás lo que pasa (no me quejaré luego)."
+        }
+      ]
+    },
+    {
+      "id": "n1-195",
+      "category": "Combinación",
+      "title": "と相[あ]いまって",
+      "formula": "N + と相まって",
+      "description": "En combinación con...; junto con... (produce un efecto mayor).",
+      "examples": [
+        {
+          "jp": "実力[じつりょく] と 運[うん] が 相まって[あまって]、成功[せいこう] した。",
+          "es": "Gracias a la combinación de su habilidad y la suerte, tuvo éxito."
+        }
+      ]
+    },
+    {
+      "id": "n1-196",
+      "category": "Condición",
+      "title": "とあれば",
+      "formula": "V / N + とあれば",
+      "description": "Si se trata de...; si la situación es que... Indica disposición total.",
+      "examples": [
+        {
+          "jp": "君[きみ] の 頼み[たのみ] と あれば、断れ[ことわれ] ない。",
+          "es": "Si se trata de un favor tuyo, no puedo negarme."
+        }
+      ]
+    },
+    {
+      "id": "n1-197",
+      "category": "Causa",
+      "title": "とあって",
+      "formula": "V / N + とあって",
+      "description": "Debido a la circunstancia especial de que... (indica un resultado natural).",
+      "examples": [
+        {
+          "jp": "夏休み[なつやすみ] 最初[さいしょ] の 日曜日[にちようび] と あって、海[うみ] は 混んで[こんで] いる。",
+          "es": "Debido a que es el primer domingo de vacaciones de verano, el mar está lleno."
+        }
+      ]
+    },
+    {
+      "id": "n1-198",
+      "category": "Modo",
+      "title": "とばかりに",
+      "formula": "Frase + とばかりに",
+      "description": "Como si dijera...; en lugar de palabras, usa una acción para expresarse.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 帰れ[かえれ] と ばかり に、ドア を 閉めた[しめた]。",
+          "es": "Cerró la puerta como si estuviera diciendo: '¡Vete!'."
+        }
+      ]
+    },
+    {
+      "id": "n1-199",
+      "category": "Contraste",
+      "title": "といえども",
+      "formula": "V / N + といえども",
+      "description": "Incluso si se dice que...; a pesar de ser un [X]... (la realidad es otra).",
+      "examples": [
+        {
+          "jp": "プロ と いえども、失敗[しっぱい] する こと も ある。",
+          "es": "Incluso siendo un profesional, a veces se cometen errores."
+        }
+      ]
+    },
+    {
+      "id": "n1-200",
+      "category": "Afirmación",
+      "title": "と言[い]えなくもない",
+      "formula": "Frase + と言えなくもない",
+      "description": "No se puede decir que no sea...; también se podría decir que...",
+      "examples": [
+        {
+          "jp": "これなら 成功[せいこう] だ と 言え[いえ] なく も ない。",
+          "es": "Se podría decir que esto es un éxito (aunque con matices)."
+        }
+      ]
+    },
+    {
+      "id": "n1-201",
+      "category": "Inclusión",
+      "title": "〜といい 〜といい",
+      "formula": "N1 + といい + N2 + といい",
+      "description": "Tanto [A] como [B]. Se usa para dar ejemplos que resaltan una cualidad general (positiva o negativa) de algo.",
+      "examples": [
+        {
+          "jp": "この 鞄[かばん] は デザイン と いい 色[いろ] と いい 素晴らしい[すばらしい]。",
+          "es": "Este bolso es fantástico, tanto por su diseño como por su color."
+        }
+      ]
+    },
+    {
+      "id": "n1-202",
+      "category": "Énfasis",
+      "title": "〜といったらない",
+      "formula": "Adj / N + といったらない",
+      "description": "Extremadamente...; no hay palabras para describir lo [X] que es. Se usa para enfatizar un grado máximo.",
+      "examples": [
+        {
+          "jp": "試験[しけん] に 落ちて[おちて] 悔しい[くやしい] と いっ たら ない。",
+          "es": "No te imaginas lo frustrante que es haber suspendido el examen."
+        }
+      ]
+    },
+    {
+      "id": "n1-203",
+      "category": "Énfasis",
+      "title": "〜という 〜という",
+      "formula": "N + という + N",
+      "description": "Todos y cada uno de...; sin excepción. Resalta la totalidad de un grupo de cosas.",
+      "examples": [
+        {
+          "jp": "今日[きょう] は 壁[かべ] という 壁[かべ] に ポスター が 貼って[はって] ある。",
+          "es": "Hoy hay posters pegados en absolutamente todas las paredes."
+        }
+      ]
+    },
+    {
+      "id": "n1-204",
+      "category": "Alternativa",
+      "title": "〜というか 〜というか",
+      "formula": "Frase + というか 〜",
+      "description": "O más bien...; o quizás debería decir... Se usa cuando no se encuentra la palabra exacta para describir algo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 親切[しんせつ] と いう か おせっかい と いう か...",
+          "es": "Él es amable, o más bien un entrometido, o algo así..."
+        }
+      ]
+    },
+    {
+      "id": "n1-205",
+      "category": "Tiempo",
+      "title": "〜というもの",
+      "formula": "N (tiempo) + というもの",
+      "description": "Durante; por un periodo de... Enfatiza que una situación ha continuado por mucho tiempo.",
+      "examples": [
+        {
+          "jp": "この １ヶ月[いっかげつ] と いう もの、休み[やすみ] が ない。",
+          "es": "En todo este último mes, no he tenido ni un día de descanso."
+        }
+      ]
+    },
+    {
+      "id": "n1-206",
+      "category": "Límite",
+      "title": "というところだ / といったところだ",
+      "formula": "V / N + というところだ",
+      "description": "A lo sumo...; más o como mucho... Indica que el grado o cantidad no es muy alto.",
+      "examples": [
+        {
+          "jp": "私[わたし] の 給料[きゅうりょう] は 月[つき] ２０万[にじゅうまん]円[えん] と いった ところ だ。",
+          "es": "Mi sueldo viene a ser, como mucho, unos 200,000 yenes al mes."
+        }
+      ]
+    },
+    {
+      "id": "n1-207",
+      "category": "Conclusión",
+      "title": "というわけだ",
+      "formula": "Frase + というわけだ",
+      "description": "Esa es la razón; por eso...; significa que... Se usa para explicar la lógica detrás de un hecho.",
+      "examples": [
+        {
+          "jp": "つまり、彼[かれ] が 犯人[はんにん] だ と いう わけ だ。",
+          "es": "En otras palabras, eso significa que él es el culpable."
+        }
+      ]
+    },
+    {
+      "id": "n1-208",
+      "category": "Negación",
+      "title": "というわけではない",
+      "formula": "Frase + というわけではない",
+      "description": "No significa que...; no es que... Se usa para negar parcialmente una suposición.",
+      "examples": [
+        {
+          "jp": "嫌い[きらい] だ と いう わけ ではない が、食べたくない[たべたくない]。",
+          "es": "No es que no me guste, pero no quiero comerlo."
+        }
+      ]
+    },
+    {
+      "id": "n1-209",
+      "category": "Inclusión",
+      "title": "〜といわず 〜といわず",
+      "formula": "N1 + といわず + N2 + といわず",
+      "description": "No solo [A] y [B], sino todo en general. Abarca la totalidad sin distinción de tiempo o espacio.",
+      "examples": [
+        {
+          "jp": "昼[ひる] と いわず 夜[よる] と いわず、彼[かれ] は 働いて[はたらいて] いる。",
+          "es": "No importa si es de día o de noche, él siempre está trabajando."
+        }
+      ]
+    },
+    {
+      "id": "n1-210",
+      "category": "Causa",
+      "title": "〜ときている",
+      "formula": "N / Adj + ときている",
+      "description": "Debido a que...; puesto que... Se usa para dar una razón natural que justifica una cualidad o resultado.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 若い[わかい] し、独身[どくしん] と きて いる から、自由[じゆう] だ。",
+          "es": "Él es joven y, además, como es soltero, es totalmente libre."
+        }
+      ]
+    },
+    {
+      "id": "n1-211",
+      "category": "Tiempo",
+      "title": "〜とみると",
+      "formula": "V / Frase + とみると",
+      "description": "En cuanto uno se da cuenta de que...; tan pronto como se ve que...",
+      "examples": [
+        {
+          "jp": "店[みせ] が 儲かる[もうかる] と みる と、すぐ に 支店[してん] を 出した[だした]。",
+          "es": "En cuanto vio que la tienda daba beneficios, abrió inmediatamente una sucursal."
+        }
+      ]
+    },
+    {
+      "id": "n1-212",
+      "category": "Tiempo",
+      "title": "〜と見[み]るや",
+      "formula": "V / Frase + と見るや",
+      "description": "Al ver que...; tras confirmar que... Indica una acción inmediata basada en una observación.",
+      "examples": [
+        {
+          "jp": "警察[けいさつ] を 見る[みる] や、犯人[はんにん] は 逃げ出した[にげだした]。",
+          "es": "Nada más ver a la policía, el criminal salió huyendo."
+        }
+      ]
+    },
+    {
+      "id": "n1-213",
+      "category": "Condición",
+      "title": "〜となると / 〜となれば",
+      "formula": "V / N + となると",
+      "description": "Cuando se trata de...; si llegara a suceder que... Indica un cambio de actitud o situación ante un supuesto.",
+      "examples": [
+        {
+          "jp": "いざ 結婚[けっこん] と なると、不安[ふあん] に なる。",
+          "es": "Cuando llega el momento real de casarse, uno se pone ansioso."
+        }
+      ]
+    },
+    {
+      "id": "n1-214",
+      "category": "Afirmación",
+      "title": "とされる",
+      "formula": "V / N + とされる",
+      "description": "Se considera que...; se dice que... Es una forma pasiva muy formal usada en noticias o documentos.",
+      "examples": [
+        {
+          "jp": "この 物質[ぶっしつ] は 健康[けんこう] に 有害[ゆうがい] だ と されて いる。",
+          "es": "Se considera que esta sustancia es perjudicial para la salud."
+        }
+      ]
+    },
+    {
+      "id": "n1-215",
+      "category": "Crítica",
+      "title": "〜ときたら",
+      "formula": "N + ときたら",
+      "description": "Cuando se trata de...; si hablamos de... Se usa casi siempre para introducir un tema y criticarlo.",
+      "examples": [
+        {
+          "jp": "うち の 息子[むすこ] と きたら、勉強[べんきょう] も せず 遊び[あそび] ばかり だ。",
+          "es": "Si hablamos de mi hijo... no hace más que jugar sin estudiar nada."
+        }
+      ]
+    },
+    {
+      "id": "n1-216",
+      "category": "Contraste",
+      "title": "ところを",
+      "formula": "V / Adj / N + ところを",
+      "description": "A pesar de que (normalmente sería)...; en un momento en que... Se usa para pedir disculpas por interrumpir.",
+      "examples": [
+        {
+          "jp": "お 忙しい[おいそがしい] ところ を、すみません。",
+          "es": "Siento molestarle en un momento en que está tan ocupado."
+        }
+      ]
+    },
+    {
+      "id": "n1-217",
+      "category": "Crítica",
+      "title": "ともあろうものが",
+      "formula": "N + ともあろうものが",
+      "description": "Alguien que es nada menos que un... (y hace tal cosa). Expresa sorpresa ante la mala conducta de alguien respetable.",
+      "examples": [
+        {
+          "jp": "医者[いしゃ] と も あろう もの が、健康[けんこう] に 気[き] を つけない なんて。",
+          "es": "Alguien que es médico, y resulta que no cuida su propia salud..."
+        }
+      ]
+    },
+    {
+      "id": "n1-218",
+      "category": "Modo",
+      "title": "ともなく / ともなしに",
+      "formula": "V-dict + ともなく",
+      "description": "Sin pensarlo; de manera inconsciente; sin un propósito claro. Suele usarse con verbos de percepción (mirar, oír).",
+      "examples": [
+        {
+          "jp": "テレビ を 見る[みる] とも なく 見て[みて] いたら、友達[ともだち] が 映った[うつった]。",
+          "es": "Estaba mirando la tele sin prestar atención cuando de repente apareció mi amigo."
+        }
+      ]
+    },
+    {
+      "id": "n1-219",
+      "category": "Tendencia",
+      "title": "ともすれば",
+      "formula": "ともすれば + Frase",
+      "description": "Tener tendencia a...; ser propenso a... Se usa para indicar una posibilidad negativa que ocurre con frecuencia.",
+      "examples": [
+        {
+          "jp": "ともすれば、自分[じぶん] の こと ばかり 考えて[かんがえて] しまう。",
+          "es": "A menudo tengo la tendencia de pensar solo en mí mismo."
+        }
+      ]
+    },
+    {
+      "id": "n1-220",
+      "category": "Incertidumbre",
+      "title": "〜とも 〜とも",
+      "formula": "Frase + とも 〜 とも",
+      "description": "No se puede decir si [A] o [B]; es imposible juzgar entre dos opciones.",
+      "examples": [
+        {
+          "jp": "これ は 本物[ほんもの] と も 偽物[にせもの] と も 言え[いえ] ない。",
+          "es": "No se puede decir si esto es auténtico o una falsificación."
+        }
+      ]
+    },
+    {
+      "id": "n1-221",
+      "category": "Énfasis",
+      "title": "とりわけ",
+      "formula": "とりわけ + Frase",
+      "description": "Especialmente; sobre todo; por encima de todo.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は スポーツ が 好き[すき] だ が、とりわけ サッカー が 好き[すき] だ。",
+          "es": "A él le gustan los deportes, pero sobre todo le gusta el fútbol."
+        }
+      ]
+    },
+    {
+      "id": "n1-222",
+      "category": "Crítica",
+      "title": "としたことが",
+      "formula": "N + としたことが",
+      "description": "De todas las personas... (quién lo hubiera pensado). Expresa sorpresa ante un error cometido por alguien capaz.",
+      "examples": [
+        {
+          "jp": "私[わたし] と した こと が、こんな 単純[たんじゅん] な ミス を する なんて。",
+          "es": "De todas las personas, que sea yo quien cometa un error tan simple..."
+        }
+      ]
+    },
+    {
+      "id": "n1-223",
+      "category": "Tiempo",
+      "title": "とっさに",
+      "formula": "とっさに + V",
+      "description": "Al instante; de inmediato; en un acto reflejo.",
+      "examples": [
+        {
+          "jp": "転び[ころび] そうに なって、とっさに 手[て] を ついた。",
+          "es": "Casi me caigo e inmediatamente puse las manos (acto reflejo)."
+        }
+      ]
+    },
+    {
+      "id": "n1-224",
+      "category": "Contraste",
+      "title": "とて",
+      "formula": "Frase + とて",
+      "description": "Incluso; aunque... Es una forma literaria de decir 'demo' o 'toshitemo'.",
+      "examples": [
+        {
+          "jp": "子供[こども] とて、一人[ひとり] の 人間[にんげん] だ。",
+          "es": "Incluso un niño es un ser humano individual."
+        }
+      ]
+    },
+    {
+      "id": "n1-225",
+      "category": "Sorpresa",
+      "title": "とは",
+      "formula": "Frase + とは",
+      "description": "No sabía que...; es sorprendente que... Se usa para expresar asombro ante un hecho.",
+      "examples": [
+        {
+          "jp": "彼[かれ] が 犯人[はんにん] だった と は 知ら[しら] なかった。",
+          "es": "Me sorprende el hecho de que él fuera el culpable."
+        }
+      ]
+    },
+    {
+      "id": "n1-226",
+      "category": "Contraste",
+      "title": "とはいえ",
+      "formula": "Frase + とはいえ",
+      "description": "Aunque; a pesar de que se diga que... Indica que aunque [X] es cierto, la realidad tiene matices.",
+      "examples": [
+        {
+          "jp": "春[はる] だ と は いえ、まだ 寒い[さむい] 日[ひ] が ある。",
+          "es": "Aunque sea primavera, todavía hay días fríos."
+        }
+      ]
+    },
+    {
+      "id": "n1-227",
+      "category": "Comparación",
+      "title": "とは比[くら]べものにならない",
+      "formula": "N + とは比べものにならない",
+      "description": "No se puede ni comparar con... Indica que algo es de un nivel totalmente superior.",
+      "examples": [
+        {
+          "jp": "今[いま] の 暑さ[あつさ] は 昔[むかし] と は 比べもの[くらべもの] に ならない。",
+          "es": "El calor de ahora no se puede ni comparar con el de antes."
+        }
+      ]
+    },
+    {
+      "id": "n1-228",
+      "category": "Contraste",
+      "title": "とは打[う]って変[か]わって",
+      "formula": "N + とは打って変わって",
+      "description": "A diferencia total de...; cambiando radicalmente desde... Indica un cambio de 180 grados.",
+      "examples": [
+        {
+          "jp": "昨日[きのう] と は 打って変わって[うってかわって]、今日[きょう] は 晴天[せいてん] だ。",
+          "es": "A diferencia radical de ayer, hoy hace un día despejado."
+        }
+      ]
+    },
+    {
+      "id": "n1-229",
+      "category": "Alternancia",
+      "title": "〜つ 〜つ",
+      "formula": "V-raiz + つ + V-raiz + つ",
+      "description": "Ahora [A], ahora [B]. Indica dos acciones opuestas que se repiten alternativamente (ej: ir y venir).",
+      "examples": [
+        {
+          "jp": "二[に]人[にん] は 抜き[ぬき] つ 抜かれ[ぬかれ] つ の 大[だい] 接戦[せっせん] を した。",
+          "es": "Los dos tuvieron una gran batalla, ahora uno adelantando al otro y viceversa."
+        }
+      ]
+    },
+    {
+      "id": "n1-230",
+      "category": "Grado",
+      "title": "尽[つく]す",
+      "formula": "V-raiz + 尽くす",
+      "description": "Hacer algo hasta el final; agotar; usar todo sin que quede nada.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 全力[ぜんりょく] を 尽くして[つくして] 戦った[たたかった]。",
+          "es": "Él luchó dando todo lo que tenía (agotando sus fuerzas)."
+        }
+      ]
+    },
+    {
+      "id": "n1-231",
+      "category": "Crítica",
+      "title": "〜ってば / 〜ったら",
+      "formula": "N + ってば",
+      "description": "¡Te digo que...!; ¡Ya te lo dije! Se usa para expresar molestia o insistir en algo.",
+      "examples": [
+        {
+          "jp": "お母さん[おかあさん] ってば、しつこい なぁ。",
+          "es": "¡Mamá, qué pesada eres! (Te digo que pares)."
+        }
+      ]
+    },
+    {
+      "id": "n1-232",
+      "category": "Negación",
+      "title": "うちに入[はい]らない",
+      "formula": "N + のうちに入らない",
+      "description": "No se puede considerar como...; ni siquiera llega al nivel de...",
+      "examples": [
+        {
+          "jp": "こんな の、仕事[しごと] の うち に 入ら[はいら] ない よ。",
+          "es": "Esto ni siquiera se puede considerar trabajo (es demasiado fácil)."
+        }
+      ]
+    },
+    {
+      "id": "n1-233",
+      "category": "Partícula",
+      "title": "わ",
+      "formula": "Frase + わ",
+      "description": "Partícula final usada para dar un toque suave o emocional a la frase (tradicionalmente femenino).",
+      "examples": [
+        {
+          "jp": "あら、大変[たいへん] だ わ。",
+          "es": "Vaya, esto es un problema."
+        }
+      ]
+    },
+    {
+      "id": "n1-234",
+      "category": "Indiferencia",
+      "title": "はどであれ",
+      "formula": "N + はどうであれ",
+      "description": "Sea como sea; independientemente de cómo sea [X].",
+      "examples": [
+        {
+          "jp": "結果[けっか] は どう で あれ、努力[どりょく] は 認める[みとめる]。",
+          "es": "Sea cual sea el resultado, reconozco tu esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "n1-235",
+      "category": "Énfasis Negativo",
+      "title": "はおろか",
+      "formula": "N + はおろか",
+      "description": "Ni hablar de...; mucho menos... Indica que si lo más básico no se cumple, lo demás es imposible.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 漢字[かんじ] は おろか、ひらがな も 書けない[かけない]。",
+          "es": "Él no puede escribir ni hablar de kanji, mucho menos hiragana."
+        }
+      ]
+    },
+    {
+      "id": "n1-236",
+      "category": "Exclusión",
+      "title": "はさておき",
+      "formula": "N + はさておき",
+      "description": "Dejando de lado...; aparte de... Se usa para posponer un tema y centrarse en algo más importante.",
+      "examples": [
+        {
+          "jp": "冗談[じょうだん] は さておき、本題[ほんだい] に 入ろう[はいろう]。",
+          "es": "Dejando de lado las bromas, entremos en el tema principal."
+        }
+      ]
+    },
+    {
+      "id": "n1-237",
+      "category": "Actitud",
+      "title": "はそっちのけで",
+      "formula": "N + はそっちのけで",
+      "description": "Ignorando por completo [X] para centrarse en otra cosa (a menudo algo que no debería).",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 仕事[しごと] は そっちのけ で ゲーム ばかり して いる。",
+          "es": "Él ignora totalmente el trabajo y no hace más que jugar a videojuegos."
+        }
+      ]
+    },
+    {
+      "id": "n1-238",
+      "category": "Enumeración",
+      "title": "〜わ 〜わで",
+      "formula": "Frase + わ 〜 わで",
+      "description": "Entre que [A] y entre que [B]... Se usa para enumerar situaciones (normalmente negativas) que ocurren a la vez.",
+      "examples": [
+        {
+          "jp": "今日[きょう] は 雨[あめ] は 降る[ふる] わ、風[かぜ] は 強い[つよい] わ で 大変[たいへん] だった。",
+          "es": "Hoy ha sido un desastre: entre que llovía y que hacía un viento fuerte..."
+        }
+      ]
+    },
+    {
+      "id": "n1-239",
+      "category": "Tiempo",
+      "title": "や否[いな]や",
+      "formula": "V-dict + や否や",
+      "description": "Tan pronto como...; en el mismo instante en que... Indica una rapidez extrema entre dos acciones.",
+      "examples": [
+        {
+          "jp": "彼[かれ] は 私[わたし] の 顔[かお] を 見る[みる] や 否[いな] や、逃げ出した[にげだした]。",
+          "es": "En cuanto me vio la cara, salió corriendo."
+        }
+      ]
+    },
+    {
+      "id": "n1-240",
+      "category": "Negación",
+      "title": "やしない",
+      "formula": "V-raiz + やしない",
+      "description": "De ninguna manera; para nada. Es una forma enfática y algo brusca de negar una acción.",
+      "examples": [
+        {
+          "jp": "いくら 呼んでも[よんでも]、返事[へんじ] も し や しない。",
+          "es": "Por mucho que lo llame, no responde para nada."
+        }
+      ]
+    },
+ {
+      "id": "n1-241",
+      "category": "Enumeración",
+      "title": "やれ 〜 やれ",
+      "formula": "やれ + Frase1 + やれ + Frase2",
+      "description": "Se usa para enumerar ejemplos de cosas (generalmente molestas, caóticas o negativas) que ocurren. 'Que si [A], que si [B]...'.",
+      "examples": [
+        {
+          "jp": "やれ 掃除[そうじ] だ やれ 洗濯[せんたく] だ と、休む[やすむ] 暇[ひま] も ない。",
+          "es": "Que si la limpieza, que si la colada... no tengo tiempo ni de descansar."
+        }
+      ]
+    },
+    {
+      "id": "n1-242",
+      "category": "Condición",
+      "title": "〜ようが / 〜ようと",
+      "formula": "V-volitivo + が / と",
+      "description": "No importa qué; aunque ocurra [X]. Indica que el resultado principal no cambiará sea cual sea la acción.",
+      "examples": [
+        {
+          "jp": "誰[だれ] が 何[なに] を 言おう[いおう] が、私[わたし] の 決心[けっしん] は 変わら[かわら] ない。",
+          "es": "Diga quien diga lo que diga, mi decisión no cambiará."
+        }
+      ]
+    },
+    {
+      "id": "n1-243",
+      "category": "Condición",
+      "title": "〜ようが 〜ようが",
+      "formula": "V1-volitivo + が + V2-volitivo + が",
+      "description": "Ya sea A o B; no importa si ocurre [A] o si ocurre [B]. Indica indiferencia ante dos opciones.",
+      "examples": [
+        {
+          "jp": "行こう[いこう] が 行く[いく] まい が、結果[けっか] は 同じ[おなじ] だ。",
+          "es": "Vayas o no vayas, el resultado será el mismo."
+        }
+      ]
+    },
+    {
+      "id": "n1-244",
+      "category": "Dependencia",
+      "title": "ようによっては / ようでは",
+      "formula": "V-raiz + ようによっては",
+      "description": "Dependiendo de la manera de...; según como se haga [X].",
+      "examples": [
+        {
+          "jp": "考え[かんがえ] よう によって は、これ も チャンス だ。",
+          "es": "Dependiendo de cómo se piense, esto también es una oportunidad."
+        }
+      ]
+    },
+    {
+      "id": "n1-245",
+      "category": "Imposibilidad",
+      "title": "ようにも 〜 ない",
+      "formula": "V-volitivo + にも + V-nai / V-posibilidad negativa",
+      "description": "Aunque quiera hacer [X], no puedo. Suele ser debido a una razón externa que lo impide.",
+      "examples": [
+        {
+          "jp": "連絡[れんらく] 先[さき] が 分から[わから] ない ので、連絡[れんらく] し よう に も でき ない。",
+          "es": "Como no sé su contacto, aunque quiera llamarle no puedo."
+        }
+      ]
+    },
+    {
+      "id": "n1-246",
+      "category": "Indiferencia",
+      "title": "〜ようと 〜まいと",
+      "formula": "V-volitivo + と + V-dict + まい + と",
+      "description": "Lo haga o no lo haga; independientemente de si ocurre o no. Indica que la acción no afecta al resultado.",
+      "examples": [
+        {
+          "jp": "雨[あめ] が 降ろう[ふろう] と 降る[ふる] まい と、試合[しあい] は 行われる[おこなわれる]。",
+          "es": "Llueva o no llueva, el partido se llevará a cabo."
+        }
+      ]
+    },
+    {
+      "id": "n1-247",
+      "category": "Causa",
+      "title": "ゆえに",
+      "formula": "V / Adj / N + (no / na) + ゆえに",
+      "description": "Debido a...; a causa de...; por lo tanto. Es una forma extremadamente literaria y formal.",
+      "examples": [
+        {
+          "jp": "不慣れ[ふなれ] な ゆえ に、多大[ただい] な ご 迷惑[めいわく] を おかけしました。",
+          "es": "Debido a mi falta de experiencia, les he causado muchas molestias."
+        }
+      ]
+    },
+    {
+      "id": "n1-248",
+      "category": "Partícula",
+      "title": "ぞ / ぜ",
+      "formula": "Frase + ぞ / ぜ",
+      "description": "Partículas finales que añaden fuerza, aserción o énfasis a lo que se dice (frecuente en lenguaje masculino).",
+      "examples": [
+        {
+          "jp": "さあ、行く[いく] ぞ！",
+          "es": "¡Venga, vamos!"
+        }
+      ]
+    },
+    {
+      "id": "n1-249",
+      "category": "Consecuencia",
+      "title": "〜ずじまい",
+      "formula": "V-nai (sin nai) + ずじまい",
+      "description": "Acabar sin haber hecho... Indica que se tenía la intención de hacer algo, pero el tiempo pasó y no se realizó.",
+      "examples": [
+        {
+          "jp": "結局[けっきょく]、彼[かれ] に は 会わず[あわず] じまい だった。",
+          "es": "Al final, me quedé sin llegar a verle."
+        }
+      ]
+    },
+    {
+      "id": "n1-250",
+      "category": "Voluntad",
+      "title": "ずにはおかない",
+      "formula": "V-nai (sin nai) + ずにはおかない",
+      "description": "Sin falta se hará...; no se puede dejar de... Indica una determinación fuerte o un resultado que ocurrirá inevitablemente.",
+      "examples": [
+        {
+          "jp": "彼[かれ] の 演奏[えんそう] は、聴衆[ちょうしゅう] を 感動[かんどう] させ ず に は おかない。",
+          "es": "Su interpretación sin duda conmoverá a toda la audiencia."
+        }
+      ]
+    },
+    {
+      "id": "n1-251",
+      "category": "Deber",
+      "title": "ずには済[す]まない",
+      "formula": "V-nai (sin nai) + ずには済まない",
+      "description": "No se puede quedar sin...; es obligatorio (moral o socialmente) hacer algo.",
+      "examples": [
+        {
+          "jp": "人[ひと] の 物[もの] を 壊した[こわした] の だから、謝ら[あやまら] ず に は 済まない[すまない]。",
+          "es": "Como he roto algo de otra persona, es obligatorio que pida disculpas."
+        }
+      ]
+    },
+    {
+      "id": "n1-252",
+      "category": "Condición",
+      "title": "ずとも",
+      "formula": "V-nai (sin nai) + ずとも",
+      "description": "Incluso sin hacer...; aun si no se hace [X]. Indica que la condición no es necesaria para el resultado.",
+      "examples": [
+        {
+          "jp": "言わ[いわ] ず と も 分かって[わかって] いる。",
+          "es": "Lo entiendo incluso sin que lo digas."
+        }
+      ]
+    },
+    {
+      "id": "n1-253",
+      "category": "Énfasis",
+      "title": "ずくめ",
+      "formula": "N + ずくめ",
+      "description": "Lleno de...; compuesto enteramente por... Se usa para indicar un estado uniforme (noticias, color negro, felicidad).",
+      "examples": [
+        {
+          "jp": "今日[きょう] は 朝[あさ] から いい こと ずくめ だ。",
+          "es": "Hoy, desde la mañana, todo han sido buenas noticias."
+        }
+      ]
     }
   ]
-},
-  {
-    "id": "n1-2",
-    "category": "Tiempo",
-    "title": "〜や / 〜や否や",
-    "formula": "V (Diccionario) + や",
-    "description": "Indica que la segunda acción ocurre casi instantáneamente después de la primera. Es un registro literario de alta formalidad.",
-    "examples": [
-      {
-        "jp": "火災[かさい] 報知[ほうち] 器[き]が 鳴る[なる] や、人々[ひとびと]は 外[そと]へ 飛び出し[とびだし]た。",
-        "es": "Apenas sonó la alarma de incendios, la gente salió corriendo al exterior."
-      }
-    ]
-  },
-  {
-    "id": "n1-3",
-    "category": "Tiempo",
-    "title": "〜が早いか",
-    "formula": "V (Diccionario / -ta) + が 早[はや]いか",
-    "description": "Enfatiza la extrema rapidez entre dos sucesos. Indica que la segunda acción empieza incluso antes de que la primera parezca haber terminado.",
-    "examples": [
-      {
-        "jp": "終点[しゅうてん]に 着く[つく]が 早[はや]いか、乗客[じょうきゃく]は 降り[ふり] 始め[はじめ]た。",
-        "es": "Nada más llegar a la última parada, los pasajeros empezaron a bajar."
-      }
-    ]
-  },
-  {
-    "id": "n1-4",
-    "category": "Tiempo",
-    "title": "〜そばから",
-    "formula": "V (Diccionario / -ta) + そばから",
-    "description": "Se utiliza para acciones que se repiten. Tan pronto como se hace algo, vuelve a ocurrir lo mismo, generalmente algo molesto que deshace la acción anterior.",
-    "examples": [
-      {
-        "jp": "子供[こども]は 片付け[かたづけ]る そばから、おもちゃを 散らか[ちらか]す。",
-        "es": "Tan pronto como termino de recoger, el niño desordena los juguetes."
-      }
-    ]
-  },
-  {
-    "id": "n1-5",
-    "category": "Tiempo",
-    "title": "〜なりに / 〜なりの",
-    "formula": "Sustantivo / V (Informal) + なりに",
-    "description": "En N1 se evalúa el uso de esta estructura para expresar que algo se hace 'dentro de las limitaciones o capacidades' de alguien.",
-    "examples": [
-      {
-        "jp": "子供[こども] なりに、一生懸命[いっしょうけんめい] 考え[かんがえ]た 結果[けっか]です。",
-        "es": "Es el resultado de lo que un niño, a su manera, pensó con todas sus fuerzas."
-      }
-    ]
-  },
-  {
-    "id": "n1-6",
-    "category": "Tiempo",
-    "title": "〜を皮切りに",
-    "formula": "Sustantivo + を 皮切り[かわきり]に",
-    "description": "Indica que un evento es el punto de partida de una serie de hechos que se expanden con gran ímpetu. Nivel literario.",
-    "examples": [
-      {
-        "jp": "この 大会[たいかい] を 皮切り[かわきり]に、世界[せかい] ツアーが 始まり[はじまり]ます。",
-        "es": "Empezando con este campeonato, comenzará la gira mundial."
-      }
-    ]
-  },
-  {
-    "id": "n1-7",
-    "category": "Tiempo",
-    "title": "〜に至るまで",
-    "formula": "Sustantivo + に 至る[いたる]まで",
-    "description": "Enfatiza que el alcance de algo llega hasta un punto extremo o un detalle minucioso que normalmente no se esperaría.",
-    "examples": [
-      {
-        "jp": "服装[ふくそう]から 言葉[ことば]遣[づか]いに 至る[いたる]まで、厳[きび]しく 指導[しどう]された。",
-        "es": "Me instruyeron severamente en todo, desde la vestimenta hasta incluso el modo de hablar."
-      }
-    ]
-  },
-  {
-  "id": "n1-8",
-  "category": "Tiempo",
-  "title": "〜と思いきや",
-  "formula": "Frase + と 思い[おも]いきや",
-  "description": "Indica que el hablante pensaba que sucedería algo, pero ocurrió algo totalmente diferente e inesperado.",
-  "examples": [
-    {
-      "jp": "やっと 終わった[おわった] と 思い[おも]いきや、また 新しい[あたらしい] 仕事[しごと]を 頼まれた[たのまれた]。",
-      "es": "Justo cuando pensaba que por fin había terminado, me pidieron otro trabajo nuevo."
-    }
-  ]
-},
-  {
-  "id": "n1-9",
-  "category": "Resultado",
-  "title": "〜しまつだ",
-  "formula": "Verbo (Diccionario) + 始末[しまつ]だ",
-  "description": "Indica que, tras una serie de eventos negativos, se ha llegado a un resultado final lamentable o desastroso.",
-  "examples": [
-    {
-      "jp": "借金[しゃっきん]を 重[かさ]ね、最後[さいご]には 家[いえ]まで 失[うしな]う 始末[しまつ]だ。",
-      "es": "Acumuló deudas y, al final, terminó perdiendo incluso su casa."
-    }
-  ]
-},
-  {
-    "id": "n1-10",
-    "category": "Tiempo",
-    "title": "〜といったところだ",
-    "formula": "Sustantivo / V (Diccionario) + といったところだ",
-    "description": "Indica que el grado o cantidad de algo es, a lo sumo, lo que se menciona, minimizando su importancia.",
-    "examples": [
-      {
-        "jp": "休み[やすみ]は 取れ[とれ]ても、三[さん]日[にち] といったところだ。",
-        "es": "Aunque pueda tomarme vacaciones, serán tres días a lo sumo."
-      }
-    ]
-  },
-  {
-    "id": "n1-11",
-    "category": "Acción",
-    "title": "〜べからず",
-    "formula": "V (Diccionario) + べからず",
-    "description": "Prohibición formal y arcaica utilizada en carteles o documentos oficiales. 'No se debe...'.",
-    "examples": [
-      {
-        "jp": "芝生[しばふ]に 入る[はいる] べからず。",
-        "es": "Prohibido pisar el césped."
-      }
-    ]
-  },
-  {
-    "id": "n1-12",
-    "category": "Acción",
-    "title": "〜まじき",
-    "formula": "V (Diccionario) + まじき + Sustantivo",
-    "description": "Indica que una conducta es absolutamente inaceptable dada la posición social o profesional de la persona.",
-    "examples": [
-      {
-        "jp": "それは 警官[けいかん]として ある まじき 行為[こうい]だ。",
-        "es": "Esa es una conducta inadmisible para un oficial de policía."
-      }
-    ]
-  },
-  {
-    "id": "n1-13",
-    "category": "Grado",
-    "title": "〜極まりない / 〜極まる",
-    "formula": "Adj -na (sin na) + 極まりない[きわまりない]",
-    "description": "Expresa que algo ha alcanzado el límite máximo de una cualidad (generalmente negativa).",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 言動[げんどう]は 無礼[ぶれい] 極まりない[きわまりない]。",
-        "es": "Sus palabras y acciones son extremadamente groseras."
-      }
-    ]
-  },
-  {
-    "id": "n1-14",
-    "category": "Grado",
-    "title": "〜の至り",
-    "formula": "Sustantivo + の 至り[いたり]",
-    "description": "Expresión de cortesía máxima para indicar un estado emocional supremo (honor, vergüenza, etc.).",
-    "examples": [
-      {
-        "jp": "皆様[みなさま]の 前[まえ]で お話し[はなし] でき、光栄[こうえい]の 至り[いたり] です。",
-        "es": "Es el mayor de los honores poder hablar ante todos ustedes."
-      }
-    ]
-  },
-  {
-    "id": "n1-15",
-    "category": "Grado",
-    "title": "〜の極み",
-    "formula": "Sustantivo + の 極み[きわみ]",
-    "description": "Indica que algo ha llegado al culmen o extremo de un estado (lujo, fatiga, etc.).",
-    "examples": [
-      {
-        "jp": "遠[とお]くから お越し[こし] いただき、恐縮[きょうしゅく]の 極み[きわみ] です。",
-        "es": "Es para mí una vergüenza extrema (por la molestia causada) que haya venido desde tan lejos."
-      }
-    ]
-  },
-  {
-    "id": "n1-16",
-    "category": "Condición",
-    "title": "〜あっての",
-    "formula": "Sustantivo 1 + あっての + Sustantivo 2",
-    "description": "Indica que el Sustantivo 2 solo puede existir o tener sentido gracias a la existencia del Sustantivo 1. 'Solo gracias a...'.",
-    "examples": [
-      {
-        "jp": "読者[どくしゃ] あっての 雑誌[ざっし] ですから、大切[たいせつ]に したいです。",
-        "es": "Como esta es una revista que solo existe gracias a sus lectores, queremos cuidarlos."
-      }
-    ]
-  },
-  {
-    "id": "n1-17",
-    "category": "Relación",
-    "title": "〜いかん",
-    "formula": "Sustantivo + (の) + いかん",
-    "description": "Significa 'dependiendo de'. Indica que una situación o resultado se decide en función de una circunstancia determinada. Registro muy formal.",
-    "examples": [
-      {
-        "jp": "試験[しけん]の 結果[けっか] いかんでは、卒業[そつぎょう] できない ことも ある。",
-        "es": "Dependiendo de los resultados del examen, podría no graduarme."
-      }
-    ]
-  },
-  {
-    "id": "n1-18",
-    "category": "Relación",
-    "title": "〜いかんによらず",
-    "formula": "Sustantivo + の + いかんによらず",
-    "description": "Indica que algo se aplica o sucede independientemente de la situación o circunstancia. 'Sin importar...'.",
-    "examples": [
-      {
-        "jp": "理由[りゆう]の いかんによらず、暴力[ぼうりょく]は 許[ゆる]されません。",
-        "es": "Sin importar cuál sea la razón, la violencia no se permite."
-      }
-    ]
-  },
-  {
-    "id": "n1-19",
-    "category": "Condición",
-    "title": "〜（よ）うが 〜（よ）うが",
-    "formula": "V1 (Volitivo) + が + V2 (Volitivo) + が",
-    "description": "Indica que no importa cuál de las dos opciones ocurra, el resultado final o la determinación del hablante no cambiarán.",
-    "examples": [
-      {
-        "jp": "誰[だれ]が 何[なに]を 言[い]おうが、私[わたし]の 決心[けっしん]は 変[か]わりません。",
-        "es": "Diga quien diga lo que sea, mi determinación no cambiará."
-      }
-    ]
-  },
-  {
-    "id": "n1-20",
-    "category": "Condición",
-    "title": "〜（よ）うが 〜まいが",
-    "formula": "V1 (Volitivo) + が + V1 (Diccionario) + まいが",
-    "description": "Indica que no importa si se realiza una acción o no, la situación o el resultado será el mismo.",
-    "examples": [
-      {
-        "jp": "雨[あめ]が 降[ふ]ろうが 降[ふ]るまいが、試合[しあい]は 行[おこな]われます。",
-        "es": "Llueva o no llueva, el partido se llevará a cabo."
-      }
-    ]
-  },
-  {
-    "id": "n1-21",
-    "category": "Imposibilidad",
-    "title": "〜（よ）うにも 〜ない",
-    "formula": "V (Volitivo) + にも + V (Potencial Negativo) + ない",
-    "description": "Expresa que, aunque el sujeto quiera o intente realizar una acción, hay un impedimento absoluto que lo hace imposible.",
-    "examples": [
-      {
-        "jp": "喉[のど]が 痛[いた]くて、声[こえ]を 出[だ]そう にも 出[だ]せない。",
-        "es": "Me duele tanto la garganta que, aunque quiero hablar, no puedo."
-      }
-    ]
-  },
-  {
-    "id": "n1-22",
-    "category": "Atributos",
-    "title": "〜のごとき / 〜のごとく",
-    "formula": "S + の / V + が + ごとき",
-    "description": "Forma arcaica y literaria de 'youni'. Significa 'como' o 'igual que'. Se usa para comparaciones enfáticas.",
-    "examples": [
-      {
-        "jp": "光[ひかり] 陰[いん] 矢[や]の ごとし。",
-        "es": "El tiempo vuela como una flecha (proverbio)."
-      }
-    ]
-  },
-  {
-    "id": "n1-23",
-    "category": "Negación",
-    "title": "〜ことなしに",
-    "formula": "Verbo (Diccionario) + ことなしに",
-    "description": "Indica que algo no puede ocurrir si no se realiza primero una acción necesaria. 'Sin haber hecho...'.",
-    "examples": [
-      {
-        "jp": "相手[あいて]の 同意[どうい]を 得[え]る ことなしに、話[はなし]を 進[すす]める ことは できない。",
-        "es": "No se puede avanzar con el asunto sin haber obtenido el consentimiento de la otra parte."
-      }
-    ]
-  },
-  {
-    "id": "n1-24",
-    "category": "Resultado",
-    "title": "〜しまつだ",
-    "formula": "Verbo (Diccionario) + 始末[しまつ]だ",
-    "description": "Indica que, tras una serie de eventos negativos, se ha llegado a un resultado final desastroso o lamentable.",
-    "examples": [
-      {
-        "jp": "借金[しゃっきん]を 重[かさ]ね、最後[さいご]には 家[いえ]まで 失[うしな]う 始末[しまつ]だ。",
-        "es": "Acumuló deudas y, al final, terminó perdiendo incluso su casa."
-      }
-    ]
-  },
-  {
-    "id": "n1-25",
-    "category": "Énfasis",
-    "title": "〜たればこそ",
-    "formula": "Verbo (Forma -ta) + ればこそ",
-    "description": "Enfatiza que precisamente porque ocurrió una acción en el pasado, ahora existe una situación presente. Es una forma literaria de 'kara koso'.",
-    "examples": [
-      {
-        "jp": "厳[きび]しく 指導[しどう] されたればこそ、今[いま]の 私[わたし]が あるのです。",
-        "es": "Precisamente porque fui instruido con severidad, soy quien soy ahora."
-      }
-    ]
-  },
-  {
-    "id": "n1-26",
-    "category": "Enumeración",
-    "title": "〜だの 〜だの",
-    "formula": "Frase 1 + だの + Frase 2 + だの",
-    "description": "Se utiliza para listar ejemplos de forma crítica o para expresar quejas sobre lo que alguien dice. 'Que si A, que si B...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 忙しい[いそがしい] だの 時間[じかん]が ない だの と 言[い]って、手伝[てつだ]おう と しない。",
-        "es": "Él dice que si está ocupado, que si no tiene tiempo, y no intenta ayudar."
-      }
-    ]
-  },
-  {
-    "id": "n1-27",
-    "category": "Tiempo",
-    "title": "〜てからというもの",
-    "formula": "Verbo (Forma -te) + からというもの",
-    "description": "Indica que, a raíz de un evento, ha ocurrido un cambio drástico y constante que se mantiene hasta el presente.",
-    "examples": [
-      {
-        "jp": "結婚[けっこん] して からというもの、自由[じゆう]な 時間[じかん]が ほとんど なくなった。",
-        "es": "Desde que me casé, el tiempo libre casi ha desaparecido por completo."
-      }
-    ]
-  },
-  {
-    "id": "n1-28",
-    "category": "Énfasis",
-    "title": "〜でなくてなんだろう",
-    "formula": "Sustantivo + でなくてなんだろう",
-    "description": "Expresión retórica que afirma con fuerza que algo es, sin duda alguna, lo que indica el sustantivo. '¿Qué es esto si no es...?'.",
-    "examples": [
-      {
-        "jp": "彼女[かのじょ]の この 行為[こうい]が 愛[あい] でなくて なんだろう。",
-        "es": "¿Qué es este acto de ella si no es amor?"
-      }
-    ]
-  },
-  {
-    "id": "n1-29",
-    "category": "Base",
-    "title": "〜を踏まえて",
-    "formula": "Sustantivo + を踏まえて[ふまえて]",
-    "description": "Significa 'basándose en' o 'teniendo en cuenta'. Se usa al tomar una decisión o realizar un juicio considerando hechos o experiencias previas.",
-    "examples": [
-      {
-        "jp": "前回[ぜんかい]の 反省[はんせい]を 踏まえて[ふまえて]、次[つぎ]の 計画[けいかく]を 立て[たて]ましょう。",
-        "es": "Elaboremos el próximo plan teniendo en cuenta las reflexiones de la vez anterior."
-      }
-    ]
-  },
-  {
-    "id": "n1-30",
-    "category": "Tiempo",
-    "title": "〜を経て",
-    "formula": "Sustantivo + を経て[へて]",
-    "description": "Indica que algo sucede después de pasar por un lugar o por un largo periodo de tiempo o proceso.",
-    "examples": [
-      {
-        "jp": "長い[ながい] 年月[ねんげつ]を 経て[へて]、この 寺[てら]は 再建[さいけん] された。",
-        "es": "Tras pasar muchos años, este templo fue reconstruido."
-      }
-    ]
-  },
-   {
-    "id": "n1-31",
-    "category": "Modo",
-    "title": "〜とばかりに",
-    "formula": "Frase + とばかりに",
-    "description": "Indica que alguien no dice algo con palabras, pero actúa de una manera que transmite ese mensaje con total claridad. 'Como si dijera...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 出[で]て 行[い]け とばかりに、ドアを 指[さ]した。",
-        "es": "Él señaló la puerta como si dijera 'lárgate'."
-      }
-    ]
-  },
-  {
-    "id": "n1-32",
-    "category": "Modo",
-    "title": "〜ともなく / 〜ともなしに",
-    "formula": "V (Diccionario) + ともなく",
-    "description": "Indica que una acción se realiza de forma inconsciente, sin un propósito o dirección clara (oír sin escuchar, mirar sin ver).",
-    "examples": [
-      {
-        "jp": "ラジオの 音楽[おんがく]を 聴[き]く ともなく 聴[き]いて いたら、懐[なつ]かしい 歌[うた]が 流[なが]れた。",
-        "es": "Estando escuchando la radio sin prestar mucha atención, sonó una canción nostálgica."
-      }
-    ]
-  },
-  {
-    "id": "n1-33",
-    "category": "Causa",
-    "title": "〜こととて",
-    "formula": "Sustantivo + のこととて / Frase (Informal)",
-    "description": "Forma muy formal de expresar una causa o razón, pidiendo disculpas o comprensión por la situación. 'Debido a que...'.",
-    "examples": [
-      {
-        "jp": "不慣[ふな]れな こととて、失礼[しつれい]が ありましたら お許[ゆる]し ください。",
-        "es": "Debido a mi falta de experiencia, le ruego me disculpe si he cometido alguna falta de cortesía."
-      }
-    ]
-  },
-  {
-    "id": "n1-34",
-    "category": "Sentimiento",
-    "title": "〜にたえる / 〜にたえない",
-    "formula": "V (Diccionario) / Sustantivo + にたえない",
-    "description": "Indica que un sentimiento es tan profundo que no se puede reprimir, o que algo no es digno de ser escuchado o visto.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 事故[じこ]の 知らせ[しらせ]を 聞[き]いて、悲[かな]しみ にたえません。",
-        "es": "No puedo contener mi tristeza al enterarme de la noticia de su accidente."
-      }
-    ]
-  },
-  {
-    "id": "n1-35",
-    "category": "Valor",
-    "title": "〜に足る / 〜に足りる",
-    "formula": "V (Diccionario) / Sustantivo + に足る[たる]",
-    "description": "Indica que algo posee la calidad o el valor suficiente para merecer una acción o ser confiable.",
-    "examples": [
-      {
-        "jp": "その 計画[けいかく]は、検討[けんとう] に足る[たる] 価値[かち]が ある。",
-        "es": "Ese plan tiene el valor suficiente para ser considerado."
-      }
-    ]
-  },
-  {
-    "id": "n1-36",
-    "category": "Imposibilidad",
-    "title": "〜べくもない",
-    "formula": "V (Diccionario) + べくもない",
-    "description": "Expresa que, dada la situación actual, no existe ninguna posibilidad de realizar una acción o esperar un resultado. 'No hay ni que pensar en...'.",
-    "examples": [
-      {
-        "jp": "当時[とうじ]の 私[わたし]には、そんな 大[おお]きな 夢[ゆめ]は 望[のぞ]む べくもなかった。",
-        "es": "En aquel entonces, para mí era imposible siquiera soñar con algo tan grande."
-      }
-    ]
-  },
-  {
-    "id": "n1-37",
-    "category": "Cantidad",
-    "title": "〜からある / 〜からの",
-    "formula": "Cantidad + からある / からの",
-    "description": "Se utiliza para enfatizar que una cifra (peso, distancia, número de personas) es asombrosamente grande.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 三[さん]十[じゅう]キロ からある 荷物[にもつ]を 軽[かる]々と 運[はこ]んだ。",
-        "es": "Él cargó con facilidad un equipaje de más de treinta kilos."
-      }
-    ]
-  },
-  {
-    "id": "n1-38",
-    "category": "Obligación",
-    "title": "〜ずにはすまない",
-    "formula": "V (Forma Nai sin nai) + ずにはすまない",
-    "description": "Indica que, desde un punto de vista moral o de responsabilidad social, es inaceptable terminar un asunto sin realizar una acción.",
-    "examples": [
-      {
-        "jp": "これほど 迷惑[めいわく]を かけたのだから、謝[あやま]らずには すまない。",
-        "es": "Habiendo causado tantas molestias, no puedo quedarme sin disculparme."
-      }
-    ]
-  },
-  {
-    "id": "n1-39",
-    "category": "Obligación",
-    "title": "〜ないではすまない",
-    "formula": "V (Forma Nai) + ではすまない",
-    "description": "Similar a 'ずにはすまない', enfatiza la presión de las circunstancias o de la sociedad que obliga a actuar.",
-    "examples": [
-      {
-        "jp": "人[ひと]の 物[もの]を 壊[こわ]したのだから、弁償[べんしょう] しないでは すまない。",
-        "es": "Puesto que rompiste algo ajeno, no hay más remedio que pagarlo."
-      }
-    ]
-  },
-  {
-    "id": "n1-40",
-    "category": "Resultado",
-    "title": "〜に至る / 〜に至って",
-    "formula": "V (Diccionario) / Sustantivo + に至って[いたって]",
-    "description": "Indica que una situación ha progresado hasta llegar a un estado extremo o a un desenlace inevitable.",
-    "examples": [
-      {
-        "jp": "事[こと] ここに 至って[いたって]、ようやく 対策[たいさく]が 練[ね]られた。",
-        "es": "Llegados a este punto crítico, finalmente se elaboró una contramedida."
-      }
-    ]
-  },
-  {
-    "id": "n1-41",
-    "category": "Contraste",
-    "title": "〜にひきかえ",
-    "formula": "Sustantivo + にひきかえ",
-    "description": "Expresa un contraste muy marcado entre dos situaciones o elementos, a menudo implicando una evaluación subjetiva.",
-    "examples": [
-      {
-        "jp": "大変[たいへん]な 努力[どりょく]家[か]の 兄[あに] にひきかえ、弟[おとうと]は 怠[なま]けてばかりいる。",
-        "es": "En marcado contraste con su hermano mayor, que es muy trabajador, el pequeño no hace más que holgazanear."
-      }
-    ]
-  },
-  {
-    "id": "n1-42",
-    "category": "Relación",
-    "title": "〜にかかわる",
-    "formula": "Sustantivo + にかかわる",
-    "description": "Indica que algo afecta de manera profunda o pone en riesgo algo fundamental (como la vida, el honor o el futuro).",
-    "examples": [
-      {
-        "jp": "これは 大学[だいがく]の 名誉[めいよ] にかかわる 重大[じゅうだい]な 問題[もんだい]だ。",
-        "es": "Este es un problema grave que afecta al honor de la universidad."
-      }
-    ]
-  },
-  {
-    "id": "n1-43",
-    "category": "Adición",
-    "title": "〜もさることながら",
-    "formula": "Sustantivo + もさることながら",
-    "description": "Significa 'A es cierto y es importante, pero B lo es todavía más'. Enfatiza el segundo elemento.",
-    "examples": [
-      {
-        "jp": "この ドレスは デザイン もさることながら、生地[きじ]も 素晴[すば]らしい。",
-        "es": "Este vestido tiene un diseño magnífico, pero la calidad de la tela lo es todavía más."
-      }
-    ]
-  },
-  {
-    "id": "n1-44",
-    "category": "Límites",
-    "title": "〜はおろか",
-    "formula": "Sustantivo + はおろか",
-    "description": "Indica que algo básico es imposible, por lo que algo más difícil ni siquiera se menciona. 'Ni siquiera... mucho menos...'.",
-    "examples": [
-      {
-        "jp": "喉[のど]が 痛[いた]くて、固[かた]い 物[もの] はおろか 水[みず]も 飲[の]めない。",
-        "es": "Me duele tanto la garganta que no puedo beber ni agua, mucho menos comer cosas sólidas."
-      }
-    ]
-  },
-  {
-  "id": "n1-45",
-  "category": "Lamento",
-  "title": "〜ものを",
-  "formula": "Frase (Informal) + ものを",
-  "description": "Se usa al final de la frase para expresar arrepentimiento o queja por algo que no ocurrió. 'Si tan solo hubiera...'.",
-  "examples": [
-    {
-      "jp": "早く[はやく] 言[い]えば いい ものを、どうして 黙[だま]って いたの？",
-      "es": "Si tan solo lo hubieras dicho pronto (habría estado bien)... ¿por qué te quedaste callado?"
-    }
-  ]
-},
-  {
-    "id": "n1-46",
-    "category": "Contraste",
-    "title": "〜こそあれ",
-    "formula": "Sustantivo / Adj -na + こそあれ",
-    "description": "Indica que, aunque existe una cualidad o situación A, definitivamente no existe la situación B (negativa). 'Aunque hay A, [no hay B]'.",
-    "examples": [
-      {
-        "jp": "苦労[くろう] こそあれ、この 仕事[しごと]を 辞[や]めたい と 思[おも]った ことは ない。",
-        "es": "Aunque hay dificultades (y solo eso), nunca he pensado en dejar este trabajo."
-      }
-    ]
-  },
-  {
-    "id": "n1-47",
-    "category": "Énfasis",
-    "title": "〜こそすれ",
-    "formula": "Raíz verbal (-masu) / Sustantivo + こそすれ",
-    "description": "Enfatiza que el sujeto realiza la acción A, pero bajo ninguna circunstancia realiza la acción B (opuesta). 'Hacer A, pero jamás B'.",
-    "examples": [
-      {
-        "jp": "白髪[しらが]は 増[ふ]え こそすれ、減[へ]る ことは ない。",
-        "es": "Las canas solo pueden aumentar, jamás disminuirán."
-      }
-    ]
-  },
-  {
-    "id": "n1-48",
-    "category": "Condición",
-    "title": "〜したところで",
-    "formula": "Verbo (Forma -ta) + ところで",
-    "description": "Indica que, aunque se realice una acción o se intente algo, el resultado final será inútil o insignificante. 'Incluso si...'.",
-    "examples": [
-      {
-        "jp": "今[いま]さら 後悔[こうかい] したところで、どうにも ならない。",
-        "es": "Incluso si te arrepientes ahora, no servirá de nada."
-      }
-    ]
-  },
-  {
-    "id": "n1-49",
-    "category": "Límites",
-    "title": "〜ただ 〜のみだ",
-    "formula": "ただ + V (Diccionario) + のみだ",
-    "description": "Expresión literaria para enfatizar que no queda otra opción o estado más que el mencionado. 'Solo queda...'.",
-    "examples": [
-      {
-        "jp": "今は ただ、事件[じけん]の 解決[かいけつ]を 祈[いの]る のみだ。",
-        "es": "Ahora solo queda rezar por la resolución del incidente."
-      }
-    ]
-  },
-  {
-    "id": "n1-50",
-    "category": "Atributos",
-    "title": "〜たる",
-    "formula": "Sustantivo + たる + Sustantivo",
-    "description": "Se utiliza para describir la esencia o la responsabilidad de alguien que ostenta una posición o cargo. 'Como alguien que es...'.",
-    "examples": [
-      {
-        "jp": "教育[きょういく]者[しゃ] たる 者[もの]、常[つね]に 謙虚[けんきょ]で なければならない。",
-        "es": "Alguien que es educador debe ser siempre humilde."
-      }
-    ]
-  },
-  {
-    "id": "n1-51",
-    "category": "Finalización",
-    "title": "〜ずじまい",
-    "formula": "Verbo (Forma Nai sin nai) + ずじまい",
-    "description": "Indica que una acción que se tenía la intención de hacer, al final no se realizó y el tiempo o la oportunidad pasaron.",
-    "examples": [
-      {
-        "jp": "留学[りゅうがく] 中[ちゅう]に 富士山[ふじさん]に 登[のぼ]りたかったが、結局[けっきょく] 登[のぼ]らずじまい だった。",
-        "es": "Quería subir al monte Fuji durante mi estancia de estudios, pero al final me quedé sin hacerlo."
-      }
-    ]
-  },
-  {
-    "id": "n1-52",
-    "category": "Causa",
-    "title": "〜とあって",
-    "formula": "Sustantivo / Frase (Informal) + とあって",
-    "description": "Indica que, debido a una situación especial o inusual, el resultado o la reacción es la que se describe. 'Dado que es...'.",
-    "examples": [
-      {
-        "jp": "人気[にんき] 歌手[かしゅ]が 来[く]る とあって、会場[かいじょう]は すごい 人[ひと]だ。",
-        "es": "Dado que viene un cantante famoso, el lugar está lleno de gente."
-      }
-    ]
-  },
-  {
-    "id": "n1-53",
-    "category": "Enumeración",
-    "title": "〜といい 〜といい",
-    "formula": "S1 + といい + S2 + といい",
-    "description": "Se mencionan dos ejemplos de un objeto o persona para evaluar su estado general. 'Tanto por A como por B...'.",
-    "examples": [
-      {
-        "jp": "この レストランは 料理[りょうり] といい サービス といい、最高[さいこう]だ。",
-        "es": "Este restaurante, tanto por su comida como por su servicio, es el mejor."
-      }
-    ]
-  },
-  {
-    "id": "n1-54",
-    "category": "Definición",
-    "title": "〜といえり",
-    "formula": "Sustantivo + と いえり",
-    "description": "Forma literaria y arcaica de 'da to ieru'. Se utiliza para afirmar categóricamente una definición o estado.",
-    "examples": [
-      {
-        "jp": "これこそ 日本[にほん]の 伝統[でんとう]美[び] と いえり。",
-        "es": "A esto es a lo que se le puede llamar belleza tradicional japonesa."
-      }
-    ]
-  },
-  {
-    "id": "n1-55",
-    "category": "Matiz",
-    "title": "〜といえなくもない",
-    "formula": "Frase (Informal) + と いえなくもない",
-    "description": "Doble negación cautelosa. 'No se puede decir que no sea...'. Indica una posibilidad admitida a regañadientes.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 作戦[さくせん]は 成功[せいこう] だった と いえなくも ない。",
-        "es": "No se puede decir que su estrategia no fuera un éxito."
-      }
-    ]
-  },
-  {
-    "id": "n1-56",
-    "category": "Causa",
-    "title": "〜てまえ",
-    "formula": "V (Diccionario / -ta) / Sustantivo の + てまえ",
-    "description": "Indica que, debido a una posición social, una promesa o el hecho de estar frente a alguien, uno se siente obligado a actuar de cierta forma.",
-    "examples": [
-      {
-        "jp": "子供[こども]たちの てまえ、弱音[よわね]を 吐[は]く わけには いかない。",
-        "es": "Estando frente a mis hijos, no puedo permitirme quejarme."
-      }
-    ]
-  },
-  {
-    "id": "n1-57",
-    "category": "Valor",
-    "title": "〜に値する",
-    "formula": "V (Diccionario) / Sustantivo + に 値[あたい]する",
-    "description": "Indica que algo tiene el valor o la mérito suficiente para recibir una acción o juicio determinado.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 勇気[ゆうき]ある 行動[こうどう]は、称賛[しょうさん] に 値[あたい]する。",
-        "es": "Su valiente acción es digna de elogio."
-      }
-    ]
-  },
-  {
-    "id": "n1-58",
-    "category": "Guía",
-    "title": "〜に照らして",
-    "formula": "Sustantivo + に 照[て]らして",
-    "description": "Indica que algo se juzga o se realiza comparándolo con una norma, ley o experiencia pasada. 'A la luz de...'.",
-    "examples": [
-      {
-        "jp": "法律[ほうりつ] に 照[て]らして、処分[しょぶん]を 決め[きめ]ます。",
-        "es": "Decidiremos la sanción a la luz de la ley."
-      }
-    ]
-  },
-  {
-    "id": "n1-59",
-    "category": "Lamento",
-    "title": "〜ものを",
-    "formula": "Frase (Informal) + ものを",
-    "description": "Se utiliza al final de una frase para expresar arrepentimiento, insatisfacción o queja sobre algo que no ocurrió como se esperaba. 'Si tan solo...'.",
-    "examples": [
-      {
-        "jp": "早く[はやく] 言[い]えば いい ものを、どうして 黙[だま]って いたの？",
-        "es": "Si tan solo lo hubieras dicho pronto... ¿por qué te quedaste callado?"
-      }
-    ]
-  },
-  {
-    "id": "n1-60",
-    "category": "Condición",
-    "title": "〜によらず",
-    "formula": "Sustantivo + によらず",
-    "description": "Significa 'independientemente de'. Indica que un hecho no se ve afectado por el método, el tiempo o las circunstancias.",
-    "examples": [
-      {
-        "jp": "この 奨学金[しょうがくきん]は、国籍[こくせき] によらず 申し込[もうしこ]めます。",
-        "es": "Esta beca se puede solicitar independientemente de la nacionalidad."
-      }
-    ]
-  },
-  {
-    "id": "n1-61",
-    "category": "Énfasis",
-    "title": "〜以外のなにものでもない",
-    "formula": "Sustantivo + 以外の なにものでもない",
-    "description": "Se utiliza para afirmar con rotundidad que algo es exactamente lo que indica el sustantivo y nada más. 'No es otra cosa que...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 行為[こうい]は、正義[せいぎ] 以外の なにものでもない。",
-        "es": "Su comportamiento no es otra cosa que pura justicia."
-      }
-    ]
-  },
-  {
-    "id": "n1-62",
-    "category": "Condición",
-    "title": "〜いざしらず",
-    "formula": "Sustantivo / V (Informal) + なら いざしらず",
-    "description": "Indica que, si bien la situación A podría ser aceptable o diferente, la situación actual B es totalmente distinta o inaceptable.",
-    "examples": [
-      {
-        "jp": "赤[あか]ちゃん なら いざしらず、大人[おとな]が そんな こと を 言[い]うなんて 信[しん]じられない。",
-        "es": "Si fuera un bebé todavía, pero que un adulto diga algo así es increíble."
-      }
-    ]
-  },
-  {
-    "id": "n1-63",
-    "category": "Deseo",
-    "title": "〜もがな",
-    "formula": "Sustantivo / V (Raíz) + もがな",
-    "description": "Expresión arcaica que indica dos matices: 1. Deseo de que algo ocurra. 2. Que sería mejor que algo no existiera o no se dijera.",
-    "examples": [
-      {
-        "jp": "そんな こと は、言[い]わず もがな だ。",
-        "es": "Ese tipo de cosas es mejor no decirlas (es mejor que permanezcan sin decirse)."
-      }
-    ]
-  },
-  {
-    "id": "n1-64",
-    "category": "Acción",
-    "title": "〜そびれる",
-    "formula": "Raíz verbal (-masu) + そびれる",
-    "description": "Indica que se ha perdido la oportunidad de realizar una acción que se tenía la intención de hacer.",
-    "examples": [
-      {
-        "jp": "彼[かれ]に 連絡[れんらく] 先[さき]を 聞[き]き そびれて しまった。",
-        "es": "Se me pasó la oportunidad de preguntarle su número de contacto."
-      }
-    ]
-  },
-  {
-    "id": "n1-65",
-    "category": "Adición",
-    "title": "〜のみか",
-    "formula": "Frase (Informal) + のみか",
-    "description": "Forma literaria de 'dake de naku'. Significa 'no solo...'. A menudo se usa para añadir algo de mayor grado o importancia.",
-    "examples": [
-      {
-        "jp": "その 事件[じけん]は 日本[にほん] 国内[こくない] のみか、海外[かいがい]でも 報道[ほうどう] された。",
-        "es": "Ese incidente se informó no solo en Japón, sino también en el extranjero."
-      }
-    ]
-  },
-  {
-    "id": "n1-66",
-    "category": "Adición",
-    "title": "ひとり 〜のみならず",
-    "formula": "ひとり + Sustantivo + のみならず",
-    "description": "Expresión enfática y muy formal para indicar que algo no se limita a un individuo o a una sola cosa.",
-    "examples": [
-      {
-        "jp": "これは ひとり 我々[われわれ] のみならず、人類[じんるい] 全体[ぜんたい]の 問題[もんだい]だ。",
-        "es": "Este no es solo un problema nuestro, sino de toda la humanidad."
-      }
-    ]
-  },
-  {
-    "id": "n1-67",
-    "category": "Condición",
-    "title": "〜たが最後",
-    "formula": "V (Forma -ta) + が最後[さいご]",
-    "description": "En N1 se enfatiza el matiz de inevitabilidad. Una vez que ocurre A, se desencadena una consecuencia definitiva y usualmente negativa.",
-    "examples": [
-      {
-        "jp": "一旦[いったん] 信用[しんよう]を 失った[うしなった] が最後[さいご]、取り戻す[とりもどす] のは 難しい[むずかしい]。",
-        "es": "Una vez que pierdes la confianza, recuperarla es extremadamente difícil."
-      }
-    ]
-  },
-  {
-    "id": "n1-68",
-    "category": "Contraste",
-    "title": "〜とはいえ",
-    "formula": "Sustantivo / Frase + とはいえ",
-    "description": "Significa 'aunque'. Se usa para aceptar un hecho pero añadir una opinión o matiz que lo limita o lo pone en perspectiva.",
-    "examples": [
-      {
-        "jp": "春[はる] とはいえ、まだ 冷[つめ]たい 風[かぜ]が 吹[ふ]いて います。",
-        "es": "Aunque digamos que es primavera, todavía sopla un viento frío."
-      }
-    ]
-  },
-  {
-    "id": "n1-69",
-    "category": "Lógica",
-    "title": "〜とあっては",
-    "formula": "Frase (Informal) + とあっては",
-    "description": "Indica que, dada una situación especial o una condición inusual, es natural o inevitable que ocurra una acción determinada.",
-    "examples": [
-      {
-        "jp": "大統領[だいとうりょう]の 来日[らいにち] とあっては、警察[けいさつ]も 緊張[きんちょう]を 隠[かく]せない。",
-        "es": "Dada la visita del presidente a Japón, ni la policía puede ocultar su nerviosismo."
-      }
-    ]
-  },
-  {
-    "id": "n1-70",
-    "category": "Modo",
-    "title": "〜んばかりだ",
-    "formula": "V (Forma Nai sin nai) + んばかりだ",
-    "description": "Indica que el estado de alguien es tan extremo que parece que fuera a realizar una acción en cualquier momento. Literario.",
-    "examples": [
-      {
-        "jp": "彼女[かのじょ]は 泣き出[なきだ]さん ばかりの 顔[かお]で 立ち去った[たちさった]。",
-        "es": "Ella se marchó con una cara que parecía que iba a romper a llorar en cualquier instante."
-      }
-    ]
-  },
-  {
-    "id": "n1-71",
-    "category": "Énfasis",
-    "title": "〜だに",
-    "formula": "V (Diccionario) / Sustantivo + だに",
-    "description": "Significa 'incluso solo con...'. Se usa con verbos de pensamiento como 'imaginar' o 'pensar'.",
-    "examples": [
-      {
-        "jp": "科学[かがく]が ここまで 進歩[しんぽ] するとは、想[ぞう] だに しなかった。",
-        "es": "Ni siquiera me imaginé que la ciencia progresaría tanto."
-      }
-    ]
-  },
-  {
-    "id": "n1-72",
-    "category": "Límites",
-    "title": "〜たりとも 〜ない",
-    "formula": "Cantidad mínima + たりとも + Negativo",
-    "description": "Enfatiza que ni siquiera una unidad mínima de algo es aceptable o posible.",
-    "examples": [
-      {
-        "jp": "一[いち]滴[てき] たりとも 水[みず]を 無駄[むだ]に しては いけない。",
-        "es": "No se debe desperdiciar ni una sola gota de agua."
-      }
-    ]
-  },
-  {
-    "id": "n1-73",
-    "category": "Grado",
-    "title": "〜といったらない",
-    "formula": "Adj / Sustantivo + といったらない",
-    "description": "Indica un grado extremo de algo que no se puede expresar con palabras. Puede ser positivo o negativo.",
-    "examples": [
-      {
-        "jp": "山頂[さんちょう]から 見[み]た 景色[けしき]の 美[うつく]しさ といったらない。",
-        "es": "La belleza del paisaje visto desde la cima de la montaña es indescriptible."
-      }
-    ]
-  },
-  {
-    "id": "n1-74",
-    "category": "Causa",
-    "title": "〜にかたくない",
-    "formula": "Sustantivo / V (Diccionario) + に かたくない",
-    "description": "Se usa con verbos de actividad mental (imaginar, comprender). Significa que es muy fácil realizar esa acción ante la situación dada.",
-    "examples": [
-      {
-        "jp": "彼[かれ]が どれほど 苦労[くろう] したかは、察[さっ]するに かたくない。",
-        "es": "No es difícil imaginar cuánto sufrió él."
-      }
-    ]
-  },
-  {
-    "id": "n1-75",
-    "category": "Sentimiento",
-    "title": "〜を禁じ得ない",
-    "formula": "Sustantivo + を 禁じ[きんじ]得[え]ない",
-    "description": "Indica que un sentimiento (ira, sorpresa, lástima) es tan fuerte que el sujeto no puede reprimirlo. Muy formal.",
-    "examples": [
-      {
-        "jp": "その ニュースを 聞[き]いて、怒[いか]り を 禁じ[きんじ]得[え]なかった。",
-        "es": "Al escuchar esa noticia, no pude evitar sentir una gran indignación."
-      }
-    ]
-  },
-  {
-    "id": "n1-76",
-    "category": "Énfasis",
-    "title": "〜すら / 〜ですら",
-    "formula": "Sustantivo + すら",
-    "description": "Indica un ejemplo extremo para enfatizar que lo demás es obvio. En N1 se diferencia de 'sae' por su uso en contextos más literarios y formales. 'Incluso...'.",
-    "examples": [
-      {
-        "jp": "プロの 選手[せんしゅ] ですら 難しい[むずかしい] コースだ。",
-        "es": "Es un recorrido difícil incluso para un atleta profesional."
-      }
-    ]
-  },
-  {
-    "id": "n1-77",
-    "category": "Énfasis",
-    "title": "〜だに",
-    "formula": "V (Diccionario) / Sustantivo + だに",
-    "description": "Se utiliza principalmente con verbos de pensamiento o sentimiento (imaginar, pensar, saber). Significa 'incluso solo con...'.",
-    "examples": [
-      {
-        "jp": "あんな 惨[むご]い 事故[じこ]は、想[ぞう] する だに 恐ろしい[おそろしい]。",
-        "es": "Ese tipo de accidentes tan crueles son aterradores incluso solo con imaginarlos."
-      }
-    ]
-  },
-  {
-    "id": "n1-78",
-    "category": "Estado",
-    "title": "〜にして",
-    "formula": "Sustantivo + にして",
-    "description": "Indica que algo ocurre solo a una edad determinada o en una etapa específica, o que alguien posee dos cualidades elevadas simultáneamente.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 四[よん]十[じゅう]歳[さい] にして、ようやく 博士[はかせ] 号[ごう]を 取得[しゅとく]した。",
-        "es": "Él, a sus cuarenta años (solo entonces), finalmente obtuvo el doctorado."
-      }
-    ]
-  },
-  {
-    "id": "n1-79",
-    "category": "Condición",
-    "title": "〜であれ / 〜であろうと",
-    "formula": "Sustantivo + であれ",
-    "description": "Indica que independientemente de cuál sea la situación o la persona, el resultado o la opinión no cambia. 'Sea lo que sea...'.",
-    "examples": [
-      {
-        "jp": "理由[りゆう]が 何[なに] であれ、無断[むだん] 欠勤[けっきん]は 許[ゆる]されない。",
-        "es": "Sea cual sea el motivo, no se permite faltar al trabajo sin previo aviso."
-      }
-    ]
-  },
-  {
-    "id": "n1-80",
-    "category": "Énfasis",
-    "title": "〜といわず 〜といわず",
-    "formula": "S1 + といわず + S2 + といわず",
-    "description": "Indica que algo se aplica a todo, sin distinción, cubriendo ambos ejemplos y todo lo que hay entre ellos o a su alrededor.",
-    "examples": [
-      {
-        "jp": "手[て] といわず 足[あし] といわず、泥[どろ] まみれ に なって 遊[あそ]んだ。",
-        "es": "Jugamos cubriéndonos de barro, no solo las manos y los pies (sino todo el cuerpo)."
-      }
-    ]
-  },
-  {
-    "id": "n1-81",
-    "category": "Intención",
-    "title": "〜ずにはおかない",
-    "formula": "V (Forma Nai sin nai) + ずには おかない",
-    "description": "Indica una determinación absoluta de que algo ocurra o de que el hablante hará algo sin falta. 'Definitivamente hará...'.",
-    "examples": [
-      {
-        "jp": "この 事件[じけん]は、犯人[はんにん]を 捕まえ[つかまえ]ずには おかない。",
-        "es": "No descansaremos hasta capturar al culpable de este incidente."
-      }
-    ]
-  },
-  {
-    "id": "n1-82",
-    "category": "Modo",
-    "title": "〜んばかりに",
-    "formula": "V (Forma Nai sin nai) + んばかりに",
-    "description": "Indica que el estado o la actitud de alguien es tan intenso que parece que fuera a realizar una acción en cualquier momento.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 溢れ[あふれ]ん ばかりに ビールを 注い[つい]だ。",
-        "es": "Él sirvió la cerveza hasta casi desbordarse (como si fuera a desbordarse)."
-      }
-    ]
-  },
-  {
-    "id": "n1-83",
-    "category": "Relación",
-    "title": "〜に即して",
-    "formula": "Sustantivo + に 即[そく]して",
-    "description": "Significa 'conforme a' o 'siguiendo fielmente'. Se usa para indicar que algo se hace de acuerdo con los hechos, la realidad o las normas vigentes.",
-    "examples": [
-      {
-        "jp": "事実[じじつ] に 即[そく]して、客観[きゃっかん]的[てき]な 判断[はんだん]を 下[くだ]す。",
-        "es": "Emitir un juicio objetivo conforme a los hechos."
-      }
-    ]
-  },
-  {
-    "id": "n1-84",
-    "category": "Actitud",
-    "title": "〜をものともせずに",
-    "formula": "Sustantivo + を ものともせずに",
-    "description": "Se utiliza para alabar a alguien que realiza una acción valiente ignorando los peligros, dificultades o críticas externas.",
-    "examples": [
-      {
-        "jp": "周囲[しゅうい]の 反対[はんたい] を ものともせずに、彼[かれ]は 夢[ゆめ]を 追い[おい] 続け[つづけ]た。",
-        "es": "Sin que le importara en absoluto la oposición de su entorno, él siguió persiguiendo su sueño."
-      }
-    ]
-  },
-  {
-    "id": "n1-85",
-    "category": "Elección",
-    "title": "〜なり 〜なり",
-    "formula": "S1 / V1 + なり + S2 / V2 + なり",
-    "description": "Presenta dos o más opciones como ejemplos posibles para resolver una situación, sugiriendo que cualquiera de ellas es aceptable.",
-    "examples": [
-      {
-        "jp": "分[わ]からない ことが あれば、調べる[しらべる] なり 誰[だれ]かに 聞く[きく] なり して ください。",
-        "es": "Si hay algo que no entiendas, haz algo como buscarlo o preguntarle a alguien."
-      }
-    ]
-  },
-  {
-    "id": "n1-86",
-    "category": "Atributos",
-    "title": "〜めく",
-    "formula": "Sustantivo + めく",
-    "description": "Indica que algo empieza a tener el aire, la sensación o las características propias de un sustantivo determinado.",
-    "examples": [
-      {
-        "jp": "日差し[ひざし]が 暖[あたた]かく なり、ようやく 春[はる] めいて きた。",
-        "es": "La luz del sol se ha vuelto cálida y, finalmente, empieza a sentirse el aire de la primavera."
-      }
-    ]
-  },
-  {
-    "id": "n1-87",
-    "category": "Relación",
-    "title": "〜いかんによらず",
-    "formula": "Sustantivo + の いかんによらず",
-    "description": "Indica que algo se aplica o sucede independientemente de cualquier factor, resultado o circunstancia. Registro muy formal.",
-    "examples": [
-      {
-        "jp": "理由[りゆう]の いかんによらず、遅刻[ちこく]は 認め[みとめ]られない。",
-        "es": "Independientemente de cuál sea la razón, no se permite llegar tarde."
-      }
-    ]
-  },
-  {
-    "id": "n1-88",
-    "category": "Sentimiento",
-    "title": "〜限りだ",
-    "formula": "Adj -i / Adj -na + 限り[かぎり]だ",
-    "description": "Se utiliza para expresar que un sentimiento ha llegado a su grado máximo e insuperable. 'No podría estar más...'.",
-    "examples": [
-      {
-        "jp": "こんな 素晴らしい[すばらしい] 賞[しょう]を いただき、光栄[こうえい]の 限り[かぎり]です。",
-        "es": "Es el mayor de los honores recibir un premio tan maravilloso."
-      }
-    ]
-  },
-  {
-    "id": "n1-89",
-    "category": "Modo",
-    "title": "〜と言わんばかりに",
-    "formula": "Frase + と 言わん[いわん]ばかりに",
-    "description": "Indica que alguien no dice algo con palabras, pero su actitud, expresión o mirada lo transmite de forma inequívoca.",
-    "examples": [
-      {
-        "jp": "早く[はやく] 帰[かえ]れ と 言わん[いわん]ばかりに、彼[かれ]は ドiaを 開[あ]けた。",
-        "es": "Abrió la puerta como si estuviera diciendo 'vete pronto'."
-      }
-    ]
-  },
-  {
-    "id": "n1-90",
-    "category": "Lógica",
-    "title": "〜までだ / 〜までのことだ",
-    "formula": "V (Diccionario) + までだ",
-    "description": "Indica que si falla una opción, simplemente se tomará otra medida sin mayor problema, o que una acción se hizo solo por una razón simple.",
-    "examples": [
-      {
-        "jp": "不採用[ふさいよう] なら、別の[べつの] 会社[かいしゃ]を 探す[さがす] までだ。",
-        "es": "Si no me contratan, simplemente buscaré otra empresa."
-      }
-    ]
-  },
-  {
-    "id": "n1-91",
-    "category": "Enfoque",
-    "title": "〜に至っては",
-    "formula": "Sustantivo + に 至[いた]っては",
-    "description": "Se utiliza para dar un ejemplo extremo de una situación que ya es mala o sorprendente. 'En el caso de...' o 'Cuando se trata de...'.",
-    "examples": [
-      {
-        "jp": "全員[ぜんいん] 遅刻[ちこく]だ。リーダーの 彼[かれ] に 至[いた]っては、一[いち]時間[じかん]も 遅[おく]れて 来[き]た。",
-        "es": "Todos han llegado tarde. En el caso de él, que es el líder, llegó con una hora de retraso."
-      }
-    ]
-  },
-  {
-    "id": "n1-92",
-    "category": "Exclusividad",
-    "title": "〜をおいて他にない",
-    "formula": "Sustantivo + をおいて 他[ほか]にない",
-    "description": "Enfatiza que no hay nadie ni nada más capaz de realizar una acción o cumplir una condición. 'Aparte de... no hay otro'.",
-    "examples": [
-      {
-        "jp": "次[つぎ]の 社長[しゃちょう]は、彼[かれ] をおいて 他[ほか]にない と 思[おも]う。",
-        "es": "Creo que para el próximo presidente de la empresa, no hay nadie más indicado que él."
-      }
-    ]
-  },
-  {
-    "id": "n1-93",
-    "category": "Excusa",
-    "title": "〜にかこつけて",
-    "formula": "Sustantivo + に かこつけて",
-    "description": "Indica que alguien utiliza una situación como pretexto para realizar otra acción que realmente desea hacer.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 取材[しゅざい] に かこつけて、各地[かくち]の 美味[おい]しい 物[もの]を 食べ[たべ] 歩[ある]いて いる。",
-        "es": "Él, usando como pretexto las entrevistas, se dedica a viajar comiendo cosas ricas."
-      }
-    ]
-  },
-  {
-    "id": "n1-94",
-    "category": "Obligación",
-    "title": "〜を余儀なくされる",
-    "formula": "Sustantivo + を 余儀[よぎ]なくされる",
-    "description": "Indica que, debido a una situación externa inevitable, el sujeto se ve obligado a realizar una acción que no desea.",
-    "examples": [
-      {
-        "jp": "不況[ふきょう]の ため、彼[かれ]は 閉店[へいてん] を 余儀[よぎ]なくされた。",
-        "es": "Debido a la recesión, no tuvo más remedio que cerrar la tienda."
-      }
-    ]
-  },
-  {
-    "id": "n1-95",
-    "category": "Adición",
-    "title": "〜と相まって",
-    "formula": "Sustantivo + と 相[あ]いまって",
-    "description": "Indica que dos factores se combinan para producir un efecto o resultado mucho más potente. 'En combinación con...'.",
-    "examples": [
-      {
-        "jp": "才能[さいのう]が 努力[どりょく] と 相[あ]いまって、素晴らしい[すばらしい] 成功[せいこう]を 収[おさ]めた。",
-        "es": "Su talento, combinado con su esfuerzo, le llevó a un éxito maravilloso."
-      }
-    ]
-  },
-  {
-    "id": "n1-96",
-    "category": "Condición",
-    "title": "〜であれ 〜であれ",
-    "formula": "S1 + であれ + S2 + であれ",
-    "description": "Indica que independientemente de cuál de las dos opciones sea, la situación o el resultado no cambia.",
-    "examples": [
-      {
-        "jp": "理由[りゆう]が 何[なに] であれ、暴力[ぼうりょく]は 許[ゆる]される ことでは ない。",
-        "es": "Sea cual sea el motivo, la violencia no es algo que se pueda permitir."
-      }
-    ]
-  },
-  {
-    "id": "n1-97",
-    "category": "Crítica",
-    "title": "〜ときたら",
-    "formula": "Sustantivo + ときたら",
-    "description": "Se utiliza para introducir un tema y expresar una queja, crítica o un fuerte descontento sobre el mismo.",
-    "examples": [
-      {
-        "jp": "最近[さいきん]の 若者[わかもの] ときたら、挨拶[あいさつ]も まともに できない。",
-        "es": "Si hablamos de los jóvenes de hoy en día, ni siquiera saben saludar como es debido."
-      }
-    ]
-  },
-  {
-    "id": "n1-98",
-    "category": "Contraste",
-    "title": "〜といえども",
-    "formula": "Sustantivo / Frase + と いえども",
-    "description": "Forma literaria de 'aunque'. Enfatiza que incluso en una posición o situación determinada, existen hechos que no se pueden ignorar.",
-    "examples": [
-      {
-        "jp": "子供[こども] と いえども、一[ひと]人[り]の 人間[にんげん]として 尊重[そんちょう] すべきだ。",
-        "es": "Aunque sea un niño, debe ser respetado como un ser humano."
-      }
-    ]
-  },
-  {
-    "id": "n1-99",
-    "category": "Modo",
-    "title": "〜といった具合だ",
-    "formula": "Frase + といった 具合[ぐあい]だ",
-    "description": "Se utiliza para explicar o describir la forma o el estado en que ocurre algo mediante un ejemplo. 'Es de tal manera que...'.",
-    "examples": [
-      {
-        "jp": "雨[あめ]が 降[ふ]れば 水浸[みずびた]し、晴[は]れれば 砂埃[すなぼこり] といった 具合[ぐあい]だ。",
-        "es": "La situación es tal que si llueve se inunda, y si hace sol se llena de polvo."
-      }
-    ]
-  },
-  {
-    "id": "n1-100",
-    "category": "Relación",
-    "title": "〜いかんによって",
-    "formula": "Sustantivo + の いかんによって",
-    "description": "Indica que un resultado o decisión depende enteramente de una circunstancia o del desarrollo de algo.",
-    "examples": [
-      {
-        "jp": "支持[しじ]率[りつ] いかんによって、政策[せいさく]を 変更[へんこう]する 可能性[かのうせい]が ある。",
-        "es": "Dependiendo de la tasa de apoyo, existe la posibilidad de cambiar las políticas."
-      }
-    ]
-  },
-  {
-    "id": "n1-101",
-    "category": "Condición",
-    "title": "〜はいざしらず",
-    "formula": "Sustantivo + なら いざしらず",
-    "description": "Indica que, mientras que la situación A podría ser aceptable, la situación actual B es totalmente distinta o extrema.",
-    "examples": [
-      {
-        "jp": "昔[むかし] なら いざしらず、今[いま]の 時代[じだい]に そんな 考え[かんがえ]は 通用[つうよう]しない。",
-        "es": "Si fuera en los viejos tiempos tal vez, pero en la era actual ese pensamiento no sirve."
-      }
-    ]
-  },
-  {
-    "id": "n1-102",
-    "category": "Valor",
-    "title": "〜にた（り）ない",
-    "formula": "V (Diccionario) / Sustantivo + に 足[た]りない",
-    "description": "Indica que algo no tiene el valor, la importancia o la calidad suficiente para ser digno de una acción o juicio.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 発言[はつげん]は、取り上げる[とりあげる] に 足[た]りない。",
-        "es": "Sus declaraciones no son dignas de ser tomadas en cuenta."
-      }
-    ]
-  },
-  {
-    "id": "n1-103",
-    "category": "Énfasis",
-    "title": "〜ないではおかない",
-    "formula": "V (Forma Nai) + では おかない",
-    "description": "Indica una determinación absoluta de que una acción se realizará o que una situación provocará un efecto inevitable.",
-    "examples": [
-      {
-        "jp": "この 小説[しょうせつ]は、読む[よむ] 人[ひと]を 感動[かんどう] させないでは おかない。",
-        "es": "Esta novela definitivamente conmoverá a quien la lea."
-      }
-    ]
-  },
-  {
-    "id": "n1-104",
-    "category": "Adición",
-    "title": "〜（も）さることながら",
-    "formula": "Sustantivo + も さることながら",
-    "description": "Significa 'A es cierto e importante, pero B lo es todavía más'. Enfatiza el segundo elemento de la frase.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 外見[がいけん] も さることながら、性格[せいかく]が とても 素晴らしい[すばらしい]。",
-        "es": "Su apariencia es buena, pero su personalidad lo es todavía más."
-      }
-    ]
-  },
-  {
-    "id": "n1-105",
-    "category": "Límites",
-    "title": "〜を限りに",
-    "formula": "Sustantivo (Tiempo) + を 限りに[かぎりに]",
-    "description": "Indica que una situación llega a su fin definitivo en un momento específico. Registro formal.",
-    "examples": [
-      {
-        "jp": "今日[きょう] を 限りに[かぎりに]、引退[いんたい] いたします。",
-        "es": "Con el día de hoy, me retiro definitivamente."
-      }
-    ]
-  },
-  {
-    "id": "n1-106",
-    "category": "Condición",
-    "title": "〜をおして",
-    "formula": "Sustantivo + を おして",
-    "description": "Indica que se realiza una acción a pesar de una situación difícil o en contra de una oposición fuerte. 'Forzando el camino...' o 'A pesar de...'.",
-    "examples": [
-      {
-        "jp": "病気[びょうき] を おして、仕事[しごと]に 行[い]った。",
-        "es": "Fui a trabajar a pesar de estar enfermo (forzando mi cuerpo)."
-      }
-    ]
-  },
-  {
-    "id": "n1-107",
-    "category": "Tiempo",
-    "title": "〜を控えて",
-    "formula": "Sustantivo + を 控えて[ひかえて]",
-    "description": "Indica que un evento importante o una situación está muy cerca en el tiempo o en el espacio. 'Ante la proximidad de...'.",
-    "examples": [
-      {
-        "jp": "入試[にゅうし] を 控えて[ひかえて]、学生[がくせい]たちは 緊張[きんちょう]して いる。",
-        "es": "Ante la proximidad de los exámenes de ingreso, los estudiantes están nerviosos."
-      }
-    ]
-  },
-  {
-    "id": "n1-108",
-    "category": "Tiempo",
-    "title": "〜んとする",
-    "formula": "V (Volitivo) + と する",
-    "description": "Registro literario que indica que algo está a punto de ocurrir o que alguien está intentando realizar una acción. 'Estar a punto de...'.",
-    "examples": [
-      {
-        "jp": "太陽[たいよう]が 沈[しず]もうと して いる。",
-        "es": "El sol está a punto de ponerse."
-      }
-    ]
-  },
-  {
-    "id": "n1-109",
-    "category": "Propósito",
-    "title": "〜んがため",
-    "formula": "V (Forma Nai sin nai) + んがため",
-    "description": "Expresión literaria que indica un propósito firme y de gran importancia por el cual se realiza un esfuerzo. 'Con el fin de...'.",
-    "examples": [
-      {
-        "jp": "真実[しんじつ]を 明[あき]らかに せんがため、彼[かれ]は 闘[たたか]い 続け[つづけ]た。",
-        "es": "Él siguió luchando con el fin de sacar a la luz la verdad."
-      }
-    ]
-  },
-  {
-    "id": "n1-110",
-    "category": "Sentimiento",
-    "title": "〜てやまない",
-    "formula": "V (Forma -te) + やまない",
-    "description": "Se utiliza para expresar un sentimiento profundo que el hablante mantiene de forma sincera y constante. 'Deseo fervientemente...'.",
-    "examples": [
-      {
-        "jp": "卒業[そつぎょう]生[せい]たちの 活躍[かつやく]を 願[ねが]って やみません。",
-        "es": "Deseo fervientemente que los graduados tengan mucho éxito."
-      }
-    ]
-  },
-  {
-    "id": "n1-111",
-    "category": "Modo",
-    "title": "〜といわんばかりの",
-    "formula": "Frase + と 言わん[いわん]ばかりの",
-    "description": "Se utiliza para describir la actitud de alguien que transmite un mensaje claro sin usar palabras. 'Con una actitud como si dijera...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 早く[はやく] 帰れ[かえれ] と 言わん[いわん]ばかりの 顔[かお]を して いた。",
-        "es": "Tenía una cara como si estuviera diciendo 'vete ya de una vez'."
-      }
-    ]
-  },
-  {
-    "id": "n1-112",
-    "category": "Matiz",
-    "title": "〜といえなくもない",
-    "formula": "Frase (Informal) + と いえなくもない",
-    "description": "Doble negación cautelosa que indica que es posible afirmar algo, aunque sea con reservas. 'No se puede decir que no sea...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 主張[しゅちょう]は 正[ただ]しい と いえなくも ない。",
-        "es": "No se puede decir que su argumento no sea correcto (es decir, lo es en parte)."
-      }
-    ]
-  },
-  {
-    "id": "n1-113",
-    "category": "Matiz",
-    "title": "〜ないものでもない",
-    "formula": "V (Forma Nai) + ものでもない",
-    "description": "Indica una posibilidad afirmativa débil o una disposición a hacer algo si se cumplen ciertas condiciones.",
-    "examples": [
-      {
-        "jp": "一生懸命[いっしょうけんめい] 頼[たの]むなら、貸[か]さない ものでもない。",
-        "es": "Si me lo pides con todas tus fuerzas, no es que no pueda prestártelo."
-      }
-    ]
-  },
-  {
-    "id": "n1-114",
-    "category": "Matiz",
-    "title": "〜なくはない",
-    "formula": "V (Forma Nai) + はない",
-    "description": "Se utiliza para admitir algo de manera parcial o con cautela. 'No es que no...'.",
-    "examples": [
-      {
-        "jp": "お酒[さけ]は 飲[の]めなくは ないが、あまり 好き[すき]では ない。",
-        "es": "No es que no pueda beber alcohol, pero no me gusta mucho."
-      }
-    ]
-  },
-  {
-    "id": "n1-115",
-    "category": "Resultado",
-    "title": "〜に至る",
-    "formula": "Sustantivo / V (Diccionario) + に 至[いた]る",
-    "description": "Indica que un proceso ha avanzado hasta llegar a un resultado final o estado determinado.",
-    "examples": [
-      {
-        "jp": "数[すう]か月[げつ]の 交渉[こうしょう]を 経て[へて]、合意[ごうい]に 至[いた]った。",
-        "es": "Tras varios meses de negociaciones, se llegó a un acuerdo."
-      }
-    ]
-  },
-  {
-    "id": "n1-116",
-    "category": "Preferencia",
-    "title": "〜に越したことはない",
-    "formula": "Frase (Informal) + に 越し[こし]たことはない",
-    "description": "Indica que, aunque no es obligatorio, realizar una acción es lo mejor o lo más recomendable. 'No hay nada mejor que...'.",
-    "examples": [
-      {
-        "jp": "準備[じゅんび]は 早く[はやく] して おくに 越し[こし]たことはない。",
-        "es": "No hay nada mejor que hacer los preparativos con antelación."
-      }
-    ]
-  },
-  {
-    "id": "n1-117",
-    "category": "Atributos",
-    "title": "〜なりに",
-    "formula": "Sustantivo / V (Informal) + なりに",
-    "description": "Indica que algo se hace dentro de las capacidades o límites propios de alguien. 'A su manera...'.",
-    "examples": [
-      {
-        "jp": "私[わたし] なりに 精一杯[せいいっぱい] やった 結果[けっか] です。",
-        "es": "Es el resultado de haberme esforzado al máximo a mi manera."
-      }
-    ]
-  },
-  {
-    "id": "n1-118",
-    "category": "Adición",
-    "title": "〜にとどまらず",
-    "formula": "Sustantivo / V (Diccionario) + に とどまらず",
-    "description": "Indica que algo no se limita a un área o situación, sino que se extiende a algo mayor o más serio.",
-    "examples": [
-      {
-        "jp": "その 影響[えいきょう]は 経済[けいざい] に とどまらず、社会[しゃかい] 全体[ぜんたい]に 及[およ]んだ。",
-        "es": "Ese efecto no se limitó a la economía, sino que alcanzó a toda la sociedad."
-      }
-    ]
-  },
-  {
-    "id": "n1-119",
-    "category": "Adición",
-    "title": "〜のみならず",
-    "formula": "Sustantivo / Frase + のみならず",
-    "description": "Registro formal que significa 'no solo... sino también'. A menudo se usa en discursos o textos académicos.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 才能[さいのう] が ある のみならず、努力[どりょく]家[か] でもある。",
-        "es": "Él no solo tiene talento, sino que también es muy trabajador."
-      }
-    ]
-  },
-  {
-    "id": "n1-120",
-    "category": "Grado",
-    "title": "〜極まる",
-    "formula": "Adj -na (sin na) + 極[きわ]まる",
-    "description": "Expresa que una situación o cualidad ha llegado a su punto más extremo. 'Extremadamente...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]の 態度[たいど]は 失礼[しつれい] 極[きわ]まる ものだった。",
-        "es": "Su actitud fue extremadamente grosera."
-      }
-    ]
-  },
-  {
-    "id": "n1-121",
-    "category": "Condición",
-    "title": "〜（よ）うと 〜（よ）うと",
-    "formula": "V1 (Volitivo) + と + V2 (Volitivo) + と",
-    "description": "Indica que no importa cuál de las dos situaciones presentadas ocurra, el resultado final o la actitud del hablante no variará en absoluto.",
-    "examples": [
-      {
-        "jp": "周[まわ]りの 人[ひと]に 笑[わら]われようと 反対[はんたい]されようと、私[わたし]は この 夢[ゆめ]を 諦[あきら]めません。",
-        "es": "No importa si la gente se ríe de mí o si se oponen, no abandonaré este sueño."
-      }
-    ]
-  },
-  {
-    "id": "n1-122",
-    "category": "Condición",
-    "title": "〜（よ）うと 〜まいと",
-    "formula": "V1 (Volitivo) + と + V1 (Diccionario) + まい + と",
-    "description": "Indica que el resultado será el mismo tanto si se realiza la acción como si no se realiza.",
-    "examples": [
-      {
-        "jp": "彼[かれ]が 来[こ]ようと 来[く]まいと、パーティーは 予定[よてい] 通[とお]り 行[い]います。",
-        "es": "Venga él o no venga, la fiesta se celebrará según lo previsto."
-      }
-    ]
-  },
-  {
-    "id": "n1-123",
-    "category": "Condición",
-    "title": "〜（で）あろうと 〜（で）あろうと",
-    "formula": "S1 + であろうと + S2 + であろうと",
-    "description": "Indica que independientemente de cuál sea la identidad o naturaleza de los elementos mencionados, la conclusión es idéntica.",
-    "examples": [
-      {
-        "jp": "理由[りゆう]が 何[なに] であろうと、暴力[ぼうりょく]は 決[けっ]して 許[ゆる]される ことではない。",
-        "es": "Sea cual sea el motivo (sea A o sea B), la violencia no se permite bajo ningún concepto."
-      }
-    ]
-  },
-  {
-    "id": "n1-124",
-    "category": "Relación",
-    "title": "〜（の）いかんを問わず",
-    "formula": "Sustantivo + (の) いかんを 問[と]わず",
-    "description": "Significa 'independientemente de' o 'sin importar'. Se usa en documentos oficiales para indicar que un hecho no se ve afectado por una circunstancia determinada.",
-    "examples": [
-      {
-        "jp": "経験[けいけん]の いかんを 問[と]わず、やる気[き]の ある 人[ひと]を 募集[ぼしゅう]します。",
-        "es": "Independientemente de la experiencia, buscamos a personas con ganas de trabajar."
-      }
-    ]
-  },
-  {
-    "id": "n1-125",
-    "category": "Límites",
-    "title": "〜ないまでも",
-    "formula": "V (Forma Nai) + までも",
-    "description": "Indica que, aunque no se llegue a un estado ideal o extremo, al menos se alcanza un nivel mínimo aceptable.",
-    "examples": [
-      {
-        "jp": "毎日[まいにち] とは 言[い]わない までも、週[しゅう]に 三[さん]回[かい]は 運動[うんどう] すべきだ。",
-        "es": "Aunque no sea todos los días, se debería hacer ejercicio al menos tres veces por semana."
-      }
-    ]
-  },
-  {
-    "id": "n1-126",
-    "category": "Condición",
-    "title": "〜ともなると / 〜ともなれば",
-    "formula": "Sustantivo + ともなると",
-    "description": "Indica que cuando se alcanza una posición, etapa o nivel superior, la situación o las responsabilidades cambian inevitablemente.",
-    "examples": [
-      {
-        "jp": "プロの 歌手[かしゅ] ともなると、歌[うた]の 練習[れんしゅう] だけで 一[いち]日[にち]が 終わる[おわる]。",
-        "es": "Cuando uno llega a ser un cantante profesional, el día se acaba solo con la práctica del canto."
-      }
-    ]
-  },
-  {
-    "id": "n1-127",
-    "category": "Crítica",
-    "title": "〜ともあろう者が",
-    "formula": "Sustantivo + ともあろう者[もの]が",
-    "description": "Se utiliza para expresar sorpresa o crítica ante una conducta indigna de alguien que ocupa un cargo o posición de prestigio.",
-    "examples": [
-      {
-        "jp": "国会議員[こっかいぎいん] ともあろう者[もの]が、失言[しつげん]で 辞職[じしょく]するとは 情[なさ]けない。",
-        "es": "Es lamentable que alguien que es un parlamentario tenga que dimitir por un desliz verbal."
-      }
-    ]
-  },
-  {
-    "id": "n1-128",
-    "category": "Cantidad",
-    "title": "〜からする",
-    "formula": "Precio + からする",
-    "description": "Se utiliza para enfatizar que el precio de algo es sorprendentemente alto. 'Que cuesta más de...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 一[いっ]億[おく]円[えん] からする 家[いえ]を 買[か]った そうだ。",
-        "es": "He oído que él compró una casa que cuesta más de cien millones de yenes."
-      }
-    ]
-  },
-  {
-    "id": "n1-129",
-    "category": "Tiempo",
-    "title": "〜をおいて他にない",
-    "formula": "Sustantivo + をおいて 他[ほか]にない",
-    "description": "Enfatiza que no existe ninguna otra opción, persona o cosa que pueda cumplir una función. 'Es el único...'.",
-    "examples": [
-      {
-        "jp": "この 仕事[しごと]を 任[まか]せられるのは、君[きみ] をおいて 他[ほか]にいない。",
-        "es": "No hay nadie más que tú a quien se le pueda confiar este trabajo."
-      }
-    ]
-  },
-  {
-    "id": "n1-130",
-    "category": "Negación",
-    "title": "〜べからざる",
-    "formula": "V (Diccionario) + べからざる + Sustantivo",
-    "description": "Forma formal y arcaica para indicar que algo es inaceptable o que no debe ser realizado. 'Que no se debe...'.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 選手[せんしゅ]として 欠[か]く べからざる 存在[そんざい]だ。",
-        "es": "Él es una presencia indispensable (que no debe faltar) como jugador."
-      }
-    ]
-  },
-  {
-    "id": "n1-131",
-    "category": "Lógica",
-    "title": "〜べくして 〜した",
-    "formula": "V (Diccionario) + べくして + V (Forma -ta)",
-    "description": "Indica que un resultado ocurrió de forma inevitable, tal como se esperaba debido a una causa lógica previa.",
-    "examples": [
-      {
-        "jp": "その チームは 優勝[ゆうしょう]する べくして 優勝[ゆうしょう]した。",
-        "es": "Ese equipo ganó el campeonato porque estaba destinado a ganarlo (por su esfuerzo)."
-      }
-    ]
-  },
-  {
-    "id": "n1-132",
-    "category": "Modo",
-    "title": "〜といわんばかりに",
-    "formula": "Frase + と言わん[いわん]ばかりに",
-    "description": "Indica que alguien transmite un mensaje mediante su actitud o expresión facial, sin necesidad de usar palabras.",
-    "examples": [
-      {
-        "jp": "彼[かれ]は 邪魔[じゃま]だ と 言わん[いわん]ばかりに、私[わたし]を 突き飛ばした[つきとばした]。",
-        "es": "Él me empujó como si estuviera diciendo 'estás en medio'."
-      }
-    ]
-  },
-  {
-    "id": "n1-133",
-    "category": "Énfasis",
-    "title": "〜のなんの（って）",
-    "formula": "Adj / V (Informal) + のなんの",
-    "description": "Se utiliza para enfatizar que un estado o situación es tan extremo que resulta difícil de describir.",
-    "examples": [
-      {
-        "jp": "昨日[きのう]の 仕事[しごと]は 忙しい[いそがしい] のなんのって、休憩[きゅうけい]も できなかった。",
-        "es": "El trabajo de ayer fue tan ocupado que ni siquiera pude descansar."
-      }
-    ]
-  },
-  {
-    "id": "n1-134",
-    "category": "Causa",
-    "title": "〜こともあって",
-    "formula": "Frase (Informal) + こともあって",
-    "description": "Indica que, entre varias razones posibles, la mencionada es una de las que más ha influido en el resultado final.",
-    "examples": [
-      {
-        "jp": "体調[たいちょう]が 悪[わる]かった こともあって、会合[かいごう]は 欠席[けっせき]した。",
-        "es": "En parte porque me encontraba mal, falté a la reunión."
-      }
-    ]
-  },
-  {
-    "id": "n1-135",
-    "category": "Límites",
-    "title": "〜といったところだ",
-    "formula": "Sustantivo / V (Diccionario) + といったところだ",
-    "description": "Indica que una cantidad o situación alcanza como máximo el nivel mencionado, sugiriendo que no es para tanto.",
-    "examples": [
-      {
-        "jp": "私[わたし]の 日本語[にほんご]は、日常[にちじょう] 会話[かいわ]が 何とか[なんとか] できる といったところだ。",
-        "es": "Mi japonés es, bueno, lo justo para poder defenderme en una conversación diaria."
-      }
-    ]
-  },
-  {
-    "id": "n1-136",
-    "category": "Sentimiento",
-    "title": "〜てならない",
-    "formula": "V (Forma -te) / Adj + てならない",
-    "description": "Expresa un sentimiento o sensación física que surge de forma natural y es tan fuerte que no se puede controlar.",
-    "examples": [
-      {
-        "jp": "故郷[こきょう]の 家族[かぞく]が 心配[しんばい]で ならない。",
-        "es": "No puedo evitar estar sumamente preocupado por mi familia en mi pueblo natal."
-      }
-    ]
-  },
-  {
-    "id": "n1-137",
-    "category": "Resultado",
-    "title": "〜に至るまで",
-    "formula": "Sustantivo + に至る[いたる]まで",
-    "description": "Enfatiza el alcance de algo, indicando que llega hasta un detalle minucioso o inesperado. 'Incluso hasta...'.",
-    "examples": [
-      {
-        "jp": "この 本[ほん]は 歴史[れきし]から 文化[ぶんか] に至る[いたる]まで、詳[くわ]しく 書[か]いて ある。",
-        "es": "Este libro describe todo detalladamente, desde la historia hasta incluso la cultura."
-      }
-    ]
-  },
-  {
-    "id": "n1-138",
-    "category": "Relación",
-    "title": "〜に即して",
-    "formula": "Sustantivo + に 即[そく]して",
-    "description": "Indica que algo se realiza siguiendo fielmente los hechos, la realidad o las normas establecidas.",
-    "examples": [
-      {
-        "jp": "実例[じつれい] に 即[そく]して、分かり[わかり]やすく 説明[せつめい]する。",
-        "es": "Explicar de forma clara conforme a ejemplos reales."
-      }
-    ]
-  },
-  {
-    "id": "n1-139",
-    "category": "Tiempo",
-    "title": "〜を限りに",
-    "formula": "Sustantivo (Tiempo) + を 限りに[かぎりに]",
-    "description": "Indica que una situación termina definitivamente en ese momento preciso. Se usa mucho en anuncios oficiales de retiro.",
-    "examples": [
-      {
-        "jp": "今月[こんげつ]末[まつ] を 限りに[かぎりに]、閉店[へいてん] いたします。",
-        "es": "A finales de este mes, cerraremos la tienda definitivamente."
-      }
-    ]
-  },
-  {
-    "id": "n1-140",
-    "category": "Negación",
-    "title": "〜ないでもない",
-    "formula": "V (Forma Nai) + でもない",
-    "description": "Doble negación que expresa una posibilidad afirmativa pero con mucha cautela. 'No es que no...'.",
-    "examples": [
-      {
-        "jp": "条件[じょうけん] 次第[しだい]では、協力[きょうりょく] しないでも ない。",
-        "es": "Dependiendo de las condiciones, no es que no pueda colaborar (existe la posibilidad)."
-      }
-    ]
-  }
-]
 }

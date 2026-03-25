@@ -2,1719 +2,3048 @@
   "grammar": [
     {
       "id": "n4-1",
-      "category": "Tiempo",
-      "title": "〜間（あいだ）",
-      "formula": "V-te iru / Sustantivo + の + 間",
-      "description": "Indica que una acción o estado continúa durante todo el tiempo que dura otra situación.",
+      "category": "Partícula",
+      "title": "でも",
+      "formula": "Sustantivo + でも / Interrogativo + でも",
+      "description": "Se utiliza para: 1. Sugerir algo como ejemplo (o algo similar). 2. Con palabras interrogativas para significar 'cualquier' (cualquiera, quien sea, donde sea).",
       "examples": [
         {
-          "jp": "夏休み[なつやすみ]の 間[あいだ]、ずっと 国[くに]に いました。",
-          "es": "Durante todas las vacaciones de verano, estuve en mi país."
+          "jp": "お茶[ちゃ]でも飲[の]みませんか。",
+          "es": "¿No te apetece tomar un té o algo?"
+        },
+        {
+          "jp": "この問題[もんだい]は誰[だれ]でも分[わ]かります。",
+          "es": "Cualquiera entiende este problema."
         }
       ]
     },
     {
       "id": "n4-2",
-      "category": "Tiempo",
-      "title": "〜間に（あいだに）",
-      "formula": "V-te iru / Sustantivo + の + 間に",
-      "description": "Indica que una acción puntual ocurre en algún momento dentro de un intervalo de tiempo.",
+      "category": "Facilidad",
+      "title": "〜易い",
+      "formula": "V (raíz) + やすい",
+      "description": "Indica que una acción es fácil de realizar o que algo tiene propensión a ocurrir con frecuencia.",
       "examples": [
         {
-          "jp": "家族[かぞく]が 寝て[ねて]いる 間に[あいだに]、家[いえ]を 出ました[でました]。",
-          "es": "Salí de casa mientras mi familia estaba durmiendo."
+          "jp": "このペンは書[か]きやすいです。",
+          "es": "Este bolígrafo es fácil de usar (fácil de escribir)."
+        },
+        {
+          "jp": "白[しろ]い服[ふく]は汚[よご]れやすいです。",
+          "es": "La ropa blanca se ensucia con facilidad."
         }
       ]
     },
     {
       "id": "n4-3",
-      "category": "Grado / Negación",
-      "title": "あまり〜ない",
-      "formula": "あまり + V-nai / Adj-nai",
-      "description": "Se utiliza para expresar que algo no es muy frecuente o no ocurre en gran medida: 'no mucho', 'no muy'.",
+      "category": "Dificultad",
+      "title": "にくい",
+      "formula": "V (raíz) + にくい",
+      "description": "Indica que una acción es difícil de realizar debido a causas externas, físicas o por las características del objeto.",
       "examples": [
         {
-          "jp": "お酒[さけ]は あまり 飲みません[のみません]。",
-          "es": "No bebo mucho alcohol."
+          "jp": "この字[じ]は小[ちい]さくて読[よ]みにくいです。",
+          "es": "Estas letras son pequeñas y difíciles de leer."
+        },
+        {
+          "jp": "この肉[にく]は硬[かた]くて食[た]べにくいです。",
+          "es": "Esta carne es dura y difícil de comer."
         }
       ]
     },
     {
       "id": "n4-4",
-      "category": "Tiempo",
-      "title": "〜後で（あとで）",
-      "formula": "V-ta / Sustantivo + の + 後で",
-      "description": "Indica que una acción ocurre después de otra: 'después de...'.",
+      "category": "Dificultad",
+      "title": "づらい",
+      "formula": "V (raíz) + づらい",
+      "description": "Indica que una acción es difícil de realizar debido a una carga psicológica, dolor o un esfuerzo personal subjetivo.",
       "examples": [
         {
-          "jp": "仕事[しごと]が 終わった[おわった] 後で[あとで]、飲み[のみ]に 行きましょう[いきましょう]。",
-          "es": "Vamos a beber algo después de que termine el trabajo."
+          "jp": "彼[かれ]には本当[ほんとう]のことが言[い]いづらいです。",
+          "es": "Me resulta difícil (incómodo) decirle la verdad a él."
+        },
+        {
+          "jp": "この靴[くつ]は歩[ある]きづらいです。",
+          "es": "Estos zapatos son incómodos para caminar."
         }
       ]
     },
     {
       "id": "n4-5",
-      "category": "Condicional",
-      "title": "〜ば",
-      "formula": "V-condicional (e-ba)",
-      "description": "Forma condicional que indica: 'Si ocurre A, entonces pasa B'.",
+      "category": "Grado",
+      "title": "段々",
+      "formula": "だんだん + V / Adj",
+      "description": "Adverbio que indica que una situación cambia poco a poco, paso a paso. 'Gradualmente'.",
       "examples": [
         {
-          "jp": "安ければ[やすければ]、買い[かい]ます。",
-          "es": "Si es barato, lo compraré."
+          "jp": "段[だん]々[だん]寒[さむ]くなってきました。",
+          "es": "Gradualmente ha empezado a hacer más frío."
+        },
+        {
+          "jp": "日本語[にほんご]が段[だん]々[だん]上手[じょうず]になりました。",
+          "es": "Poco a poco mi japonés ha mejorado."
         }
       ]
     },
     {
       "id": "n4-6",
-      "category": "Condición / Situación",
-      "title": "〜場合は（ばあいは）",
-      "formula": "Frase informal / Sustantivo + の + 場合は",
-      "description": "Se usa para hablar de una situación específica o hipotética: 'en caso de...', 'si sucede...'.",
+      "category": "Énfasis",
+      "title": "どんどん",
+      "formula": "どんどん + V",
+      "description": "Indica que una acción progresa rápidamente, con energía o sin interrupción. 'Rápidamente' o 'sin parar'.",
       "examples": [
         {
-          "jp": "火事[かじ]の 場合は[ばあいは]、エレベーターを 使わ[つかわ]ないでください。",
-          "es": "En caso de incendio, por favor no use el ascensor."
+          "jp": "遠慮[えんりょ]しないでどんどん食[た]べてください。",
+          "es": "No seas tímido y come todo lo que quieras (sin parar)."
+        },
+        {
+          "jp": "物価[ぶっか]がどんどん上[あ]がっています。",
+          "es": "Los precios están subiendo rápidamente."
         }
       ]
     },
     {
       "id": "n4-7",
-      "category": "Limitación",
-      "title": "〜ばかり",
-      "formula": "Sustantivo + ばかり / V-te + ばかり",
-      "description": "Indica que algo es lo único que se hace o que solo hay eso: 'solo', 'nada más que'.",
+      "category": "Plural",
+      "title": "等",
+      "formula": "Sustantivo (Personas) + たち / ら",
+      "description": "Sufijo utilizado para pluralizar sustantivos, especialmente personas.",
       "examples": [
         {
-          "jp": "肉[にく]ばかり 食べないで[たべないで]、野菜[やさい]も 食べなさい[たべなさい]。",
-          "es": "No comas solo carne, come también verduras."
+          "jp": "私[わたし]たちは明日[あした]遊[あそ]びに行[い]きます。",
+          "es": "Nosotros iremos a divertirnos mañana."
+        },
+        {
+          "jp": "子供[こども]たちが公園[こうえん]にいます。",
+          "es": "Los niños están en el parque."
         }
       ]
     },
     {
       "id": "n4-8",
-      "category": "Limitación",
-      "title": "〜だけで",
-      "formula": "Sustantivo / V-diccionario + だけで",
-      "description": "Indica que una acción o cosa es suficiente para obtener un resultado: 'solo con...', 'solo con hacer...'.",
+      "category": "Continuidad",
+      "title": "～ていく",
+      "formula": "V (forma て) + いく",
+      "description": "Indica: 1. Una acción que se aleja del hablante. 2. Una acción que continuará desde ahora hacia el futuro.",
       "examples": [
         {
-          "jp": "名前[なまえ]を 書く[かく] だけで いいです。",
-          "es": "Con solo escribir el nombre es suficiente."
-        }
-      ]
-    },
-    {
-      "id": "n4-9",
-      "category": "Comienzo / Dirección",
-      "title": "〜出す（だす）",
-      "formula": "V-masu + 出す",
-      "description": "Indica que una acción comienza de forma repentina o que algo se mueve hacia afuera.",
-      "examples": [
-        {
-          "jp": "急[きゅう]に 雨[あめ]が 降り出した[ふりだした]。",
-          "es": "De repente empezó a llover."
-        }
-      ]
-    },
-    {
-      "id": "n4-10",
-      "category": "Cortesía",
-      "title": "でございます",
-      "formula": "Sustantivo + でございます",
-      "description": "Forma extremadamente educada de 'desu'. Se usa en contextos muy formales o atención al cliente.",
-      "examples": [
-        {
-          "jp": "こちらが メニューで ございます。",
-          "es": "Aquí tiene el menú (formal)."
-        }
-      ]
-    },
-    {
-      "id": "n4-11",
-      "category": "Sugerencia / Vaguedad",
-      "title": "〜でも",
-      "formula": "Sustantivo + でも",
-      "description": "Se usa para proponer algo como ejemplo: '...o algo así', '¿qué tal si...?'.",
-      "examples": [
-        {
-          "jp": "コーヒーでも 飲み[のみ]ませんか。",
-          "es": "¿No te apetece tomar un café o algo?"
-        }
-      ]
-    },
-    {
-      "id": "n4-12",
-      "category": "Confirmación",
-      "title": "ではないか",
-      "formula": "Frase + ではないか",
-      "description": "Forma formal de pedir confirmación o expresar una opinión: '¿No es así?', '¿Verdad?'.",
-      "examples": [
-        {
-          "jp": "これでは いけない ではないか。",
-          "es": "Esto no está bien, ¿no crees?"
-        }
-      ]
-    },
-    {
-      "id": "n4-13",
-      "category": "Necesidad",
-      "title": "〜が必要（がひつよう）",
-      "formula": "Sustantivo + が必要だ[ひつようだ]",
-      "description": "Indica que algo es necesario.",
-      "examples": [
-        {
-          "jp": "ビザが 必要[ひつよう]です。",
-          "es": "Es necesario un visado."
-        }
-      ]
-    },
-    {
-      "id": "n4-14",
-      "category": "Sentidos",
-      "title": "〜がする",
-      "formula": "Sustantivo (olor/sonido/sabor/sensación) + がする",
-      "description": "Se usa para percibir algo a través de los sentidos: 'oler a', 'saber a', 'oírse un...'.",
-      "examples": [
-        {
-          "jp": "いい 匂い[におい]が します。",
-          "es": "Huele bien (hay un buen olor)."
-        }
-      ]
-    },
-    {
-      "id": "n4-15",
-      "category": "Personalidad",
-      "title": "〜がり",
-      "formula": "Adj-i (sin i) / Adj-na + がり",
-      "description": "Describe a una persona que suele mostrar o sentir mucho una emoción o sensación física.",
-      "examples": [
-        {
-          "jp": "私[わたし]は 寒がり[さむがり]です。",
-          "es": "Soy muy sensible al frío (friolero)."
-        }
-      ]
-    },
-    {
-      "id": "n4-16",
-      "category": "Sentimientos de otros",
-      "title": "〜がる / 〜がっている",
-      "formula": "Adj-i (sin i) / Adj-na + がる",
-      "description": "Se usa para describir los sentimientos o deseos de una tercera persona basándose en su apariencia.",
-      "examples": [
-        {
-          "jp": "彼女[かのじょ]は 恥ずかしがって[はずかしがって] います。",
-          "es": "Ella parece estar avergonzada."
-        }
-      ]
-    },
-    {
-      "id": "n4-17",
-      "category": "Cortesía",
-      "title": "ございます",
-      "formula": "Sustantivo + でございます / Lugar + にございます",
-      "description": "Forma de cortesía (Keigo) de 'arimasu' e 'iru'. Indica existencia o ser.",
-      "examples": [
-        {
-          "jp": "お出口[おでぐち]は あちらに ございます。",
-          "es": "La salida se encuentra por allí (muy formal)."
-        }
-      ]
-    },
-    {
-      "id": "n4-18",
-      "category": "Comienzo",
-      "title": "〜始める（はじめる）",
-      "formula": "V-masu + 始める",
-      "description": "Indica el inicio de una acción o proceso.",
-      "examples": [
-        {
-          "jp": "10月[じゅうがつ]から 日本語[にほんご]を 習い[ならい]始めました[はじめました]。",
-          "es": "Empecé a aprender japonés desde octubre."
-        }
-      ]
-    },
-    {
-      "id": "n4-19",
-      "category": "Expectativa",
-      "title": "〜はずだ",
-      "formula": "Frase informal / Sustantivo + の + はずだ",
-      "description": "Indica una fuerte expectativa o probabilidad basada en una razón lógica: 'debería ser', 'se espera que'.",
-      "examples": [
-        {
-          "jp": "彼[かれ]は 今日[きょう] 来る[くる] はずです。",
-          "es": "Él debería venir hoy (estoy casi seguro)."
-        }
-      ]
-    },
-    {
-      "id": "n4-20",
-      "category": "Imposibilidad",
-      "title": "〜はずがない",
-      "formula": "Frase informal / Sustantivo + の + はずがない",
-      "description": "Indica que algo es lógicamente imposible: 'no puede ser que', 'es imposible que'.",
-      "examples": [
-        {
-          "jp": "そんなの、嘘[うそ]の はずが ない。",
-          "es": "Es imposible que eso sea una mentira."
-        }
-      ]
-    },
-    {
-      "id": "n4-21",
-      "category": "Necesidad",
-      "title": "必要がある（ひつようがある）",
-      "formula": "V-diccionario + 必要がある",
-      "description": "Indica que es necesario realizar una acción específica.",
-      "examples": [
-        {
-          "jp": "もっと 練習[れんしゅう]する 必要[ひつよう]が あります。",
-          "es": "Es necesario practicar más."
-        }
-      ]
-    },
-    {
-      "id": "n4-22",
-      "category": "Volitivo",
-      "title": "意向形（いこうけい）",
-      "formula": "V-volitivo (o-u / yo-u)",
-      "description": "Forma informal de 'mashou'. Se usa para invitar o proponer: 'vamos a', 'hagamos'.",
-      "examples": [
-        {
-          "jp": "明日[あした]、映画[えいが]を 見に[みに] 行こう[いこう]。",
-          "es": "Mañana, vamos a ver una película."
-        }
-      ]
-    },
-    {
-      "id": "n4-23",
-      "category": "Honorífico",
-      "title": "いらっしゃる",
-      "formula": "N/A (Verbo irregular)",
-      "description": "Verbo honorífico (Sonkeigo) para 'iru' (estar), 'kuru' (venir) e 'iku' (ir).",
-      "examples": [
-        {
-          "jp": "先生[せんせい]は 研究室[けんきゅうしつ]に いらっしゃいますか。",
-          "es": "¿Está el profesor en su despacho?"
-        }
-      ]
-    },
-    {
-      "id": "n4-24",
-      "category": "Humilde",
-      "title": "いたします",
-      "formula": "N/A (Verbo Kenjougo)",
-      "description": "Forma humilde (Kenjougo) de 'shimasu' (hacer). Se usa para hablar de las propias acciones.",
-      "examples": [
-        {
-          "jp": "私[わたし]が お手伝い[おてつだい] いたします。",
-          "es": "Yo le ayudaré (humilde)."
-        }
-      ]
-    },
-    {
-      "id": "n4-25",
-      "category": "Confirmación",
-      "title": "じゃないか",
-      "formula": "Frase informal + じゃないか",
-      "description": "Se usa para confirmar algo con el oyente o expresar sorpresa/sugerencia: '¿verdad?', '¿no es cierto?'.",
-      "examples": [
-        {
-          "jp": "これ、いい じゃないか！",
-          "es": "¡Oye, pero si esto está muy bien!"
-        }
-      ]
-    },
-    {
-      "id": "n4-26",
-      "category": "Duda / Elección",
-      "title": "〜かどうか",
-      "formula": "Frase informal (sin da) + かどうか",
-      "description": "Se usa para preguntar si algo es de una manera o no: 'si ... o no'.",
-      "examples": [
-        {
-          "jp": "明日[あした] 雨[あめ]が 降る[ふる] か どうか 分かりません[わかりません]。",
-          "es": "No sé si mañana lloverá o no."
-        }
-      ]
-    },
-    {
-      "id": "n4-27",
-      "category": "Duda",
-      "title": "〜かしら",
-      "formula": "Frase informal + かしら",
-      "description": "Se usa para expresar duda o preguntarse algo a uno mismo (principalmente femenino).",
-      "examples": [
-        {
-          "jp": "明日[あした]は 晴れる[はれる] かしら。",
-          "es": "Me pregunto si mañana hará sol."
-        }
-      ]
-    },
-    {
-      "id": "n4-28",
-      "category": "Pregunta",
-      "title": "〜かい",
-      "formula": "Frase informal + かい",
-      "description": "Partícula final usada para convertir una frase en una pregunta de sí o no (principalmente masculino/informal).",
-      "examples": [
-        {
-          "jp": "準備[じゅんび]は できた かい？",
-          "es": "¿Ya estás listo?"
-        }
-      ]
-    },
-    {
-      "id": "n4-29",
-      "category": "Posibilidad",
-      "title": "〜かもしれない",
-      "formula": "Frase informal (sin da) + かもしれない",
-      "description": "Indica una posibilidad de aproximadamente el 50%: 'quizás', 'tal vez'.",
-      "examples": [
-        {
-          "jp": "午後[ごご]から 雨[あめ]が 降る[ふる] かも しれません。",
-          "es": "Tal vez llueva por la tarde."
-        }
-      ]
-    },
-    {
-      "id": "n4-30",
-      "category": "Duda / Pensamiento",
-      "title": "〜かな",
-      "formula": "Frase informal + かな",
-      "description": "Expresa duda o inseguridad sobre algo: 'me pregunto si...', '¿será que...?'.",
-      "examples": [
-        {
-          "jp": "これ、ちょっと 難しい[むずかしい] かな。",
-          "es": "Me pregunto si esto será un poco difícil."
-        }
-      ]
-    },
-    {
-      "id": "n4-31",
-      "category": "Materiales",
-      "title": "〜から作る",
-      "formula": "Sustantivo + から作る[つくる]",
-      "description": "Indica la materia prima de la que está hecho algo, especialmente cuando el material original no es obvio.",
-      "examples": [
-        {
-          "jp": "ワインは ぶどう から 作られて[つくられて] います。",
-          "es": "El vino está hecho de uvas."
-        }
-      ]
-    },
-    {
-      "id": "n4-32",
-      "category": "Certeza",
-      "title": "きっと",
-      "formula": "きっと + frase",
-      "description": "Expresa una fuerte convicción del hablante: 'seguramente', 'sin duda'.",
-      "examples": [
-        {
-          "jp": "明日[あした]は きっと 晴れる[はれる] でしょう。",
-          "es": "Seguramente mañana hará sol."
-        }
-      ]
-    },
-    {
-      "id": "n4-33",
-      "category": "Tiempo",
-      "title": "〜頃（ころ / ごろ）",
-      "formula": "Sustantivo + 頃",
-      "description": "Indica un tiempo o momento aproximado: 'alrededor de', 'hacia'.",
-      "examples": [
-        {
-          "jp": "昨夜[さくや]、10時[じゅうじ]ごろ 寝ました[ねました]。",
-          "es": "Anoche me acosté alrededor de las 10."
-        }
-      ]
-    },
-    {
-      "id": "n4-34",
-      "category": "Nominalización",
-      "title": "こと",
-      "formula": "V-diccionario + こと",
-      "description": "Convierte un verbo en un sustantivo para poder usarlo como sujeto u objeto de la oración.",
-      "examples": [
-        {
-          "jp": "私[わたし]の 趣味[しゅみ]は 本[ほん]を 読む[よむ] こと です。",
-          "es": "Mi pasatiempo es leer libros (el hecho de leer)."
-        }
-      ]
-    },
-    {
-      "id": "n4-35",
-      "category": "Frecuencia",
-      "title": "〜ことがある",
-      "formula": "V-diccionario + ことがある",
-      "description": "Indica que algo sucede ocasionalmente: 'a veces ocurre que...'.",
-      "examples": [
-        {
-          "jp": "朝ごはん[あさごはん]を 食べない[たべない] ことが あります。",
-          "es": "Hay veces que no desayuno."
-        }
-      ]
-    },
-    {
-      "id": "n4-36",
-      "category": "Capacidad",
-      "title": "〜ことができる",
-      "formula": "V-diccionario + ことができる",
-      "description": "Indica la capacidad o posibilidad de realizar una acción: 'poder hacer'.",
-      "examples": [
-        {
-          "jp": "私[わたし]は 日本語[にほんご]を 話す[はなす] ことが できます。",
-          "es": "Yo puedo hablar japonés."
-        }
-      ]
-    },
-    {
-      "id": "n4-37",
-      "category": "Decisión externa",
-      "title": "〜ことになる",
-      "formula": "V-diccionario / V-nai + ことになる",
-      "description": "Indica que se ha decidido algo, generalmente por factores externos o terceras personas: 'se ha decidido que...'.",
-      "examples": [
-        {
-          "jp": "来月[らいげつ]、東京[とうきょう]へ 出張[しゅっちょう]する ことに なりました。",
-          "es": "Se ha decidido que iré de viaje de negocios a Tokio el mes que viene."
-        }
-      ]
-    },
-    {
-      "id": "n4-38",
-      "category": "Decisión personal",
-      "title": "〜ことにする",
-      "formula": "V-diccionario / V-nai + ことにする",
-      "description": "Indica una decisión tomada por la propia voluntad del hablante: 'decidir hacer...'.",
-      "examples": [
-        {
-          "jp": "毎日[まいにち]、日記[にっき]を 書く[かく] ことに しています。",
-          "es": "He decidido escribir un diario todos los días (y lo hago habitualmente)."
-        }
-      ]
-    },
-    {
-      "id": "n4-39",
-      "category": "Cambio",
-      "title": "〜くする",
-      "formula": "Adj-i (sin i) + くする",
-      "description": "Indica la acción de cambiar el estado de algo: 'hacer que algo sea (adjetivo)'.",
-      "examples": [
-        {
-          "jp": "音[おと]を 大きく[おおきく] します。",
-          "es": "Subiré el volumen (hacer el sonido grande)."
-        }
-      ]
-    },
-    {
-      "id": "n4-40",
-      "category": "Tiempo / Adverbio",
-      "title": "急に（きゅうに）",
-      "formula": "急に + frase",
-      "description": "Indica que algo ocurre de forma repentina o inesperada.",
-      "examples": [
-        {
-          "jp": "空[そら]が 急に[きゅうに] 暗く[くらく] なった。",
-          "es": "El cielo se oscureció de repente."
-        }
-      ]
-    },
- {
-      "id": "n4-41",
-      "category": "Límite de tiempo",
-      "title": "〜までに",
-      "formula": "Sustantivo (tiempo) / V-diccionario + までに",
-      "description": "Indica un límite de tiempo o fecha tope para realizar una acción: 'para cuando...', 'a más tardar'.",
-      "examples": [
-        {
-          "jp": "5時[ごじ]までに 帰って[かえって]きてください。",
-          "es": "Por favor, vuelve para las 5 (antes de las 5)."
-        }
-      ]
-    },
-    {
-      "id": "n4-42",
-      "category": "Estado",
-      "title": "〜まま",
-      "formula": "V-ta / V-nai / Sustantivo + の / Adj-na + な + まま",
-      "description": "Indica realizar una acción manteniendo un estado previo, o que algo se queda tal como está.",
-      "examples": [
-        {
-          "jp": "靴[くつ]を 履いた[はいた] まま 部屋[へや]に 入りました[はいりました]。",
-          "es": "Entré en la habitación con los zapatos puestos (manteniendo el estado de llevarlos)."
-        }
-      ]
-    },
-    {
-      "id": "n4-43",
-      "category": "Conjunción",
-      "title": "または",
-      "formula": "Sustantivo A + または + Sustantivo B",
-      "description": "Se utiliza para presentar una elección entre dos o más opciones: 'o', 'o bien'.",
-      "examples": [
-        {
-          "jp": "支払[しはら]いは 現金[げんきん]、または カードで お願い[おねがい]します。",
-          "es": "El pago es en efectivo o con tarjeta, por favor."
-        }
-      ]
-    },
-    {
-      "id": "n4-44",
-      "category": "Similitud / Apariencia",
-      "title": "〜みたいだ",
-      "formula": "Frase informal / Sustantivo + みたいだ",
-      "description": "Indica que algo se parece a otra cosa o que parece ser de cierta forma (versión informal de 'you da').",
-      "examples": [
-        {
-          "jp": "彼[かれ]は 猿[さる] みたいだ。",
-          "es": "Él parece un mono."
-        }
-      ]
-    },
-    {
-      "id": "n4-45",
-      "category": "Similitud",
-      "title": "〜みたいな",
-      "formula": "Sustantivo + みたいな + Sustantivo",
-      "description": "Se usa para calificar a un sustantivo comparándolo con otro: 'un (sustantivo) como...'.",
-      "examples": [
-        {
-          "jp": "あなた みたいな 優しい[やさしい] 人[ひと]は いません。",
-          "es": "No hay personas tan amables como tú."
-        }
-      ]
-    },
-    {
-      "id": "n4-46",
-      "category": "Similitud / Manera",
-      "title": "〜みたいに",
-      "formula": "Frase / Sustantivo + みたいに + Verbo/Adj",
-      "description": "Indica que una acción se realiza de una manera similar a algo: 'como si fuera...'.",
-      "examples": [
-        {
-          "jp": "彼女[かのじょ] みたいに 上手[じょうず]に 歌い[うたい]たいです。",
-          "es": "Quiero cantar tan bien como ella."
-        }
-      ]
-    },
-    {
-      "id": "n4-47",
-      "category": "Énfasis",
-      "title": "〜も",
-      "formula": "Cantidad + も",
-      "description": "Añadido a una cantidad, enfatiza que el número es mayor de lo esperado: 'tanto como...', 'hasta...'.",
-      "examples": [
-        {
-          "jp": "昨日[きのう]は 10時間[じゅうじかん] も 寝ました[ねました]。",
-          "es": "Ayer dormí nada menos que 10 horas."
-        }
-      ]
-    },
-    {
-      "id": "n4-48",
-      "category": "Prohibición",
-      "title": "〜な",
-      "formula": "V-diccionario + な",
-      "description": "Forma de prohibición fuerte e informal: 'No hagas (algo)'.",
-      "examples": [
-        {
-          "jp": "そこを 動く[うごく] な！",
-          "es": "¡No te muevas de ahí!"
-        }
-      ]
-    },
-    {
-      "id": "n4-49",
-      "category": "Ejemplificación",
-      "title": "〜など",
-      "formula": "Sustantivo + など",
-      "description": "Se usa para dar ejemplos de una lista no exhaustiva: '...y otros', '...etcétera'.",
-      "examples": [
-        {
-          "jp": "机[つくえ]の 上[うえ]に 本[ほん]や ノート などが あります。",
-          "es": "Sobre el escritorio hay libros, cuadernos, etc."
-        }
-      ]
-    },
-    {
-      "id": "n4-50",
-      "category": "Simultaneidad",
-      "title": "〜ながら",
-      "formula": "V-masu + ながら",
-      "description": "Indica que dos acciones son realizadas simultáneamente por el mismo sujeto.",
-      "examples": [
-        {
-          "jp": "音楽[おんがく]を 聴き[きき]ながら 勉強[べんきょう]します。",
-          "es": "Estudio mientras escucho música."
-        }
-      ]
-    },
-    {
-      "id": "n4-51",
-      "category": "Dificultad / Negación",
-      "title": "なかなか〜ない",
-      "formula": "なかなか + V-nai",
-      "description": "Indica que algo no sucede fácilmente o que cuesta lograrlo pese al esfuerzo.",
-      "examples": [
-        {
-          "jp": "漢字[かんじ]が なかなか 覚えられません[おぼえられません]。",
-          "es": "No consigo memorizar los kanjis (por más que lo intento)."
-        }
-      ]
-    },
-    {
-      "id": "n4-52",
-      "category": "Obligación",
-      "title": "〜なければいけない",
-      "formula": "V-nai (sin i) + ければいけない",
-      "description": "Expresa obligación o necesidad de hacer algo: 'tengo que...', 'debo...'.",
-      "examples": [
-        {
-          "jp": "明日[あした]は 早く[はやく] 起き[おき]なければ いけません。",
-          "es": "Mañana tengo que levantarme temprano."
-        }
-      ]
-    },
-    {
-      "id": "n4-53",
-      "category": "Obligación",
-      "title": "〜なければならない",
-      "formula": "V-nai (sin i) + ければならない",
-      "description": "Similar a 'nakereba ikenai', pero con un matiz ligeramente más formal o de deber social.",
-      "examples": [
-        {
-          "jp": "約束[やくそく]は 守ら[まもら]なければ なりません。",
-          "es": "Se deben cumplir las promesas."
-        }
-      ]
-    },
-    {
-      "id": "n4-54",
-      "category": "Condicional",
-      "title": "〜なら",
-      "formula": "Sustantivo / Frase informal + なら",
-      "description": "Condicional contextual: 'Si se trata de...', 'En el caso de que...'. Suele basarse en información recién recibida.",
-      "examples": [
-        {
-          "jp": "京都[きょうと]へ 行く[いく] なら、新幹線[しんかんせん]が 便利[べんり]ですよ。",
-          "es": "Si vas a Kioto, el Shinkansen es conveniente."
-        }
-      ]
-    },
-    {
-      "id": "n4-55",
-      "category": "Imperativo",
-      "title": "〜なさい",
-      "formula": "V-masu + なさい",
-      "description": "Forma imperativa cortés pero firme. Usada comúnmente por padres a hijos o profesores a alumnos.",
-      "examples": [
-        {
-          "jp": "早く[はやく] 寝なさい[ねなさい]。",
-          "es": "Duérmete ya."
-        }
-      ]
-    },
-    {
-      "id": "n4-56",
-      "category": "Honorífico",
-      "title": "なさる",
-      "formula": "Verbo irregular (Honorífico)",
-      "description": "Forma honorífica (Sonkeigo) del verbo 'suru' (hacer).",
-      "examples": [
-        {
-          "jp": "明日[あした]は 何[なに]を なさいますか。",
-          "es": "¿Qué va a hacer usted mañana? (formal)."
-        }
-      ]
-    },
-    {
-      "id": "n4-57",
-      "category": "Percepción",
-      "title": "〜に気がつく",
-      "formula": "Sustantivo + に気がつく",
-      "description": "Darse cuenta de algo o notar un detalle.",
-      "examples": [
-        {
-          "jp": "間違い[まちがい]に 気がつきました[きがつきました]。",
-          "es": "Me di cuenta del error."
-        }
-      ]
-    },
-    {
-      "id": "n4-58",
-      "category": "Apariencia",
-      "title": "〜に見える",
-      "formula": "Sustantivo + に見える",
-      "description": "Parecerse a algo o verse de una manera determinada.",
-      "examples": [
-        {
-          "jp": "彼[かれ]は 先生[せんせい]に 見えます[みえます]。",
-          "es": "Él parece un profesor."
-        }
-      ]
-    },
-    {
-      "id": "n4-59",
-      "category": "Decisión",
-      "title": "〜にする",
-      "formula": "Sustantivo + にする",
-      "description": "Indica elegir algo o decidirse por una opción.",
-      "examples": [
-        {
-          "jp": "私[わたし]は コーヒーに します。",
-          "es": "Yo elijo el café (para mí el café)."
-        }
-      ]
-    },
-    {
-      "id": "n4-60",
-      "category": "Dificultad",
-      "title": "〜にくい",
-      "formula": "V-masu + にくい",
-      "description": "Indica que una acción es difícil de realizar físicamente o produce incomodidad.",
-      "examples": [
-        {
-          "jp": "この 字[じ]は 小さくて[ちいさくて] 読み[よみ]にくいです。",
-          "es": "Esta letra es pequeña y difícil de leer."
-        }
-      ]
-    },
-    {
-      "id": "n4-61",
-      "category": "Ubicación / Selección",
-      "title": "〜の中で（のなかで）",
-      "formula": "Sustantivo + の中で",
-      "description": "Significa 'dentro de' o 'entre (un grupo)' al hacer una comparación.",
-      "examples": [
-        {
-          "jp": "果物[くだもの]の 中で[なかで]、りんごが 一番[いちばん] 好き[すき]です。",
-          "es": "De entre las frutas, la que más me gusta es la manzana."
-        }
-      ]
-    },
-    {
-      "id": "n4-62",
-      "category": "Contraste",
-      "title": "〜のに",
-      "formula": "Frase informal / Adj-na + な / Sustantivo + な + のに",
-      "description": "Indica sorpresa o queja ante un resultado inesperado: 'aunque...', 'a pesar de que...'.",
-      "examples": [
-        {
-          "jp": "日曜日[にちようび] なのに、仕事[しごと]を して います。",
-          "es": "Aunque es domingo, estoy trabajando."
-        }
-      ]
-    },
-    {
-      "id": "n4-63",
-      "category": "Finalidad / Uso",
-      "title": "〜のに",
-      "formula": "V-diccionario + のに",
-      "description": "Se usa para indicar el propósito de un objeto o el tiempo/esfuerzo necesario para algo: 'para...', 'en el proceso de...'.",
-      "examples": [
-        {
-          "jp": "この 道具[どうぐ]は パンを 切る[きる] のに 使い[つかい]ます。",
-          "es": "Esta herramienta se usa para cortar pan."
-        }
-      ]
-    },
-    {
-      "id": "n4-64",
-      "category": "Énfasis / Enfoque",
-      "title": "〜のは〜だ",
-      "formula": "V-diccionario + のは + Sustantivo + だ",
-      "description": "Estructura para enfatizar el sujeto o la razón: 'Lo que (acción) es (cosa)'.",
-      "examples": [
-        {
-          "jp": "彼[かれ]が 生まれた[うまれた] のは 東京[とうきょう]です。",
-          "es": "Donde él nació es en Tokio."
-        }
-      ]
-    },
-    {
-      "id": "n4-65",
-      "category": "Honorífico / Petición",
-      "title": "お〜ください",
-      "formula": "お + V-masu + ください",
-      "description": "Forma muy respetuosa de pedir a alguien que haga algo.",
-      "examples": [
-        {
-          "jp": "こちらに お名前[なまえ]を お書き[おかき] ください。",
-          "es": "Por favor, escriba aquí su nombre (respetuoso)."
-        }
-      ]
-    },
-    {
-      "id": "n4-66",
-      "category": "Honorífico",
-      "title": "お〜になる",
-      "formula": "お + V-masu + になる",
-      "description": "Forma honorífica estándar para describir las acciones de una persona respetada.",
-      "examples": [
-        {
-          "jp": "先生[せんせい]は もう お帰り[おかえり]に なりました。",
-          "es": "El profesor ya se ha ido a casa (respetuoso)."
-        }
-      ]
-    },
-    {
-      "id": "n4-67",
-      "category": "Frecuencia / Intervalos",
-      "title": "〜おきに",
-      "formula": "Sustantivo (cantidad/tiempo) + おきに",
-      "description": "Indica que algo sucede a intervalos regulares: 'cada (distancia/tiempo)'.",
-      "examples": [
-        {
-          "jp": "この 電車[でんしゃ]は 10分[じゅっぷん] おきに 来ます[きます]。",
-          "es": "Este tren viene cada 10 minutos."
-        }
-      ]
-    },
-    {
-      "id": "n4-68",
-      "category": "Finalización",
-      "title": "〜終わる（おわる）",
-      "formula": "V-masu + 終わる",
-      "description": "Indica terminar de realizar una acción.",
-      "examples": [
-        {
-          "jp": "その 本[ほん]を 読み[よみ]終わったら、貸して[かして]ください。",
-          "es": "Cuando termines de leer ese libro, por favor préstamelo."
-        }
-      ]
-    },
-    {
-      "id": "n4-69",
-      "category": "Capacidad",
-      "title": "〜られる（可能形）",
-      "formula": "V-potencial (e-ru / rare-ru)",
-      "description": "Indica la capacidad o posibilidad de realizar una acción.",
-      "examples": [
-        {
-          "jp": "漢字[かんじ]が 書けます[かけます]。",
-          "es": "Puedo escribir kanji."
-        }
-      ]
-    },
-    {
-      "id": "n4-70",
-      "category": "Conjetura / Rumor",
-      "title": "〜らしい",
-      "formula": "Frase informal / Sustantivo + らしい",
-      "description": "Indica que algo parece ser cierto basándose en lo que se ha oído o visto: 'parece que...', 'he oído que...'.",
-      "examples": [
-        {
-          "jp": "明日[あした]は 雨[あめ] らしい です。",
-          "es": "Parece que mañana lloverá."
-        }
-      ]
-    },
-    {
-      "id": "n4-71",
-      "category": "Nominalización",
-      "title": "〜さ",
-      "formula": "Adj-i (sin i) / Adj-na + さ",
-      "description": "Sufijo que convierte un adjetivo en un sustantivo que indica grado o medida: '-idad', '-eza'.",
-      "examples": [
-        {
-          "jp": "富士山[ふじさん]の 高さ[たかさ]は どのくらい ですか。",
-          "es": "¿Cuál es la altura (el alto) del Monte Fuji?"
-        }
-      ]
-    },
-    {
-      "id": "n4-72",
-      "category": "Tiempo",
-      "title": "さっき",
-      "formula": "さっき + frase",
-      "description": "Hace un momento, recientemente (en el pasado muy cercano).",
-      "examples": [
-        {
-          "jp": "さっき 田中[たなか]さんに 会いました[あいました]。",
-          "es": "Me encontré con el Sr. Tanaka hace un momento."
-        }
-      ]
-    },
-    {
-      "id": "n4-73",
-      "category": "Voz Pasiva Causativa",
-      "title": "〜させられる",
-      "formula": "V-pasiva causativa",
-      "description": "Indica que el sujeto es obligado por otra persona a realizar una acción que no necesariamente desea.",
-      "examples": [
-        {
-          "jp": "子供[こども]の ころ、母[はは]に 野菜[やさい]を 食べさせられました[たべさせられました]。",
-          "es": "Cuando era niño, mi madre me obligaba a comer verduras."
-        }
-      ]
-    },
-    {
-      "id": "n4-74",
-      "category": "Voz Causativa",
-      "title": "〜させる",
-      "formula": "V-causativa (ase-ru / sase-ru)",
-      "description": "Indica hacer que alguien haga algo o permitir que alguien lo haga: 'hacer hacer', 'dejar hacer'.",
-      "examples": [
-        {
-          "jp": "先生[せんせい]は 学生[がくせい]に 漢字[かんじ]を 書かせました[かかせました]。",
-          "es": "El profesor hizo que los estudiantes escribieran kanji."
-        }
-      ]
-    },
-    {
-      "id": "n4-75",
-      "category": "Permiso",
-      "title": "〜させてください",
-      "formula": "V-causativa (forma te) + ください",
-      "description": "Forma educada de pedir permiso para realizar uno mismo una acción: 'Por favor, permítame hacer...'.",
-      "examples": [
-        {
-          "jp": "今日[きょう]は 早く[はやく] 帰らせて[かえらせて] ください。",
-          "es": "Por favor, permítame irme temprano hoy."
-        }
-      ]
-    },
-    {
-      "id": "n4-76",
-      "category": "Énfasis / Expectativa",
-      "title": "さすが",
-      "formula": "さすが + Sustantivo / frase",
-      "description": "Expresa que algo es tal como se esperaba de alguien con gran talento o estatus: 'como era de esperar de...'.",
-      "examples": [
-        {
-          "jp": "さすが プロ ですね。料理[りょうり]が とても 美味しい[おいしい]です。",
-          "es": "Como era de esperar de un profesional. La comida está riquísima."
-        }
-      ]
-    },
-    {
-      "id": "n4-77",
-      "category": "Enumeración / Causa",
-      "title": "〜し",
-      "formula": "Frase informal + し",
-      "description": "Se usa para listar razones o características: 'y además...', 'no solo... sino que...'.",
-      "examples": [
-        {
-          "jp": "この 店[みせ]は 安い[やすい]し、美味しい[おいしい]です。",
-          "es": "Esta tienda es barata y (además) rica."
-        }
-      ]
-    },
-    {
-      "id": "n4-78",
-      "category": "Grado",
-      "title": "そんなに",
-      "formula": "そんなに + Adj / Verbo",
-      "description": "Indica un grado tal como el mencionado o implícito: 'tanto', 'así de'. Suele usarse en negativo para decir 'no tanto'.",
-      "examples": [
-        {
-          "jp": "そんなに 食べられません[たべられません]。",
-          "es": "No puedo comer tanto."
-        }
-      ]
-    },
-    {
-      "id": "n4-79",
-      "category": "Conjunción",
-      "title": "それでも",
-      "formula": "Frase A。それでも + Frase B",
-      "description": "A pesar de lo dicho anteriormente, ocurre algo: 'aun así', 'sin embargo'.",
-      "examples": [
-        {
-          "jp": "雨[あめ]が 降って[ふって] います。それでも 出かけます[でかけます]。",
-          "es": "Está lloviendo. Aun así, saldré."
-        }
-      ]
-    },
-    {
-      "id": "n4-80",
-      "category": "Adición",
-      "title": "それに",
-      "formula": "Frase A。それに + Frase B",
-      "description": "Se usa para añadir más información o razones a lo anterior: 'además', 'asimismo'.",
-      "examples": [
-        {
-          "jp": "今日[きょう]は 寒い[さむい]し、それに 風[かぜ]も 強い[つよい]です。",
-          "es": "Hoy hace frío y, además, el viento es fuerte."
-        }
-      ]
-    },
-    {
-      "id": "n4-81",
-      "category": "Rumor",
-      "title": "〜そうだ (伝聞)",
-      "formula": "Frase informal + そうだ",
-      "description": "Se utiliza para reportar información que se ha escuchado o leído: 'he oído que...', 'dicen que...'.",
-      "examples": [
-        {
-          "jp": "天気[てんき]予報[よほう]に よると、明日[あした]は 晴れる[はれる] そうだ。",
-          "es": "Según el pronóstico del tiempo, dicen que mañana estará despejado."
-        }
-      ]
-    },
-    {
-      "id": "n4-82",
-      "category": "Apariencia",
-      "title": "〜そうだ (様態)",
-      "formula": "V-masu / Adj-i (sin i) / Adj-na (sin na) + そうだ",
-      "description": "Indica que algo 'parece' o 'está a punto de' suceder basándose en la apariencia visual.",
-      "examples": [
-        {
-          "jp": "今[いま]にも 雨[あめ]が 降り[ふり] そうだ。",
-          "es": "Parece que va a llover en cualquier momento."
-        }
-      ]
-    },
-    {
-      "id": "n4-83",
-      "category": "Apariencia",
-      "title": "〜そうに / 〜そうな",
-      "formula": "V-masu / Adj + そうに + V / そうな + Sustantivo",
-      "description": "Se usa para describir la manera en que se hace algo o para calificar a un sustantivo por su apariencia.",
-      "examples": [
-        {
-          "jp": "子供[こども]たちが 楽し[たのし] そうに 遊ん[あそん]で います。",
-          "es": "Los niños están jugando de forma que parece divertida."
-        }
-      ]
-    },
-    {
-      "id": "n4-84",
-      "category": "Tiempo",
-      "title": "〜たばかり",
-      "formula": "V-ta + ばかり",
-      "description": "Indica que ha pasado muy poco tiempo desde que se realizó una acción (subjetivo).",
-      "examples": [
-        {
-          "jp": "さっき 昼ごはん[ひるごはん]を 食べ[たべ]た ばかり です。",
-          "es": "Acabo de almorzar hace un momento."
-        }
-      ]
-    },
-    {
-      "id": "n4-85",
-      "category": "Tiempo",
-      "title": "〜たところ",
-      "formula": "V-ta + ところ",
-      "description": "Indica que una acción acaba de concluir en este preciso instante (objetivo).",
-      "examples": [
-        {
-          "jp": "今[いま]、会議[かいぎ]が 終わっ[おわっ]た ところ です。",
-          "es": "La reunión acaba de terminar justo ahora."
-        }
-      ]
-    },
-    {
-      "id": "n4-86",
-      "category": "Verbos",
-      "title": "他動詞 & 自動詞",
-      "formula": "N/A",
-      "description": "Diferencia entre verbos transitivos (requieren objeto con を) e intransitivos (describen estados con が).",
-      "examples": [
-        {
-          "jp": "ドアを 開け[あけ]ます (他動詞)。ドアが 開き[あき]ます (自動詞)。",
-          "es": "Abro la puerta (Transitivo). La puerta se abre (Intransitivo)."
-        }
-      ]
-    },
-    {
-      "id": "n4-87",
-      "category": "Deseo de otros",
-      "title": "〜たがる",
-      "formula": "V-masu + たがる",
-      "description": "Se usa para expresar el deseo de una tercera persona de hacer algo.",
-      "examples": [
-        {
-          "jp": "うちの 子[こ]は 外[そと]で 遊び[あそび]たがって います。",
-          "es": "Mi hijo tiene ganas de jugar fuera."
-        }
-      ]
-    },
-    {
-      "id": "n4-88",
-      "category": "Condicional",
-      "title": "〜たら",
-      "formula": "V-ta + ら",
-      "description": "Condicional general: 'si...' o 'cuando...'. Se usa mucho en el habla cotidiana.",
-      "examples": [
-        {
-          "jp": "お金[おかね]が あったら、旅行[りょこう]に 行き[いき]たいです。",
-          "es": "Si tuviera dinero, querría ir de viaje."
-        }
-      ]
-    },
-    {
-      "id": "n4-89",
-      "category": "Consejo",
-      "title": "〜たらどう",
-      "formula": "V-tara + どう / どうですか",
-      "description": "Se usa para dar un consejo o sugerencia: '¿por qué no...?', '¿qué tal si...?'.",
-      "examples": [
-        {
-          "jp": "疲れ[つかれ]た なら、少し[すこし] 休ん[やすん]だら どうですか。",
-          "es": "Si estás cansado, ¿por qué no descansas un poco?"
-        }
-      ]
-    },
-    {
-      "id": "n4-90",
-      "category": "Petición de consejo",
-      "title": "〜たらいいですか",
-      "formula": "V-tara + いいですか",
-      "description": "Se usa para pedir instrucciones o consejo: '¿qué debería hacer?'.",
-      "examples": [
-        {
-          "jp": "どこで チケットを 買え[かえ]ば いいですか。",
-          "es": "¿Dónde debería comprar los boletos?"
-        }
-      ]
-    },
-    {
-      "id": "n4-91",
-      "category": "Conjunción / Causa",
-      "title": "〜て / 〜で",
-      "formula": "V-te / Adj-te / Sustantivo + で",
-      "description": "Conecta frases indicando secuencia, modo o causa: 'y', 'por eso'.",
-      "examples": [
-        {
-          "jp": "風邪[かぜ]を ひいて、学校[がっこう]を 休み[やすみ]ました。",
-          "es": "Me resfrié y falté a la escuela."
-        }
-      ]
-    },
-    {
-      "id": "n4-92",
-      "category": "Favor",
-      "title": "〜てあげる",
-      "formula": "V-te + あげる",
-      "description": "Indica realizar una acción en beneficio de otra persona (yo a otros o alguien a alguien).",
-      "examples": [
-        {
-          "jp": "友達[ともだち]の 荷物[にもつ]を 持っ[もっ]て あげました。",
-          "es": "Le cargué el equipaje a mi amigo."
-        }
-      ]
-    },
-    {
-      "id": "n4-93",
-      "category": "Deseo",
-      "title": "〜てほしい",
-      "formula": "V-te + ほしい",
-      "description": "Expresa el deseo del hablante de que otra persona realice una acción.",
-      "examples": [
-        {
-          "jp": "あなたに 日本語[にほんご]を 教え[おしえ]て ほしいです。",
-          "es": "Quiero que tú me enseñes japonés."
-        }
-      ]
-    },
-    {
-      "id": "n4-94",
-      "category": "Continuidad / Dirección",
-      "title": "〜ていく",
-      "formula": "V-te + いく",
-      "description": "Indica una acción que continúa hacia el futuro o que se aleja del punto de vista del hablante.",
-      "examples": [
+          "jp": "鳥[とり]が空[そら]へ飛[と]んでいきました。",
+          "es": "El pájaro se fue volando hacia el cielo."
+        },
         {
-          "jp": "これからも 日本語[にほんご]を 勉強[べんきょう]して いきます。",
+          "jp": "これからも日本語[にほんご]を勉強[べんきょう]していきます。",
           "es": "De ahora en adelante seguiré estudiando japonés."
         }
       ]
     },
     {
-      "id": "n4-95",
-      "category": "Tiempo",
-      "title": "〜ていた",
-      "formula": "V-te + いた",
-      "description": "Pasado continuo: indica una acción que se estaba realizando en el pasado.",
+      "id": "n4-9",
+      "category": "Continuidad",
+      "title": "～てくる",
+      "formula": "V (forma て) + くる",
+      "description": "Indica: 1. Una acción que se acerca al hablante. 2. Un cambio que ha empezado en el pasado y continúa hasta el presente.",
       "examples": [
         {
-          "jp": "昨日[きのう]の 今[いま]ごろ、テレビを 見[み]て いました。",
-          "es": "Ayer a estas horas estaba viendo la televisión."
+          "jp": "向[む]こうから誰[だれ]か走[はし]ってきました。",
+          "es": "Alguien vino corriendo desde allá."
+        },
+        {
+          "jp": "最近[さいきん]、日本語[にほんご]が分[わ]かってきました。",
+          "es": "Últimamente he empezado a entender el japonés."
+        }
+      ]
+    },
+    {
+      "id": "n4-10",
+      "category": "Manera",
+      "title": "方",
+      "formula": "V (raíz) + かた",
+      "description": "Indica el método o la manera de realizar una acción. 'Cómo hacer...' o 'forma de...'.",
+      "examples": [
+        {
+          "jp": "漢字[かんじ]の書[か]き方[かた]を忘[わす]れました。",
+          "es": "Olvidé cómo se escribe el kanji (la forma de escribir)."
+        },
+        {
+          "jp": "日本料理[にほんりょうり]の作[つく]り方[かた]を習[なら]いたいです。",
+          "es": "Quiero aprender cómo se hace la comida japonesa."
+        }
+      ]
+    },
+    {
+      "id": "n4-11",
+      "category": "Limitación",
+      "title": "だけで",
+      "formula": "Sustantivo / V (informal) + だけで",
+      "description": "Indica que con solo ese elemento o esa acción es suficiente para que ocurra un resultado.",
+      "examples": [
+        {
+          "jp": "彼[かれ]の声[こえ]を聞[き]くだけで嬉[うれ]しいです。",
+          "es": "Con solo escuchar su voz soy feliz."
+        },
+        {
+          "jp": "見[み]るだけで何[なに]もしませんでした。",
+          "es": "Solo con mirar no hice nada más."
+        }
+      ]
+    },
+    {
+      "id": "n4-12",
+      "category": "Conjunción",
+      "title": "だが",
+      "formula": "Frase 1. だが + Frase 2.",
+      "description": "Conjunción formal que indica contraste entre dos oraciones. 'Pero' o 'sin embargo'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は天才[てんさい]だ。だが、努力[どりょく]もしている。",
+          "es": "Él es un genio. Sin embargo, también se esfuerza."
+        },
+        {
+          "jp": "お金[かね]はない。だが、夢[ゆめ]はある。",
+          "es": "No tengo dinero. Pero tengo sueños."
+        }
+      ]
+    },
+    {
+      "id": "n4-13",
+      "category": "Secuencia",
+      "title": "なくて (Sequence)",
+      "formula": "Sustantivo + でなくて / Adj / V (forma ない → なくて)",
+      "description": "Se utiliza para conectar frases negando la primera parte para presentar la segunda como la correcta. 'No es A, sino B'.",
+      "examples": [
+        {
+          "jp": "肉[にく]でなくて、魚[さかな]を食[た]べたいです。",
+          "es": "No quiero comer carne, sino pescado."
+        },
+        {
+          "jp": "テストは難[むずか]しくなくて、簡単[かんたん]でした。",
+          "es": "El examen no fue difícil, fue fácil."
+        }
+      ]
+    },
+    {
+      "id": "n4-14",
+      "category": "Causa",
+      "title": "なくて (Reasons and Causes)",
+      "formula": "V (forma ない → なくて) / Adj (→ くて)",
+      "description": "Indica que el estado negativo de la primera parte es la causa de una emoción o situación posterior. 'Como no... / Al no...'.",
+      "examples": [
+        {
+          "jp": "家族[かぞく]に会[あ]えなくて寂[さび]しいです。",
+          "es": "Estoy triste porque no puedo ver a mi familia."
+        },
+        {
+          "jp": "道[みち]が分[わ]からなくて困[こま]りました。",
+          "es": "Tuve problemas porque no sabía el camino."
+        }
+      ]
+    },
+    {
+      "id": "n4-15",
+      "category": "Manera",
+      "title": "ないで",
+      "formula": "V (forma ない) + で",
+      "description": "Indica realizar una acción sin hacer otra que normalmente se esperaría, o elegir una opción sobre otra. 'Sin hacer...'.",
+      "examples": [
+        {
+          "jp": "傘[かさ]を持[も]たないで出[で]かけました。",
+          "es": "Salí sin llevar el paraguas."
+        },
+        {
+          "jp": "昨夜[さくや]は寝[ね]ないで勉強[べんきょう]しました。",
+          "es": "Anoche estudié sin dormir."
+        }
+      ]
+    },
+    {
+      "id": "n4-16",
+      "category": "Pasiva",
+      "title": "れる・られる (Passive)",
+      "formula": "V (forma pasiva)",
+      "description": "Indica que el sujeto recibe una acción de otro. Se usa a menudo para expresar que una acción ajena nos causa molestia o pesar.",
+      "examples": [
+        {
+          "jp": "泥[ど]棒[ぼう]に財布[さいふ]を盗[ぬす]まれました。",
+          "es": "Un ladrón me robó la cartera (mi cartera fue robada por un ladrón)."
+        },
+        {
+          "jp": "先生[せんせい]に褒[ほ]められました。",
+          "es": "Fui elogiado por el profesor."
+        }
+      ]
+    },
+    {
+      "id": "n4-17",
+      "category": "Verbos",
+      "title": "他動詞・自動詞",
+      "formula": "Sustantivo + を + V (Transitivo) / Sustantivo + が + V (Intransitivo)",
+      "description": "Los verbos transitivos indican una acción realizada por un agente. Los intransitivos indican un estado o cambio que ocurre por sí solo.",
+      "examples": [
+        {
+          "jp": "電気[でんき]を消[け]しました。",
+          "es": "Apagué la luz (Transitivo)."
+        },
+        {
+          "jp": "電気[でんき]が消[き]えました。",
+          "es": "La luz se apagó (Intransitivo)."
+        }
+      ]
+    },
+    {
+      "id": "n4-18",
+      "category": "Repetición",
+      "title": "直す",
+      "formula": "V (raíz) + なおす",
+      "description": "Indica volver a realizar una acción para corregir un error o mejorar el resultado. 'Re-hacer'.",
+      "examples": [
+        {
+          "jp": "字[じ]が汚[きたな]いので書[か]き直[なお]しました。",
+          "es": "Como la letra estaba fea, la volví a escribir."
+        },
+        {
+          "jp": "故障[こしょう]したので直[なお]してください。",
+          "es": "Se averió, así que por favor arréglelo."
+        }
+      ]
+    },
+    {
+      "id": "n4-19",
+      "category": "Sustantivación",
+      "title": "と言う事",
+      "formula": "Frase + ということ",
+      "description": "Convierte una frase completa en un sustantivo para poder usarla como sujeto u objeto de la oración. 'El hecho de que...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]が合格[ごうかく]したということを聞[き]きました。",
+          "es": "He oído (el hecho de) que él ha aprobado."
+        },
+        {
+          "jp": "一番[いちばん]大切[たいせつ]なのは、諦[あきら]めないということです。",
+          "es": "Lo más importante es (el hecho de) no rendirse."
+        }
+      ]
+    },
+    {
+      "id": "n4-20",
+      "category": "Tiempo",
+      "title": "時",
+      "formula": "V (informal) / Adj / Sustantivo + の + 時（とき）",
+      "description": "Indica el momento o la ocasión en la que ocurre una acción o estado. 'Cuando...'.",
+      "examples": [
+        {
+          "jp": "子供[こども]の時[とき]、よくこの公園[こうえん]で遊[あそ]びました。",
+          "es": "Cuando era niño, jugaba mucho en este parque."
+        },
+        {
+          "jp": "日本[にほん]へ行[い]く時[とき]、たくさん写真[しゃしん]を撮[と]りました。",
+          "es": "Cuando fui a Japón, saqué muchas fotos."
+        }
+      ]
+    },
+    {
+      "id": "n4-21",
+      "category": "Orden",
+      "title": "まず",
+      "formula": "まず + Frase",
+      "description": "Se utiliza para indicar el primer paso en una secuencia de acciones. 'En primer lugar' o 'primero'.",
+      "examples": [
+        {
+          "jp": "まず、手[て]を洗[あら]ってください。",
+          "es": "Primero, por favor lávese las manos."
+        },
+        {
+          "jp": "まず、自己[じこ]紹[しょう]介[かい]から始[はじ]めましょう。",
+          "es": "Primero, empecemos con la presentación personal."
+        }
+      ]
+    },
+    {
+      "id": "n4-22",
+      "category": "Límite / Énfasis",
+      "title": "まで",
+      "formula": "Sustantivo + まで",
+      "description": "Indica el punto final de un tiempo o espacio. También se usa para enfatizar algo inesperado. 'Hasta' o 'incluso'.",
+      "examples": [
+        {
+          "jp": "三[さん]時[じ]まで待[ま]っています。",
+          "es": "Estaré esperando hasta las tres."
+        },
+        {
+          "jp": "親[おや]にまで嘘[うそ]を吐[つ]いてしまいました。",
+          "es": "Terminé diciendo mentiras incluso a mis padres."
+        }
+      ]
+    },
+    {
+      "id": "n4-23",
+      "category": "Límite de Tiempo",
+      "title": "までに",
+      "formula": "V (Diccionario) / Sustantivo + までに",
+      "description": "Indica el tiempo límite antes del cual una acción debe ser completada. 'A más tardar' o 'para antes de'.",
+      "examples": [
+        {
+          "jp": "来週[らいしゅう]の月曜日[げつようび]までにレポートを出[だ]してください。",
+          "es": "Por favor, entregue el informe para el próximo lunes a más tardar."
+        },
+        {
+          "jp": "六[ろく]時[じ]までには帰[かえ]ります。",
+          "es": "Regresaré para antes de las seis."
+        }
+      ]
+    },
+    {
+      "id": "n4-24",
+      "category": "Adición / Repetición",
+      "title": "また",
+      "formula": "また + Frase",
+      "description": "Se utiliza para indicar que algo ocurre de nuevo o para añadir información extra. 'De nuevo' o 'además'.",
+      "examples": [
+        {
+          "jp": "また明日[あした]会[あ]いましょう。",
+          "es": "Nos vemos de nuevo mañana."
+        },
+        {
+          "jp": "この店[みせ]は安[やす]いです。また、とてもおいしいです。",
+          "es": "Esta tienda es barata. Además, es muy rica."
+        }
+      ]
+    },
+    {
+      "id": "n4-25",
+      "category": "Inicio",
+      "title": "始める",
+      "formula": "V (raíz) + はじめる",
+      "description": "Indica el comienzo de una acción o un proceso. 'Empezar a...'.",
+      "examples": [
+        {
+          "jp": "雨[あめ]が降[ふ]り始[はじ]めました。",
+          "es": "Ha empezado a llover."
+        },
+        {
+          "jp": "先月[せんげつ]から日本語[にほんご]を習[なら]い始[はじ]めました。",
+          "es": "Empecé a aprender japonés desde el mes pasado."
+        }
+      ]
+    },
+    {
+      "id": "n4-26",
+      "category": "Finalización",
+      "title": "終わる",
+      "formula": "V (raíz) + おわる",
+      "description": "Indica la finalización de una acción. 'Terminar de...'.",
+      "examples": [
+        {
+          "jp": "本[ほん]を読[よ]み終[お]わりました。",
+          "es": "Terminé de leer el libro."
+        },
+        {
+          "jp": "晩[ばん]ご飯[はん]を食[た]べ終[お]わったら、皿[さら]を洗[あら]ってください。",
+          "es": "Cuando termines de cenar, por favor lava los platos."
+        }
+      ]
+    },
+    {
+      "id": "n4-27",
+      "category": "Aproximación",
+      "title": "頃",
+      "formula": "Sustantivo + 頃（ころ / ごろ）",
+      "description": "Se utiliza para indicar un tiempo o época aproximada. 'Alrededor de' o 'hacia'.",
+      "examples": [
+        {
+          "jp": "子供[こども]の頃[ころ]、よくここで遊[あそ]びました。",
+          "es": "En mi infancia (época de niño), solía jugar mucho aquí."
+        },
+        {
+          "jp": "明日[あした]の三[さん]時[じ]頃[ごろ]に伺[うかが]います。",
+          "es": "Le visitaré mañana alrededor de las tres."
+        }
+      ]
+    },
+    {
+      "id": "n4-28",
+      "category": "Orden temporal",
+      "title": "後で",
+      "formula": "V (forma た) / Sustantivo + の + あとで",
+      "description": "Indica que una acción ocurre después de otro suceso o periodo de tiempo. 'Después de'.",
+      "examples": [
+        {
+          "jp": "仕事[しごと]が終[お]わった後[あと]で、飲[の]みに行[い]きませんか。",
+          "es": "¿No te apetece ir a beber algo después de terminar el trabajo?"
+        },
+        {
+          "jp": "食事[しょくじ]の後[あと]で、薬[くすり]を飲[の]みます。",
+          "es": "Después de la comida, me tomaré la medicina."
+        }
+      ]
+    },
+    {
+      "id": "n4-29",
+      "category": "Pasado Progresivo",
+      "title": "～ていた",
+      "formula": "V (forma て) + いた",
+      "description": "Indica una acción que estaba en proceso en un punto específico del pasado o un estado que continuaba. 'Estaba ...-iendo'.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]の今[いま]頃[ごろ]、私[わたし]は寝[ね]ていました。",
+          "es": "Ayer a esta misma hora, yo estaba durmiendo."
+        },
+        {
+          "jp": "その時[とき]、窓[まど]が開[あ]いていました。",
+          "es": "En ese momento, la ventana estaba abierta."
+        }
+      ]
+    },
+    {
+      "id": "n4-30",
+      "category": "Frecuencia",
+      "title": "に (Frequency)",
+      "formula": "Periodo de tiempo + に + Cantidad",
+      "description": "Indica la frecuencia con la que ocurre una acción en un periodo determinado. 'Al' o 'por'.",
+      "examples": [
+        {
+          "jp": "一[いっ]週[しゅう]間[かん]に二[に]回[かい]、プールへ行[い]きます。",
+          "es": "Voy a la piscina dos veces por semana."
+        },
+        {
+          "jp": "一[いち]日[にち]に三[さん]回[かい]、薬[くすり]を飲[の]んでください。",
+          "es": "Por favor, tome la medicina tres veces al día."
+        }
+      ]
+    },
+    {
+      "id": "n4-31",
+      "category": "Resultado Final",
+      "title": "到頭",
+      "formula": "到頭（とうとう） + Frase",
+      "description": "Indica que después de un largo tiempo o esfuerzo, finalmente ocurrió algo. Suele indicar un resultado definitivo. 'Finalmente'.",
+      "examples": [
+        {
+          "jp": "長[なが]い間[あいだ]頑張[がんば]って、到[とう]頭[とう]合格[ごうかく]しました。",
+          "es": "Después de esforzarme mucho tiempo, finalmente aprobé."
+        },
+        {
+          "jp": "二[に]時[じ]間[かん]待[ま]ったが、彼[かれ]は到[とう]頭[とう]来[き]ませんでした。",
+          "es": "Esperé dos horas, pero él finalmente no vino."
+        }
+      ]
+    },
+    {
+      "id": "n4-32",
+      "category": "Comparación",
+      "title": "より",
+      "formula": "Sustantivo + より",
+      "description": "Se utiliza para establecer una comparación, indicando el objeto que sirve de referencia. 'Más que'.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は昨日[きのう]より暑[あつ]いです。",
+          "es": "Hoy hace más calor que ayer."
+        },
+        {
+          "jp": "私[わたし]は犬[いぬ]より猫[ねこ]の方[ほう]が好[す]きです。",
+          "es": "A mí me gustan más los gatos que los perros."
+        }
+      ]
+    },
+    {
+      "id": "n4-33",
+      "category": "Intervalo / Repetición",
+      "title": "毎に",
+      "formula": "Sustantivo / V (Diccionario) + 毎（ごと）に",
+      "description": "Indica que algo ocurre cada vez que se cumple un intervalo o situación. 'Cada'.",
+      "examples": [
+        {
+          "jp": "五[ご]分[ふん]毎[ごと]に電車[でんしゃ]が来[き]ます。",
+          "es": "El tren viene cada cinco minutos."
+        },
+        {
+          "jp": "オリンピックは四[よん]年[ねん]毎[ごと]に開[ひら]かれます。",
+          "es": "Las Olimpiadas se celebran cada cuatro años."
+        }
+      ]
+    },
+    {
+      "id": "n4-34",
+      "category": "Esfuerzo",
+      "title": "なるべく",
+      "formula": "なるべく + Adj / Adv",
+      "description": "Indica la intención de hacer algo en el mayor grado posible según las circunstancias. 'Lo más ... posible'.",
+      "examples": [
+        {
+          "jp": "なるべく早[はや]く帰[かえ]るようにします。",
+          "es": "Intentaré volver a casa lo más pronto posible."
+        },
+        {
+          "jp": "なるべく野菜[やさい]を食[た]べるようにしています。",
+          "es": "Estoy intentando comer verduras lo más posible."
+        }
+      ]
+    },
+    {
+      "id": "n4-35",
+      "category": "Tiempo Inminente",
+      "title": "～る所だ",
+      "formula": "V (Diccionario) + ところだ",
+      "description": "Indica que una acción está a punto de comenzar en ese preciso instante. 'Estar por' o 'estar a punto de'.",
+      "examples": [
+        {
+          "jp": "今[いま]から出[で]かける所[ところ]です。",
+          "es": "Estoy a punto de salir ahora mismo."
+        },
+        {
+          "jp": "ご飯[はん]を食[た]べる所[ところ]ですから、後[あと]で電話[でんわ]します。",
+          "es": "Como estoy por empezar a comer, te llamo luego."
+        }
+      ]
+    },
+    {
+      "id": "n4-36",
+      "category": "Contraste",
+      "title": "のに",
+      "formula": "Frase (informal) + のに",
+      "description": "Expresa sorpresa, queja o insatisfacción porque el resultado es contrario a lo que se esperaba. 'A pesar de' o 'aunque'.",
+      "examples": [
+        {
+          "jp": "薬[くすり]を飲[の]んだのに、風邪[かぜ]が治[なお]りません。",
+          "es": "A pesar de haber tomado la medicina, no se me quita el resfriado."
+        },
+        {
+          "jp": "日曜日[にちようび]なのに、仕事[しごと]をしています。",
+          "es": "Aunque es domingo, estoy trabajando."
+        }
+      ]
+    },
+    {
+      "id": "n4-37",
+      "category": "Opinión",
+      "title": "と思う",
+      "formula": "Frase (informal) + と思[おも]う",
+      "description": "Se utiliza para expresar la propia opinión, pensamiento o creencia sobre algo. 'Creo que...' o 'pienso que...'.",
+      "examples": [
+        {
+          "jp": "明日[あした]は雨[あめ]が降[ふ]ると思[おも]います。",
+          "es": "Creo que mañana lloverá."
+        },
+        {
+          "jp": "この映画[えいが]は面白[おもしろ]いと思[おモ]います。",
+          "es": "Pienso que esta película es interesante."
+        }
+      ]
+    },
+    {
+      "id": "n4-38",
+      "category": "Listado",
+      "title": "等",
+      "formula": "Sustantivo + など",
+      "description": "Se utiliza para dar ejemplos de una lista no exhaustiva. 'Entre otras cosas', 'tal como' o 'etcétera'.",
+      "examples": [
+        {
+          "jp": "机[つくえ]の上[うえ]にペンや本[ほん]などがあります。",
+          "es": "Sobre el escritorio hay cosas como bolígrafos y libros."
+        },
+        {
+          "jp": "店[みせ]でパンや卵[たまご]などを買[か]いました。",
+          "es": "Compré pan, huevos y otras cosas en la tienda."
+        }
+      ]
+    },
+    {
+      "id": "n4-39",
+      "category": "Semejanza",
+      "title": "みたい",
+      "formula": "Sustantivo / V (informal) + みたいだ",
+      "description": "Se utiliza para expresar que algo se parece a otra cosa o para hacer una conjetura basada en la apariencia. 'Parece...' o 'como...'.",
+      "examples": [
+        {
+          "jp": "あの雲[くも]はアイスクリームみたいです。",
+          "es": "Esa nube parece un helado."
+        },
+        {
+          "jp": "彼[かれ]は日本人[にほんじん]みたいに日本語[にほんご]を話[はな]します。",
+          "es": "Él habla japonés como un japonés."
+        }
+      ]
+    },
+    {
+      "id": "n4-40",
+      "category": "Sustantivación",
+      "title": "こと",
+      "formula": "V (Diccionario) + こと",
+      "description": "Se utiliza para convertir un verbo en un sustantivo para que pueda actuar como sujeto u objeto de la oración. 'El hecho de...' o '-ar/-er/-ir'.",
+      "examples": [
+        {
+          "jp": "私[わたし]の趣味[しゅみ]は本[ほん]を読[よ]むことです。",
+          "es": "Mi pasatiempo es leer libros."
+        },
+        {
+          "jp": "テニスをすることは楽[たの]しいです。",
+          "es": "Jugar al tenis es divertido."
+        }
+      ]
+    },
+    {
+      "id": "n4-41",
+      "category": "Apariencia",
+      "title": "そう",
+      "formula": "Adj-i (sin i) / Adj-na (sin na) / V (raíz) + そうだ",
+      "description": "Indica que algo parece tener una cualidad o que algo está a punto de suceder basándose en lo que se ve. 'Parece que...' o 'tiene pinta de...'.",
+      "examples": [
+        {
+          "jp": "このケーキはおいしそうです。",
+          "es": "Este pastel parece delicioso."
+        },
+        {
+          "jp": "今[いま]にも雨[あめ]が降[ふ]りそうです。",
+          "es": "Parece que va a llover en cualquier momento."
+        }
+      ]
+    },
+    {
+      "id": "n4-42",
+      "category": "Sustantivación",
+      "title": "さ",
+      "formula": "Adj-i (sin i) / Adj-na (sin na) + さ",
+      "description": "Sufijo que convierte adjetivos en sustantivos para medir grados o cualidades. Equivale a los sufijos '-idad' o '-ura'.",
+      "examples": [
+        {
+          "jp": "富士山[ふじさん]の高[たか]さを知[し]っていますか。",
+          "es": "¿Sabes la altura del monte Fuji?"
+        },
+        {
+          "jp": "このバッグの重[おも]さはどれくらいですか。",
+          "es": "¿Cuánto es el peso de este bolso?"
+        }
+      ]
+    },
+    {
+      "id": "n4-43",
+      "category": "Listado",
+      "title": "とか",
+      "formula": "Sustantivo + とか + Sustantivo + とか",
+      "description": "Se utiliza para enumerar ejemplos de manera informal. 'Cosas como... o...'.",
+      "examples": [
+        {
+          "jp": "冷蔵庫[れいぞうこ]に肉[にく]とか野菜[やさい]とかがあります。",
+          "es": "En la nevera hay cosas como carne o verduras."
+        },
+        {
+          "jp": "日曜[にちよう]日[び]は掃除[そうじ]をするとか洗濯[せんたく]をするとかします。",
+          "es": "Los domingos hago cosas como limpiar o lavar la ropa."
+        }
+      ]
+    },
+    {
+      "id": "n4-44",
+      "category": "Pronombre",
+      "title": "そういう",
+      "formula": "そういう + Sustantivo",
+      "description": "Se refiere a algo del tipo o clase que se acaba de mencionar. 'Ese tipo de...' o 'tal...'.",
+      "examples": [
+        {
+          "jp": "そういう話[はなし]は好[す]きじゃありません。",
+          "es": "No me gustan ese tipo de historias."
+        },
+        {
+          "jp": "ああ、そういうことですね。",
+          "es": "Ah, es ese tipo de cosas (entiendo)."
+        }
+      ]
+    },
+    {
+      "id": "n4-45",
+      "category": "Intención",
+      "title": "う・よう (Volitional)",
+      "formula": "V (forma volitiva)",
+      "description": "Se utiliza para invitar a alguien a hacer algo o para expresar la propia intención de manera informal. 'Hagamos...' o 'voy a...'.",
+      "examples": [
+        {
+          "jp": "一緒[いっしょ]に帰[かえ]ろう。",
+          "es": "Regresemos juntos."
+        },
+        {
+          "jp": "明日[あした]はもっと早[はや]く起[お]きよう。",
+          "es": "Mañana voy a levantarme más temprano."
+        }
+      ]
+    },
+    {
+      "id": "n4-46",
+      "category": "Conjetura",
+      "title": "様だ",
+      "formula": "Sustantivo + の / V (informal) + ようだ",
+      "description": "Se utiliza para expresar una conjetura basada en información o evidencia percibida. 'Parece que...' o 'al parecer...'.",
+      "examples": [
+        {
+          "jp": "外[そと]は雨[あめ]が降[ふ]っているようです。",
+          "es": "Parece que afuera está lloviendo."
+        },
+        {
+          "jp": "彼[かれ]はもう帰[かえ]ったようです。",
+          "es": "Al parecer él ya se ha ido a casa."
+        }
+      ]
+    },
+    {
+      "id": "n4-47",
+      "category": "Negación",
+      "title": "全然",
+      "formula": "全然[ぜんぜん] + V-nai / Adj-nai",
+      "description": "Adverbio que enfatiza una negación total. 'Para nada' o 'en absoluto'.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は全然[ぜんぜん]寝[ね]られませんでした。",
+          "es": "Ayer no pude dormir en absoluto."
+        },
+        {
+          "jp": "この料理[りょうり]は全然[ぜんぜん]辛[から]くないです。",
+          "es": "Esta comida no es para nada picante."
+        }
+      ]
+    },
+    {
+      "id": "n4-48",
+      "category": "Duda",
+      "title": "かな",
+      "formula": "Frase (informal) + かな",
+      "description": "Partícula de final de frase que expresa duda, incertidumbre o una pregunta hacia uno mismo. 'Me pregunto si...'.",
+      "examples": [
+        {
+          "jp": "明日[あした]は晴[は]れるかな。",
+          "es": "Me pregunto si mañana hará sol."
+        },
+        {
+          "jp": "これ、おいしいかな。",
+          "es": "Me pregunto si esto estará rico."
+        }
+      ]
+    },
+    {
+      "id": "n4-49",
+      "category": "Grado",
+      "title": "余り～ない",
+      "formula": "あまり + V-nai / Adj-nai",
+      "description": "Se utiliza para indicar que algo no ocurre con mucha frecuencia o no tiene un grado alto. 'No mucho', 'no muy' o 'casi no'.",
+      "examples": [
+        {
+          "jp": "私[わたし]はあまりお酒[さけ]を飲[の]みません。",
+          "es": "Yo no bebo mucho alcohol."
+        },
+        {
+          "jp": "この店[みせ]はあまり高[たか]くないです。",
+          "es": "Esta tienda no es muy cara."
+        }
+      ]
+    },
+    {
+      "id": "n4-50",
+      "category": "Condición",
+      "title": "ば",
+      "formula": "V (forma condicional ば)",
+      "description": "Se utiliza para expresar una condición necesaria para que ocurra un resultado. 'Si... entonces...'.",
+      "examples": [
+        {
+          "jp": "安[やす]ければ買[か]います。",
+          "es": "Si es barato, lo compraré."
+        },
+        {
+          "jp": "早[はや]く起[お]きれば間[ま]に合[あ]います。",
+          "es": "Si te levantas temprano, llegarás a tiempo."
+        }
+      ]
+    },
+    {
+      "id": "n4-51",
+      "category": "Condición",
+      "title": "なら",
+      "formula": "Sustantivo / Frase + なら",
+      "description": "Se utiliza para dar un consejo o sugerencia basada en el contexto de lo que ha dicho el interlocutor. 'Si se trata de...' o 'si es así...'.",
+      "examples": [
+        {
+          "jp": "日本[にほん]へ行[い]くなら、京都[きょうと]がいいですよ。",
+          "es": "Si vas a Japón, Kioto es un buen lugar."
+        },
+        {
+          "jp": "カメラなら、この店[みせ]が一番[いちばん]安[やす]いです。",
+          "es": "Si es por cámaras, esta tienda es la más barata."
+        }
+      ]
+    },
+    {
+      "id": "n4-52",
+      "category": "Emoción / Apariencia",
+      "title": "がる",
+      "formula": "Adj-i (sin i) / Adj-na (sin na) + がる",
+      "description": "Se utiliza para describir los sentimientos o deseos de una tercera persona basándose en su comportamiento observable.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は寒[さむ]がっています。",
+          "es": "Él parece tener frío (actúa como si tuviera frío)."
+        },
+        {
+          "jp": "恥[は]ずかしがらないで、話[はな]してください。",
+          "es": "No tengas vergüenza y habla, por favor."
+        }
+      ]
+    },
+    {
+      "id": "n4-53",
+      "category": "Sensación",
+      "title": "がする",
+      "formula": "Sustantivo (Sabor/Olor/Sonido/Voz) + がする",
+      "description": "Se utiliza para indicar que se percibe algo a través de los sentidos. 'Huele a...', 'sabe a...', 'se oye...'.",
+      "examples": [
+        {
+          "jp": "いいにおいがしますね。",
+          "es": "Huele bien, ¿verdad?"
+        },
+        {
+          "jp": "隣[となり]の部屋[へや]で変[へん]な音[おと]がしました。",
+          "es": "Se oyó un ruido extraño en la habitación de al lado."
+        }
+      ]
+    },
+    {
+      "id": "n4-54",
+      "category": "Deseo",
+      "title": "たがる",
+      "formula": "V (raíz) + たがる",
+      "description": "Se utiliza para expresar el deseo de una tercera persona de realizar una acción basándose en lo que se observa. 'Él/Ella quiere...'.",
+      "examples": [
+        {
+          "jp": "息子[むすこ]は日本[にほん]へ行[い]たがっています。",
+          "es": "Mi hijo quiere ir a Japón (muestra deseos de ir)."
+        },
+        {
+          "jp": "子供[こども]が外[そと]で遊[あそ]びたがっています。",
+          "es": "El niño quiere jugar afuera."
+        }
+      ]
+    },
+    {
+      "id": "n4-55",
+      "category": "Posibilidad",
+      "title": "かもしれない",
+      "formula": "V-informal / Adj / Sustantivo + かもしれない",
+      "description": "Expresa una posibilidad incierta pero probable. 'A lo mejor', 'quizás' o 'tal vez'.",
+      "examples": [
+        {
+          "jp": "明日[あした]は雨[あめ]が降[ふ]るかもしれません。",
+          "es": "A lo mejor mañana llueve."
+        },
+        {
+          "jp": "彼[かれ]は今日[きょう]、来[こ]ないかもしれません。",
+          "es": "Quizás él no venga hoy."
+        }
+      ]
+    },
+    {
+      "id": "n4-56",
+      "category": "Semejanza",
+      "title": "みたいに",
+      "formula": "Sustantivo / V-informal + みたいに + V/Adj",
+      "description": "Indica que una acción se realiza de forma similar a otra cosa o persona. Funciona como un adverbio. 'Como...'.",
+      "examples": [
+        {
+          "jp": "彼女[かのじょ]は歌手[かしゅ]みたいに歌[うた]が上手[じょうず]です。",
+          "es": "Ella canta tan bien como una cantante."
+        },
+        {
+          "jp": "夢[ゆめ]みたいに綺麗[きれい]な所[ところ]でした。",
+          "es": "Era un lugar hermoso como un sueño."
+        }
+      ]
+    },
+    {
+      "id": "n4-57",
+      "category": "Apariencia",
+      "title": "そうに",
+      "formula": "Adj-i (sin i) / Adj-na (sin na) + そうに + V",
+      "description": "Describe la manera en que se realiza una acción basándose en la apariencia visual. 'De forma que parece...'.",
+      "examples": [
+        {
+          "jp": "子供[こども]たちが楽[たの]しそうに遊[あそ]んでいます。",
+          "es": "Los niños juegan de forma que parecen divertirse."
+        },
+        {
+          "jp": "彼[かれ]は悲[かな]しそうに笑[わら]いました。",
+          "es": "Él sonrió de forma que parecía estar triste."
+        }
+      ]
+    },
+    {
+      "id": "n4-58",
+      "category": "Semejanza",
+      "title": "の様に",
+      "formula": "Sustantivo + の様[よう]に + V/Adj",
+      "description": "Indica semejanza o se usa para presentar un ejemplo. Es más formal que 'mitai ni'. 'Como...' o 'al igual que...'.",
+      "examples": [
+        {
+          "jp": "私[わたし]も彼[かれ]の様[よう]に上手[じょうず]に話[はな]したいです。",
+          "es": "Yo también quiero hablar bien como él."
+        },
+        {
+          "jp": "氷[こおり]の様[よう]に冷[つめ]たい水[みず]です。",
+          "es": "Es agua fría como el hielo."
+        }
+      ]
+    },
+    {
+      "id": "n4-59",
+      "category": "Intención",
+      "title": "う・よう + と思う",
+      "formula": "V-volitivo + と思[おも]う",
+      "description": "Expresa una intención o plan que el hablante ha estado considerando. 'Tengo pensado...' o 'pienso (hacer)...'.",
+      "examples": [
+        {
+          "jp": "夏休み[なつやす]みに日本[にほん]へ行[い]こうと思[おも]っています。",
+          "es": "Tengo pensado ir a Japón en las vacaciones de verano."
+        },
+        {
+          "jp": "今日[きょう]から日記[にっき]を書[か]こうと思[おも]います。",
+          "es": "Pienso empezar a escribir un diario desde hoy."
+        }
+      ]
+    },
+    {
+      "id": "n4-60",
+      "category": "Adverbios",
+      "title": "く・に",
+      "formula": "Adj-i (→ く) / Adj-na (→ に) + V",
+      "description": "Convierte adjetivos en adverbios para describir cómo se realiza una acción. Equivale a la terminación '-mente'.",
+      "examples": [
+        {
+          "jp": "朝[あさ]早[はや]く起[お]きました。",
+          "es": "Me levanté temprano por la mañana."
+        },
+        {
+          "jp": "部屋[へや]を綺麗[きれい]に掃除[そうじ]しました。",
+          "es": "Limpié la habitación dejándola impecable (limpiamente)."
+        }
+      ]
+    },
+    {
+      "id": "n4-61",
+      "category": "Cambio de Estado",
+      "title": "にする・くする",
+      "formula": "Sustantivo + にする / Adj-i (→ くする) / Adj-na (→ にする)",
+      "description": "Indica el acto de cambiar el estado de algo o alguien de forma deliberada. 'Hacer...' o 'volver...'.",
+      "examples": [
+        {
+          "jp": "音[おと]を小[ちい]さくしてください。",
+          "es": "Por favor, baje el volumen (haga el sonido más pequeño)."
+        },
+        {
+          "jp": "部屋[へや]を明[あか]るくしました。",
+          "es": "Aclaré la habitación (la hice más brillante)."
+        }
+      ]
+    },
+    {
+      "id": "n4-62",
+      "category": "Deseo",
+      "title": "といい",
+      "formula": "V-informal + といい",
+      "description": "Expresa un deseo o esperanza de que algo ocurra para beneficio propio o de otros. 'Espero que...' o 'ojalá...'.",
+      "examples": [
+        {
+          "jp": "明日[あした]、晴[は]れるといいですね。",
+          "es": "Espero que mañana haga buen tiempo, ¿verdad?"
+        },
+        {
+          "jp": "早[はや]く治[なお]るといいですね。",
+          "es": "Ojalá te recuperes pronto."
+        }
+      ]
+    },
+    {
+      "id": "n4-63",
+      "category": "Cambio de Estado",
+      "title": "様になる",
+      "formula": "V-diccionario / V-potencial + 様[よう]になる",
+      "description": "Indica un cambio de un estado a otro, o que algo ha empezado a ser posible tras un proceso. 'Llegar a...' o 'empezar a...'.",
+      "examples": [
+        {
+          "jp": "日本語[にほんご]が話[はな]せる様[よう]になりました。",
+          "es": "Ya puedo hablar japonés (he llegado al punto de poder hablarlo)."
+        },
+        {
+          "jp": "最近[さいきん]、野菜[やさい]を食[た]べる様[よう]になりました。",
+          "es": "Últimamente he empezado a comer verduras."
+        }
+      ]
+    },
+    {
+      "id": "n4-64",
+      "category": "Frecuencia",
+      "title": "毎～の様に",
+      "formula": "毎[まい]日/週/月 + の様[よう]に",
+      "description": "Indica que algo sucede casi siempre en el periodo mencionado. 'Casi todos los (días/meses...)'.",
+      "examples": [
+        {
+          "jp": "毎[まい]日[にち]の様[よう]にプールへ行[い]っています。",
+          "es": "Voy a la piscina casi todos los días."
+        },
+        {
+          "jp": "毎[まい]晩[ばん]の様[よう]に電話[でんわ]があります。",
+          "es": "Hay llamadas casi todas las noches."
+        }
+      ]
+    },
+    {
+      "id": "n4-65",
+      "category": "Confirmación",
+      "title": "じゃないか",
+      "formula": "Frase informal + じゃないか",
+      "description": "Se usa para confirmar algo con el oyente o expresar sorpresa o reprimenda. '¿No es cierto?' o '¿acaso no...?'.",
+      "examples": [
+        {
+          "jp": "これ、君[きみ]の傘[かさ]じゃないか。",
+          "es": "Oye, ¿este no es tu paraguas?"
+        },
+        {
+          "jp": "ほら、やっぱり出来[でき]たじゃないか。",
+          "es": "¿Ves? ¡Si al final te ha salido (te dije que podías)!"
+        }
+      ]
+    },
+    {
+      "id": "n4-66",
+      "category": "Conjetura",
+      "title": "らしい ①",
+      "formula": "Sustantivo / Adj / V-informal + らしい",
+      "description": "Expresa una conjetura basada en lo que se ha oído o en información externa. 'Parece que...' o 'dicen que...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は明日[あした]来[こ]ないらしいです。",
+          "es": "Parece que él no vendrá mañana."
+        },
+        {
+          "jp": "あの映画[えいが]は面白[おもしろ]いらしいですよ。",
+          "es": "Dicen que esa película es interesante."
+        }
+      ]
+    },
+    {
+      "id": "n4-67",
+      "category": "Preparación",
+      "title": "～ておく",
+      "formula": "V-forma て + おく",
+      "description": "Indica realizar una acción con antelación para prepararse para el futuro o mantener un estado. 'Hacer de antemano'.",
+      "examples": [
+        {
+          "jp": "旅行[りょこう]の切符[きっぷ]を買[か]っておきます。",
+          "es": "Compraré los billetes para el viaje de antemano."
+        },
+        {
+          "jp": "パーティーの準備[じゅんび]をしておいてください。",
+          "es": "Por favor, deje preparados los arreglos para la fiesta."
+        }
+      ]
+    },
+    {
+      "id": "n4-68",
+      "category": "Deseo",
+      "title": "が欲しい",
+      "formula": "Sustantivo + が欲[ほ]しい",
+      "description": "Indica el deseo de poseer un objeto o algo concreto por parte del hablante. 'Quiero (algo)'.",
+      "examples": [
+        {
+          "jp": "新[あたら]しい車[くるま]が欲[ほ]しいです。",
+          "es": "Quiero un coche nuevo."
+        },
+        {
+          "jp": "休み[やすみ]が欲[ほ]しいです。",
+          "es": "Quiero vacaciones (tiempo libre)."
+        }
+      ]
+    },
+    {
+      "id": "n4-69",
+      "category": "Petición",
+      "title": "～て欲しい",
+      "formula": "Persona + に + V-forma て + ほしい",
+      "description": "Expresa el deseo de que otra persona realice una acción. 'Quiero que (alguien) haga (algo)'.",
+      "examples": [
+        {
+          "jp": "先生[せんせい]に教[おし]えてほしいです。",
+          "es": "Quiero que el profesor me enseñe."
+        },
+        {
+          "jp": "あなたにずっとここにいてほしいです。",
+          "es": "Quiero que estés aquí siempre."
+        }
+      ]
+    },
+    {
+      "id": "n4-70",
+      "category": "Cita",
+      "title": "と聞いた",
+      "formula": "Frase informal + と聞[き]いた",
+      "description": "Indica información que el hablante ha recibido de otra fuente de forma auditiva. 'He oído que...'.",
+      "examples": [
+        {
+          "jp": "田中[たなか]さんは結婚[けっこん]したと聞[き]きました。",
+          "es": "He oído que el Sr. Tanaka se ha casado."
+        },
+        {
+          "jp": "明日[あした]はテストがないと聞[き]きました。",
+          "es": "He oído que mañana no hay examen."
+        }
+      ]
+    },
+    {
+      "id": "n4-71",
+      "category": "Sensación",
+      "title": "聞こえる",
+      "formula": "Sustantivo + が + 聞[き]こえる",
+      "description": "Indica que un sonido o voz llega al oído de forma natural, sin que el hablante haga un esfuerzo por escuchar. 'Oírse'.",
+      "examples": [
+        {
+          "jp": "海[うみ]の音[おと]が聞[き]こえます。",
+          "es": "Se oye el sonido del mar."
+        },
+        {
+          "jp": "隣[となり]の部屋[へや]から声[こえ]が聞[き]こえます。",
+          "es": "Se oye una voz desde la habitación de al lado."
+        }
+      ]
+    },
+    {
+      "id": "n4-72",
+      "category": "Visión",
+      "title": "見える",
+      "formula": "Sustantivo + が + 見[み]える",
+      "description": "Indica que algo entra en el campo de visión de forma natural, sin que el hablante haga un esfuerzo por mirar. 'Verse'.",
+      "examples": [
+        {
+          "jp": "ここから海[うみ]が見[み]えます。",
+          "es": "Desde aquí se ve el mar."
+        },
+        {
+          "jp": "今日[きょう]は富士山[ふじさん]がきれいに見[み]えます。",
+          "es": "Hoy el monte Fuji se ve con claridad."
+        }
+      ]
+    },
+    {
+      "id": "n4-73",
+      "category": "Inicio Repentino",
+      "title": "出す",
+      "formula": "V-raíz + 出[だ]す",
+      "description": "Indica que una acción comienza de forma repentina, inesperada o hacia el exterior. 'Empezar de repente a...'.",
+      "examples": [
+        {
+          "jp": "急[きゅう]に雨[あめ]が降[ふ]り出[だ]しました。",
+          "es": "De repente empezó a llover."
+        },
+        {
+          "jp": "赤[あか]ちゃんが泣[な]き出[だ]しました。",
+          "es": "El bebé rompió a llorar (empezó a llorar de repente)."
+        }
+      ]
+    },
+    {
+      "id": "n4-74",
+      "category": "Contador",
+      "title": "代",
+      "formula": "Número + 代[だい]",
+      "description": "Se utiliza para referirse a una década de edad o a un periodo de años (los años 20, los 30, etc.).",
+      "examples": [
+        {
+          "jp": "20代[だい]の時[とき]、日本[にほん]に住[す]んでいました。",
+          "es": "Vivía en Japón cuando tenía veintitantos años."
+        },
+        {
+          "jp": "1980年[ねん]代[だい]の音[おん]楽[がく]が好[す]きです。",
+          "es": "Me gusta la música de la década de los 80."
+        }
+      ]
+    },
+    {
+      "id": "n4-75",
+      "category": "Énfasis",
+      "title": "Number + も",
+      "formula": "Número + も",
+      "description": "Se añade a una cantidad para enfatizar que es mucho más de lo esperado o, en frases negativas, para indicar 'ni siquiera'.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は10時間[じかん]も寝[ね]ました。",
+          "es": "Ayer dormí nada menos que 10 horas."
+        },
+        {
+          "jp": "財布[さいふ]に100円[えん]もありません。",
+          "es": "No tengo ni siquiera 100 yenes en la cartera."
+        }
+      ]
+    },
+    {
+      "id": "n4-76",
+      "category": "Cantidad",
+      "title": "殆ど",
+      "formula": "ほとんど + Sustantivo / ほとんど + V",
+      "description": "Indica la gran mayoría de algo o que una acción está casi completada. 'Casi todo' o 'la mayoría'.",
+      "examples": [
+        {
+          "jp": "ほとんどの学生[がくせい]が合[ごう]格[かく]しました。",
+          "es": "Casi todos los estudiantes aprobaron."
+        },
+        {
+          "jp": "宿題[しゅくだい]はほとんど終[お]わりました。",
+          "es": "He terminado casi todos los deberes."
+        }
+      ]
+    },
+    {
+      "id": "n4-77",
+      "category": "Pronombre",
+      "title": "そんな",
+      "formula": "そんな + Sustantivo",
+      "description": "Se refiere a algo similar a lo que el oyente acaba de mencionar. 'Ese tipo de' o 'semejante'.",
+      "examples": [
+        {
+          "jp": "そんな話[はなし]は信[しん]じられません。",
+          "es": "No puedo creer una historia como esa."
+        },
+        {
+          "jp": "そんな所[ところ]へ行[い]きたくないです。",
+          "es": "No quiero ir a un lugar así."
+        }
+      ]
+    },
+    {
+      "id": "n4-78",
+      "category": "Distribución",
+      "title": "各",
+      "formula": "各[かく] + Sustantivo",
+      "description": "Prefijo formal que significa 'cada uno' de los elementos de un grupo.",
+      "examples": [
+        {
+          "jp": "各[かく]部屋[へや]にエアコンがあります。",
+          "es": "Hay un aire acondicionado en cada habitación."
+        },
+        {
+          "jp": "各[かく]自[じ]、好[す]きな飲[の]み物[もの]を選[えら]んでください。",
+          "es": "Que cada uno elija la bebida que le guste."
+        }
+      ]
+    },
+    {
+      "id": "n4-79",
+      "category": "Límite",
+      "title": "以上 ①",
+      "formula": "Número / Cantidad + 以[い]上[じょう]",
+      "description": "Indica una cantidad igual o superior al número mencionado. 'Más de' o 'o más'.",
+      "examples": [
+        {
+          "jp": "18歳[さい]以[い]上[じょう]の人[ひと]だけが入[はい]れます。",
+          "es": "Solo pueden entrar personas de 18 años o más."
+        },
+        {
+          "jp": "一[いっ]か分[げつ]に三[さん]冊[さつ]以[い]上[じょう]の本[ほん]を読[よ]みます。",
+          "es": "Leo tres o más libros al mes."
+        }
+      ]
+    },
+    {
+      "id": "n4-80",
+      "category": "Límite",
+      "title": "以下",
+      "formula": "Número / Cantidad + 以[い]下[か]",
+      "description": "Indica una cantidad igual o inferior al número mencionado. 'Menos de' o 'o menos'.",
+      "examples": [
+        {
+          "jp": "小学生[しょうがくせい]以[い]下[か]は無[む]料[りょう]です。",
+          "es": "Los niños de primaria o menores entran gratis."
+        },
+        {
+          "jp": "1000円[えん]以[い]下[か]のプレゼントを選[えら]んでください。",
+          "es": "Por favor, elige un regalo de 1000 yenes o menos."
+        }
+      ]
+    },
+    {
+      "id": "n4-81",
+      "category": "Exclusión",
+      "title": "以外",
+      "formula": "Sustantivo + 以[い]外[がい]",
+      "description": "Indica que se excluye el sustantivo mencionado. 'A excepción de' o 'aparte de'.",
+      "examples": [
+        {
+          "jp": "日曜日[にちようび]以[い]外[がい]は毎日[まいにち]働[はたら]きます。",
+          "es": "Trabajo todos los días excepto los domingos."
+        },
+        {
+          "jp": "彼[かれ]以[い]外[がい]は全員[ぜんいん]来[き]ました。",
+          "es": "Vinieron todos excepto él."
+        }
+      ]
+    },
+    {
+      "id": "n4-82",
+      "category": "Continuidad",
+      "title": "ずっと ①",
+      "formula": "ずっと + V-te iru / Estado",
+      "description": "Indica que una acción o estado ha continuado ininterrumpidamente durante mucho tiempo. 'Todo el tiempo' o 'siempre'.",
+      "examples": [
+        {
+          "jp": "朝[あさ]からずっと雨[あめ]が降[ふ]っています。",
+          "es": "Ha estado lloviendo todo el tiempo desde la mañana."
+        },
+        {
+          "jp": "私[わたし]はずっと彼[かれ]を待[ま]っています。",
+          "es": "He estado esperando por él todo este tiempo."
+        }
+      ]
+    },
+    {
+      "id": "n4-83",
+      "category": "Aproximación",
+      "title": "大体",
+      "formula": "だいたい + Cantidad / Frase",
+      "description": "Indica que algo es casi completo o una cantidad aproximada. 'Casi todo', 'en general' o 'aproximadamente'.",
+      "examples": [
+        {
+          "jp": "話[はなし]の内容[ないよう]は大[だい]体[たい]分かりました。",
+          "es": "He entendido el contenido de la charla en su mayor parte."
+        },
+        {
+          "jp": "駅[えき]まで大[だい]体[たい]10分[ぷん]です。",
+          "es": "Hasta la estación son aproximadamente 10 minutos."
+        }
+      ]
+    },
+    {
+      "id": "n4-84",
+      "category": "Alcance",
+      "title": "の中で",
+      "formula": "Sustantivo + の中[なか]で",
+      "description": "Se utiliza para limitar un grupo o ámbito en el que se realiza una comparación o selección. 'De entre' o 'dentro de'.",
+      "examples": [
+        {
+          "jp": "スポーツの中[なか]で何[なに]が一[いち]番[ばん]好[す]きですか。",
+          "es": "¿De entre todos los deportes, cuál es el que más te gusta?"
+        },
+        {
+          "jp": "家族[かぞく]の中[なか]で父[ちち]が一[いち]番[ばん]背[せ]が高[たか]いです。",
+          "es": "Dentro de mi familia, mi padre es el más alto."
+        }
+      ]
+    },
+    {
+      "id": "n4-85",
+      "category": "Semejanza",
+      "title": "様 + に・な",
+      "formula": "Sustantivo + のよう[よう]に / のよう[よう]な",
+      "description": "Se utiliza para hacer comparaciones o dar ejemplos. 'Como' o 'parecido a'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]のようにお金持ち[かねも]ちになりたいです。",
+          "es": "Quiero volverme rico como él."
+        },
+        {
+          "jp": "今日[きょう]は春[はる]のよう[よう]な天気[てんき]ですね。",
+          "es": "Hoy hace un tiempo parecido al de la primavera, ¿verdad?"
+        }
+      ]
+    },
+    {
+      "id": "n4-86",
+      "category": "Límite Mínimo",
+      "title": "(Amount) + は",
+      "formula": "Cantidad + は",
+      "description": "Se añade a una cantidad para indicar el límite mínimo esperado. 'Al menos'.",
+      "examples": [
+        {
+          "jp": "毎日[まいにち]一[いち]時[じ]間[かん]は勉強[べんきょう]します。",
+          "es": "Estudio al menos una hora todos los días."
+        },
+        {
+          "jp": "パーティーには50人[にん]は来[く]ると思[おも]います。",
+          "es": "Creo que vendrán al menos 50 personas a la fiesta."
+        }
+      ]
+    },
+    {
+      "id": "n4-87",
+      "category": "Indefinido",
+      "title": "何 + (Counter) + か",
+      "formula": "何[なん] + Contador + か",
+      "description": "Indica una cantidad indeterminada pero pequeña. 'Algunos', 'unos cuantos' o 'varios'.",
+      "examples": [
+        {
+          "jp": "りんごを何[なん]個[こ]か買[か]いました。",
+          "es": "Compré algunas manzanas."
+        },
+        {
+          "jp": "教室[きょうしつ]に何[なん]人[にん]か学[がく]生[せい]がいます。",
+          "es": "Hay varios estudiantes en el aula."
+        }
+      ]
+    },
+    {
+      "id": "n4-88",
+      "category": "Énfasis",
+      "title": "真っ",
+      "formula": "真[ま]っ + Adj",
+      "description": "Prefijo que enfatiza el grado de un adjetivo, generalmente de color o estado. 'Completamente' o 'puro'.",
+      "examples": [
+        {
+          "jp": "外[そと]は真[ま]っ暗[くら]です。",
+          "es": "Afuera está completamente a oscuras."
+        },
+        {
+          "jp": "顔[かお]が真[ま]っ赤[か]になりました。",
+          "es": "Se le puso la cara completamente roja."
+        }
+      ]
+    },
+    {
+      "id": "n4-89",
+      "category": "Limitación",
+      "title": "(Number) + しか〜ない",
+      "formula": "Cantidad + しか + V-nai",
+      "description": "Enfatiza que la cantidad es insuficiente o pequeña. 'Solo' o 'nada más que'.",
+      "examples": [
+        {
+          "jp": "財布[さいふ]に1000円[えん]しかありません。",
+          "es": "Solo tengo 1000 yenes en la cartera."
+        },
+        {
+          "jp": "テストの時[じ]間[かん]はあと5分[ふん]しかありません。",
+          "es": "Solo quedan 5 minutos para el examen."
+        }
+      ]
+    },
+    {
+      "id": "n4-90",
+      "category": "Selección",
+      "title": "は～の一つだ",
+      "formula": "Sustantivo A + は + Sustantivo B + の一[ひと]つだ",
+      "description": "Indica que el sujeto es uno de los muchos elementos de una categoría determinada.",
+      "examples": [
+        {
+          "jp": "これはこの町[まち]の問[もん]題[だい]の一[ひと]つです。",
+          "es": "Este es uno de los problemas de este pueblo."
+        },
+        {
+          "jp": "漢字[かんじ]を覚[おぼ]えるのは難しい[むずかしい]ことの一[ひと]つだ。",
+          "es": "Memorizar kanji es una de las cosas difíciles."
+        }
+      ]
+    },
+    {
+      "id": "n4-91",
+      "category": "Doble Negación",
+      "title": "ない～はない",
+      "formula": "V-nai + Sustantivo + は + ない",
+      "description": "Doble negación que enfatiza que 'todo el mundo' o 'siempre' ocurre algo. 'No hay nadie que no...'.",
+      "examples": [
+        {
+          "jp": "悩み[なやみ]のない人[ひと]はいません。",
+          "es": "No hay nadie que no tenga preocupaciones (todo el mundo las tiene)."
+        },
+        {
+          "jp": "彼[かれ]の知[し]らないことはありません。",
+          "es": "No hay nada que él no sepa."
+        }
+      ]
+    },
+    {
+      "id": "n4-92",
+      "category": "Énfasis Negativo",
+      "title": "少しも～ない",
+      "formula": "少[すこ]しも + V-nai / Adj-nai",
+      "description": "Enfatiza una negación total de la cantidad o el grado. 'Ni un poco' o 'para nada'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]の話[はなし]は少[すこ]しも面白[おもしろ]くありません。",
+          "es": "Su historia no es ni un poco interesante."
+        },
+        {
+          "jp": "お腹[なか]が少[すこ]しも空[す]いていません。",
+          "es": "No tengo ni un poco de hambre."
+        }
+      ]
+    },
+    {
+      "id": "n4-93",
+      "category": "Grado",
+      "title": "少なくない",
+      "formula": "少[すく]なくない",
+      "description": "Doble negación que equivale a 'muchos' o 'bastantes'. Se usa para sonar más formal o matizado. 'No son pocos'.",
+      "examples": [
+        {
+          "jp": "その意見[いけん]に反対[はんたい]する人[ひと]は少[すく]なくありません。",
+          "es": "No son pocas las personas que se oponen a esa opinión."
+        },
+        {
+          "jp": "日本[にほん]のアニメを好[す]きな外国[がいこく]人[じん]は少[すく]なくありません。",
+          "es": "No son pocos los extranjeros a los que les gusta el anime japonés."
+        }
+      ]
+    },
+    {
+      "id": "n4-94",
+      "category": "Condición",
+      "title": "場合は",
+      "formula": "V / Adj / Sustantivo + の + 場合[ばあい]は",
+      "description": "Se utiliza para hablar de una situación hipotética o un caso específico. 'En caso de...' o 'si ocurriera...'.",
+      "examples": [
+        {
+          "jp": "火事[かじ]の場合[ばあい]は、すぐ逃[に]げてください。",
+          "es": "En caso de incendio, por favor huya inmediatamente."
+        },
+        {
+          "jp": "遅[おく]れる場合[ばあい]は、電話[でんわ]してください。",
+          "es": "En caso de que vaya a llegar tarde, por favor llame por teléfono."
+        }
+      ]
+    },
+    {
+      "id": "n4-95",
+      "category": "Petición",
+      "title": "～て (Casual Request)",
+      "formula": "V (forma て)",
+      "description": "Forma casual y abreviada de '～てください'. Se usa con personas cercanas. 'Por favor, haz...'.",
+      "examples": [
+        {
+          "jp": "ちょっと待[ま]って。",
+          "es": "Espera un momento, por favor."
+        },
+        {
+          "jp": "写真[しゃしん]を撮[と]って。",
+          "es": "Sácame una foto, por favor."
         }
       ]
     },
     {
       "id": "n4-96",
-      "category": "Petición cortés",
-      "title": "〜ていただけませんか",
-      "formula": "V-te + いただけませんか",
-      "description": "Forma muy educada de pedir a alguien que haga un favor.",
+      "category": "Sentimiento",
+      "title": "～てよかった",
+      "formula": "V-te / Adj-te + よかった",
+      "description": "Expresa alivio o alegría por un resultado o una acción realizada. 'Qué bien que...' o 'me alegro de que...'.",
       "examples": [
         {
-          "jp": "もう一度[もういちど] 説明[せつめい]して いただけませんか。",
-          "es": "¿Podría hacerme el favor de explicarlo una vez más?"
+          "jp": "あなたに会[あ]えてよかった。",
+          "es": "Me alegro de haber podido conocerte."
+        },
+        {
+          "jp": "傘[かさ]を持[も]って行[い]ってよかった。",
+          "es": "Qué bien que me llevé el paraguas."
         }
       ]
     },
     {
       "id": "n4-97",
-      "category": "Favor",
-      "title": "〜てくれる",
-      "formula": "V-te + くれる",
-      "description": "Indica que alguien realiza una acción en beneficio del hablante o su grupo cercano.",
+      "category": "Causativo",
+      "title": "せる・させる (Causative)",
+      "formula": "V (forma causiva)",
+      "description": "Indica que el sujeto hace que alguien realice una acción o permite que la haga. 'Hacer hacer' o 'dejar hacer'.",
       "examples": [
         {
-          "jp": "田中[たなか]さんが 漢字[かんじ]を 教え[おしえ]て くれました。",
-          "es": "El Sr. Tanaka me enseñó los kanji."
+          "jp": "母[はは]は私[わたし]に掃除[そうじ]をさせました。",
+          "es": "Mi madre me hizo limpiar."
+        },
+        {
+          "jp": "先生[せんせい]は学[がく]生[せい]に質問[しつもん]をさせました。",
+          "es": "El profesor dejó que los estudiantes hicieran preguntas."
         }
       ]
     },
     {
       "id": "n4-98",
-      "category": "Continuidad / Origen",
-      "title": "〜てくる",
-      "formula": "V-te + くる",
-      "description": "Indica que una acción o estado ha comenzado en el pasado y continúa hasta el presente, o que alguien viene tras hacer algo.",
+      "category": "Opinión",
+      "title": "と言ってもいい",
+      "formula": "Frase + と言[い]ってもいい",
+      "description": "Se utiliza para expresar una opinión o conclusión que el hablante considera aceptable o casi segura. 'Se podría decir que...'.",
       "examples": [
         {
-          "jp": "だんだん 寒く[さむく] なって きました。",
-          "es": "Se ha ido enfriando gradualmente."
+          "jp": "彼[かれ]は天才[てんさい]と言[い]ってもいいです。",
+          "es": "Se podría decir que él es un genio."
+        },
+        {
+          "jp": "これは最高[さいこう]の傑作[けっさく]と言[い]ってもいいでしょう。",
+          "es": "Se podría decir que esta es la mejor obra maestra."
         }
       ]
     },
     {
       "id": "n4-99",
-      "category": "Intento",
-      "title": "〜てみる",
-      "formula": "V-te + みる",
-      "description": "Indica realizar una acción para ver qué sucede: 'intentar hacer', 'probar a hacer'.",
+      "category": "Concesión",
+      "title": "～ても・でも",
+      "formula": "V-te / Adj-te / Sustantivo + でも",
+      "description": "Indica que una acción o estado ocurre a pesar de una condición. 'Aunque', 'incluso si' o 'por mucho que'.",
       "examples": [
         {
-          "jp": "この 料理[りょうり]は 美味しい[おいしい]ので、食べて[たべて] みて ください。",
-          "es": "Esta comida está rica, así que pruébela."
+          "jp": "安[やす]くても買[か]いません。",
+          "es": "Aunque sea barato, no lo compraré."
+        },
+        {
+          "jp": "雨[あめ]でも散[さん]歩[ぽ]に行[い]きます。",
+          "es": "Incluso si llueve, iré a pasear."
         }
       ]
     },
     {
       "id": "n4-100",
-      "category": "Favor recibido",
-      "title": "〜てもらう",
-      "formula": "V-te + もらう",
-      "description": "Indica que el hablante recibe un favor de alguien (haber conseguido que alguien haga algo).",
+      "category": "Finalización / Lamento",
+      "title": "～てしまう",
+      "formula": "V (forma て) + しまう",
+      "description": "Indica: 1. Que una acción se completa totalmente. 2. Que algo ocurre por error o accidente, causando pesar. 'Acabar de...' o 'por desgracia'.",
       "examples": [
         {
-          "jp": "先生[せんせい]に 漢字[かんじ]を 教え[おしえ]て もらい[もらい]ました。",
-          "es": "Conseguí que el profesor me enseñara los kanji (recibí el favor)."
+          "jp": "宿[しゅく]題[だい]を全[ぜん]部[ぶ]やってしまいました。",
+          "es": "Terminé todos los deberes por completo."
+        },
+        {
+          "jp": "財布[さいふ]を忘[わす]れてしまいました。",
+          "es": "Se me olvidó la cartera (por desgracia)."
         }
       ]
     },
     {
       "id": "n4-101",
-      "category": "Preparación",
-      "title": "〜ておく",
-      "formula": "V-te + おく",
-      "description": "Indica realizar una acción con antelación como preparación para el futuro.",
+      "category": "Causa",
+      "title": "～て (Reasons and Causes)",
+      "formula": "V-te / Adj-te / Sustantivo + で",
+      "description": "Indica que la primera parte de la frase es la causa o razón de la situación o sentimiento posterior. 'Debido a...' o 'porque...'.",
       "examples": [
         {
-          "jp": "パーティーの 前[まえ]に、飲み物[のみもの]を 買っ[かっ]て おきます。",
-          "es": "Compraré las bebidas antes de la fiesta (como preparación)."
+          "jp": "ニュースを聞[き]いて驚[おどろ]きました。",
+          "es": "Me sorprendí al escuchar las noticias."
+        },
+        {
+          "jp": "道[みち]が混[こ]んでいて遅[おく]れました。",
+          "es": "Llegué tarde porque la calle estaba congestionada."
         }
       ]
     },
     {
       "id": "n4-102",
-      "category": "Finalización / Arrepentimiento",
-      "title": "〜てしまう / 〜ちゃう",
-      "formula": "V-te + しまう",
-      "description": "Indica que una acción se terminó por completo, o que ocurrió algo accidentalmente que causa pesar.",
+      "category": "Causativo-Pasivo",
+      "title": "させられる (Causative-Passive)",
+      "formula": "V (forma causativa-pasiva)",
+      "description": "Indica que el sujeto es obligado por otra persona a realizar una acción que no desea. 'Ser obligado a hacer...'.",
       "examples": [
         {
-          "jp": "宿題[しゅくだい]を 全部[ぜんぶ] やって しまいました。",
-          "es": "Terminé todos los deberes por completo."
+          "jp": "毎日[まいにち]残業[ざんぎょう]させられます。",
+          "es": "Me obligan a hacer horas extras todos los días."
+        },
+        {
+          "jp": "母[はは]に野菜[やさい]を食[た]べさせられました。",
+          "es": "Fui obligado por mi madre a comer verduras."
         }
       ]
     },
     {
       "id": "n4-103",
-      "category": "Disculpa",
-      "title": "〜てすみません",
-      "formula": "V-te / Adj-te + すみません",
-      "description": "Se usa para pedir disculpas por una acción específica: 'siento haber...'.",
+      "category": "Manera / Medio",
+      "title": "～て (Means and Manner)",
+      "formula": "V (forma て)",
+      "description": "Indica el medio, el método o la manera en que se realiza la acción principal. 'Haciendo...' o 'por medio de...'.",
       "examples": [
         {
-          "jp": "遅れ[おくれ]て すみません。",
-          "es": "Siento haber llegado tarde."
+          "jp": "駅[えき]まで歩[ある]いて行[い]きました。",
+          "es": "Fui hasta la estación caminando."
+        },
+        {
+          "jp": "箸[はし]を使[つか]って食[た]べます。",
+          "es": "Como usando los palillos."
         }
       ]
     },
     {
       "id": "n4-104",
-      "category": "Favor (Informal)",
-      "title": "〜てやる",
-      "formula": "V-te + やる",
-      "description": "Similar a 'te ageru', pero se usa con plantas, animales o personas de menor rango (muy informal).",
+      "category": "Estado Resultante",
+      "title": "～てある",
+      "formula": "V (transitivo) + てある",
+      "description": "Indica que alguien realizó una acción con un propósito y el estado resultante aún permanece. 'Está hecho'.",
       "examples": [
         {
-          "jp": "花[はな]に 水[みず]を やっ[やっ]て ください。",
-          "es": "Por favor, échale agua a las flores."
+          "jp": "壁[かべ]に絵[え]が掛[か]けてあります。",
+          "es": "Hay un cuadro colgado en la pared (alguien lo colgó)."
+        },
+        {
+          "jp": "窓[まど]が開[あ]けてあります。",
+          "es": "La ventana está abierta (alguien la dejó abierta)."
         }
       ]
     },
     {
       "id": "n4-105",
-      "category": "Sentimiento",
-      "title": "〜てよかった",
-      "formula": "V-te + よかった",
-      "description": "Se usa para expresar alivio o felicidad por haber hecho algo: 'me alegro de haber...'.",
+      "category": "Petición / Deseo",
+      "title": "様に～て欲しい",
+      "formula": "V (raíz) + よう（に） + してほしい",
+      "description": "Expresa el deseo de que alguien intente actuar de cierta manera o alcance un estado determinado. 'Quiero que intentes...' o 'quiero que llegues a...'.",
       "examples": [
         {
-          "jp": "日本[にほん]に 来[き]て よかった です。",
-          "es": "Me alegro de haber venido a Japón."
+          "jp": "もっと野[や]菜[さい]を食[た]べるようにしてほしいです。",
+          "es": "Quiero que intentes comer más verduras."
+        },
+        {
+          "jp": "忘[わす]れないようにしてほしいです。",
+          "es": "Quiero que procures no olvidarlo."
         }
       ]
     },
     {
       "id": "n4-106",
       "category": "Tiempo",
-      "title": "〜ているところ",
-      "formula": "V-te iru + ところ",
-      "description": "Indica que se está justo en medio de la realización de una acción.",
+      "title": "～ている間に",
+      "formula": "V (forma ている) + 間[あいだ]に",
+      "description": "Indica que una acción puntual ocurre mientras otra acción o estado está en progreso. 'Mientras' o 'durante el tiempo que...'.",
       "examples": [
         {
-          "jp": "今[いま]、宿題[しゅくだい]を やっ[やっ]て いる ところ です。",
-          "es": "Ahora mismo estoy en medio de hacer los deberes."
+          "jp": "寝[ね]ている間[あいだ]に、泥棒[どろぼう]が入[はい]りました。",
+          "es": "Mientras estaba durmiendo, entró un ladrón."
+        },
+        {
+          "jp": "彼[かれ]が待[ま]っている間[あいだ]に、本[ほん]を読[よ]みました。",
+          "es": "Leí un libro mientras él estaba esperando."
         }
       ]
     },
     {
       "id": "n4-107",
-      "category": "Concesión",
-      "title": "〜ても",
-      "formula": "V-te / Adj-te / Sustantivo + でも",
-      "description": "Significa 'aunque' o 'incluso si'.",
+      "category": "Ausencia de Obligación",
+      "title": "なくてもいい",
+      "formula": "V (forma ない → なくても) + いい",
+      "description": "Indica que no es necesario realizar una acción. 'No hace falta...' o 'no es necesario...'.",
       "examples": [
         {
-          "jp": "雨[あめ]が 降っ[ふっ]ても、サッカーを します。",
-          "es": "Incluso si llueve, jugaré al fútbol."
+          "jp": "今日[きょう]は急[いそ]がなくてもいいですよ。",
+          "es": "Hoy no hace falta que te des prisa."
+        },
+        {
+          "jp": "靴[くつ]を脱[ぬ]がなくてもいいです。",
+          "es": "No es necesario que te quites los zapatos."
         }
       ]
     },
     {
       "id": "n4-108",
-      "category": "Condicional natural",
-      "title": "〜と",
-      "formula": "V-diccionario + と",
-      "description": "Indica que cuando ocurre A, inevitablemente o de forma natural ocurre B.",
+      "category": "Intento",
+      "title": "～てみる",
+      "formula": "V (forma て) + みる",
+      "description": "Indica realizar una acción para ver qué sucede o para probar algo por primera vez. 'Probar a...' o 'intentar...'.",
       "examples": [
         {
-          "jp": "春[はる]に なる[なる] と、花[はな]が 咲き[さき]ます。",
-          "es": "Cuando llega la primavera, las flores florecen."
+          "jp": "この料理[りょうり]を食[た]べてみます。",
+          "es": "Probaré a comer este plato."
+        },
+        {
+          "jp": "新[あたら]しい靴[くつ]を履[は]いてみました。",
+          "es": "Probé a ponerme los zapatos nuevos."
         }
       ]
     },
     {
       "id": "n4-109",
-      "category": "Opinión",
-      "title": "〜と言ってもいい",
-      "formula": "Frase informal + と言ってもいい",
-      "description": "Se usa para expresar que una afirmación es aceptable: 'se podría decir que...'.",
+      "category": "Disculpa",
+      "title": "～てすみません",
+      "formula": "V-te / Adj-te + すみません",
+      "description": "Se utiliza para disculparse por una acción realizada o una situación causada por el hablante. 'Siento haber...' o 'disculpa por...'.",
       "examples": [
         {
-          "jp": "彼[かれ]は 天才[てんさい]だ と 言っ[いっ]ても いいでしょう。",
-          "es": "Podríamos decir que él es un genio."
+          "jp": "遅[おく]れてすみません。",
+          "es": "Siento haber llegado tarde."
+        },
+        {
+          "jp": "返信[へんしん]が遅[おそ]くなってすみません。",
+          "es": "Disculpa por tardar en responder."
         }
       ]
     },
     {
       "id": "n4-110",
-      "category": "Definición / Nombre",
-      "title": "〜という",
-      "formula": "Sustantivo A + という + Sustantivo B",
-      "description": "Se usa para dar el nombre de algo: 'un (B) llamado (A)'.",
+      "category": "Favores",
+      "title": "〜てあげる",
+      "formula": "V (forma て) + あげる",
+      "description": "Indica realizar una acción en beneficio de otra persona. Se usa generalmente con personas de igual o menor estatus.",
       "examples": [
         {
-          "jp": "これは 日本[にほん]の 納豆[なっとう] と いう 食べ物[たべもの] です。",
-          "es": "Este es un alimento japonés llamado natto."
+          "jp": "友達[ともだち]に本[ほん]を貸[か]してあげました。",
+          "es": "Le presté un libro a mi amigo."
+        },
+        {
+          "jp": "妹[いもうと]に英語[えいご]を教[おし]えてあげます。",
+          "es": "Le enseñaré inglés a mi hermana menor."
         }
       ]
     },
     {
       "id": "n4-111",
-      "category": "Nominalización",
-      "title": "〜ということ",
-      "formula": "Frase informal + ということ",
-      "description": "Convierte una frase entera en un sustantivo para poder tratarla como un concepto.",
+      "category": "Favores",
+      "title": "〜てくれる",
+      "formula": "V (forma て) + くれる",
+      "description": "Indica que alguien realiza una acción en beneficio del hablante o de alguien muy cercano al hablante.",
       "examples": [
         {
-          "jp": "大切[たいせつ]な のは、あきらめない と いう こと です。",
-          "es": "Lo importante es (el hecho de) no rendirse."
+          "jp": "田中[たなか]さんが写真[しゃしん]を撮[と]ってくれました。",
+          "es": "El Sr. Tanaka me sacó una foto."
+        },
+        {
+          "jp": "友達[ともだち]が宿題[しゅくだい]を手伝[てつだ]ってくれました。",
+          "es": "Un amigo me ayudó con los deberes."
         }
       ]
     },
     {
       "id": "n4-112",
-      "category": "Rumor general",
-      "title": "〜と言われている",
-      "formula": "Frase informal + と言われている",
-      "description": "Se usa para expresar lo que la gente dice en general: 'se dice que...'.",
+      "category": "Favores",
+      "title": "〜てもらう",
+      "formula": "V (forma て) + もらう",
+      "description": "Indica que el hablante recibe una acción de otra persona, a menudo expresando gratitud por haberla solicitado.",
       "examples": [
         {
-          "jp": "日本[にほん]の 食べ物[たべもの]は 体[からだ]に いい と 言わ[いわ]れて います。",
-          "es": "Se dice que la comida japonesa es buena para la salud."
+          "jp": "私[わたし]は先生[せんせい]に漢字[かんじ]を教[おし]えてもらいました。",
+          "es": "El profesor me enseñó los kanji (recibí ese favor)."
+        },
+        {
+          "jp": "母[はは]に服[ふく]を買[か]ってもらいました。",
+          "es": "Mi madre me compró ropa."
         }
       ]
     },
     {
       "id": "n4-113",
-      "category": "Fuente de información",
-      "title": "〜と聞いた",
-      "formula": "Frase informal + と聞いた",
-      "description": "Indica que el hablante ha oído una información específica.",
+      "category": "Imperativo",
+      "title": "なさい",
+      "formula": "V (raíz) + なさい",
+      "description": "Se utiliza para dar una orden firme pero educada, comúnmente de padres a hijos o de profesores a alumnos.",
       "examples": [
         {
-          "jp": "彼[かれ]が 結婚[けっこん]する と 聞き[きき]ました。",
-          "es": "He oído que él se va a casar."
+          "jp": "早[はや]く寝[ね]なさい。",
+          "es": "Duérmete pronto."
+        },
+        {
+          "jp": "宿[しゅく]題[だい]をしなさい。",
+          "es": "Haz los deberes."
         }
       ]
     },
     {
       "id": "n4-114",
-      "category": "Opinión",
-      "title": "〜と思う",
-      "formula": "Frase informal + と思う",
-      "description": "Se utiliza para expresar opiniones o pensamientos personales.",
+      "category": "Secuencia / Paralelo",
+      "title": "〜て (Non-Sequence)",
+      "formula": "V-te / Adj-te",
+      "description": "Se utiliza para conectar oraciones que describen estados paralelos o acciones que no necesariamente siguen un orden temporal estricto.",
       "examples": [
         {
-          "jp": "明日[あした]は 晴れる[はれる] と 思い[おもい]ます。",
-          "es": "Creo que mañana hará sol."
+          "jp": "彼[かれ]は足[あし]が速[はや]くて、背[せ]が高[たか]いです。",
+          "es": "Él es rápido y alto."
+        },
+        {
+          "jp": "ピアノを弾[ひ]いて、歌[うた]を歌[うた]います。",
+          "es": "Toca el piano y canta."
         }
       ]
     },
     {
       "id": "n4-115",
-      "category": "Ejemplificación",
-      "title": "〜とか〜とか",
-      "formula": "Sustantivo / V-diccionario + とか",
-      "description": "Se usa para listar ejemplos de manera informal: 'como A, B, etc.'.",
+      "category": "Petición",
+      "title": "ないで (Casual Request)",
+      "formula": "V (forma ない) + で",
+      "description": "Forma casual de pedir a alguien que no realice una acción. Es la abreviatura de '〜ないでください'.",
       "examples": [
         {
-          "jp": "休み[やすみ]の 日[ひ]は 掃除[そうじ] とか 洗濯[せんたく] とか を します。",
-          "es": "Los días libres hago cosas como limpiar, lavar la ropa, etc."
+          "jp": "怒[おこ]らないで。",
+          "es": "No te enfades."
+        },
+        {
+          "jp": "私[わたし]を一人[ひとり]にしないで。",
+          "es": "No me dejes solo."
         }
       ]
     },
     {
       "id": "n4-116",
-      "category": "Tiempo",
-      "title": "〜ところ",
-      "formula": "V-diccionario + ところ",
-      "description": "Indica que se está a punto de comenzar una acción.",
+      "category": "Gratitud",
+      "title": "〜てくれてありがとう",
+      "formula": "V (forma て) + くれてありがとう",
+      "description": "Se utiliza para agradecer a alguien por una acción específica que realizó en nuestro beneficio.",
       "examples": [
         {
-          "jp": "今[いま]から 出かける[でかける] ところ です。",
-          "es": "Estoy a punto de salir ahora mismo."
+          "jp": "助[たす]けてくれてありがとう。",
+          "es": "Gracias por ayudarme."
+        },
+        {
+          "jp": "来[き]てくれてありがとう。",
+          "es": "Gracias por venir."
         }
       ]
     },
     {
       "id": "n4-117",
-      "category": "Continuidad",
-      "title": "〜続ける",
-      "formula": "V-masu + 続ける",
-      "description": "Indica la continuación de una acción sin interrupción.",
+      "category": "Petición",
+      "title": "〜て + くれない",
+      "formula": "V (forma て) + くれない？",
+      "description": "Manera informal y casual de pedirle a alguien que haga algo por nosotros. '¿Podrías...?'.",
       "examples": [
         {
-          "jp": "雨[あめ]が 3日[みっか] 降り[ふり] 続け[つづけ]ました。",
-          "es": "Llovió continuamente durante 3 días."
+          "jp": "ちょっと手伝[てつだ]ってくれない？",
+          "es": "¿No me echas una mano un momento?"
+        },
+        {
+          "jp": "塩[しお]を取[と]ってくれない？",
+          "es": "¿Me pasas la sal?"
         }
       ]
     },
     {
       "id": "n4-118",
-      "category": "Cita (Informal)",
-      "title": "〜って",
-      "formula": "Frase + って",
-      "description": "Versión informal de 'to' (para citar) o de 'to iu' (llamado).",
+      "category": "Duda",
+      "title": "のだろうか",
+      "formula": "Frase (informal) + のだろうか",
+      "description": "Se utiliza para expresar una duda, incertidumbre o una reflexión interna del hablante. 'Me pregunto si...'.",
       "examples": [
         {
-          "jp": "彼[かれ]、何[なに] って 言っ[いっ]た？",
-          "es": "¿Él qué dijo?"
+          "jp": "彼[かれ]は今[いま]何[なに]をしているのだろうか。",
+          "es": "Me pregunto qué estará haciendo él ahora."
+        },
+        {
+          "jp": "この方法[ほうほう]でいいのだろうか。",
+          "es": "¿Estará bien este método? (Me lo pregunto)."
         }
       ]
     },
     {
       "id": "n4-119",
-      "category": "Voz Pasiva",
-      "title": "受身形（うけみけい）",
-      "formula": "V-pasiva (are-ru / rare-ru)",
-      "description": "Voz pasiva: indica que el sujeto recibe una acción realizada por otro.",
+      "category": "Honorífico",
+      "title": "お～になる",
+      "formula": "お + V (raíz) + になる",
+      "description": "Forma honorífica (Sonkeigo) utilizada para mostrar respeto al referirse a las acciones de un superior.",
       "examples": [
         {
-          "jp": "私[わたし]は 先生[せんせい]に 褒め[ほめ]られました。",
-          "es": "Fui elogiado por el profesor."
+          "jp": "先生[せんせい]が本[ほん]をお読[よ]みになります。",
+          "es": "El profesor lee un libro (honorífico)."
+        },
+        {
+          "jp": "何[なに]をお買[か]いになりますか。",
+          "es": "¿Qué va a comprar? (honorífico)."
         }
       ]
     },
     {
       "id": "n4-120",
-      "category": "Contraste",
-      "title": "〜は〜が… 〜は",
-      "formula": "N/A",
-      "description": "Estructura para contrastar dos realidades diferentes.",
+      "category": "Honorífico",
+      "title": "なさる",
+      "formula": "V (honorífico) / なさる",
+      "description": "Verbo honorífico (Sonkeigo) que reemplaza a 'する' (hacer) para referirse a la acción de un superior.",
       "examples": [
         {
-          "jp": "ひらがな は 書け[かけ]ます が、漢字[かんじ] は 書け[かけ]ません。",
-          "es": "Puedo escribir hiragana, pero no puedo escribir kanji."
+          "jp": "明日[あした]は何[なに]をなさいますか。",
+          "es": "¿Qué hará mañana? (honorífico)."
+        },
+        {
+          "jp": "ご心配[しんぱい]なさらないでください。",
+          "es": "Por favor, no se preocupe (honorífico)."
         }
       ]
     },
-  {
+    {
       "id": "n4-121",
-      "category": "Facilidad / Tendencia",
-      "title": "〜やすい",
-      "formula": "V-masu + やすい",
-      "description": "Indica que algo es fácil de hacer o que existe una tendencia a que algo ocurra con frecuencia.",
+      "category": "Honorífico",
+      "title": "お～ください",
+      "formula": "お + V (raíz) + ください",
+      "description": "Manera muy educada y respetuosa de pedirle a un superior que realice una acción.",
       "examples": [
         {
-          "jp": "この ペンは とても 書き[かき]やすい です。",
-          "es": "Este bolígrafo es muy fácil de escribir."
+          "jp": "こちらにお掛[か]けください。",
+          "es": "Por favor, tome asiento aquí (honorífico)."
+        },
+        {
+          "jp": "少々[しょうしょう]お待[ま]ちください。",
+          "es": "Por favor, espere un momento (honorífico)."
         }
       ]
     },
     {
       "id": "n4-122",
-      "category": "Tiempo / Logro",
-      "title": "やっと",
-      "formula": "やっと + frase",
-      "description": "Indica que finalmente, después de mucho tiempo, esfuerzo o dificultad, se ha logrado algo.",
+      "category": "Honorífico",
+      "title": "いらっしゃる",
+      "formula": "V (honorífico)",
+      "description": "Verbo honorífico (Sonkeigo) que sustituye a '行く' (ir), '来る' (venir) o 'いる' (estar).",
       "examples": [
         {
-          "jp": "やっと 宿題[しゅくだい]が 終わり[おわり]ました。",
-          "es": "Finalmente terminé los deberes."
+          "jp": "先生[せんせい]はあちらにいらっしゃいます。",
+          "es": "El profesor está por allí (honorífico)."
+        },
+        {
+          "jp": "どこへいらっしゃいますか。",
+          "es": "¿A dónde va? (honorífico)."
         }
       ]
     },
     {
       "id": "n4-123",
-      "category": "Comparación",
-      "title": "〜より",
-      "formula": "Sustantivo + より",
-      "description": "Se utiliza para realizar comparaciones, indicando 'más que...'.",
+      "category": "Cortés",
+      "title": "御座います",
+      "formula": "Sustantivo / Adj + ございます",
+      "description": "Forma muy cortés y formal (Teineigo) de 'あります' (haber o existir).",
       "examples": [
         {
-          "jp": "りんご より みかん のほうが 好き[すき]です。",
-          "es": "Me gustan más las mandarinas que las manzanas."
+          "jp": "質問[しつもん]が御座[ござ]います。",
+          "es": "Tengo una pregunta (muy cortés)."
+        },
+        {
+          "jp": "お早[はよ]う御座[ござ]います。",
+          "es": "Buenos días (formal)."
         }
       ]
     },
     {
       "id": "n4-124",
-      "category": "Planes",
-      "title": "〜予定だ（よていだ）",
-      "formula": "V-diccionario / Sustantivo + の + 予定だ",
-      "description": "Se usa para hablar de planes o programas establecidos oficialmente o con antelación.",
+      "category": "Cortés",
+      "title": "で御座います",
+      "formula": "Sustantivo + でございます",
+      "description": "Forma extremadamente cortés y formal del verbo cópula 'です' (ser).",
       "examples": [
         {
-          "jp": "来月[らいげつ]、日本[にほん]へ 行く[いく] 予定[よてい]です。",
-          "es": "Tengo planeado ir a Japón el mes que viene."
+          "jp": "私[わたし]が田中[たなか]で御座[ござ]います。",
+          "es": "Yo soy Tanaka (presentándose cortésmente)."
+        },
+        {
+          "jp": "こちらが入口[いりぐち]で御座[ござ]います。",
+          "es": "Aquí es la entrada (informando cortésmente)."
         }
       ]
     },
     {
       "id": "n4-125",
-      "category": "Apariencia / Conjetura",
-      "title": "〜ようだ",
-      "formula": "Frase informal / Adj-na + な / Sustantivo + の + ようだ",
-      "description": "Indica una conjetura basada en la propia percepción o sentidos: 'parece que...'.",
+      "category": "Humilde",
+      "title": "お〜する",
+      "formula": "お + V (raíz) + する",
+      "description": "Forma humilde (Kenjougo) utilizada para rebajar las propias acciones cuando se realizan en beneficio de un superior.",
       "examples": [
         {
-          "jp": "外[そと]は 雨[あめ]が 降って[ふって]いる ようだ。",
-          "es": "Parece que afuera está lloviendo."
+          "jp": "荷物[にもつ]をお持[も]ちします。",
+          "es": "Le llevo su equipaje (humilde)."
+        },
+        {
+          "jp": "お名前[なまえ]をお聞き[き]します。",
+          "es": "Le pregunto su nombre (humilde)."
         }
       ]
     },
     {
       "id": "n4-126",
-      "category": "Similitud / Ejemplo",
-      "title": "〜ように / 〜ような",
-      "formula": "Sustantivo + の + ように / ような + Sustantivo",
-      "description": "Se utiliza para comparar algo con un ejemplo o modelo: 'como...', 'parecido a...'.",
+      "category": "Humilde",
+      "title": "致す",
+      "formula": "V (humilde) / 致[いた]す",
+      "description": "Verbo humilde (Kenjougo) que sustituye a 'する' (hacer) para referirse a las acciones propias ante un superior.",
       "examples": [
         {
-          "jp": "彼女[かのじょ]の ような 優しい[やさしい] 人[ひと]に なりたいです。",
-          "es": "Quiero convertirme en una persona amable como ella."
+          "jp": "私[わたし]が致[いた]します。",
+          "es": "Lo haré yo (humilde)."
+        },
+        {
+          "jp": "よろしくお願[ねが]い致[いた]します。",
+          "es": "Le ruego que sea amable conmigo (frase hecha humilde)."
         }
       ]
     },
     {
       "id": "n4-127",
-      "category": "Cambio de estado",
-      "title": "〜ようになる",
-      "formula": "V-diccionario / V-nai + ように + なる",
-      "description": "Indica que se ha alcanzado una nueva capacidad o que un hábito ha cambiado: 'llegar a ser capaz de...', 'empezar a...'.",
+      "category": "Humilde",
+      "title": "～ていただけませんか",
+      "formula": "V (forma て) + いただけませんか",
+      "description": "Una de las formas más corteses y humildes de pedirle un favor a alguien de mayor estatus. '¿Podría hacerme el favor de...?'.",
       "examples": [
         {
-          "jp": "毎日[まいにち] 練習[れんしゅう]して、泳げる[およげる] ように なりました。",
-          "es": "Practiqué todos los días y llegué a ser capaz de nadar."
+          "jp": "日本語[にほんご]を教[おし]えていただけませんか。",
+          "es": "¿Podría tener la amabilidad de enseñarme japonés?"
+        },
+        {
+          "jp": "窓[まど]を閉[し]めていただけませんか。",
+          "es": "¿Podría ser tan amable de cerrar la ventana?"
         }
       ]
     },
     {
       "id": "n4-128",
-      "category": "Hábito / Intento",
-      "title": "〜ようにする",
-      "formula": "V-diccionario / V-nai + ように + する",
-      "description": "Indica el esfuerzo consciente por crear un hábito o cumplir un objetivo: 'tratar de...', 'asegurarse de...'.",
+      "category": "Condicional",
+      "title": "たら",
+      "formula": "V (forma た) + ら / Adj / Sustantivo",
+      "description": "Expresa una condición hipotética o una secuencia temporal. 'Si...' o 'cuando...'.",
       "examples": [
         {
-          "jp": "健康[けんこう]の ために、野菜[やさい]を 食べる[たべる] ように して います。",
-          "es": "Trato de comer verduras por el bien de mi salud."
+          "jp": "雨[あめ]が降[ふ]ったら、行[い]きません。",
+          "es": "Si llueve, no iré."
+        },
+        {
+          "jp": "家[うち]に帰[かえ]ったら、電話[でんわ]してください。",
+          "es": "Cuando llegues a casa, por favor llámame."
         }
       ]
     },
     {
       "id": "n4-129",
-      "category": "Intención",
-      "title": "〜ようと思う（ようとおもう）",
-      "formula": "V-volitivo + と思う",
-      "description": "Expresa una intención o decisión que el hablante tiene en mente en ese momento.",
+      "category": "Adición",
+      "title": "他に",
+      "formula": "Sustantivo + の / V (informal) + 他[ほか]に",
+      "description": "Indica que hay algo más aparte de lo mencionado. 'Además de...' o 'aparte de...'.",
       "examples": [
         {
-          "jp": "来年[らいねん]、結婚[けっこん]しようと 思って[おもって] います。",
-          "es": "Pienso casarme el año que viene."
+          "jp": "他[ほか]に誰[だれ]か来[き]ますか。",
+          "es": "¿Viene alguien más?"
+        },
+        {
+          "jp": "この本[ほん]の他[ほか]に、何[なに]を借[か]しましたか。",
+          "es": "Aparte de este libro, ¿qué más pediste prestado?"
         }
       ]
     },
     {
       "id": "n4-130",
-      "category": "Énfasis / Deseo",
-      "title": "ぜひ",
-      "formula": "ぜひ + V-te kudasai / V-tai",
-      "description": "Se utiliza para enfatizar una petición, invitación o un deseo fuerte: 'sin falta', 'por favor'.",
+      "category": "Necesidad",
+      "title": "が必要",
+      "formula": "Sustantivo + が必要[ひつよう]だ",
+      "description": "Se utiliza para indicar que algo es necesario o indispensable. 'Es necesario...' o 'hace falta...'.",
       "examples": [
         {
-          "jp": "ぜひ 私[わたし]の 家[いえ]へ 遊び[あそび]に 来て[きて] ください。",
-          "es": "Por favor, ven a mi casa sin falta."
+          "jp": "この仕事[しごと]にはパソ子が必要[ひつよう]です。",
+          "es": "Para este trabajo es necesario un ordenador."
+        },
+        {
+          "jp": "ビザの申[もう]し込[こ]みには写真[しゃしん]が必要[ひつよう]です。",
+          "es": "Para la solicitud del visado hace falta una foto."
         }
       ]
     },
     {
       "id": "n4-131",
-      "category": "Negación",
-      "title": "全然〜ない（ぜんぜん〜ない）",
-      "formula": "全然 + V-nai / Adj-nai",
-      "description": "Se utiliza para expresar una negación absoluta: 'para nada', 'en absoluto'.",
+      "category": "Grado",
+      "title": "そんなに",
+      "formula": "そんなに + Adj / V",
+      "description": "Indica que el grado de algo es alto de la manera en que se observa. 'Tanto', 'tan' o 'así de'.",
       "examples": [
         {
-          "jp": "その ニュースは 全然[ぜんぜん] 知りませんでした[しりませんでした]。",
-          "es": "No sabía nada en absoluto de esa noticia."
+          "jp": "そんなに食[た]べないでください。",
+          "es": "Por favor, no comas tanto."
+        },
+        {
+          "jp": "このテストはそんなに難[むずか]しくないです。",
+          "es": "Este examen no es tan difícil."
         }
       ]
     },
     {
       "id": "n4-132",
-      "category": "Dificultad",
-      "title": "〜づらい",
-      "formula": "V-masu + づらい",
-      "description": "Indica que algo es difícil de hacer, generalmente por razones psicológicas o por causar incomodidad (similar a 'nikui').",
+      "category": "Necesidad",
+      "title": "必要がある",
+      "formula": "V (Diccionario) + 必要[ひつよう]がある",
+      "description": "Indica que es necesario realizar una acción específica. 'Es necesario (hacer)...' o 'hay que...'.",
       "examples": [
         {
-          "jp": "この 名前[なまえ]は ちょっと 呼び[よび]づらい です。",
-          "es": "Este nombre es un poco difícil de pronunciar (de llamar)."
+          "jp": "もっと勉強[べんきょう]する必要[ひつよう]があります。",
+          "es": "Es necesario estudiar más."
+        },
+        {
+          "jp": "毎日[まいにち]運動[うんどう]する必要[ひつよう]があります。",
+          "es": "Hay necesidad de hacer ejercicio todos los días."
+        }
+      ]
+    },
+    {
+      "id": "n4-133",
+      "category": "Ejemplificación",
+      "title": "例えば",
+      "formula": "例[たと]えば + Frase",
+      "description": "Se utiliza para introducir uno o varios ejemplos. 'Por ejemplo'.",
+      "examples": [
+        {
+          "jp": "私[わたし]は果物[くだもの]、例[たと]えばりんごやバナナが好[す]きです。",
+          "es": "Me gustan las frutas, por ejemplo, las manzanas y los plátanos."
+        },
+        {
+          "jp": "例[たと]えばどんなスポーツが好[す]きですか。",
+          "es": "Por ejemplo, ¿qué tipo de deportes te gustan?"
+        }
+      ]
+    },
+    {
+      "id": "n4-134",
+      "category": "Potencial",
+      "title": "れる・られる (Potential)",
+      "formula": "V (forma potencial)",
+      "description": "Indica que el sujeto tiene la capacidad o posibilidad de realizar una acción. 'Poder (hacer)'.",
+      "examples": [
+        {
+          "jp": "私[わたし]は刺身[さしみ]が食[た]べられます。",
+          "es": "Yo puedo comer sashimi."
+        },
+        {
+          "jp": "ここでカードが使[つか]えます。",
+          "es": "Aquí se puede usar tarjeta."
+        }
+      ]
+    },
+    {
+      "id": "n4-135",
+      "category": "Conjunción",
+      "title": "んだけど",
+      "formula": "Frase informal + んだけど",
+      "description": "Forma coloquial de 'desu ga'. Se usa para introducir un tema o dar una explicación antes de pedir algo. 'Es que... pero...'.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は用事[ようじ]があるんだけど、先[さき]に帰[かえ]ってもいい？",
+          "es": "Es que hoy tengo cosas que hacer, ¿puedo irme antes?"
+        },
+        {
+          "jp": "この問題[もんだい]が分[わ]からないんだけど、教[おし]えてくれる？",
+          "es": "Es que no entiendo este problema, ¿me lo explicas?"
+        }
+      ]
+    },
+    {
+      "id": "n4-136",
+      "category": "Expectativa",
+      "title": "筈だ",
+      "formula": "Frase (informal) / Adj-na + な / Sustantivo + の + 筈[はず]だ",
+      "description": "Expresa una fuerte convicción basada en una razón lógica. 'Se supone que...' o 'debería...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は今日[きょう]来[く]る筈[はず]です。",
+          "es": "Se supone que él viene hoy."
+        },
+        {
+          "jp": "もうすぐ荷物[にもつ]が届[とど]く筈[はず]だ。",
+          "es": "El paquete debería llegar pronto."
+        }
+      ]
+    },
+    {
+      "id": "n4-137",
+      "category": "Duda",
+      "title": "かどうか",
+      "formula": "Frase (informal) + かどうか",
+      "description": "Se utiliza para indicar una incertidumbre entre dos opciones (sí o no). 'Si... o no'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]が来[く]るかどうか分[わ]かりません。",
+          "es": "No sé si él vendrá o no."
+        },
+        {
+          "jp": "おいしいかどうか食[た]べてみてください。",
+          "es": "Prueba a ver si está rico o no."
+        }
+      ]
+    },
+    {
+      "id": "n4-138",
+      "category": "Condicional",
+      "title": "と",
+      "formula": "V (Diccionario) / V-nai + と",
+      "description": "Indica una condición que lleva a un resultado natural, inevitable o habitual. 'Si... siempre...' o 'al...'.",
+      "examples": [
+        {
+          "jp": "冬[ふゆ]になると、寒[さむ]くなります。",
+          "es": "Cuando llega el invierno, hace frío (inevitablemente)."
+        },
+        {
+          "jp": "このボタンを押[お]すと、水[みず]が出[で]ます。",
+          "es": "Si pulsas este botón, sale agua."
+        }
+      ]
+    },
+    {
+      "id": "n4-139",
+      "category": "Obligación",
+      "title": "ないと",
+      "formula": "V (forma ない) + と",
+      "description": "Abreviatura de 'ないと いけない'. Indica que una acción es obligatoria. 'Tener que...'.",
+      "examples": [
+        {
+          "jp": "もう帰[かえ]らないと。",
+          "es": "Ya tengo que volver a casa."
+        },
+        {
+          "jp": "明日[あした]までに本[ほん]を返[かえ]さないと。",
+          "es": "Tengo que devolver el libro para mañana."
+        }
+      ]
+    },
+    {
+      "id": "n4-140",
+      "category": "Imposibilidad",
+      "title": "筈がない",
+      "formula": "Frase (informal) + 筈[はず]がない",
+      "description": "Expresa una negación fuerte basada en la lógica. 'Es imposible que...' o 'no puede ser que...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]が嘘[うそ]を吐[つ]く筈[はず]がありません。",
+          "es": "Es imposible que él esté mintiendo."
+        },
+        {
+          "jp": "そんな難[むずか]しい漢字[かんじ]が書[か]ける筈[はず]がない。",
+          "es": "No puede ser que sepa escribir un kanji tan difícil."
+        }
+      ]
+    },
+    {
+      "id": "n4-141",
+      "category": "Limitación",
+      "title": "しか～ない",
+      "formula": "Sustantivo + しか + V (forma ない)",
+      "description": "Indica que no hay nada más excepto lo mencionado. Enfatiza la escasez. 'Solo' o 'nada más que'.",
+      "examples": [
+        {
+          "jp": "財布[さいふ]に100円[えん]しかありません。",
+          "es": "Solo tengo 100 yenes en la cartera."
+        },
+        {
+          "jp": "彼[かれ]しか来[き]ませんでした。",
+          "es": "No vino nadie más que él."
+        }
+      ]
+    },
+    {
+      "id": "n4-142",
+      "category": "Inclusión",
+      "title": "だけでなく",
+      "formula": "Sustantivo / V (informal) + だけでなく",
+      "description": "Indica que algo no se limita a lo mencionado, sino que incluye algo más. 'No solo... sino también...'.",
+      "examples": [
+        {
+          "jp": "日本[にほん]だけでなく、世界[せかい]中[じゅう]で有名[ゆうめい]です。",
+          "es": "Es famoso no solo en Japón, sino en todo el mundo."
+        },
+        {
+          "jp": "肉[にく]だけでなく、野[や]菜[さい]も食[た]べてください。",
+          "es": "Por favor, coma no solo carne, sino también verduras."
+        }
+      ]
+    },
+    {
+      "id": "n4-143",
+      "category": "Capacidad",
+      "title": "ことが出来る",
+      "formula": "V (Diccionario) + ことが出[で]来[き]る",
+      "description": "Indica la capacidad o posibilidad de realizar una acción de manera más formal que la forma potencial. 'Poder (hacer)'.",
+      "examples": [
+        {
+          "jp": "私[わたし]は泳[およ]ぐことが出[で]来[き]ます。",
+          "es": "Yo puedo nadar (tengo la habilidad)."
+        },
+        {
+          "jp": "この図書館[としょかん]で本[ほん]を借[か]ることが出[で]来[き]ます。",
+          "es": "Se pueden pedir prestados libros en esta biblioteca."
+        }
+      ]
+    },
+    {
+      "id": "n4-144",
+      "category": "Interrogativo",
+      "title": "かい",
+      "formula": "Frase informal + かい",
+      "description": "Partícula de final de frase usada principalmente por hombres en lenguaje casual para hacer preguntas a personas de menor estatus. '¿...?'.",
+      "examples": [
+        {
+          "jp": "元気[げんき]かい。",
+          "es": "¿Estás bien? / ¿Cómo va todo?"
+        },
+        {
+          "jp": "まだ仕事[しごと]が終わらないのかい。",
+          "es": "¿Es que todavía no has terminado el trabajo?"
+        }
+      ]
+    },
+    {
+      "id": "n4-145",
+      "category": "Condicional",
+      "title": "もし",
+      "formula": "もし + Frase (forma たら / ば)",
+      "description": "Se utiliza para enfatizar el carácter hipotético de una condición. 'Si por un casual...'.",
+      "examples": [
+        {
+          "jp": "もし雨[あめ]が降[ふ]ったら、行[い]きません。",
+          "es": "Si por un casual lloviera, no iría."
+        },
+        {
+          "jp": "もしお金[かね]がたくさんあったら、旅行[りょこう]したいです。",
+          "es": "Si tuviera mucho dinero, querría viajar."
+        }
+      ]
+    },
+    {
+      "id": "n4-146",
+      "category": "Razón",
+      "title": "し (Reasons)",
+      "formula": "Frase (informal) + し",
+      "description": "Se utiliza para enumerar varias razones o características que llevan a una conclusión. 'Y además...'.",
+      "examples": [
+        {
+          "jp": "この店[みせ]は近[ちか]いし、安[やす]いし、いつもここで買[か]っています。",
+          "es": "Esta tienda está cerca, es barata y por eso siempre compro aquí."
+        },
+        {
+          "jp": "明日[あした]は休[やす]みだし、天気[てんき]もいいし、山[やま]に行[い]きましょう。",
+          "es": "Mañana es día libre y además hace buen tiempo, así que vayamos a la montaña."
+        }
+      ]
+    },
+    {
+      "id": "n4-147",
+      "category": "Material",
+      "title": "でできる",
+      "formula": "Sustantivo + でできている",
+      "description": "Indica el material del que está hecha una cosa, cuando el material es visible o reconocible. 'Estar hecho de'.",
+      "examples": [
+        {
+          "jp": "この机[つくえ]は木[き]でできています。",
+          "es": "Esta mesa está hecha de madera."
+        },
+        {
+          "jp": "日本[にほん]の家[いえ]は木[き]と紙[かみ]でできていました。",
+          "es": "Las casas japonesas estaban hechas de madera y papel."
+        }
+      ]
+    },
+    {
+      "id": "n4-148",
+      "category": "Simultaneidad",
+      "title": "ながら",
+      "formula": "V (raíz) + ながら",
+      "description": "Indica que se realizan dos acciones al mismo tiempo. La acción principal es la que sigue a 'nagara'. 'Mientras'.",
+      "examples": [
+        {
+          "jp": "音楽[おんがく]を聞[き]きながら勉強[べんきょう]します。",
+          "es": "Estudio mientras escucho música."
+        },
+        {
+          "jp": "テレビを見[み]ながらご飯[はん]を食[た]べます。",
+          "es": "Como mientras veo la televisión."
+        }
+      ]
+    },
+    {
+      "id": "n4-149",
+      "category": "Tiempo",
+      "title": "～た所だ",
+      "formula": "V (forma た) + ところだ",
+      "description": "Indica que una acción acaba de completarse en este preciso momento. 'Acabar de (hacer)'.",
+      "examples": [
+        {
+          "jp": "今[いま]、家[うち]に帰[かえ]ったところです。",
+          "es": "Acabo de llegar a casa ahora mismo."
+        },
+        {
+          "jp": "晩[ばん]ご飯[はん]を食[た]べたところです。",
+          "es": "Acabo de cenar."
+        }
+      ]
+    },
+    {
+      "id": "n4-150",
+      "category": "Tiempo",
+      "title": "～ている所だ",
+      "formula": "V (forma ている) + ところだ",
+      "description": "Indica que una acción está ocurriendo justo en este momento. 'Estar (haciendo) justo ahora'.",
+      "examples": [
+        {
+          "jp": "今[いま]、勉強[べんきょう]しているところです。",
+          "es": "Justo ahora estoy estudiando."
+        },
+        {
+          "jp": "ちょうど料[りょう]理[り]を作[つく]っているところです。",
+          "es": "En este preciso momento estoy cocinando."
+        }
+      ]
+    },
+    {
+      "id": "n4-151",
+      "category": "Comparación",
+      "title": "と～と、どちらが",
+      "formula": "Sustantivo A + と + Sustantivo B + と、どちらが 〜 か",
+      "description": "Se utiliza para preguntar por una preferencia o comparación entre dos opciones. '¿Cuál entre A y B...?'.",
+      "examples": [
+        {
+          "jp": "コーヒーと紅茶[こうちゃ]と、どちらが好[す]きですか。",
+          "es": "¿Qué te gusta más, el café o el té?"
+        },
+        {
+          "jp": "日本[にほん]とあなたの国[くに]と、どちらが暑[あつ]いですか。",
+          "es": "¿Cuál es más caluroso, Japón o tu país?"
+        }
+      ]
+    },
+    {
+      "id": "n4-152",
+      "category": "Hábito / Esfuerzo",
+      "title": "様にする",
+      "formula": "V (Diccionario / forma ない) + ようにする",
+      "description": "Indica el esfuerzo consciente por crear un hábito o realizar una acción regularmente. 'Intentar (hacer)' o 'procurar (hacer)'.",
+      "examples": [
+        {
+          "jp": "毎日[まいにち]、野[や]菜[さい]を食[た]べるようにしています。",
+          "es": "Intento comer verduras todos los días."
+        },
+        {
+          "jp": "寝[ね]る前[まえ]に、スマホを見[み]ないようにしています。",
+          "es": "Procuro no mirar el móvil antes de dormir."
+        }
+      ]
+    },
+    {
+      "id": "n4-153",
+      "category": "Obligación",
+      "title": "なければいけない",
+      "formula": "V (forma ない → なければ) + いけない",
+      "description": "Indica una obligación o necesidad. Se siente más como una obligación personal o casual. 'Tener que'.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は早[はや]く帰[かえ]らなければいけません。",
+          "es": "Hoy tengo que volver pronto a casa."
+        },
+        {
+          "jp": "薬[くすり]を飲[の]まなければいけません。",
+          "es": "Tengo que tomarme la medicina."
+        }
+      ]
+    },
+    {
+      "id": "n4-154",
+      "category": "Obligación",
+      "title": "なければならない",
+      "formula": "V (forma ない → なければ) + ならない",
+      "description": "Indica una obligación o deber, a menudo impuesta por reglas sociales o leyes. 'Deber' o 'tener que'.",
+      "examples": [
+        {
+          "jp": "学[がく]生[せい]は勉[べん]強[きょう]しなければなりません。",
+          "es": "Los estudiantes deben estudiar."
+        },
+        {
+          "jp": "ルールを守[まも]らなければなりません。",
+          "es": "Hay que respetar las reglas."
+        }
+      ]
+    },
+    {
+      "id": "n4-155",
+      "category": "Continuidad",
+      "title": "続ける",
+      "formula": "V (raíz) + 続[つづ]ける",
+      "description": "Indica que una acción continúa sin interrupción. 'Continuar (haciendo)' o 'seguir (haciendo)'.",
+      "examples": [
+        {
+          "jp": "三[さん]時[じ]間[かん]も本[ほん]を読[よ]み続[つづ]けました。",
+          "es": "Seguí leyendo el libro durante tres horas."
+        },
+        {
+          "jp": "雨[あめ]が降[ふ]り続[つづ]けています。",
+          "es": "Continúa lloviendo."
+        }
+      ]
+    },
+    {
+      "id": "n4-156",
+      "category": "Cita Indirecta",
+      "title": "様に言う",
+      "formula": "V (Diccionario / forma ない) + ように言[い]う",
+      "description": "Se utiliza para transmitir una orden, petición o consejo de manera indirecta. 'Decir que (haga algo)'.",
+      "examples": [
+        {
+          "jp": "先生[せんせい]に宿[しゅく]題[だい]を忘[わす]れないように言[い]われました。",
+          "es": "El profesor me dijo que no olvidara los deberes."
+        },
+        {
+          "jp": "母[はは]に早[はや]く起[お]きるように言[い]われました。",
+          "es": "Mi madre me dijo que me levantara pronto."
+        }
+      ]
+    },
+    {
+      "id": "n4-157",
+      "category": "Planes",
+      "title": "予定だ",
+      "formula": "V (Diccionario) / Sustantivo + の + 予[よ]定[てい]だ",
+      "description": "Indica un plan o programa que ya ha sido decidido. 'Tener previsto' o 'estar programado'.",
+      "examples": [
+        {
+          "jp": "来[らい]月[げつ]、日本[にほん]へ行[い]く予[よ]定[てい]です。",
+          "es": "Tengo previsto ir a Japón el mes que viene."
+
+        },
+        {
+          "jp": "明日[あした]は会議[かいぎ]の予[よ]定[てい]です。",
+          "es": "Mañana está programada una reunión."
+        }
+      ]
+    },
+    {
+      "id": "n4-158",
+      "category": "Deseo",
+      "title": "様に祈る",
+      "formula": "V (Diccionario / forma ない) + ように祈[いの]る",
+      "description": "Se utiliza para expresar un ruego, oración o deseo ferviente por algo. 'Rezar para que...' o 'desear que...'.",
+      "examples": [
+        {
+          "jp": "あなたが合格[ごうかく]するように祈[いの]っています。",
+          "es": "Rezo para que apruebes."
+        },
+        {
+          "jp": "病気[びょうき]が早く[はやく]治[なお]るように祈[いの]っています。",
+          "es": "Deseo de todo corazón que te cures pronto de tu enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "n4-159",
+      "category": "Tiempo Reciente",
+      "title": "～たばかり",
+      "formula": "V (forma た) + ばかり",
+      "description": "Indica que ha pasado muy poco tiempo desde que ocurrió una acción según la percepción del hablante. 'Acabar de (hacer)'.",
+      "examples": [
+        {
+          "jp": "先[せん]月[げつ]、日本[にほん]に来[き]たばかりです。",
+          "es": "Acabo de llegar a Japón el mes pasado (me parece reciente)."
+        },
+        {
+          "jp": "さっきご飯[はん]を食[た]べたばかりです。",
+          "es": "Acabo de comer hace un momento."
+        }
+      ]
+    },
+    {
+      "id": "n4-160",
+      "category": "Transformación",
+      "title": "化する",
+      "formula": "Sustantivo + 化[か]する",
+      "description": "Sufijo que indica que algo se transforma, se convierte o adquiere una nueva naturaleza. '-izar' o '-ificación'.",
+      "examples": [
+        {
+          "jp": "映画[えいが]が漫画[まんが]化[か]されました。",
+          "es": "La película fue convertida en manga."
+        },
+        {
+          "jp": "砂漠化[さばくか]が進[すす]んでいます。",
+          "es": "La desertificación está progresando."
+        }
+      ]
+    },
+    {
+      "id": "n4-161",
+      "category": "Imperativo",
+      "title": "命令形",
+      "formula": "V (forma imperativa)",
+      "description": "Se utiliza para dar órdenes directas y fuertes. Generalmente usado por hombres o en situaciones de emergencia.",
+      "examples": [
+        {
+          "jp": "早[はや]く走[はし]れ！",
+          "es": "¡Corre rápido!"
+        },
+        {
+          "jp": "テレビを消[け]せ！",
+          "es": "¡Apaga la tele!"
+        }
+      ]
+    },
+    {
+      "id": "n4-162",
+      "category": "Propósito",
+      "title": "様に",
+      "formula": "V (Diccionario / forma ない) + ように",
+      "description": "Indica un objetivo o propósito hacia el cual se dirige una acción. 'Para que...' o 'con el fin de...'.",
+      "examples": [
+        {
+          "jp": "忘[わす]れないように、メモをしておきます。",
+          "es": "Tomaré una nota para no olvidarme."
+        },
+        {
+          "jp": "みんなに聞[き]こえるように、大[おお]きな声[こえ]で話[はな]してください。",
+          "es": "Por favor, hable en voz alta para que todos puedan oírle."
+        }
+      ]
+    },
+    {
+      "id": "n4-163",
+      "category": "Duda",
+      "title": "かしら",
+      "formula": "Frase informal + かしら",
+      "description": "Partícula de final de frase utilizada principalmente por mujeres para expresar duda o incertidumbre. 'Me pregunto si...'.",
+      "examples": [
+        {
+          "jp": "明日[あした]は晴[は]れるかしら。",
+          "es": "Me pregunto si mañana hará sol."
+        },
+        {
+          "jp": "あら、どこへ行[い]ったのかしら。",
+          "es": "Vaya, ¿a dónde se habrá ido? (me pregunto)."
+        }
+      ]
+    },
+    {
+      "id": "n4-164",
+      "category": "Cualidad",
+      "title": "らしい ②",
+      "formula": "Sustantivo + らしい",
+      "description": "Indica que algo posee las características típicas o ideales de ese sustantivo. 'Típico de...' o 'propio de...'.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は春[はる]らしい暖[あたた]かい日[ひ]ですね。",
+          "es": "Hoy es un día cálido típico de la primavera, ¿verdad?"
+        },
+        {
+          "jp": "彼[かれ]らしい立派[りっぱ]な考[かんが]え方[かた]です。",
+          "es": "Es una forma de pensar admirable propia de él."
+        }
+      ]
+    },
+    {
+      "id": "n4-165",
+      "category": "Apariencia",
+      "title": "にみえる",
+      "formula": "Sustantivo / Adj + に見える",
+      "description": "Indica la impresión visual que da algo o alguien. 'Parecer' o 'verse como'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は実際[じっさい]の年[とし]より若[わか]く見[み]えます。",
+          "es": "Él parece más joven de la edad que tiene en realidad."
+        },
+        {
+          "jp": "この服[ふく]を着[き]ると、太[ふと]って見[み]えますか。",
+          "es": "Si me pongo esta ropa, ¿me veo gordo?"
+        }
+      ]
+    },
+    {
+      "id": "n4-166",
+      "category": "Conjetura",
+      "title": "と見える",
+      "formula": "Frase informal + と見える",
+      "description": "Indica una suposición o deducción basada en hechos observados. 'Parece que...' o 'se ve que...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は忙[いそが]しいと見[み]えて、まだ来[こ]ない。",
+          "es": "Se ve que está ocupado, porque todavía no viene."
+        },
+        {
+          "jp": "うれしいと見[み]えて、彼[かれ]はずっと笑[わら]っている。",
+          "es": "Parece que está feliz, porque no para de reír."
+        }
+      ]
+    },
+    {
+      "id": "n4-167",
+      "category": "Estilo",
+      "title": "風",
+      "formula": "Sustantivo + 風[ふう]",
+      "description": "Sufijo que indica estilo, modo o apariencia de algo. 'Al estilo de...' o 'al modo...'.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は日本[にほん]風[ふう]の料理[りょうり]を作[つく]りました。",
+          "es": "Hoy he cocinado comida al estilo japonés."
+        },
+        {
+          "jp": "サラリーマン風[ふう]の男[おとこ]の人[ひと]が立[た]っています。",
+          "es": "Hay un hombre de pie con aspecto de oficinista."
+        }
+      ]
+    },
+    {
+      "id": "n4-168",
+      "category": "Observación",
+      "title": "が見られる",
+      "formula": "Sustantivo + が見[み]られる",
+      "description": "Indica que algo puede ser observado o se evidencia en una situación. 'Se puede ver' o 'se observa'.",
+      "examples": [
+        {
+          "jp": "この地域[ちいき]では珍[めず]らしい鳥[とり]が見[み]られます。",
+          "es": "En esta región se pueden ver aves poco comunes."
+        },
+        {
+          "jp": "最[さい]近[きん]、若[わか]い人[ひと]の間[あいだ]でその服[ふく]が見[み]られます。",
+          "es": "Últimamente se observa esa ropa entre los jóvenes."
+        }
+      ]
+    },
+    {
+      "id": "n4-169",
+      "category": "Percepción",
+      "title": "に気が付く",
+      "formula": "Sustantivo + に気[き]が付[つ]く",
+      "description": "Indica darse cuenta de algo que antes pasaba desapercibido. 'Notar', 'darse cuenta' o 'percatarse'.",
+      "examples": [
+        {
+          "jp": "間違い[まちが]いに気[き]が付[つ]きませんでした。",
+          "es": "No me di cuenta del error."
+        },
+        {
+          "jp": "忘れ[わすれ]物[もの]に気[き]が付[つ]いて、家[うち]に帰[かえ]りました。",
+          "es": "Me percaté de que me olvidaba algo y volví a casa."
+        }
+      ]
+    },
+    {
+      "id": "n4-170",
+      "category": "Inclusión",
+      "title": "función でも〜でも",
+      "formula": "A でも B でも",
+      "description": "Indica que algo se aplica tanto a A como a B, o que da igual cuál de los dos sea. 'Tanto A como B' o 'sea A o B'.",
+      "examples": [
+        {
+          "jp": "平日[へいじつ]でも休日[きゅうじつ]でも、この店[みせ]は込[こ]んでいます。",
+          "es": "Tanto los días de diario como los festivos, esta tienda está llena."
+        },
+        {
+          "jp": "肉[にく]でも魚[さかな]でも、好[す]きなものを食[た]べてください。",
+          "es": "Sea carne o pescado, coma lo que le guste."
+        }
+      ]
+    },
+    {
+      "id": "n4-171",
+      "category": "Conector",
+      "title": "それに",
+      "formula": "Frase A. それに + Frase B",
+      "description": "Se utiliza para añadir una información extra que refuerza lo anterior. 'Además' o 'encima'.",
+      "examples": [
+        {
+          "jp": "この店[みせ]は安[やす]いし、それにとてもおいしいです。",
+          "es": "Esta tienda es barata y, además, es muy rica."
+        },
+        {
+          "jp": "今日[きょう]は頭[あたま]が痛[いた]いし、それに熱[ねつ]もあります。",
+          "es": "Hoy me duele la cabeza y, encima, tengo fiebre."
+        }
+      ]
+    },
+    {
+      "id": "n4-172",
+      "category": "Conector",
+      "title": "それで",
+      "formula": "Frase A. それで + Frase B",
+      "description": "Indica que la segunda frase es consecuencia de la primera. 'Por eso', 'por lo tanto' o 'debido a ello'.",
+      "examples": [
+        {
+          "jp": "事故[じこ]がありました。それで、電話[でんわ]が遅[おく]れています。",
+          "es": "Hubo un accidente. Por eso, el tren está retrasado."
+        },
+        {
+          "jp": "道[みち]が分[わ]からなかったんです。それで、遅[おく]れました。",
+          "es": "Es que no sabía el camino. Por lo tanto, llegué tarde."
+        }
+      ]
+    },
+    {
+      "id": "n4-173",
+      "category": "Pregunta Indirecta",
+      "title": "(Question-Phrase) + か",
+      "formula": "Interrogativo + Frase informal + か",
+      "description": "Se utiliza para incluir una pregunta dentro de otra oración. '... si...'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]がどこにいるか知[し]っていますか。",
+          "es": "¿Sabes dónde está él?"
+        },
+        {
+          "jp": "何[なに]を食[た]べたいか教[おし]えてください。",
+          "es": "Dime qué quieres comer."
+        }
+      ]
+    },
+    {
+      "id": "n4-174",
+      "category": "Conector",
+      "title": "それでも",
+      "formula": "Frase A. それでも + Frase B",
+      "description": "Indica que a pesar de la situación mencionada en la primera frase, ocurre algo inesperado. 'Aun así' o 'sin embargo'.",
+      "examples": [
+        {
+          "jp": "雨[あめ]が降[ふ]っています。それでも、彼[かれ]は出[で]かけました。",
+          "es": "Está lloviendo. Aun así, él salió."
+        },
+        {
+          "jp": "難[むずか]しいのは分[わ]かっています。それでも、やりたいです。",
+          "es": "Sé que es difícil. Sin embargo, quiero hacerlo."
+        }
+      ]
+    },
+    {
+      "id": "n4-175",
+      "category": "Sugerencia",
+      "title": "たらどう",
+      "formula": "V (forma たら) + どう",
+      "description": "Se utiliza para dar un consejo o sugerencia a otra persona. '¿Por qué no...?' o '¿qué tal si...?'.",
+      "examples": [
+        {
+          "jp": "少し[すこし]休[やす]んだらどうですか。",
+          "es": "¿Por qué no descansas un poco?"
+        },
+        {
+          "jp": "先生[せんせい]に聞[き]いてみたらどうですか。",
+          "es": "¿Qué tal si intentas preguntarle al profesor?"
+        }
+      ]
+    },
+    {
+      "id": "n4-176",
+      "category": "Creencia Común",
+      "title": "と考えられている",
+      "formula": "Frase informal + と考[かんが]えられている",
+      "description": "Se utiliza para expresar una opinión o creencia que es compartida por la sociedad o un grupo. 'Se considera que...'.",
+      "examples": [
+        {
+          "jp": "日本[にほん]人はまじめだと思[おも]われ、と考[かんが]えられています。",
+          "es": "Se considera que los japoneses son serios."
+        },
+        {
+          "jp": "この方法[ほうほう]が一番[いちばん]いいと考[かんが]えられています。",
+          "es": "Se considera que este método es el mejor."
+        }
+      ]
+    },
+    {
+      "id": "n4-177",
+      "category": "Definición Social",
+      "title": "とされている",
+      "formula": "Frase informal + とされている",
+      "description": "Indica que algo es aceptado o definido de cierta manera por la sociedad o las reglas. 'Se dice que...' o 'está considerado como...'.",
+      "examples": [
+        {
+          "jp": "ここにお酒[さけ]を置[お]くことは禁止[きんし]とされています。",
+          "es": "Está considerado prohibido dejar alcohol aquí."
+        },
+        {
+          "jp": "このお寺[てら]は日本[にほん]で一番[いちばん]古[ふる]いとされています。",
+          "es": "Se considera que este templo es el más antiguo de Japón."
+        }
+      ]
+    },
+    {
+      "id": "n4-178",
+      "category": "Rumor / Fama",
+      "title": "と言われている",
+      "formula": "Frase informal + と言[い]われている",
+      "description": "Indica una información que es de conocimiento general o un rumor extendido. 'Se dice que...'.",
+      "examples": [
+        {
+          "jp": "納豆[なっとう]は体に[からだに]いいと言[い]われています。",
+          "es": "Se dice que el natto es bueno para el cuerpo."
+        },
+        {
+          "jp": "彼[かれ]は世界[せかい]一[いち]の歌手[かしゅ]だと言[い]われています。",
+          "es": "Se dice que él es el mejor cantante del mundo."
+        }
+      ]
+    },
+    {
+      "id": "n4-179",
+      "category": "Lamento",
+      "title": "ば良かった",
+      "formula": "V (forma condicional ば) + よかった",
+      "description": "Expresa arrepentimiento por no haber realizado una acción en el pasado. 'Ojalá hubiera...' o 'debería haber...'.",
+      "examples": [
+        {
+          "jp": "もっと勉[べん]強[きょう]すればよかった。",
+          "es": "Ojalá hubiera estudiado más."
+        },
+        {
+          "jp": "傘[かさ]を持[も]って来[こ]ればよかったです。",
+          "es": "Debería haber traído el paraguas."
         }
       ]
     }
+
   ]
 }
